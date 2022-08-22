@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "KMOMDHMNLPF": 1,
         "dungeonId": 7500,
         "OONLPPMBBCB": 561,
@@ -55,7 +55,7 @@
             "35": 2
         }
     },
-    {
+    "2": {
         "KMOMDHMNLPF": 2,
         "dungeonId": 7501,
         "OONLPPMBBCB": 561,
@@ -112,7 +112,7 @@
             "48": 6
         }
     },
-    {
+    "3": {
         "KMOMDHMNLPF": 3,
         "dungeonId": 7502,
         "OONLPPMBBCB": 561,
@@ -171,7 +171,7 @@
             "56": 7
         }
     },
-    {
+    "4": {
         "KMOMDHMNLPF": 4,
         "dungeonId": 7503,
         "OONLPPMBBCB": 561,
@@ -232,7 +232,7 @@
             "66": 10
         }
     },
-    {
+    "5": {
         "KMOMDHMNLPF": 5,
         "dungeonId": 7504,
         "OONLPPMBBCB": 561,
@@ -291,7 +291,7 @@
             "35": 2
         }
     },
-    {
+    "6": {
         "KMOMDHMNLPF": 6,
         "dungeonId": 7505,
         "OONLPPMBBCB": 561,
@@ -351,7 +351,7 @@
             "48": 6
         }
     },
-    {
+    "7": {
         "KMOMDHMNLPF": 7,
         "dungeonId": 7506,
         "OONLPPMBBCB": 561,
@@ -413,7 +413,7 @@
             "56": 7
         }
     },
-    {
+    "8": {
         "KMOMDHMNLPF": 8,
         "dungeonId": 7507,
         "OONLPPMBBCB": 561,
@@ -477,4 +477,4 @@
             "66": 10
         }
     }
-]
+}

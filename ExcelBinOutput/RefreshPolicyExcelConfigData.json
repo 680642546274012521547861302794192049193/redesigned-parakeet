@@ -1,85 +1,85 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "type": "REFRESH_INTERVAL",
         "time": "86400"
     },
-    {
+    "1000": {
         "id": 1000,
         "type": "REFRESH_INTERVAL",
         "time": "43200"
     },
-    {
+    "1001": {
         "id": 1001,
         "type": "REFRESH_INTERVAL",
         "time": "43200"
     },
-    {
+    "1002": {
         "id": 1002,
         "type": "REFRESH_DAILY",
         "time": "14400"
     },
-    {
+    "1003": {
         "id": 1003,
         "type": "REFRESH_INTERVAL",
         "time": "300"
     },
-    {
+    "1004": {
         "id": 1004,
         "type": "REFRESH_INTERVAL",
         "time": "1800"
     },
-    {
+    "1100": {
         "id": 1100,
         "type": "REFRESH_INTERVAL",
         "time": "300"
     },
-    {
+    "99999": {
         "id": 99999,
         "type": "REFRESH_INTERVAL",
         "time": "60"
     },
-    {
+    "101000": {
         "id": 101000,
         "type": "REFRESH_DAILY",
         "time": "14400"
     },
-    {
+    "800001": {
         "id": 800001,
         "type": "REFRESH_WEEKlY",
         "time": "14400;360000"
     },
-    {
+    "800002": {
         "id": 800002,
         "type": "REFRESH_DAYBEGIN_INTERVAL",
         "time": "3"
     },
-    {
+    "990000": {
         "id": 990000,
         "type": "REFRESH_INTERVAL",
         "time": "172800"
     },
-    {
+    "990010": {
         "id": 990010,
         "type": "REFRESH_DAYBEGIN_INTERVAL",
         "time": "1"
     },
-    {
+    "990020": {
         "id": 990020,
         "type": "REFRESH_DAYBEGIN_INTERVAL",
         "time": "2"
     },
-    {
+    "990030": {
         "id": 990030,
         "type": "REFRESH_DAYBEGIN_INTERVAL",
         "time": "3"
     },
-    {
+    "999998": {
         "id": 999998,
         "time": ""
     },
-    {
+    "999999": {
         "id": 999999,
         "time": ""
     }
-]
+}

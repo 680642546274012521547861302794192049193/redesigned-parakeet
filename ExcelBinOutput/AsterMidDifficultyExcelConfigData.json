@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "worldLevelVec": [
             1
@@ -10,7 +10,7 @@
         "recommendLevel": 15,
         "monsterLevel": 14
     },
-    {
+    "2": {
         "id": 2,
         "worldLevelVec": [
             1,
@@ -22,7 +22,7 @@
         "recommendLevel": 25,
         "monsterLevel": 24
     },
-    {
+    "3": {
         "id": 3,
         "worldLevelVec": [
             1,
@@ -35,7 +35,7 @@
         "recommendLevel": 35,
         "monsterLevel": 34
     },
-    {
+    "4": {
         "id": 4,
         "worldLevelVec": [
             2,
@@ -48,7 +48,7 @@
         "recommendLevel": 45,
         "monsterLevel": 44
     },
-    {
+    "5": {
         "id": 5,
         "worldLevelVec": [
             3,
@@ -64,7 +64,7 @@
         "recommendLevel": 55,
         "monsterLevel": 54
     },
-    {
+    "6": {
         "id": 6,
         "worldLevelVec": [
             4,
@@ -79,7 +79,7 @@
         "recommendLevel": 65,
         "monsterLevel": 64
     },
-    {
+    "7": {
         "id": 7,
         "worldLevelVec": [
             5,
@@ -93,7 +93,7 @@
         "recommendLevel": 75,
         "monsterLevel": 74
     },
-    {
+    "8": {
         "id": 8,
         "worldLevelVec": [],
         "dropId": 210010070,
@@ -102,7 +102,7 @@
         "recommendLevel": 84,
         "monsterLevel": 84
     },
-    {
+    "9": {
         "id": 9,
         "worldLevelVec": [],
         "dropId": 210010080,
@@ -111,4 +111,4 @@
         "recommendLevel": 94,
         "monsterLevel": 94
     }
-]
+}

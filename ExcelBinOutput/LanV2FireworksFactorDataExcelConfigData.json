@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10011": {
         "PDGGFBEEFNB": 10011,
         "PFDJJEJKIHE": [
             44,
@@ -12,7 +12,7 @@
             450
         ]
     },
-    {
+    "10012": {
         "PDGGFBEEFNB": 10012,
         "PFDJJEJKIHE": [
             49,
@@ -22,7 +22,7 @@
         "type": "FIREWORKS_REFORM_PARAM_SIZE",
         "KEOILEKCPIE": []
     },
-    {
+    "10013": {
         "PDGGFBEEFNB": 10013,
         "PFDJJEJKIHE": [
             23,
@@ -32,7 +32,7 @@
         "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
         "KEOILEKCPIE": []
     },
-    {
+    "10021": {
         "PDGGFBEEFNB": 10021,
         "PFDJJEJKIHE": [
             36,
@@ -45,7 +45,7 @@
             450
         ]
     },
-    {
+    "10022": {
         "PDGGFBEEFNB": 10022,
         "PFDJJEJKIHE": [
             82,
@@ -55,7 +55,7 @@
         "type": "FIREWORKS_REFORM_PARAM_SIZE",
         "KEOILEKCPIE": []
     },
-    {
+    "10023": {
         "PDGGFBEEFNB": 10023,
         "PFDJJEJKIHE": [
             41,
@@ -65,7 +65,7 @@
         "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
         "KEOILEKCPIE": []
     },
-    {
+    "10031": {
         "PDGGFBEEFNB": 10031,
         "PFDJJEJKIHE": [
             46,
@@ -78,7 +78,7 @@
             450
         ]
     },
-    {
+    "10032": {
         "PDGGFBEEFNB": 10032,
         "PFDJJEJKIHE": [
             49,
@@ -88,7 +88,7 @@
         "type": "FIREWORKS_REFORM_PARAM_SIZE",
         "KEOILEKCPIE": []
     },
-    {
+    "10033": {
         "PDGGFBEEFNB": 10033,
         "PFDJJEJKIHE": [
             61,
@@ -98,7 +98,7 @@
         "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
         "KEOILEKCPIE": []
     },
-    {
+    "10034": {
         "PDGGFBEEFNB": 10034,
         "PFDJJEJKIHE": [
             68,
@@ -108,7 +108,7 @@
         "type": "FIREWORKS_REFORM_PARAM_DENSITY",
         "KEOILEKCPIE": []
     },
-    {
+    "10041": {
         "PDGGFBEEFNB": 10041,
         "PFDJJEJKIHE": [
             66,
@@ -121,7 +121,7 @@
             450
         ]
     },
-    {
+    "10042": {
         "PDGGFBEEFNB": 10042,
         "PFDJJEJKIHE": [
             11,
@@ -131,7 +131,7 @@
         "type": "FIREWORKS_REFORM_PARAM_SIZE",
         "KEOILEKCPIE": []
     },
-    {
+    "10043": {
         "PDGGFBEEFNB": 10043,
         "PFDJJEJKIHE": [
             93,
@@ -141,7 +141,7 @@
         "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
         "KEOILEKCPIE": []
     },
-    {
+    "10044": {
         "PDGGFBEEFNB": 10044,
         "PFDJJEJKIHE": [
             41,
@@ -151,7 +151,7 @@
         "type": "FIREWORKS_REFORM_PARAM_DENSITY",
         "KEOILEKCPIE": []
     },
-    {
+    "10051": {
         "PDGGFBEEFNB": 10051,
         "PFDJJEJKIHE": [
             49,
@@ -164,7 +164,7 @@
             450
         ]
     },
-    {
+    "10052": {
         "PDGGFBEEFNB": 10052,
         "PFDJJEJKIHE": [
             78,
@@ -174,7 +174,7 @@
         "type": "FIREWORKS_REFORM_PARAM_SIZE",
         "KEOILEKCPIE": []
     },
-    {
+    "10053": {
         "PDGGFBEEFNB": 10053,
         "PFDJJEJKIHE": [
             41,
@@ -184,7 +184,7 @@
         "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
         "KEOILEKCPIE": []
     },
-    {
+    "10054": {
         "PDGGFBEEFNB": 10054,
         "PFDJJEJKIHE": [
             41,
@@ -194,7 +194,7 @@
         "type": "FIREWORKS_REFORM_PARAM_DENSITY",
         "KEOILEKCPIE": []
     },
-    {
+    "10055": {
         "PDGGFBEEFNB": 10055,
         "PFDJJEJKIHE": [
             66,
@@ -204,7 +204,7 @@
         "type": "FIREWORKS_REFORM_PARAM_ROTATION",
         "KEOILEKCPIE": []
     },
-    {
+    "10061": {
         "PDGGFBEEFNB": 10061,
         "PFDJJEJKIHE": [
             74,
@@ -217,7 +217,7 @@
             450
         ]
     },
-    {
+    "10062": {
         "PDGGFBEEFNB": 10062,
         "PFDJJEJKIHE": [
             60,
@@ -227,7 +227,7 @@
         "type": "FIREWORKS_REFORM_PARAM_SIZE",
         "KEOILEKCPIE": []
     },
-    {
+    "10063": {
         "PDGGFBEEFNB": 10063,
         "PFDJJEJKIHE": [
             49,
@@ -237,7 +237,7 @@
         "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
         "KEOILEKCPIE": []
     },
-    {
+    "10064": {
         "PDGGFBEEFNB": 10064,
         "PFDJJEJKIHE": [
             60,
@@ -247,7 +247,7 @@
         "type": "FIREWORKS_REFORM_PARAM_DENSITY",
         "KEOILEKCPIE": []
     },
-    {
+    "10065": {
         "PDGGFBEEFNB": 10065,
         "PFDJJEJKIHE": [
             74,
@@ -257,4 +257,4 @@
         "type": "FIREWORKS_REFORM_PARAM_ROTATION",
         "KEOILEKCPIE": []
     }
-]
+}

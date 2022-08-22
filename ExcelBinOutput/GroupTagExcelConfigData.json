@@ -1,10 +1,10 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "DIDPGDFFHNG": "GTAG_MichiaeMatsuri_Puzzle"
     },
-    {
+    "2": {
         "id": 2,
         "DIDPGDFFHNG": "GTAG_MichiaeMatsuri_Energy"
     }
-]
+}

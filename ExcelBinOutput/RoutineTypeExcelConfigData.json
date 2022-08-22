@@ -1,5 +1,5 @@
-[
-    {
+{
+    "ROUTINE_SNOW_MOUNTAIN": {
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "refreshNum": 5,
         "rewardLimitNum": 5,
@@ -9,4 +9,4 @@
         "descTextMapHash": 4283167387,
         "icon": "UI_MarkQuest_Routine_Eldertree_Proce"
     }
-]
+}

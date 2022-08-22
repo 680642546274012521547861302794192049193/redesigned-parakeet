@@ -1,5 +1,5 @@
-[
-    {
+{
+    "103201": {
         "id": 103201,
         "avatarId": 10000032,
         "chapterNameTextMapHash": 1306344213,
@@ -35,7 +35,7 @@
         "graphXRatio": 0.5,
         "graphYRatio": 1.100000023841858
     },
-    {
+    "103601": {
         "id": 103601,
         "avatarId": 10000036,
         "chapterNameTextMapHash": 1994568565,
@@ -71,7 +71,7 @@
         "graphXRatio": 0.6499999761581421,
         "graphYRatio": 1.100000023841858
     },
-    {
+    "101401": {
         "id": 101401,
         "avatarId": 10000014,
         "chapterNameTextMapHash": 998952813,
@@ -107,7 +107,7 @@
         "graphXRatio": 0.8999999761581421,
         "graphYRatio": 1.0
     },
-    {
+    "103401": {
         "id": 103401,
         "avatarId": 10000034,
         "chapterNameTextMapHash": 2612155685,
@@ -143,7 +143,7 @@
         "graphXRatio": 0.5,
         "graphYRatio": 1.0
     },
-    {
+    "103402": {
         "id": 103402,
         "avatarId": 10000034,
         "chapterNameTextMapHash": 3335822805,
@@ -179,7 +179,7 @@
         "graphXRatio": 0.6000000238418579,
         "graphYRatio": 1.0
     },
-    {
+    "103901": {
         "id": 103901,
         "avatarId": 10000039,
         "chapterNameTextMapHash": 3424806709,
@@ -215,7 +215,7 @@
         "graphXRatio": 0.8999999761581421,
         "graphYRatio": 1.0
     },
-    {
+    "105001": {
         "id": 105001,
         "avatarId": 10000050,
         "chapterNameTextMapHash": 1090012589,
@@ -251,7 +251,7 @@
         "graphXRatio": 0.6200000047683716,
         "graphYRatio": 1.1200000047683716
     },
-    {
+    "105301": {
         "id": 105301,
         "avatarId": 10000053,
         "chapterNameTextMapHash": 3571644637,
@@ -287,7 +287,7 @@
         "graphXRatio": 0.75,
         "graphYRatio": 1.0
     },
-    {
+    "102401": {
         "id": 102401,
         "avatarId": 10000024,
         "chapterNameTextMapHash": 2734176949,
@@ -323,7 +323,7 @@
         "graphXRatio": 0.800000011920929,
         "graphYRatio": 1.100000023841858
     },
-    {
+    "105501": {
         "id": 105501,
         "avatarId": 10000055,
         "chapterNameTextMapHash": 1401686877,
@@ -359,7 +359,7 @@
         "graphXRatio": 0.699999988079071,
         "graphYRatio": 1.100000023841858
     },
-    {
+    "106401": {
         "id": 106401,
         "avatarId": 10000064,
         "chapterNameTextMapHash": 4069212645,
@@ -395,7 +395,7 @@
         "graphXRatio": 0.75,
         "graphYRatio": 1.0
     },
-    {
+    "102701": {
         "id": 102701,
         "avatarId": 10000027,
         "chapterNameTextMapHash": 3106181573,
@@ -431,7 +431,7 @@
         "graphXRatio": 0.699999988079071,
         "graphYRatio": 1.0
     },
-    {
+    "106501": {
         "id": 106501,
         "avatarId": 10000065,
         "chapterNameTextMapHash": 3141818957,
@@ -467,7 +467,7 @@
         "graphXRatio": 0.800000011920929,
         "graphYRatio": 1.0
     },
-    {
+    "105901": {
         "id": 105901,
         "avatarId": 10000059,
         "chapterNameTextMapHash": 3981352573,
@@ -503,4 +503,4 @@
         "graphXRatio": 1.0,
         "graphYRatio": 1.0
     }
-]
+}

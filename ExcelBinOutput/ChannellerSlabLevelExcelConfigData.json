@@ -1,5 +1,5 @@
-[
-    {
+{
+    "28": {
         "id": 28,
         "stageID": 1,
         "buffNum": 1,
@@ -9,7 +9,7 @@
         "rewardID": 3031003,
         "groupID": 133104674
     },
-    {
+    "29": {
         "id": 29,
         "stageID": 1,
         "buffNum": 1,
@@ -19,7 +19,7 @@
         "rewardID": 3031004,
         "groupID": 133104668
     },
-    {
+    "30": {
         "id": 30,
         "stageID": 1,
         "buffNum": 1,
@@ -29,7 +29,7 @@
         "rewardID": 3031005,
         "groupID": 133104689
     },
-    {
+    "31": {
         "id": 31,
         "stageID": 2,
         "buffNum": 1,
@@ -39,7 +39,7 @@
         "rewardID": 3031006,
         "groupID": 133103340
     },
-    {
+    "32": {
         "id": 32,
         "stageID": 2,
         "buffNum": 1,
@@ -49,7 +49,7 @@
         "rewardID": 3031007,
         "groupID": 133103294
     },
-    {
+    "33": {
         "id": 33,
         "stageID": 2,
         "buffNum": 1,
@@ -59,7 +59,7 @@
         "rewardID": 3031008,
         "groupID": 133103293
     },
-    {
+    "34": {
         "id": 34,
         "stageID": 3,
         "buffNum": 1,
@@ -69,7 +69,7 @@
         "rewardID": 3031009,
         "groupID": 133105066
     },
-    {
+    "35": {
         "id": 35,
         "stageID": 3,
         "buffNum": 1,
@@ -79,7 +79,7 @@
         "rewardID": 3031010,
         "groupID": 133105068
     },
-    {
+    "36": {
         "id": 36,
         "stageID": 3,
         "buffNum": 1,
@@ -89,4 +89,4 @@
         "rewardID": 3031011,
         "groupID": 133105067
     }
-]
+}

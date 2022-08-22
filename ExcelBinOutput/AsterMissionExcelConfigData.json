@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "missionId": 1,
         "phase": 1,
         "watcherId": 1200101,
@@ -8,7 +8,7 @@
         "perfabPathHashSuffix": 4200700804,
         "perfabPathHashPre": 27
     },
-    {
+    "2": {
         "missionId": 2,
         "phase": 1,
         "watcherId": 1200102,
@@ -17,7 +17,7 @@
         "perfabPathHashSuffix": 547537741,
         "perfabPathHashPre": 72
     },
-    {
+    "3": {
         "missionId": 3,
         "phase": 1,
         "watcherId": 1200103,
@@ -26,7 +26,7 @@
         "perfabPathHashSuffix": 3371217989,
         "perfabPathHashPre": 48
     },
-    {
+    "4": {
         "missionId": 4,
         "phase": 1,
         "watcherId": 1200104,
@@ -35,7 +35,7 @@
         "perfabPathHashSuffix": 3857417636,
         "perfabPathHashPre": 40
     },
-    {
+    "5": {
         "missionId": 5,
         "phase": 1,
         "watcherId": 1200105,
@@ -44,7 +44,7 @@
         "perfabPathHashSuffix": 1217041441,
         "perfabPathHashPre": 254
     },
-    {
+    "6": {
         "missionId": 6,
         "phase": 1,
         "watcherId": 1200106,
@@ -53,46 +53,46 @@
         "perfabPathHashSuffix": 2513846693,
         "perfabPathHashPre": 120
     },
-    {
+    "10": {
         "missionId": 10,
         "phase": 2,
         "watcherId": 1200110,
         "transPointId": 3,
         "tracePoint": "AM0001SYFS"
     },
-    {
+    "11": {
         "missionId": 11,
         "phase": 2,
         "watcherId": 1200111,
         "transPointId": 3,
         "tracePoint": "AM0002SYFS"
     },
-    {
+    "12": {
         "missionId": 12,
         "phase": 2,
         "watcherId": 1200112,
         "transPointId": 3,
         "tracePoint": "AM0003SYFS"
     },
-    {
+    "13": {
         "missionId": 13,
         "phase": 2,
         "watcherId": 1200113,
         "transPointId": 3,
         "tracePoint": "AM0003SYFS"
     },
-    {
+    "14": {
         "missionId": 14,
         "phase": 2,
         "watcherId": 1200114,
         "transPointId": 3,
         "tracePoint": "AM0003SYFS"
     },
-    {
+    "15": {
         "missionId": 15,
         "phase": 2,
         "watcherId": 1200115,
         "transPointId": 3,
         "tracePoint": "AM0003SYFS"
     }
-]
+}

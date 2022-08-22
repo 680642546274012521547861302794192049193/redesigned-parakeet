@@ -1,5 +1,5 @@
-[
-    {
+{
+    "51001": {
         "trialAvatarIndexId": 1,
         "trialAvatarId": 1022,
         "dungeonId": 6000,
@@ -17,7 +17,7 @@
         },
         "progress": 1
     },
-    {
+    "51002": {
         "trialAvatarIndexId": 2,
         "trialAvatarId": 1014,
         "dungeonId": 6001,
@@ -35,7 +35,7 @@
         },
         "progress": 1
     },
-    {
+    "51003": {
         "trialAvatarIndexId": 3,
         "trialAvatarId": 1031,
         "dungeonId": 6002,
@@ -53,7 +53,7 @@
         },
         "progress": 1
     },
-    {
+    "51004": {
         "trialAvatarIndexId": 4,
         "trialAvatarId": 1029,
         "dungeonId": 6003,
@@ -71,7 +71,7 @@
         },
         "progress": 1
     },
-    {
+    "51005": {
         "trialAvatarIndexId": 5,
         "trialAvatarId": 1025,
         "dungeonId": 6004,
@@ -89,7 +89,7 @@
         },
         "progress": 1
     },
-    {
+    "51006": {
         "trialAvatarIndexId": 6,
         "trialAvatarId": 1043,
         "dungeonId": 6005,
@@ -107,7 +107,7 @@
         },
         "progress": 1
     },
-    {
+    "51007": {
         "trialAvatarIndexId": 7,
         "trialAvatarId": 1033,
         "dungeonId": 6006,
@@ -125,7 +125,7 @@
         },
         "progress": 1
     },
-    {
+    "51008": {
         "trialAvatarIndexId": 8,
         "trialAvatarId": 1044,
         "dungeonId": 6007,
@@ -143,7 +143,7 @@
         },
         "progress": 1
     },
-    {
+    "51009": {
         "trialAvatarIndexId": 9,
         "trialAvatarId": 1024,
         "dungeonId": 6008,
@@ -161,7 +161,7 @@
         },
         "progress": 1
     },
-    {
+    "51010": {
         "trialAvatarIndexId": 10,
         "trialAvatarId": 1036,
         "dungeonId": 6009,
@@ -179,7 +179,7 @@
         },
         "progress": 1
     },
-    {
+    "51011": {
         "trialAvatarIndexId": 11,
         "trialAvatarId": 1030,
         "dungeonId": 6010,
@@ -197,7 +197,7 @@
         },
         "progress": 1
     },
-    {
+    "51012": {
         "trialAvatarIndexId": 12,
         "trialAvatarId": 1039,
         "dungeonId": 6011,
@@ -215,7 +215,7 @@
         },
         "progress": 1
     },
-    {
+    "51013": {
         "trialAvatarIndexId": 13,
         "trialAvatarId": 1027,
         "dungeonId": 6012,
@@ -233,7 +233,7 @@
         },
         "progress": 1
     },
-    {
+    "51014": {
         "trialAvatarIndexId": 14,
         "trialAvatarId": 1020,
         "dungeonId": 6013,
@@ -251,7 +251,7 @@
         },
         "progress": 1
     },
-    {
+    "51015": {
         "trialAvatarIndexId": 15,
         "trialAvatarId": 1037,
         "dungeonId": 6014,
@@ -269,7 +269,7 @@
         },
         "progress": 1
     },
-    {
+    "51016": {
         "trialAvatarIndexId": 16,
         "trialAvatarId": 1038,
         "dungeonId": 6015,
@@ -287,7 +287,7 @@
         },
         "progress": 1
     },
-    {
+    "51017": {
         "trialAvatarIndexId": 17,
         "trialAvatarId": 1025,
         "dungeonId": 6016,
@@ -305,7 +305,7 @@
         },
         "progress": 1
     },
-    {
+    "51018": {
         "trialAvatarIndexId": 18,
         "trialAvatarId": 1031,
         "dungeonId": 6017,
@@ -323,7 +323,7 @@
         },
         "progress": 1
     },
-    {
+    "51019": {
         "trialAvatarIndexId": 19,
         "trialAvatarId": 1043,
         "dungeonId": 6018,
@@ -341,7 +341,7 @@
         },
         "progress": 1
     },
-    {
+    "51020": {
         "trialAvatarIndexId": 20,
         "trialAvatarId": 1032,
         "dungeonId": 6019,
@@ -359,7 +359,7 @@
         },
         "progress": 1
     },
-    {
+    "51021": {
         "trialAvatarIndexId": 21,
         "trialAvatarId": 1046,
         "dungeonId": 6020,
@@ -377,7 +377,7 @@
         },
         "progress": 1
     },
-    {
+    "51022": {
         "trialAvatarIndexId": 22,
         "trialAvatarId": 1026,
         "dungeonId": 6021,
@@ -395,7 +395,7 @@
         },
         "progress": 1
     },
-    {
+    "51023": {
         "trialAvatarIndexId": 23,
         "trialAvatarId": 1027,
         "dungeonId": 6022,
@@ -413,7 +413,7 @@
         },
         "progress": 1
     },
-    {
+    "51024": {
         "trialAvatarIndexId": 24,
         "trialAvatarId": 1024,
         "dungeonId": 6023,
@@ -431,7 +431,7 @@
         },
         "progress": 1
     },
-    {
+    "51025": {
         "trialAvatarIndexId": 25,
         "trialAvatarId": 1044,
         "dungeonId": 6024,
@@ -449,7 +449,7 @@
         },
         "progress": 1
     },
-    {
+    "51026": {
         "trialAvatarIndexId": 26,
         "trialAvatarId": 1032,
         "dungeonId": 6025,
@@ -467,7 +467,7 @@
         },
         "progress": 1
     },
-    {
+    "51027": {
         "trialAvatarIndexId": 27,
         "trialAvatarId": 1025,
         "dungeonId": 6026,
@@ -485,7 +485,7 @@
         },
         "progress": 1
     },
-    {
+    "51028": {
         "trialAvatarIndexId": 28,
         "trialAvatarId": 1036,
         "dungeonId": 6027,
@@ -503,7 +503,7 @@
         },
         "progress": 1
     },
-    {
+    "51029": {
         "trialAvatarIndexId": 29,
         "trialAvatarId": 1045,
         "dungeonId": 6028,
@@ -521,7 +521,7 @@
         },
         "progress": 1
     },
-    {
+    "51030": {
         "trialAvatarIndexId": 30,
         "trialAvatarId": 1042,
         "dungeonId": 6029,
@@ -539,7 +539,7 @@
         },
         "progress": 1
     },
-    {
+    "51031": {
         "trialAvatarIndexId": 31,
         "trialAvatarId": 1039,
         "dungeonId": 6030,
@@ -557,7 +557,7 @@
         },
         "progress": 1
     },
-    {
+    "51032": {
         "trialAvatarIndexId": 32,
         "trialAvatarId": 1048,
         "dungeonId": 6032,
@@ -575,7 +575,7 @@
         },
         "progress": 1
     },
-    {
+    "51033": {
         "trialAvatarIndexId": 33,
         "trialAvatarId": 1049,
         "dungeonId": 6033,
@@ -593,7 +593,7 @@
         },
         "progress": 1
     },
-    {
+    "51034": {
         "trialAvatarIndexId": 34,
         "trialAvatarId": 1050,
         "dungeonId": 6034,
@@ -611,7 +611,7 @@
         },
         "progress": 1
     },
-    {
+    "51035": {
         "trialAvatarIndexId": 35,
         "trialAvatarId": 1002,
         "dungeonId": 6035,
@@ -629,7 +629,7 @@
         },
         "progress": 1
     },
-    {
+    "51036": {
         "trialAvatarIndexId": 36,
         "trialAvatarId": 1051,
         "dungeonId": 6036,
@@ -647,7 +647,7 @@
         },
         "progress": 1
     },
-    {
+    "51037": {
         "trialAvatarIndexId": 37,
         "trialAvatarId": 1053,
         "dungeonId": 6037,
@@ -665,7 +665,7 @@
         },
         "progress": 1
     },
-    {
+    "51038": {
         "trialAvatarIndexId": 38,
         "trialAvatarId": 1052,
         "dungeonId": 6038,
@@ -683,7 +683,7 @@
         },
         "progress": 1
     },
-    {
+    "51039": {
         "trialAvatarIndexId": 39,
         "trialAvatarId": 1054,
         "dungeonId": 6039,
@@ -701,7 +701,7 @@
         },
         "progress": 1
     },
-    {
+    "51040": {
         "trialAvatarIndexId": 40,
         "trialAvatarId": 1056,
         "dungeonId": 6040,
@@ -719,7 +719,7 @@
         },
         "progress": 1
     },
-    {
+    "51041": {
         "trialAvatarIndexId": 41,
         "trialAvatarId": 1047,
         "dungeonId": 6041,
@@ -737,7 +737,7 @@
         },
         "progress": 1
     },
-    {
+    "51042": {
         "trialAvatarIndexId": 42,
         "trialAvatarId": 1057,
         "dungeonId": 6042,
@@ -755,7 +755,7 @@
         },
         "progress": 1
     },
-    {
+    "51043": {
         "trialAvatarIndexId": 43,
         "trialAvatarId": 1055,
         "dungeonId": 6043,
@@ -773,7 +773,7 @@
         },
         "progress": 1
     },
-    {
+    "51044": {
         "trialAvatarIndexId": 44,
         "trialAvatarId": 1063,
         "dungeonId": 6044,
@@ -791,7 +791,7 @@
         },
         "progress": 1
     },
-    {
+    "51045": {
         "trialAvatarIndexId": 45,
         "trialAvatarId": 1064,
         "dungeonId": 6045,
@@ -809,7 +809,7 @@
         },
         "progress": 1
     },
-    {
+    "51046": {
         "trialAvatarIndexId": 46,
         "trialAvatarId": 1065,
         "dungeonId": 6046,
@@ -827,7 +827,7 @@
         },
         "progress": 1
     },
-    {
+    "51047": {
         "trialAvatarIndexId": 47,
         "trialAvatarId": 1066,
         "dungeonId": 6047,
@@ -845,7 +845,7 @@
         },
         "progress": 1
     },
-    {
+    "51048": {
         "trialAvatarIndexId": 48,
         "trialAvatarId": 1058,
         "dungeonId": 6048,
@@ -863,7 +863,7 @@
         },
         "progress": 1
     },
-    {
+    "51049": {
         "trialAvatarIndexId": 49,
         "trialAvatarId": 1059,
         "dungeonId": 6049,
@@ -881,7 +881,7 @@
         },
         "progress": 1
     },
-    {
+    "51050": {
         "trialAvatarIndexId": 50,
         "trialAvatarId": 1060,
         "dungeonId": 6050,
@@ -899,7 +899,7 @@
         },
         "progress": 1
     },
-    {
+    "51051": {
         "trialAvatarIndexId": 51,
         "trialAvatarId": 1068,
         "dungeonId": 6051,
@@ -917,7 +917,7 @@
         },
         "progress": 1
     },
-    {
+    "51052": {
         "trialAvatarIndexId": 52,
         "trialAvatarId": 1067,
         "dungeonId": 6052,
@@ -935,7 +935,7 @@
         },
         "progress": 1
     },
-    {
+    "51053": {
         "trialAvatarIndexId": 53,
         "trialAvatarId": 1069,
         "dungeonId": 6053,
@@ -953,4 +953,4 @@
         },
         "progress": 1
     }
-]
+}

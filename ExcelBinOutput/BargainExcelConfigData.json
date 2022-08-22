@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "questId": 1013,
         "id": 1,
         "dialogId": [
@@ -40,7 +40,7 @@
         "moodHintTextTextMapHash": 1618830996,
         "moodDescTextTextMapHash": 3718989912
     },
-    {
+    "2": {
         "questId": 1013,
         "id": 2,
         "dialogId": [
@@ -81,7 +81,7 @@
         "moodHintTextTextMapHash": 2217562812,
         "moodDescTextTextMapHash": 3887094120
     },
-    {
+    "3": {
         "questId": 1013,
         "id": 3,
         "dialogId": [
@@ -122,7 +122,7 @@
         "moodHintTextTextMapHash": 2743887828,
         "moodDescTextTextMapHash": 2590079832
     },
-    {
+    "4": {
         "questId": 11011,
         "id": 4,
         "dialogId": [
@@ -163,7 +163,7 @@
         "moodHintTextTextMapHash": 4181775748,
         "moodDescTextTextMapHash": 2538531296
     },
-    {
+    "5": {
         "questId": 11011,
         "id": 5,
         "dialogId": [
@@ -204,7 +204,7 @@
         "moodHintTextTextMapHash": 2493824028,
         "moodDescTextTextMapHash": 1593029792
     },
-    {
+    "6": {
         "questId": 72280,
         "id": 6,
         "dialogId": [
@@ -244,7 +244,7 @@
         "moodHintTextTextMapHash": 1161759212,
         "moodDescTextTextMapHash": 549217952
     },
-    {
+    "10": {
         "questId": 73000,
         "id": 10,
         "dialogId": [
@@ -284,4 +284,4 @@
         "moodHintTextTextMapHash": 2626390108,
         "moodDescTextTextMapHash": 1663807456
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "9999": {
         "HAHGBALGNFB": 9999,
         "mapNameTextMapHash": 1814196112,
         "descTextMapHash": 182659487,
@@ -18,7 +18,7 @@
             6
         ]
     },
-    {
+    "1": {
         "HAHGBALGNFB": 1,
         "mapNameTextMapHash": 1411279088,
         "descTextMapHash": 2476549183,
@@ -37,7 +37,7 @@
             6
         ]
     },
-    {
+    "2": {
         "HAHGBALGNFB": 2,
         "mapNameTextMapHash": 3330460120,
         "descTextMapHash": 2781033015,
@@ -57,7 +57,7 @@
             3
         ]
     },
-    {
+    "3": {
         "HAHGBALGNFB": 3,
         "mapNameTextMapHash": 1518414352,
         "descTextMapHash": 95002039,
@@ -78,7 +78,7 @@
             12
         ]
     },
-    {
+    "4": {
         "HAHGBALGNFB": 4,
         "mapNameTextMapHash": 3422998336,
         "descTextMapHash": 2836570807,
@@ -99,7 +99,7 @@
             18
         ]
     },
-    {
+    "5": {
         "HAHGBALGNFB": 5,
         "mapNameTextMapHash": 2044953848,
         "descTextMapHash": 591081511,
@@ -119,7 +119,7 @@
             9
         ]
     },
-    {
+    "6": {
         "HAHGBALGNFB": 6,
         "mapNameTextMapHash": 1720365992,
         "descTextMapHash": 2380078623,
@@ -139,7 +139,7 @@
             6
         ]
     },
-    {
+    "7": {
         "HAHGBALGNFB": 7,
         "mapNameTextMapHash": 2182114352,
         "descTextMapHash": 526280423,
@@ -159,7 +159,7 @@
             3
         ]
     },
-    {
+    "8": {
         "HAHGBALGNFB": 8,
         "mapNameTextMapHash": 1314479488,
         "descTextMapHash": 2012537471,
@@ -180,7 +180,7 @@
             10
         ]
     },
-    {
+    "9": {
         "HAHGBALGNFB": 9,
         "mapNameTextMapHash": 4149785448,
         "descTextMapHash": 2026177231,
@@ -202,7 +202,7 @@
             22
         ]
     },
-    {
+    "10": {
         "HAHGBALGNFB": 10,
         "mapNameTextMapHash": 2771961424,
         "descTextMapHash": 1167110759,
@@ -222,7 +222,7 @@
             9
         ]
     },
-    {
+    "10000": {
         "HAHGBALGNFB": 10000,
         "mapNameTextMapHash": 3188765280,
         "descTextMapHash": 2071118831,
@@ -243,4 +243,4 @@
             22
         ]
     }
-]
+}

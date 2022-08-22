@@ -1,5 +1,5 @@
-[
-    {
+{
+    "401": {
         "opActivityId": 401,
         "bonusType": "TYPE_DAILY",
         "bonusValue": 3,
@@ -20,7 +20,7 @@
             "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_COUNT"
         ]
     },
-    {
+    "402": {
         "opActivityId": 402,
         "bonusType": "TYPE_DAILY",
         "bonusValue": 3,
@@ -41,7 +41,7 @@
             "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_COUNT"
         ]
     },
-    {
+    "101": {
         "opActivityId": 101,
         "bonusType": "TYPE_DAILY",
         "bonusValue": 3,
@@ -67,7 +67,7 @@
             "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_COUNT"
         ]
     },
-    {
+    "102": {
         "opActivityId": 102,
         "bonusType": "TYPE_DAILY",
         "bonusValue": 3,
@@ -93,7 +93,7 @@
             "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_COUNT"
         ]
     },
-    {
+    "201": {
         "opActivityId": 201,
         "bonusType": "TYPE_DAILY",
         "bonusValue": 3,
@@ -115,7 +115,7 @@
             "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_COUNT"
         ]
     },
-    {
+    "202": {
         "opActivityId": 202,
         "bonusType": "TYPE_DAILY",
         "bonusValue": 3,
@@ -137,7 +137,7 @@
             "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_COUNT"
         ]
     },
-    {
+    "301": {
         "opActivityId": 301,
         "bonusType": "TYPE_DAILY",
         "bonusValue": 3,
@@ -159,7 +159,7 @@
             "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_COUNT"
         ]
     },
-    {
+    "302": {
         "opActivityId": 302,
         "bonusType": "TYPE_DAILY",
         "bonusValue": 3,
@@ -181,4 +181,4 @@
             "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_COUNT"
         ]
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "INONGDMNCFA": 1,
         "LOCGNKFIIEF": 1,
@@ -12,7 +12,7 @@
         "BECJFPAJFID": 918585324,
         "BLHAIEPKPAP": 972115712
     },
-    {
+    "2": {
         "Id": 2,
         "INONGDMNCFA": 2,
         "LOCGNKFIIEF": 2,
@@ -25,7 +25,7 @@
         "BECJFPAJFID": 1052989860,
         "BLHAIEPKPAP": 2071551264
     },
-    {
+    "3": {
         "Id": 3,
         "INONGDMNCFA": 3,
         "LOCGNKFIIEF": 3,
@@ -38,7 +38,7 @@
         "BECJFPAJFID": 1638157876,
         "BLHAIEPKPAP": 1907529784
     },
-    {
+    "4": {
         "Id": 4,
         "INONGDMNCFA": 4,
         "LOCGNKFIIEF": 4,
@@ -51,7 +51,7 @@
         "BECJFPAJFID": 625611380,
         "BLHAIEPKPAP": 1031969944
     },
-    {
+    "5": {
         "Id": 5,
         "INONGDMNCFA": 5,
         "LOCGNKFIIEF": 5,
@@ -66,7 +66,7 @@
         "BECJFPAJFID": 1873609684,
         "BLHAIEPKPAP": 3161068568
     },
-    {
+    "6": {
         "Id": 6,
         "INONGDMNCFA": 6,
         "LOCGNKFIIEF": 6,
@@ -79,7 +79,7 @@
         "BECJFPAJFID": 3960219564,
         "BLHAIEPKPAP": 57358712
     },
-    {
+    "7": {
         "Id": 7,
         "INONGDMNCFA": 7,
         "LOCGNKFIIEF": 7,
@@ -92,4 +92,4 @@
         "BECJFPAJFID": 3743435948,
         "BLHAIEPKPAP": 3289528440
     }
-]
+}

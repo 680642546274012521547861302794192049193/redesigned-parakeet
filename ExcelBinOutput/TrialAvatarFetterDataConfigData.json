@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10000022": {
         "avatarId": 10000022,
         "NFEDMHMMHMP": 111,
         "OHHJJDCCJKL": {
@@ -8,7 +8,7 @@
             ]
         }
     },
-    {
+    "10000030": {
         "avatarId": 10000030,
         "NFEDMHMMHMP": 118,
         "OHHJJDCCJKL": {
@@ -17,7 +17,7 @@
             ]
         }
     },
-    {
+    "10000052": {
         "avatarId": 10000052,
         "NFEDMHMMHMP": 139,
         "OHHJJDCCJKL": {
@@ -27,4 +27,4 @@
             ]
         }
     }
-]
+}

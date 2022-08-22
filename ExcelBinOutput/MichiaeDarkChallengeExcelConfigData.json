@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "challengeId": 111195,
         "rewardId": [
@@ -15,7 +15,7 @@
         ],
         "groupId": 177005155
     },
-    {
+    "2": {
         "id": 2,
         "challengeId": 111195,
         "rewardId": [
@@ -31,7 +31,7 @@
         ],
         "groupId": 177005156
     },
-    {
+    "3": {
         "id": 3,
         "challengeId": 111195,
         "rewardId": [
@@ -47,7 +47,7 @@
         ],
         "groupId": 177006001
     },
-    {
+    "4": {
         "id": 4,
         "challengeId": 111195,
         "rewardId": [
@@ -63,7 +63,7 @@
         ],
         "groupId": 177006002
     },
-    {
+    "5": {
         "id": 5,
         "challengeId": 111195,
         "rewardId": [
@@ -79,7 +79,7 @@
         ],
         "groupId": 177008080
     },
-    {
+    "6": {
         "id": 6,
         "challengeId": 111195,
         "rewardId": [
@@ -95,4 +95,4 @@
         ],
         "groupId": 177008081
     }
-]
+}

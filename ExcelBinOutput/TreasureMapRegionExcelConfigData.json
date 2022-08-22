@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "unlockDay": 1,
         "tokenNum": 60,
@@ -70,7 +70,7 @@
         "DHPEPKLMEON": 1474124459,
         "INPLHBPEGCH": 1
     },
-    {
+    "2": {
         "id": 2,
         "unlockDay": 1,
         "tokenNum": 60,
@@ -135,7 +135,7 @@
         "DHPEPKLMEON": 3219251115,
         "INPLHBPEGCH": 1
     },
-    {
+    "3": {
         "id": 3,
         "unlockDay": 2,
         "tokenNum": 60,
@@ -211,7 +211,7 @@
         "KNDNJLMLDPK": 30502,
         "INPLHBPEGCH": 1
     },
-    {
+    "4": {
         "id": 4,
         "unlockDay": 2,
         "tokenNum": 60,
@@ -283,7 +283,7 @@
         "KNDNJLMLDPK": 30502,
         "INPLHBPEGCH": 1
     },
-    {
+    "5": {
         "id": 5,
         "unlockDay": 3,
         "tokenNum": 60,
@@ -347,7 +347,7 @@
         "DHPEPKLMEON": 460642547,
         "INPLHBPEGCH": 2
     },
-    {
+    "6": {
         "id": 6,
         "unlockDay": 3,
         "tokenNum": 60,
@@ -412,7 +412,7 @@
         "DHPEPKLMEON": 1070350043,
         "INPLHBPEGCH": 2
     },
-    {
+    "7": {
         "id": 7,
         "unlockDay": 4,
         "tokenNum": 60,
@@ -485,7 +485,7 @@
         "KNDNJLMLDPK": 30502,
         "INPLHBPEGCH": 2
     },
-    {
+    "8": {
         "id": 8,
         "unlockDay": 4,
         "tokenNum": 60,
@@ -558,7 +558,7 @@
         "KNDNJLMLDPK": 30502,
         "INPLHBPEGCH": 2
     },
-    {
+    "9": {
         "id": 9,
         "unlockDay": 5,
         "tokenNum": 60,
@@ -624,7 +624,7 @@
         "OOGBAJHEBLH": [],
         "DHPEPKLMEON": 3401995019
     },
-    {
+    "10": {
         "id": 10,
         "unlockDay": 5,
         "tokenNum": 60,
@@ -684,7 +684,7 @@
         "OOGBAJHEBLH": [],
         "DHPEPKLMEON": 911864083
     },
-    {
+    "11": {
         "id": 11,
         "unlockDay": 6,
         "tokenNum": 60,
@@ -755,7 +755,7 @@
         "DHPEPKLMEON": 3036230731,
         "KNDNJLMLDPK": 30502
     },
-    {
+    "12": {
         "id": 12,
         "unlockDay": 6,
         "tokenNum": 60,
@@ -826,7 +826,7 @@
         "DHPEPKLMEON": 1140566979,
         "KNDNJLMLDPK": 30502
     },
-    {
+    "13": {
         "id": 13,
         "unlockDay": 7,
         "tokenNum": 60,
@@ -893,7 +893,7 @@
         "OOGBAJHEBLH": [],
         "DHPEPKLMEON": 3265871939
     },
-    {
+    "14": {
         "id": 14,
         "unlockDay": 7,
         "tokenNum": 60,
@@ -958,4 +958,4 @@
         "OOGBAJHEBLH": [],
         "DHPEPKLMEON": 4057571411
     }
-]
+}

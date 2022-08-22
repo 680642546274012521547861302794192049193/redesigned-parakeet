@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5050": {
         "activityID": 5050,
         "descTextMapHash": 3613924880,
         "GFPFIIKGELJ": 2947979886,
@@ -24,7 +24,7 @@
             }
         ]
     },
-    {
+    "2008": {
         "activityID": 2008,
         "descTextMapHash": 3502215888,
         "GFPFIIKGELJ": 2455330254,
@@ -48,7 +48,7 @@
             }
         ]
     },
-    {
+    "5051": {
         "activityID": 5051,
         "descTextMapHash": 890544616,
         "GFPFIIKGELJ": 764763430,
@@ -73,7 +73,7 @@
             }
         ]
     },
-    {
+    "5052": {
         "activityID": 5052,
         "descTextMapHash": 2128192368,
         "GFPFIIKGELJ": 2088299710,
@@ -97,7 +97,7 @@
             }
         ]
     },
-    {
+    "5055": {
         "activityID": 5055,
         "descTextMapHash": 2297639280,
         "GFPFIIKGELJ": 335290462,
@@ -118,7 +118,7 @@
             }
         ]
     },
-    {
+    "5058": {
         "activityID": 5058,
         "descTextMapHash": 2112099504,
         "GFPFIIKGELJ": 1841946878,
@@ -143,7 +143,7 @@
             }
         ]
     },
-    {
+    "2010": {
         "activityID": 2010,
         "descTextMapHash": 3316593152,
         "GFPFIIKGELJ": 3507761150,
@@ -172,7 +172,7 @@
             }
         ]
     },
-    {
+    "5062": {
         "activityID": 5062,
         "descTextMapHash": 3087946216,
         "GFPFIIKGELJ": 1325772086,
@@ -197,7 +197,7 @@
             }
         ]
     },
-    {
+    "5065": {
         "activityID": 5065,
         "descTextMapHash": 669288176,
         "GFPFIIKGELJ": 1741498918,
@@ -222,7 +222,7 @@
             }
         ]
     },
-    {
+    "5066": {
         "activityID": 5066,
         "descTextMapHash": 2588604904,
         "GFPFIIKGELJ": 2840044350,
@@ -245,7 +245,7 @@
             }
         ]
     },
-    {
+    "5067": {
         "activityID": 5067,
         "descTextMapHash": 988118240,
         "GFPFIIKGELJ": 2147799606,
@@ -270,7 +270,7 @@
             }
         ]
     },
-    {
+    "2012": {
         "activityID": 2012,
         "descTextMapHash": 1980784824,
         "GFPFIIKGELJ": 3579825366,
@@ -305,7 +305,7 @@
             }
         ]
     },
-    {
+    "5068": {
         "activityID": 5068,
         "descTextMapHash": 4038239592,
         "GFPFIIKGELJ": 1494276190,
@@ -334,7 +334,7 @@
             }
         ]
     },
-    {
+    "5072": {
         "activityID": 5072,
         "descTextMapHash": 1802449760,
         "GFPFIIKGELJ": 4144500574,
@@ -359,7 +359,7 @@
             }
         ]
     },
-    {
+    "5079": {
         "activityID": 5079,
         "descTextMapHash": 2897744712,
         "GFPFIIKGELJ": 2832709958,
@@ -382,7 +382,7 @@
             }
         ]
     },
-    {
+    "5080": {
         "activityID": 5080,
         "descTextMapHash": 2322631320,
         "GFPFIIKGELJ": 129883518,
@@ -407,7 +407,7 @@
             }
         ]
     },
-    {
+    "2013": {
         "activityID": 2013,
         "descTextMapHash": 950500832,
         "GFPFIIKGELJ": 3967506214,
@@ -430,7 +430,7 @@
             }
         ]
     },
-    {
+    "2014": {
         "activityID": 2014,
         "descTextMapHash": 2944607712,
         "GFPFIIKGELJ": 2451625702,
@@ -458,7 +458,7 @@
             }
         ]
     },
-    {
+    "5082": {
         "activityID": 5082,
         "descTextMapHash": 2228569488,
         "GFPFIIKGELJ": 3032919286,
@@ -482,7 +482,7 @@
             }
         ]
     },
-    {
+    "5083": {
         "activityID": 5083,
         "descTextMapHash": 1248251136,
         "GFPFIIKGELJ": 419271054,
@@ -507,7 +507,7 @@
             }
         ]
     },
-    {
+    "5084": {
         "activityID": 5084,
         "descTextMapHash": 1826432928,
         "GFPFIIKGELJ": 2564895862,
@@ -530,7 +530,7 @@
             }
         ]
     },
-    {
+    "5085": {
         "activityID": 5085,
         "descTextMapHash": 1149448192,
         "GFPFIIKGELJ": 3164498510,
@@ -558,7 +558,7 @@
             }
         ]
     },
-    {
+    "5087": {
         "activityID": 5087,
         "descTextMapHash": 934330456,
         "GFPFIIKGELJ": 2961478182,
@@ -582,7 +582,7 @@
             }
         ]
     },
-    {
+    "2015": {
         "activityID": 2015,
         "descTextMapHash": 1180306632,
         "GFPFIIKGELJ": 513450638,
@@ -612,7 +612,7 @@
             }
         ]
     },
-    {
+    "5090": {
         "activityID": 5090,
         "descTextMapHash": 364985024,
         "GFPFIIKGELJ": 1224531574,
@@ -637,7 +637,7 @@
             }
         ]
     },
-    {
+    "5091": {
         "activityID": 5091,
         "descTextMapHash": 2144105168,
         "GFPFIIKGELJ": 1821354486,
@@ -661,4 +661,4 @@
             }
         ]
     }
-]
+}

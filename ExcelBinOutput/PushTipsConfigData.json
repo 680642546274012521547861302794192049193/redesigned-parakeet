@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "pushTipsId": 1001,
         "rewardId": 300001,
         "titleTextMapHash": 3665313113,
@@ -9,7 +9,7 @@
         "tabIcon": "UI_MessageIcon_Combat",
         "tutorialId": 300
     },
-    {
+    "1002": {
         "pushTipsId": 1002,
         "rewardId": 300001,
         "titleTextMapHash": 3899143345,
@@ -20,7 +20,7 @@
         "tutorialId": 303,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1003": {
         "pushTipsId": 1003,
         "rewardId": 300001,
         "titleTextMapHash": 1790314473,
@@ -31,7 +31,7 @@
         "tutorialId": 304,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1004": {
         "pushTipsId": 1004,
         "rewardId": 300001,
         "titleTextMapHash": 2628910121,
@@ -42,7 +42,7 @@
         "tutorialId": 305,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1005": {
         "pushTipsId": 1005,
         "rewardId": 300001,
         "titleTextMapHash": 3066593193,
@@ -52,7 +52,7 @@
         "tabIcon": "UI_MessageIcon_Rock",
         "tutorialId": 306
     },
-    {
+    "1006": {
         "pushTipsId": 1006,
         "rewardId": 300001,
         "titleTextMapHash": 812990745,
@@ -63,7 +63,7 @@
         "tutorialId": 307,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1007": {
         "pushTipsId": 1007,
         "rewardId": 300001,
         "titleTextMapHash": 948087641,
@@ -73,7 +73,7 @@
         "tabIcon": "UI_MessageIcon_Frost",
         "tutorialId": 308
     },
-    {
+    "1008": {
         "pushTipsId": 1008,
         "rewardId": 300001,
         "titleTextMapHash": 1358544385,
@@ -84,7 +84,7 @@
         "tutorialId": 309,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1009": {
         "pushTipsId": 1009,
         "rewardId": 300001,
         "titleTextMapHash": 1959302641,
@@ -95,7 +95,7 @@
         "tutorialId": 311,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1010": {
         "pushTipsId": 1010,
         "rewardId": 300001,
         "titleTextMapHash": 2271436353,
@@ -106,7 +106,7 @@
         "tutorialId": 313,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1011": {
         "pushTipsId": 1011,
         "rewardId": 300001,
         "titleTextMapHash": 516261009,
@@ -117,7 +117,7 @@
         "tutorialId": 314,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1012": {
         "pushTipsId": 1012,
         "rewardId": 300001,
         "titleTextMapHash": 2169454977,
@@ -128,7 +128,7 @@
         "tutorialId": 315,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1013": {
         "pushTipsId": 1013,
         "rewardId": 300001,
         "titleTextMapHash": 808709249,
@@ -139,7 +139,7 @@
         "tutorialId": 316,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1014": {
         "pushTipsId": 1014,
         "rewardId": 300001,
         "titleTextMapHash": 1372593881,
@@ -150,7 +150,7 @@
         "tutorialId": 317,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1015": {
         "pushTipsId": 1015,
         "rewardId": 300001,
         "titleTextMapHash": 645269873,
@@ -161,7 +161,7 @@
         "tutorialId": 318,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1016": {
         "pushTipsId": 1016,
         "rewardId": 300001,
         "titleTextMapHash": 4080086321,
@@ -172,7 +172,7 @@
         "tutorialId": 319,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1018": {
         "pushTipsId": 1018,
         "rewardId": 300001,
         "titleTextMapHash": 3626565793,
@@ -183,7 +183,7 @@
         "tutorialId": 325,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1019": {
         "pushTipsId": 1019,
         "rewardId": 300001,
         "titleTextMapHash": 3284310641,
@@ -194,7 +194,7 @@
         "tutorialId": 326,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1020": {
         "pushTipsId": 1020,
         "rewardId": 300001,
         "titleTextMapHash": 2330080513,
@@ -205,7 +205,7 @@
         "tutorialId": 327,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1021": {
         "pushTipsId": 1021,
         "rewardId": 300001,
         "titleTextMapHash": 1158414689,
@@ -216,7 +216,7 @@
         "tutorialId": 328,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1022": {
         "pushTipsId": 1022,
         "rewardId": 300001,
         "titleTextMapHash": 3698430601,
@@ -227,7 +227,7 @@
         "tutorialId": 329,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1023": {
         "pushTipsId": 1023,
         "rewardId": 300001,
         "titleTextMapHash": 3304770257,
@@ -238,7 +238,7 @@
         "tutorialId": 330,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1025": {
         "pushTipsId": 1025,
         "rewardId": 300001,
         "titleTextMapHash": 2689901049,
@@ -249,7 +249,7 @@
         "tutorialId": 332,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1026": {
         "pushTipsId": 1026,
         "rewardId": 300001,
         "titleTextMapHash": 1581854825,
@@ -260,7 +260,7 @@
         "tutorialId": 333,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1027": {
         "pushTipsId": 1027,
         "rewardId": 300001,
         "titleTextMapHash": 726451777,
@@ -271,7 +271,7 @@
         "tutorialId": 320,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1028": {
         "pushTipsId": 1028,
         "rewardId": 300001,
         "titleTextMapHash": 432840657,
@@ -282,7 +282,7 @@
         "tutorialId": 310,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1029": {
         "pushTipsId": 1029,
         "rewardId": 300001,
         "titleTextMapHash": 2908987545,
@@ -293,7 +293,7 @@
         "tutorialId": 312,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1030": {
         "pushTipsId": 1030,
         "rewardId": 300001,
         "titleTextMapHash": 3036886785,
@@ -304,7 +304,7 @@
         "tutorialId": 335,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1031": {
         "pushTipsId": 1031,
         "rewardId": 300001,
         "titleTextMapHash": 2475442305,
@@ -315,7 +315,7 @@
         "tutorialId": 336,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1032": {
         "pushTipsId": 1032,
         "rewardId": 300001,
         "titleTextMapHash": 536908009,
@@ -326,7 +326,7 @@
         "tutorialId": 337,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1033": {
         "pushTipsId": 1033,
         "rewardId": 300001,
         "titleTextMapHash": 4207435409,
@@ -337,7 +337,7 @@
         "tutorialId": 338,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1034": {
         "pushTipsId": 1034,
         "rewardId": 300001,
         "titleTextMapHash": 2029253537,
@@ -348,7 +348,7 @@
         "tutorialId": 339,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1035": {
         "pushTipsId": 1035,
         "rewardId": 300001,
         "titleTextMapHash": 5523385,
@@ -359,7 +359,7 @@
         "tutorialId": 340,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1036": {
         "pushTipsId": 1036,
         "rewardId": 300001,
         "titleTextMapHash": 1298776089,
@@ -370,7 +370,7 @@
         "tutorialId": 346,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1037": {
         "pushTipsId": 1037,
         "rewardId": 300001,
         "titleTextMapHash": 3282910841,
@@ -381,7 +381,7 @@
         "tutorialId": 192,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1038": {
         "pushTipsId": 1038,
         "rewardId": 300001,
         "titleTextMapHash": 4123160201,
@@ -392,7 +392,7 @@
         "tutorialId": 380,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1039": {
         "pushTipsId": 1039,
         "rewardId": 300001,
         "titleTextMapHash": 2307759153,
@@ -403,7 +403,7 @@
         "tutorialId": 381,
         "codexType": "CODEX_ELEMENT"
     },
-    {
+    "1100": {
         "pushTipsId": 1100,
         "rewardId": 300001,
         "titleTextMapHash": 1374369889,
@@ -414,7 +414,7 @@
         "tutorialId": 341,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1101": {
         "pushTipsId": 1101,
         "rewardId": 300001,
         "titleTextMapHash": 1988046233,
@@ -425,7 +425,7 @@
         "tutorialId": 342,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1102": {
         "pushTipsId": 1102,
         "rewardId": 300001,
         "titleTextMapHash": 762441137,
@@ -436,7 +436,7 @@
         "tutorialId": 343,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1103": {
         "pushTipsId": 1103,
         "rewardId": 300001,
         "titleTextMapHash": 2166453017,
@@ -447,7 +447,7 @@
         "tutorialId": 344,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1104": {
         "pushTipsId": 1104,
         "rewardId": 300001,
         "titleTextMapHash": 2925821913,
@@ -458,7 +458,7 @@
         "tutorialId": 345,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1106": {
         "pushTipsId": 1106,
         "rewardId": 300001,
         "titleTextMapHash": 1079803289,
@@ -470,7 +470,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1107": {
         "pushTipsId": 1107,
         "rewardId": 300001,
         "titleTextMapHash": 1193467177,
@@ -481,7 +481,7 @@
         "tutorialId": 348,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1108": {
         "pushTipsId": 1108,
         "rewardId": 300001,
         "titleTextMapHash": 750282273,
@@ -492,7 +492,7 @@
         "tutorialId": 349,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1109": {
         "pushTipsId": 1109,
         "rewardId": 300001,
         "titleTextMapHash": 298875553,
@@ -503,7 +503,7 @@
         "tutorialId": 350,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1110": {
         "pushTipsId": 1110,
         "rewardId": 300001,
         "titleTextMapHash": 3351466761,
@@ -515,7 +515,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1111": {
         "pushTipsId": 1111,
         "rewardId": 300001,
         "titleTextMapHash": 2225052793,
@@ -526,7 +526,7 @@
         "tutorialId": 352,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1112": {
         "pushTipsId": 1112,
         "rewardId": 300001,
         "titleTextMapHash": 2952482569,
@@ -537,7 +537,7 @@
         "tutorialId": 353,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1113": {
         "pushTipsId": 1113,
         "rewardId": 300001,
         "titleTextMapHash": 343527225,
@@ -548,7 +548,7 @@
         "tutorialId": 354,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1114": {
         "pushTipsId": 1114,
         "rewardId": 300001,
         "titleTextMapHash": 100038537,
@@ -560,7 +560,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1115": {
         "pushTipsId": 1115,
         "rewardId": 300001,
         "titleTextMapHash": 3386497513,
@@ -571,7 +571,7 @@
         "tutorialId": 356,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1116": {
         "pushTipsId": 1116,
         "rewardId": 300001,
         "titleTextMapHash": 327829473,
@@ -582,7 +582,7 @@
         "tutorialId": 357,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1117": {
         "pushTipsId": 1117,
         "rewardId": 300001,
         "titleTextMapHash": 612938201,
@@ -593,7 +593,7 @@
         "tutorialId": 358,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1120": {
         "pushTipsId": 1120,
         "rewardId": 300001,
         "titleTextMapHash": 3032534793,
@@ -604,7 +604,7 @@
         "tutorialId": 360,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1121": {
         "pushTipsId": 1121,
         "rewardId": 300001,
         "titleTextMapHash": 2192648673,
@@ -615,7 +615,7 @@
         "tutorialId": 361,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1122": {
         "pushTipsId": 1122,
         "rewardId": 300001,
         "titleTextMapHash": 3022056657,
@@ -626,7 +626,7 @@
         "tutorialId": 362,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1125": {
         "pushTipsId": 1125,
         "rewardId": 300001,
         "titleTextMapHash": 365614097,
@@ -637,7 +637,7 @@
         "tutorialId": 359,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1126": {
         "pushTipsId": 1126,
         "rewardId": 300001,
         "titleTextMapHash": 4201739569,
@@ -648,7 +648,7 @@
         "tutorialId": 363,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1127": {
         "pushTipsId": 1127,
         "rewardId": 300001,
         "titleTextMapHash": 1646549657,
@@ -660,7 +660,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1128": {
         "pushTipsId": 1128,
         "rewardId": 300001,
         "titleTextMapHash": 1545171121,
@@ -672,7 +672,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1129": {
         "pushTipsId": 1129,
         "rewardId": 300001,
         "titleTextMapHash": 234020297,
@@ -683,7 +683,7 @@
         "tutorialId": 366,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1130": {
         "pushTipsId": 1130,
         "rewardId": 300001,
         "titleTextMapHash": 40408161,
@@ -694,7 +694,7 @@
         "tutorialId": 367,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1131": {
         "pushTipsId": 1131,
         "rewardId": 300001,
         "titleTextMapHash": 317502985,
@@ -705,7 +705,7 @@
         "tutorialId": 368,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1132": {
         "pushTipsId": 1132,
         "rewardId": 300001,
         "titleTextMapHash": 3709102073,
@@ -716,7 +716,7 @@
         "tutorialId": 369,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1133": {
         "pushTipsId": 1133,
         "rewardId": 300001,
         "titleTextMapHash": 2058828601,
@@ -727,7 +727,7 @@
         "tutorialId": 370,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1134": {
         "pushTipsId": 1134,
         "rewardId": 300001,
         "titleTextMapHash": 1293237849,
@@ -738,7 +738,7 @@
         "tutorialId": 371,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1135": {
         "pushTipsId": 1135,
         "rewardId": 300001,
         "titleTextMapHash": 319439017,
@@ -749,7 +749,7 @@
         "tutorialId": 372,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1137": {
         "pushTipsId": 1137,
         "rewardId": 300001,
         "titleTextMapHash": 2861140761,
@@ -760,7 +760,7 @@
         "tutorialId": 373,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1138": {
         "pushTipsId": 1138,
         "rewardId": 300001,
         "titleTextMapHash": 943818481,
@@ -771,7 +771,7 @@
         "tutorialId": 374,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1139": {
         "pushTipsId": 1139,
         "rewardId": 300001,
         "titleTextMapHash": 2236784817,
@@ -782,7 +782,7 @@
         "tutorialId": 375,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1140": {
         "pushTipsId": 1140,
         "rewardId": 300001,
         "titleTextMapHash": 592224721,
@@ -793,7 +793,7 @@
         "tutorialId": 376,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1141": {
         "pushTipsId": 1141,
         "rewardId": 300001,
         "titleTextMapHash": 3964244993,
@@ -804,7 +804,7 @@
         "tutorialId": 377,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1142": {
         "pushTipsId": 1142,
         "rewardId": 300001,
         "titleTextMapHash": 25347945,
@@ -816,7 +816,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1143": {
         "pushTipsId": 1143,
         "rewardId": 300001,
         "titleTextMapHash": 2159748753,
@@ -828,7 +828,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1144": {
         "pushTipsId": 1144,
         "rewardId": 300001,
         "titleTextMapHash": 2767226969,
@@ -840,7 +840,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1145": {
         "pushTipsId": 1145,
         "rewardId": 300001,
         "titleTextMapHash": 1677764929,
@@ -852,7 +852,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1146": {
         "pushTipsId": 1146,
         "rewardId": 300001,
         "titleTextMapHash": 1225069121,
@@ -864,7 +864,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1147": {
         "pushTipsId": 1147,
         "rewardId": 300001,
         "titleTextMapHash": 804769633,
@@ -876,7 +876,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1148": {
         "pushTipsId": 1148,
         "rewardId": 300001,
         "titleTextMapHash": 2604573577,
@@ -888,7 +888,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1149": {
         "pushTipsId": 1149,
         "rewardId": 300001,
         "titleTextMapHash": 1417006265,
@@ -900,7 +900,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1150": {
         "pushTipsId": 1150,
         "rewardId": 300001,
         "titleTextMapHash": 1850215177,
@@ -912,7 +912,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1151": {
         "pushTipsId": 1151,
         "rewardId": 300001,
         "titleTextMapHash": 526633249,
@@ -924,7 +924,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1152": {
         "pushTipsId": 1152,
         "rewardId": 300001,
         "titleTextMapHash": 2015709665,
@@ -935,7 +935,7 @@
         "tutorialId": 1226,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1153": {
         "pushTipsId": 1153,
         "rewardId": 300001,
         "titleTextMapHash": 1487847009,
@@ -946,7 +946,7 @@
         "tutorialId": 1227,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1154": {
         "pushTipsId": 1154,
         "rewardId": 300001,
         "titleTextMapHash": 241327321,
@@ -957,7 +957,7 @@
         "tutorialId": 1228,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1155": {
         "pushTipsId": 1155,
         "rewardId": 300001,
         "titleTextMapHash": 3012807481,
@@ -968,7 +968,7 @@
         "tutorialId": 1229,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1156": {
         "pushTipsId": 1156,
         "rewardId": 300001,
         "titleTextMapHash": 1207702713,
@@ -980,7 +980,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1157": {
         "pushTipsId": 1157,
         "rewardId": 300001,
         "titleTextMapHash": 2316866905,
@@ -992,7 +992,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1158": {
         "pushTipsId": 1158,
         "rewardId": 300001,
         "titleTextMapHash": 796537233,
@@ -1003,7 +1003,7 @@
         "tutorialId": 1232,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1159": {
         "pushTipsId": 1159,
         "rewardId": 300001,
         "titleTextMapHash": 1995030649,
@@ -1014,7 +1014,7 @@
         "tutorialId": 1233,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1160": {
         "pushTipsId": 1160,
         "rewardId": 300001,
         "titleTextMapHash": 591837985,
@@ -1025,7 +1025,7 @@
         "tutorialId": 1234,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1161": {
         "pushTipsId": 1161,
         "rewardId": 300001,
         "titleTextMapHash": 1812345969,
@@ -1036,7 +1036,7 @@
         "tutorialId": 1235,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1162": {
         "pushTipsId": 1162,
         "rewardId": 300001,
         "titleTextMapHash": 1920135497,
@@ -1047,7 +1047,7 @@
         "tutorialId": 1236,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1163": {
         "pushTipsId": 1163,
         "rewardId": 300001,
         "titleTextMapHash": 3208382697,
@@ -1059,7 +1059,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1164": {
         "pushTipsId": 1164,
         "rewardId": 300001,
         "titleTextMapHash": 2758874961,
@@ -1071,7 +1071,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1165": {
         "pushTipsId": 1165,
         "rewardId": 300001,
         "titleTextMapHash": 3457322209,
@@ -1083,7 +1083,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1166": {
         "pushTipsId": 1166,
         "rewardId": 300001,
         "titleTextMapHash": 1380165241,
@@ -1094,7 +1094,7 @@
         "tutorialId": 1240,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1167": {
         "pushTipsId": 1167,
         "rewardId": 300001,
         "titleTextMapHash": 1031897961,
@@ -1105,7 +1105,7 @@
         "tutorialId": 1241,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "1168": {
         "pushTipsId": 1168,
         "rewardId": 300001,
         "titleTextMapHash": 572231481,
@@ -1117,7 +1117,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "1169": {
         "pushTipsId": 1169,
         "rewardId": 300001,
         "titleTextMapHash": 1215949817,
@@ -1129,7 +1129,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "2009": {
         "pushTipsId": 2009,
         "rewardId": 300001,
         "titleTextMapHash": 2007970505,
@@ -1140,7 +1140,7 @@
         "tutorialId": 117,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2015": {
         "pushTipsId": 2015,
         "rewardId": 300001,
         "titleTextMapHash": 4103883697,
@@ -1151,7 +1151,7 @@
         "tutorialId": 128,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2016": {
         "pushTipsId": 2016,
         "rewardId": 300001,
         "titleTextMapHash": 1176662753,
@@ -1162,7 +1162,7 @@
         "tutorialId": 148,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2019": {
         "pushTipsId": 2019,
         "rewardId": 300001,
         "titleTextMapHash": 983262641,
@@ -1173,7 +1173,7 @@
         "tutorialId": 139,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2027": {
         "pushTipsId": 2027,
         "rewardId": 300001,
         "titleTextMapHash": 737513537,
@@ -1184,7 +1184,7 @@
         "tutorialId": 146,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2032": {
         "pushTipsId": 2032,
         "rewardId": 300001,
         "titleTextMapHash": 3524944833,
@@ -1195,7 +1195,7 @@
         "tutorialId": 130,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2033": {
         "pushTipsId": 2033,
         "rewardId": 300001,
         "titleTextMapHash": 2750968081,
@@ -1206,7 +1206,7 @@
         "tutorialId": 131,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2034": {
         "pushTipsId": 2034,
         "rewardId": 300001,
         "titleTextMapHash": 2753992329,
@@ -1217,7 +1217,7 @@
         "tutorialId": 132,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2035": {
         "pushTipsId": 2035,
         "rewardId": 300001,
         "titleTextMapHash": 1317226121,
@@ -1228,7 +1228,7 @@
         "tutorialId": 136,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2036": {
         "pushTipsId": 2036,
         "rewardId": 300001,
         "titleTextMapHash": 695659273,
@@ -1239,7 +1239,7 @@
         "tutorialId": 236,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2039": {
         "pushTipsId": 2039,
         "rewardId": 300001,
         "titleTextMapHash": 608100217,
@@ -1250,7 +1250,7 @@
         "tutorialId": 239,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2042": {
         "pushTipsId": 2042,
         "rewardId": 300001,
         "titleTextMapHash": 3166128689,
@@ -1261,7 +1261,7 @@
         "tutorialId": 242,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2043": {
         "pushTipsId": 2043,
         "rewardId": 300001,
         "titleTextMapHash": 1267238113,
@@ -1272,7 +1272,7 @@
         "tutorialId": 243,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2044": {
         "pushTipsId": 2044,
         "rewardId": 300001,
         "titleTextMapHash": 1864380169,
@@ -1283,7 +1283,7 @@
         "tutorialId": 248,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2045": {
         "pushTipsId": 2045,
         "rewardId": 300001,
         "titleTextMapHash": 1655531169,
@@ -1294,7 +1294,7 @@
         "tutorialId": 249,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2046": {
         "pushTipsId": 2046,
         "rewardId": 300001,
         "titleTextMapHash": 3783179305,
@@ -1305,7 +1305,7 @@
         "tutorialId": 250,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2047": {
         "pushTipsId": 2047,
         "rewardId": 300001,
         "titleTextMapHash": 145175817,
@@ -1316,7 +1316,7 @@
         "tutorialId": 258,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2048": {
         "pushTipsId": 2048,
         "rewardId": 300001,
         "titleTextMapHash": 3507784609,
@@ -1327,7 +1327,7 @@
         "tutorialId": 259,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2049": {
         "pushTipsId": 2049,
         "rewardId": 300001,
         "titleTextMapHash": 2268055081,
@@ -1338,7 +1338,7 @@
         "tutorialId": 260,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2050": {
         "pushTipsId": 2050,
         "rewardId": 300001,
         "titleTextMapHash": 596510057,
@@ -1349,7 +1349,7 @@
         "tutorialId": 261,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2051": {
         "pushTipsId": 2051,
         "rewardId": 300001,
         "titleTextMapHash": 859439385,
@@ -1360,7 +1360,7 @@
         "tutorialId": 262,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2052": {
         "pushTipsId": 2052,
         "rewardId": 300001,
         "titleTextMapHash": 4064358369,
@@ -1371,7 +1371,7 @@
         "tutorialId": 263,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2053": {
         "pushTipsId": 2053,
         "rewardId": 300001,
         "titleTextMapHash": 3401837529,
@@ -1382,7 +1382,7 @@
         "tutorialId": 264,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2054": {
         "pushTipsId": 2054,
         "rewardId": 300001,
         "titleTextMapHash": 128450209,
@@ -1393,7 +1393,7 @@
         "tutorialId": 265,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2055": {
         "pushTipsId": 2055,
         "rewardId": 300001,
         "titleTextMapHash": 317223369,
@@ -1404,7 +1404,7 @@
         "tutorialId": 266,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2056": {
         "pushTipsId": 2056,
         "rewardId": 300001,
         "titleTextMapHash": 4228907257,
@@ -1415,7 +1415,7 @@
         "tutorialId": 268,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2057": {
         "pushTipsId": 2057,
         "rewardId": 300001,
         "titleTextMapHash": 1415733617,
@@ -1426,7 +1426,7 @@
         "tutorialId": 269,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2058": {
         "pushTipsId": 2058,
         "rewardId": 300001,
         "titleTextMapHash": 3171045513,
@@ -1437,7 +1437,7 @@
         "tutorialId": 270,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2059": {
         "pushTipsId": 2059,
         "rewardId": 300001,
         "titleTextMapHash": 2839873977,
@@ -1448,7 +1448,7 @@
         "tutorialId": 271,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2060": {
         "pushTipsId": 2060,
         "rewardId": 300001,
         "titleTextMapHash": 720246169,
@@ -1459,7 +1459,7 @@
         "tutorialId": 272,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2061": {
         "pushTipsId": 2061,
         "rewardId": 300001,
         "titleTextMapHash": 2945811105,
@@ -1470,7 +1470,7 @@
         "tutorialId": 276,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2062": {
         "pushTipsId": 2062,
         "rewardId": 300001,
         "titleTextMapHash": 1192471657,
@@ -1481,7 +1481,7 @@
         "tutorialId": 277,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2063": {
         "pushTipsId": 2063,
         "rewardId": 300001,
         "titleTextMapHash": 3717309865,
@@ -1492,7 +1492,7 @@
         "tutorialId": 278,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2064": {
         "pushTipsId": 2064,
         "rewardId": 300001,
         "titleTextMapHash": 2060112305,
@@ -1503,7 +1503,7 @@
         "tutorialId": 280,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2065": {
         "pushTipsId": 2065,
         "rewardId": 300001,
         "titleTextMapHash": 349108313,
@@ -1514,7 +1514,7 @@
         "tutorialId": 281,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2066": {
         "pushTipsId": 2066,
         "rewardId": 300001,
         "titleTextMapHash": 1062112593,
@@ -1525,7 +1525,7 @@
         "tutorialId": 282,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2067": {
         "pushTipsId": 2067,
         "rewardId": 300001,
         "titleTextMapHash": 246883313,
@@ -1536,7 +1536,7 @@
         "tutorialId": 283,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2068": {
         "pushTipsId": 2068,
         "rewardId": 300001,
         "titleTextMapHash": 1948638001,
@@ -1547,7 +1547,7 @@
         "tutorialId": 284,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2069": {
         "pushTipsId": 2069,
         "rewardId": 300001,
         "titleTextMapHash": 3592642177,
@@ -1558,7 +1558,7 @@
         "tutorialId": 285,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2070": {
         "pushTipsId": 2070,
         "rewardId": 300001,
         "titleTextMapHash": 1643043457,
@@ -1569,7 +1569,7 @@
         "tutorialId": 286,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2071": {
         "pushTipsId": 2071,
         "rewardId": 300001,
         "titleTextMapHash": 2931120257,
@@ -1580,7 +1580,7 @@
         "tutorialId": 287,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2072": {
         "pushTipsId": 2072,
         "rewardId": 300001,
         "titleTextMapHash": 3196655145,
@@ -1591,7 +1591,7 @@
         "tutorialId": 289,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2073": {
         "pushTipsId": 2073,
         "rewardId": 300001,
         "titleTextMapHash": 2973709433,
@@ -1602,7 +1602,7 @@
         "tutorialId": 290,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2074": {
         "pushTipsId": 2074,
         "rewardId": 300001,
         "titleTextMapHash": 2642818857,
@@ -1613,7 +1613,7 @@
         "tutorialId": 291,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2075": {
         "pushTipsId": 2075,
         "rewardId": 300001,
         "titleTextMapHash": 3304936057,
@@ -1624,7 +1624,7 @@
         "tutorialId": 292,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2076": {
         "pushTipsId": 2076,
         "rewardId": 300001,
         "titleTextMapHash": 1199440753,
@@ -1635,7 +1635,7 @@
         "tutorialId": 293,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2077": {
         "pushTipsId": 2077,
         "rewardId": 300001,
         "titleTextMapHash": 363502145,
@@ -1646,7 +1646,7 @@
         "tutorialId": 3001,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2078": {
         "pushTipsId": 2078,
         "rewardId": 300001,
         "titleTextMapHash": 1222217161,
@@ -1657,7 +1657,7 @@
         "tutorialId": 3002,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2079": {
         "pushTipsId": 2079,
         "rewardId": 300001,
         "titleTextMapHash": 966336737,
@@ -1668,7 +1668,7 @@
         "tutorialId": 3003,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2080": {
         "pushTipsId": 2080,
         "rewardId": 300001,
         "titleTextMapHash": 1942291145,
@@ -1679,7 +1679,7 @@
         "tutorialId": 3004,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2081": {
         "pushTipsId": 2081,
         "rewardId": 300001,
         "titleTextMapHash": 1219781721,
@@ -1690,7 +1690,7 @@
         "tutorialId": 3005,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2082": {
         "pushTipsId": 2082,
         "rewardId": 300001,
         "titleTextMapHash": 717014273,
@@ -1701,7 +1701,7 @@
         "tutorialId": 3006,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2083": {
         "pushTipsId": 2083,
         "rewardId": 300001,
         "titleTextMapHash": 3342644849,
@@ -1712,7 +1712,7 @@
         "tutorialId": 3007,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2084": {
         "pushTipsId": 2084,
         "rewardId": 300001,
         "titleTextMapHash": 3322188585,
@@ -1723,7 +1723,7 @@
         "tutorialId": 3008,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2085": {
         "pushTipsId": 2085,
         "rewardId": 300001,
         "titleTextMapHash": 2158220113,
@@ -1734,7 +1734,7 @@
         "tutorialId": 3009,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2086": {
         "pushTipsId": 2086,
         "rewardId": 300001,
         "titleTextMapHash": 961413689,
@@ -1745,7 +1745,7 @@
         "tutorialId": 3010,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2087": {
         "pushTipsId": 2087,
         "rewardId": 300001,
         "titleTextMapHash": 2375951233,
@@ -1756,7 +1756,7 @@
         "tutorialId": 3011,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2088": {
         "pushTipsId": 2088,
         "rewardId": 300001,
         "titleTextMapHash": 959734233,
@@ -1767,7 +1767,7 @@
         "tutorialId": 3012,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2089": {
         "pushTipsId": 2089,
         "rewardId": 300001,
         "titleTextMapHash": 2348642009,
@@ -1778,7 +1778,7 @@
         "tutorialId": 3013,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2090": {
         "pushTipsId": 2090,
         "rewardId": 300001,
         "titleTextMapHash": 609477121,
@@ -1789,7 +1789,7 @@
         "tutorialId": 3014,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2091": {
         "pushTipsId": 2091,
         "rewardId": 300001,
         "titleTextMapHash": 2607706081,
@@ -1800,7 +1800,7 @@
         "tutorialId": 3015,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2092": {
         "pushTipsId": 2092,
         "rewardId": 300001,
         "titleTextMapHash": 2551223225,
@@ -1811,7 +1811,7 @@
         "tutorialId": 3016,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2093": {
         "pushTipsId": 2093,
         "rewardId": 300001,
         "titleTextMapHash": 1961204081,
@@ -1822,7 +1822,7 @@
         "tutorialId": 3017,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2094": {
         "pushTipsId": 2094,
         "rewardId": 300001,
         "titleTextMapHash": 687207353,
@@ -1833,7 +1833,7 @@
         "tutorialId": 3018,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2095": {
         "pushTipsId": 2095,
         "rewardId": 300001,
         "titleTextMapHash": 3742531337,
@@ -1844,7 +1844,7 @@
         "tutorialId": 3019,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2096": {
         "pushTipsId": 2096,
         "rewardId": 300001,
         "titleTextMapHash": 4250981817,
@@ -1855,7 +1855,7 @@
         "tutorialId": 3020,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "2097": {
         "pushTipsId": 2097,
         "rewardId": 300001,
         "titleTextMapHash": 230615529,
@@ -1866,7 +1866,7 @@
         "tutorialId": 3021,
         "codexType": "CODEX_ENEMY"
     },
-    {
+    "3001": {
         "pushTipsId": 3001,
         "rewardId": 300001,
         "titleTextMapHash": 832613729,
@@ -1877,7 +1877,7 @@
         "tutorialId": 400,
         "codexType": "CODEX_SYSTEM"
     },
-    {
+    "3002": {
         "pushTipsId": 3002,
         "rewardId": 300001,
         "titleTextMapHash": 5903009,
@@ -1888,7 +1888,7 @@
         "tutorialId": 251,
         "codexType": "CODEX_SYSTEM"
     },
-    {
+    "3003": {
         "pushTipsId": 3003,
         "rewardId": 300001,
         "titleTextMapHash": 1502970465,
@@ -1899,7 +1899,7 @@
         "tutorialId": 255,
         "codexType": "CODEX_SYSTEM"
     },
-    {
+    "3004": {
         "pushTipsId": 3004,
         "rewardId": 300001,
         "titleTextMapHash": 512758049,
@@ -1911,7 +1911,7 @@
         "codexType": "CODEX_SYSTEM",
         "groupId": 1
     },
-    {
+    "3005": {
         "pushTipsId": 3005,
         "rewardId": 300001,
         "titleTextMapHash": 2292460673,
@@ -1923,7 +1923,7 @@
         "codexType": "CODEX_SYSTEM",
         "groupId": 1
     },
-    {
+    "3006": {
         "pushTipsId": 3006,
         "rewardId": 300001,
         "titleTextMapHash": 2912874473,
@@ -1935,7 +1935,7 @@
         "codexType": "CODEX_SYSTEM",
         "groupId": 1
     },
-    {
+    "3007": {
         "pushTipsId": 3007,
         "rewardId": 300001,
         "titleTextMapHash": 3288947737,
@@ -1947,7 +1947,7 @@
         "codexType": "CODEX_SYSTEM",
         "groupId": 1
     },
-    {
+    "3008": {
         "pushTipsId": 3008,
         "rewardId": 300001,
         "titleTextMapHash": 1568677497,
@@ -1959,7 +1959,7 @@
         "codexType": "CODEX_SYSTEM",
         "groupId": 1
     },
-    {
+    "3009": {
         "pushTipsId": 3009,
         "rewardId": 300001,
         "titleTextMapHash": 2297871529,
@@ -1971,7 +1971,7 @@
         "codexType": "CODEX_SYSTEM",
         "groupId": 1
     },
-    {
+    "3010": {
         "pushTipsId": 3010,
         "rewardId": 300001,
         "titleTextMapHash": 3311162833,
@@ -1983,7 +1983,7 @@
         "codexType": "CODEX_SYSTEM",
         "groupId": 1
     },
-    {
+    "3011": {
         "pushTipsId": 3011,
         "rewardId": 300001,
         "titleTextMapHash": 1742756177,
@@ -1994,7 +1994,7 @@
         "tutorialId": 408,
         "codexType": "CODEX_SYSTEM"
     },
-    {
+    "3012": {
         "pushTipsId": 3012,
         "rewardId": 300001,
         "titleTextMapHash": 1126457353,
@@ -2005,7 +2005,7 @@
         "tutorialId": 409,
         "codexType": "CODEX_SYSTEM"
     },
-    {
+    "3101": {
         "pushTipsId": 3101,
         "rewardId": 300001,
         "titleTextMapHash": 2342219065,
@@ -2017,7 +2017,7 @@
         "codexType": "CODEX_SYSTEM",
         "showImmediately": true
     },
-    {
+    "3102": {
         "pushTipsId": 3102,
         "rewardId": 300001,
         "titleTextMapHash": 3966399169,
@@ -2028,7 +2028,7 @@
         "tutorialId": 411,
         "codexType": "CODEX_SYSTEM"
     },
-    {
+    "3103": {
         "pushTipsId": 3103,
         "rewardId": 300001,
         "titleTextMapHash": 1980634913,
@@ -2040,7 +2040,7 @@
         "codexType": "CODEX_SYSTEM",
         "showImmediately": true
     },
-    {
+    "3104": {
         "pushTipsId": 3104,
         "rewardId": 300001,
         "titleTextMapHash": 3232045145,
@@ -2052,7 +2052,7 @@
         "codexType": "CODEX_SYSTEM",
         "showImmediately": true
     },
-    {
+    "3105": {
         "pushTipsId": 3105,
         "rewardId": 300001,
         "titleTextMapHash": 2166475617,
@@ -2064,7 +2064,7 @@
         "codexType": "CODEX_SYSTEM",
         "showImmediately": true
     },
-    {
+    "4001": {
         "pushTipsId": 4001,
         "rewardId": 300001,
         "titleTextMapHash": 4250646353,
@@ -2075,7 +2075,7 @@
         "tutorialId": 500,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "4002": {
         "pushTipsId": 4002,
         "rewardId": 300001,
         "titleTextMapHash": 2256468817,
@@ -2086,7 +2086,7 @@
         "tutorialId": 501,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "4003": {
         "pushTipsId": 4003,
         "rewardId": 300001,
         "titleTextMapHash": 1050883041,
@@ -2097,7 +2097,7 @@
         "tutorialId": 502,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "4004": {
         "pushTipsId": 4004,
         "rewardId": 300001,
         "titleTextMapHash": 2371679841,
@@ -2108,7 +2108,7 @@
         "tutorialId": 503,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "5001": {
         "pushTipsId": 5001,
         "rewardId": 300001,
         "titleTextMapHash": 282785921,
@@ -2119,7 +2119,7 @@
         "tutorialId": 601,
         "codexType": "CODEX_SYSTEM"
     },
-    {
+    "5002": {
         "pushTipsId": 5002,
         "rewardId": 300001,
         "titleTextMapHash": 3101984153,
@@ -2130,7 +2130,7 @@
         "tutorialId": 602,
         "codexType": "CODEX_SYSTEM"
     },
-    {
+    "6001": {
         "pushTipsId": 6001,
         "titleTextMapHash": 1726235993,
         "subtitleTextMapHash": 2127352857,
@@ -2140,7 +2140,7 @@
         "tutorialId": 257,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6002": {
         "pushTipsId": 6002,
         "titleTextMapHash": 2226619505,
         "subtitleTextMapHash": 943611009,
@@ -2150,7 +2150,7 @@
         "tutorialId": 801,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6003": {
         "pushTipsId": 6003,
         "titleTextMapHash": 3294559865,
         "subtitleTextMapHash": 3379589569,
@@ -2160,7 +2160,7 @@
         "tutorialId": 802,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6004": {
         "pushTipsId": 6004,
         "titleTextMapHash": 1108604377,
         "subtitleTextMapHash": 3685912089,
@@ -2170,7 +2170,7 @@
         "tutorialId": 803,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6005": {
         "pushTipsId": 6005,
         "titleTextMapHash": 3011745497,
         "subtitleTextMapHash": 2411125841,
@@ -2180,7 +2180,7 @@
         "tutorialId": 804,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6006": {
         "pushTipsId": 6006,
         "titleTextMapHash": 2026807985,
         "subtitleTextMapHash": 246992801,
@@ -2190,7 +2190,7 @@
         "tutorialId": 805,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6007": {
         "pushTipsId": 6007,
         "titleTextMapHash": 875575153,
         "subtitleTextMapHash": 4207752577,
@@ -2200,7 +2200,7 @@
         "tutorialId": 806,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6008": {
         "pushTipsId": 6008,
         "titleTextMapHash": 1553560825,
         "subtitleTextMapHash": 1388520081,
@@ -2210,7 +2210,7 @@
         "tutorialId": 807,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6009": {
         "pushTipsId": 6009,
         "titleTextMapHash": 937624169,
         "subtitleTextMapHash": 3374001841,
@@ -2220,7 +2220,7 @@
         "tutorialId": 808,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6010": {
         "pushTipsId": 6010,
         "titleTextMapHash": 133898553,
         "subtitleTextMapHash": 681332241,
@@ -2230,7 +2230,7 @@
         "tutorialId": 809,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6011": {
         "pushTipsId": 6011,
         "titleTextMapHash": 3485549089,
         "subtitleTextMapHash": 1086268337,
@@ -2240,7 +2240,7 @@
         "tutorialId": 810,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6012": {
         "pushTipsId": 6012,
         "titleTextMapHash": 2288693065,
         "subtitleTextMapHash": 4114364081,
@@ -2250,7 +2250,7 @@
         "tutorialId": 813,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6013": {
         "pushTipsId": 6013,
         "titleTextMapHash": 1266203945,
         "subtitleTextMapHash": 748927809,
@@ -2260,7 +2260,7 @@
         "tutorialId": 814,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6014": {
         "pushTipsId": 6014,
         "titleTextMapHash": 4100903457,
         "subtitleTextMapHash": 653700809,
@@ -2270,7 +2270,7 @@
         "tutorialId": 815,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6015": {
         "pushTipsId": 6015,
         "titleTextMapHash": 686676905,
         "subtitleTextMapHash": 3746230769,
@@ -2280,7 +2280,7 @@
         "tutorialId": 816,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6016": {
         "pushTipsId": 6016,
         "titleTextMapHash": 2723354609,
         "subtitleTextMapHash": 3167959449,
@@ -2290,7 +2290,7 @@
         "tutorialId": 817,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6017": {
         "pushTipsId": 6017,
         "titleTextMapHash": 1420775673,
         "subtitleTextMapHash": 2045403361,
@@ -2300,7 +2300,7 @@
         "tutorialId": 818,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6018": {
         "pushTipsId": 6018,
         "titleTextMapHash": 1187579001,
         "subtitleTextMapHash": 664723681,
@@ -2310,7 +2310,7 @@
         "tutorialId": 820,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6019": {
         "pushTipsId": 6019,
         "titleTextMapHash": 2153618793,
         "subtitleTextMapHash": 2564919289,
@@ -2320,7 +2320,7 @@
         "tutorialId": 821,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6020": {
         "pushTipsId": 6020,
         "titleTextMapHash": 131197937,
         "subtitleTextMapHash": 991371385,
@@ -2330,7 +2330,7 @@
         "tutorialId": 822,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6021": {
         "pushTipsId": 6021,
         "titleTextMapHash": 3484173769,
         "subtitleTextMapHash": 4178303737,
@@ -2340,7 +2340,7 @@
         "tutorialId": 823,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6022": {
         "pushTipsId": 6022,
         "titleTextMapHash": 1763192713,
         "subtitleTextMapHash": 2560451473,
@@ -2350,7 +2350,7 @@
         "tutorialId": 824,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6023": {
         "pushTipsId": 6023,
         "titleTextMapHash": 1856871729,
         "subtitleTextMapHash": 3535087937,
@@ -2360,7 +2360,7 @@
         "tutorialId": 825,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6024": {
         "pushTipsId": 6024,
         "titleTextMapHash": 1764302225,
         "subtitleTextMapHash": 3820146001,
@@ -2370,7 +2370,7 @@
         "tutorialId": 826,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6025": {
         "pushTipsId": 6025,
         "titleTextMapHash": 2695015361,
         "subtitleTextMapHash": 4181186121,
@@ -2380,7 +2380,7 @@
         "tutorialId": 827,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6026": {
         "pushTipsId": 6026,
         "titleTextMapHash": 2053221825,
         "subtitleTextMapHash": 913609481,
@@ -2390,7 +2390,7 @@
         "tutorialId": 828,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6027": {
         "pushTipsId": 6027,
         "titleTextMapHash": 3483990633,
         "subtitleTextMapHash": 3472500233,
@@ -2400,7 +2400,7 @@
         "tutorialId": 829,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6028": {
         "pushTipsId": 6028,
         "titleTextMapHash": 1448974241,
         "subtitleTextMapHash": 3643111489,
@@ -2410,7 +2410,7 @@
         "tutorialId": 830,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6029": {
         "pushTipsId": 6029,
         "rewardId": 300001,
         "titleTextMapHash": 2342037401,
@@ -2421,7 +2421,7 @@
         "tutorialId": 817,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "6030": {
         "pushTipsId": 6030,
         "titleTextMapHash": 3674028041,
         "subtitleTextMapHash": 2878898113,
@@ -2431,7 +2431,7 @@
         "tutorialId": 831,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6031": {
         "pushTipsId": 6031,
         "titleTextMapHash": 252156097,
         "subtitleTextMapHash": 3191992521,
@@ -2441,7 +2441,7 @@
         "tutorialId": 910,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6032": {
         "pushTipsId": 6032,
         "titleTextMapHash": 3121285977,
         "subtitleTextMapHash": 1239267985,
@@ -2451,7 +2451,7 @@
         "tutorialId": 832,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6033": {
         "pushTipsId": 6033,
         "titleTextMapHash": 1963340633,
         "subtitleTextMapHash": 982413057,
@@ -2461,7 +2461,7 @@
         "tutorialId": 911,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6034": {
         "pushTipsId": 6034,
         "titleTextMapHash": 3570311457,
         "subtitleTextMapHash": 766551601,
@@ -2471,7 +2471,7 @@
         "tutorialId": 833,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6035": {
         "pushTipsId": 6035,
         "titleTextMapHash": 2664485337,
         "subtitleTextMapHash": 4165481329,
@@ -2481,7 +2481,7 @@
         "tutorialId": 834,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6036": {
         "pushTipsId": 6036,
         "titleTextMapHash": 169786961,
         "subtitleTextMapHash": 2747563945,
@@ -2491,7 +2491,7 @@
         "tutorialId": 835,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6037": {
         "pushTipsId": 6037,
         "titleTextMapHash": 521805913,
         "subtitleTextMapHash": 3083684329,
@@ -2501,7 +2501,7 @@
         "tutorialId": 836,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6038": {
         "pushTipsId": 6038,
         "titleTextMapHash": 1627256497,
         "subtitleTextMapHash": 111198345,
@@ -2511,7 +2511,7 @@
         "tutorialId": 837,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6039": {
         "pushTipsId": 6039,
         "titleTextMapHash": 1704772889,
         "subtitleTextMapHash": 2432047321,
@@ -2521,7 +2521,7 @@
         "tutorialId": 838,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6040": {
         "pushTipsId": 6040,
         "titleTextMapHash": 2718082873,
         "subtitleTextMapHash": 1323591089,
@@ -2531,7 +2531,7 @@
         "tutorialId": 839,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6043": {
         "pushTipsId": 6043,
         "titleTextMapHash": 3185408201,
         "subtitleTextMapHash": 1282607225,
@@ -2541,7 +2541,7 @@
         "tutorialId": 842,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6044": {
         "pushTipsId": 6044,
         "titleTextMapHash": 516534025,
         "subtitleTextMapHash": 3538541969,
@@ -2551,7 +2551,7 @@
         "tutorialId": 843,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6045": {
         "pushTipsId": 6045,
         "titleTextMapHash": 484081513,
         "subtitleTextMapHash": 3175964857,
@@ -2561,7 +2561,7 @@
         "tutorialId": 844,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6046": {
         "pushTipsId": 6046,
         "titleTextMapHash": 2564365617,
         "subtitleTextMapHash": 1096031881,
@@ -2571,7 +2571,7 @@
         "tutorialId": 845,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6047": {
         "pushTipsId": 6047,
         "titleTextMapHash": 4026422841,
         "subtitleTextMapHash": 372599977,
@@ -2581,7 +2581,7 @@
         "tutorialId": 846,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6048": {
         "pushTipsId": 6048,
         "titleTextMapHash": 956523641,
         "subtitleTextMapHash": 519368537,
@@ -2591,7 +2591,7 @@
         "tutorialId": 847,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6049": {
         "pushTipsId": 6049,
         "titleTextMapHash": 3940512801,
         "subtitleTextMapHash": 2139316521,
@@ -2601,7 +2601,7 @@
         "tutorialId": 848,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6050": {
         "pushTipsId": 6050,
         "titleTextMapHash": 1924361609,
         "subtitleTextMapHash": 3489089497,
@@ -2611,7 +2611,7 @@
         "tutorialId": 849,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6051": {
         "pushTipsId": 6051,
         "titleTextMapHash": 1284889625,
         "subtitleTextMapHash": 2638789737,
@@ -2621,7 +2621,7 @@
         "tutorialId": 850,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6052": {
         "pushTipsId": 6052,
         "titleTextMapHash": 3468966113,
         "subtitleTextMapHash": 2093319049,
@@ -2631,7 +2631,7 @@
         "tutorialId": 851,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6053": {
         "pushTipsId": 6053,
         "titleTextMapHash": 1826164737,
         "subtitleTextMapHash": 1919297609,
@@ -2641,7 +2641,7 @@
         "tutorialId": 853,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6054": {
         "pushTipsId": 6054,
         "titleTextMapHash": 3994208809,
         "subtitleTextMapHash": 3461899225,
@@ -2651,7 +2651,7 @@
         "tutorialId": 854,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6055": {
         "pushTipsId": 6055,
         "titleTextMapHash": 1031676913,
         "subtitleTextMapHash": 641263433,
@@ -2661,7 +2661,7 @@
         "tutorialId": 855,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6056": {
         "pushTipsId": 6056,
         "titleTextMapHash": 731371193,
         "subtitleTextMapHash": 3321143121,
@@ -2671,7 +2671,7 @@
         "tutorialId": 856,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6057": {
         "pushTipsId": 6057,
         "titleTextMapHash": 4281582081,
         "subtitleTextMapHash": 1058976841,
@@ -2681,7 +2681,7 @@
         "tutorialId": 857,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6058": {
         "pushTipsId": 6058,
         "titleTextMapHash": 1108385265,
         "subtitleTextMapHash": 1685942097,
@@ -2691,7 +2691,7 @@
         "tutorialId": 858,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6059": {
         "pushTipsId": 6059,
         "titleTextMapHash": 1014285393,
         "subtitleTextMapHash": 54590745,
@@ -2701,7 +2701,7 @@
         "tutorialId": 859,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6060": {
         "pushTipsId": 6060,
         "titleTextMapHash": 3606446641,
         "subtitleTextMapHash": 73635281,
@@ -2711,7 +2711,7 @@
         "tutorialId": 860,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6061": {
         "pushTipsId": 6061,
         "titleTextMapHash": 2940583809,
         "subtitleTextMapHash": 3870083841,
@@ -2721,7 +2721,7 @@
         "tutorialId": 861,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6062": {
         "pushTipsId": 6062,
         "titleTextMapHash": 234326961,
         "subtitleTextMapHash": 3726466241,
@@ -2731,7 +2731,7 @@
         "tutorialId": 1173,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6063": {
         "pushTipsId": 6063,
         "titleTextMapHash": 3678713969,
         "subtitleTextMapHash": 1528245257,
@@ -2741,7 +2741,7 @@
         "tutorialId": 869,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6064": {
         "pushTipsId": 6064,
         "titleTextMapHash": 1475531961,
         "subtitleTextMapHash": 4088936457,
@@ -2751,7 +2751,7 @@
         "tutorialId": 870,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6065": {
         "pushTipsId": 6065,
         "titleTextMapHash": 2526791961,
         "subtitleTextMapHash": 4260371017,
@@ -2761,7 +2761,7 @@
         "tutorialId": 871,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6066": {
         "pushTipsId": 6066,
         "titleTextMapHash": 3873388409,
         "subtitleTextMapHash": 650994753,
@@ -2771,7 +2771,7 @@
         "tutorialId": 872,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6067": {
         "pushTipsId": 6067,
         "titleTextMapHash": 3298424961,
         "subtitleTextMapHash": 773572945,
@@ -2781,7 +2781,7 @@
         "tutorialId": 873,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6068": {
         "pushTipsId": 6068,
         "titleTextMapHash": 2156054513,
         "subtitleTextMapHash": 707491681,
@@ -2791,7 +2791,7 @@
         "tutorialId": 874,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6069": {
         "pushTipsId": 6069,
         "titleTextMapHash": 4114829289,
         "subtitleTextMapHash": 1559614433,
@@ -2801,7 +2801,7 @@
         "tutorialId": 875,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6070": {
         "pushTipsId": 6070,
         "titleTextMapHash": 2634164073,
         "subtitleTextMapHash": 1515549153,
@@ -2811,7 +2811,7 @@
         "tutorialId": 866,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6071": {
         "pushTipsId": 6071,
         "titleTextMapHash": 3200996425,
         "subtitleTextMapHash": 3941408009,
@@ -2821,7 +2821,7 @@
         "tutorialId": 876,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6072": {
         "pushTipsId": 6072,
         "titleTextMapHash": 4064971353,
         "subtitleTextMapHash": 2366786889,
@@ -2831,7 +2831,7 @@
         "tutorialId": 1212,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6073": {
         "pushTipsId": 6073,
         "titleTextMapHash": 1743810761,
         "subtitleTextMapHash": 513801,
@@ -2841,7 +2841,7 @@
         "tutorialId": 1213,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "6074": {
         "pushTipsId": 6074,
         "titleTextMapHash": 1786754881,
         "subtitleTextMapHash": 2131555921,
@@ -2851,7 +2851,7 @@
         "tutorialId": 1214,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "7001": {
         "pushTipsId": 7001,
         "rewardId": 300001,
         "titleTextMapHash": 2428013249,
@@ -2862,7 +2862,7 @@
         "tutorialId": 701,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "7002": {
         "pushTipsId": 7002,
         "rewardId": 300001,
         "titleTextMapHash": 1709765009,
@@ -2873,7 +2873,7 @@
         "tutorialId": 702,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "7003": {
         "pushTipsId": 7003,
         "rewardId": 300001,
         "titleTextMapHash": 2196173313,
@@ -2884,7 +2884,7 @@
         "tutorialId": 703,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "7004": {
         "pushTipsId": 7004,
         "rewardId": 300001,
         "titleTextMapHash": 1822066969,
@@ -2896,7 +2896,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "7005": {
         "pushTipsId": 7005,
         "rewardId": 300001,
         "titleTextMapHash": 2358888001,
@@ -2907,7 +2907,7 @@
         "tutorialId": 705,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "7006": {
         "pushTipsId": 7006,
         "rewardId": 300001,
         "titleTextMapHash": 2675042337,
@@ -2918,7 +2918,7 @@
         "tutorialId": 706,
         "codexType": "CODEX_ADVENTURE"
     },
-    {
+    "7007": {
         "pushTipsId": 7007,
         "rewardId": 300001,
         "titleTextMapHash": 1729731425,
@@ -2930,7 +2930,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "7008": {
         "pushTipsId": 7008,
         "rewardId": 300001,
         "titleTextMapHash": 821209601,
@@ -2942,7 +2942,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "7009": {
         "pushTipsId": 7009,
         "rewardId": 300001,
         "titleTextMapHash": 4139043017,
@@ -2954,7 +2954,7 @@
         "codexType": "CODEX_ADVENTURE",
         "showImmediately": true
     },
-    {
+    "9000": {
         "pushTipsId": 9000,
         "titleTextMapHash": 1796743713,
         "subtitleTextMapHash": 1270168593,
@@ -2964,7 +2964,7 @@
         "tutorialId": 900,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9001": {
         "pushTipsId": 9001,
         "titleTextMapHash": 1439962321,
         "subtitleTextMapHash": 2810312041,
@@ -2974,7 +2974,7 @@
         "tutorialId": 901,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9002": {
         "pushTipsId": 9002,
         "titleTextMapHash": 141805225,
         "subtitleTextMapHash": 704060041,
@@ -2984,7 +2984,7 @@
         "tutorialId": 902,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9003": {
         "pushTipsId": 9003,
         "titleTextMapHash": 236473745,
         "subtitleTextMapHash": 304585721,
@@ -2994,7 +2994,7 @@
         "tutorialId": 905,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9004": {
         "pushTipsId": 9004,
         "titleTextMapHash": 3311789985,
         "subtitleTextMapHash": 3143079881,
@@ -3004,7 +3004,7 @@
         "tutorialId": 906,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9007": {
         "pushTipsId": 9007,
         "titleTextMapHash": 2288515169,
         "subtitleTextMapHash": 1680606705,
@@ -3014,7 +3014,7 @@
         "tutorialId": 907,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9008": {
         "pushTipsId": 9008,
         "titleTextMapHash": 2985019449,
         "subtitleTextMapHash": 4253754537,
@@ -3024,7 +3024,7 @@
         "tutorialId": 908,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9009": {
         "pushTipsId": 9009,
         "titleTextMapHash": 1140589681,
         "subtitleTextMapHash": 2164083073,
@@ -3034,7 +3034,7 @@
         "tutorialId": 909,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9010": {
         "pushTipsId": 9010,
         "titleTextMapHash": 3263277793,
         "subtitleTextMapHash": 2258853033,
@@ -3044,7 +3044,7 @@
         "tutorialId": 812,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9011": {
         "pushTipsId": 9011,
         "titleTextMapHash": 2100606817,
         "subtitleTextMapHash": 1817311313,
@@ -3054,7 +3054,7 @@
         "tutorialId": 912,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "9012": {
         "pushTipsId": 9012,
         "titleTextMapHash": 2040961361,
         "subtitleTextMapHash": 3171974873,
@@ -3064,7 +3064,7 @@
         "tutorialId": 913,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10001": {
         "pushTipsId": 10001,
         "titleTextMapHash": 1893018865,
         "subtitleTextMapHash": 1954632841,
@@ -3074,7 +3074,7 @@
         "tutorialId": 1021,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10002": {
         "pushTipsId": 10002,
         "titleTextMapHash": 991619593,
         "subtitleTextMapHash": 2919416521,
@@ -3084,7 +3084,7 @@
         "tutorialId": 191,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10003": {
         "pushTipsId": 10003,
         "titleTextMapHash": 366780633,
         "subtitleTextMapHash": 2787769945,
@@ -3094,7 +3094,7 @@
         "tutorialId": 1030,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10004": {
         "pushTipsId": 10004,
         "titleTextMapHash": 623942121,
         "subtitleTextMapHash": 965479849,
@@ -3104,7 +3104,7 @@
         "tutorialId": 1031,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10005": {
         "pushTipsId": 10005,
         "titleTextMapHash": 1292696545,
         "subtitleTextMapHash": 3705475801,
@@ -3114,7 +3114,7 @@
         "tutorialId": 1029,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10006": {
         "pushTipsId": 10006,
         "titleTextMapHash": 292218553,
         "subtitleTextMapHash": 600685385,
@@ -3124,7 +3124,7 @@
         "tutorialId": 1032,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10007": {
         "pushTipsId": 10007,
         "titleTextMapHash": 370623185,
         "subtitleTextMapHash": 3728088481,
@@ -3134,7 +3134,7 @@
         "tutorialId": 1033,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10008": {
         "pushTipsId": 10008,
         "titleTextMapHash": 2773847289,
         "subtitleTextMapHash": 2325163009,
@@ -3144,7 +3144,7 @@
         "tutorialId": 1034,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10009": {
         "pushTipsId": 10009,
         "titleTextMapHash": 1781509825,
         "subtitleTextMapHash": 3238320433,
@@ -3154,7 +3154,7 @@
         "tutorialId": 1035,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10010": {
         "pushTipsId": 10010,
         "titleTextMapHash": 489485649,
         "subtitleTextMapHash": 3629420289,
@@ -3164,7 +3164,7 @@
         "tutorialId": 1036,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10011": {
         "pushTipsId": 10011,
         "titleTextMapHash": 2545677313,
         "subtitleTextMapHash": 3834489297,
@@ -3174,7 +3174,7 @@
         "tutorialId": 1037,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "10012": {
         "pushTipsId": 10012,
         "titleTextMapHash": 3547511833,
         "subtitleTextMapHash": 2381069625,
@@ -3184,7 +3184,7 @@
         "tutorialId": 1217,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11001": {
         "pushTipsId": 11001,
         "titleTextMapHash": 3968435385,
         "subtitleTextMapHash": 3065622345,
@@ -3194,7 +3194,7 @@
         "tutorialId": 1101,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11002": {
         "pushTipsId": 11002,
         "titleTextMapHash": 4187430945,
         "subtitleTextMapHash": 427232969,
@@ -3204,7 +3204,7 @@
         "tutorialId": 1102,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11003": {
         "pushTipsId": 11003,
         "titleTextMapHash": 2123342161,
         "subtitleTextMapHash": 289160633,
@@ -3214,7 +3214,7 @@
         "tutorialId": 1103,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11004": {
         "pushTipsId": 11004,
         "titleTextMapHash": 1682119057,
         "subtitleTextMapHash": 1093916345,
@@ -3224,7 +3224,7 @@
         "tutorialId": 1104,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11005": {
         "pushTipsId": 11005,
         "titleTextMapHash": 3452597473,
         "subtitleTextMapHash": 2799776033,
@@ -3234,7 +3234,7 @@
         "tutorialId": 1105,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11006": {
         "pushTipsId": 11006,
         "titleTextMapHash": 3993073673,
         "subtitleTextMapHash": 295003273,
@@ -3244,7 +3244,7 @@
         "tutorialId": 1106,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11007": {
         "pushTipsId": 11007,
         "titleTextMapHash": 2915991121,
         "subtitleTextMapHash": 4247651489,
@@ -3254,7 +3254,7 @@
         "tutorialId": 1107,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11008": {
         "pushTipsId": 11008,
         "titleTextMapHash": 1327464097,
         "subtitleTextMapHash": 3923584329,
@@ -3264,7 +3264,7 @@
         "tutorialId": 1108,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11009": {
         "pushTipsId": 11009,
         "titleTextMapHash": 1435382041,
         "subtitleTextMapHash": 2802950977,
@@ -3274,7 +3274,7 @@
         "tutorialId": 1109,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11010": {
         "pushTipsId": 11010,
         "titleTextMapHash": 986583297,
         "subtitleTextMapHash": 1992093177,
@@ -3284,7 +3284,7 @@
         "tutorialId": 1110,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11011": {
         "pushTipsId": 11011,
         "titleTextMapHash": 567762961,
         "subtitleTextMapHash": 2888763505,
@@ -3294,7 +3294,7 @@
         "tutorialId": 1111,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11012": {
         "pushTipsId": 11012,
         "titleTextMapHash": 3697771849,
         "subtitleTextMapHash": 2438382937,
@@ -3304,7 +3304,7 @@
         "tutorialId": 1112,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11013": {
         "pushTipsId": 11013,
         "titleTextMapHash": 2035272905,
         "subtitleTextMapHash": 3332020809,
@@ -3314,7 +3314,7 @@
         "tutorialId": 1113,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11014": {
         "pushTipsId": 11014,
         "titleTextMapHash": 3638321833,
         "subtitleTextMapHash": 719245169,
@@ -3324,7 +3324,7 @@
         "tutorialId": 1114,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11015": {
         "pushTipsId": 11015,
         "titleTextMapHash": 2927881201,
         "subtitleTextMapHash": 412996289,
@@ -3334,7 +3334,7 @@
         "tutorialId": 1115,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11016": {
         "pushTipsId": 11016,
         "titleTextMapHash": 1244368585,
         "subtitleTextMapHash": 3055350737,
@@ -3344,7 +3344,7 @@
         "tutorialId": 1116,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11017": {
         "pushTipsId": 11017,
         "titleTextMapHash": 1590998177,
         "subtitleTextMapHash": 2765943225,
@@ -3354,7 +3354,7 @@
         "tutorialId": 1117,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11018": {
         "pushTipsId": 11018,
         "titleTextMapHash": 539440145,
         "subtitleTextMapHash": 368742113,
@@ -3364,7 +3364,7 @@
         "tutorialId": 1118,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11019": {
         "pushTipsId": 11019,
         "titleTextMapHash": 3940272241,
         "subtitleTextMapHash": 4136089481,
@@ -3374,7 +3374,7 @@
         "tutorialId": 1119,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11020": {
         "pushTipsId": 11020,
         "titleTextMapHash": 4070779417,
         "subtitleTextMapHash": 811889337,
@@ -3384,7 +3384,7 @@
         "tutorialId": 1120,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11021": {
         "pushTipsId": 11021,
         "titleTextMapHash": 3250613041,
         "subtitleTextMapHash": 3931396457,
@@ -3394,7 +3394,7 @@
         "tutorialId": 1121,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11022": {
         "pushTipsId": 11022,
         "titleTextMapHash": 1416477873,
         "subtitleTextMapHash": 2638977537,
@@ -3404,7 +3404,7 @@
         "tutorialId": 1123,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11025": {
         "pushTipsId": 11025,
         "titleTextMapHash": 2200135889,
         "subtitleTextMapHash": 2938112065,
@@ -3414,7 +3414,7 @@
         "tutorialId": 1125,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11026": {
         "pushTipsId": 11026,
         "titleTextMapHash": 892962649,
         "subtitleTextMapHash": 99431177,
@@ -3424,7 +3424,7 @@
         "tutorialId": 1126,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11027": {
         "pushTipsId": 11027,
         "titleTextMapHash": 1849577105,
         "subtitleTextMapHash": 1069846881,
@@ -3434,7 +3434,7 @@
         "tutorialId": 1136,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11029": {
         "pushTipsId": 11029,
         "titleTextMapHash": 551086641,
         "subtitleTextMapHash": 851601409,
@@ -3444,7 +3444,7 @@
         "tutorialId": 1129,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11030": {
         "pushTipsId": 11030,
         "titleTextMapHash": 215505745,
         "subtitleTextMapHash": 1125546137,
@@ -3454,7 +3454,7 @@
         "tutorialId": 1130,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11031": {
         "pushTipsId": 11031,
         "titleTextMapHash": 3864894377,
         "subtitleTextMapHash": 3105717817,
@@ -3464,7 +3464,7 @@
         "tutorialId": 1131,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11032": {
         "pushTipsId": 11032,
         "titleTextMapHash": 1711318577,
         "subtitleTextMapHash": 489582801,
@@ -3474,7 +3474,7 @@
         "tutorialId": 1132,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11033": {
         "pushTipsId": 11033,
         "titleTextMapHash": 2144934337,
         "subtitleTextMapHash": 335523409,
@@ -3484,7 +3484,7 @@
         "tutorialId": 1133,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11034": {
         "pushTipsId": 11034,
         "titleTextMapHash": 2377415657,
         "subtitleTextMapHash": 3126434449,
@@ -3494,7 +3494,7 @@
         "tutorialId": 1134,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11035": {
         "pushTipsId": 11035,
         "titleTextMapHash": 420022577,
         "subtitleTextMapHash": 2631680353,
@@ -3504,7 +3504,7 @@
         "tutorialId": 1135,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11036": {
         "pushTipsId": 11036,
         "titleTextMapHash": 2845779505,
         "subtitleTextMapHash": 1875904225,
@@ -3514,7 +3514,7 @@
         "tutorialId": 852,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11037": {
         "pushTipsId": 11037,
         "titleTextMapHash": 3040450697,
         "subtitleTextMapHash": 1875173321,
@@ -3524,7 +3524,7 @@
         "tutorialId": 1137,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11038": {
         "pushTipsId": 11038,
         "titleTextMapHash": 2934312089,
         "subtitleTextMapHash": 1460685177,
@@ -3534,7 +3534,7 @@
         "tutorialId": 1138,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11039": {
         "pushTipsId": 11039,
         "titleTextMapHash": 3720897257,
         "subtitleTextMapHash": 2550992481,
@@ -3544,7 +3544,7 @@
         "tutorialId": 1139,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11040": {
         "pushTipsId": 11040,
         "titleTextMapHash": 462057521,
         "subtitleTextMapHash": 1427142793,
@@ -3554,7 +3554,7 @@
         "tutorialId": 1140,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11041": {
         "pushTipsId": 11041,
         "titleTextMapHash": 2228576641,
         "subtitleTextMapHash": 1427726289,
@@ -3564,7 +3564,7 @@
         "tutorialId": 1141,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11042": {
         "pushTipsId": 11042,
         "titleTextMapHash": 1315343977,
         "subtitleTextMapHash": 4155571417,
@@ -3574,7 +3574,7 @@
         "tutorialId": 1142,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11043": {
         "pushTipsId": 11043,
         "titleTextMapHash": 3769988065,
         "subtitleTextMapHash": 1986431553,
@@ -3584,7 +3584,7 @@
         "tutorialId": 1143,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12001": {
         "pushTipsId": 12001,
         "titleTextMapHash": 489486249,
         "subtitleTextMapHash": 2078680241,
@@ -3595,7 +3595,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12002": {
         "pushTipsId": 12002,
         "titleTextMapHash": 3064718481,
         "subtitleTextMapHash": 3740154817,
@@ -3606,7 +3606,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12003": {
         "pushTipsId": 12003,
         "titleTextMapHash": 1689122769,
         "subtitleTextMapHash": 1747541385,
@@ -3617,7 +3617,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12004": {
         "pushTipsId": 12004,
         "titleTextMapHash": 1547283617,
         "subtitleTextMapHash": 2511463081,
@@ -3628,7 +3628,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12005": {
         "pushTipsId": 12005,
         "titleTextMapHash": 1981462617,
         "subtitleTextMapHash": 1361089065,
@@ -3639,7 +3639,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12006": {
         "pushTipsId": 12006,
         "titleTextMapHash": 3587023721,
         "subtitleTextMapHash": 312403865,
@@ -3650,7 +3650,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12007": {
         "pushTipsId": 12007,
         "titleTextMapHash": 787872529,
         "subtitleTextMapHash": 1794380905,
@@ -3661,7 +3661,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12008": {
         "pushTipsId": 12008,
         "titleTextMapHash": 1531105105,
         "subtitleTextMapHash": 3790139537,
@@ -3672,7 +3672,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12009": {
         "pushTipsId": 12009,
         "titleTextMapHash": 38582649,
         "subtitleTextMapHash": 2561442137,
@@ -3683,7 +3683,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12010": {
         "pushTipsId": 12010,
         "titleTextMapHash": 2373245889,
         "subtitleTextMapHash": 441809009,
@@ -3694,7 +3694,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12011": {
         "pushTipsId": 12011,
         "titleTextMapHash": 2683618801,
         "subtitleTextMapHash": 3955079497,
@@ -3705,7 +3705,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12012": {
         "pushTipsId": 12012,
         "titleTextMapHash": 3660805177,
         "subtitleTextMapHash": 2994427705,
@@ -3716,7 +3716,7 @@
         "codexType": "CODEX_ARANARA",
         "LADNNKKGHFN": true
     },
-    {
+    "12013": {
         "pushTipsId": 12013,
         "titleTextMapHash": 3007323521,
         "subtitleTextMapHash": 3039019401,
@@ -3726,7 +3726,7 @@
         "tutorialId": 1224,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12014": {
         "pushTipsId": 12014,
         "titleTextMapHash": 3460296169,
         "subtitleTextMapHash": 2990444537,
@@ -3736,7 +3736,7 @@
         "tutorialId": 1219,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12017": {
         "pushTipsId": 12017,
         "titleTextMapHash": 3230977745,
         "subtitleTextMapHash": 2188322777,
@@ -3746,7 +3746,7 @@
         "tutorialId": 1220,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12018": {
         "pushTipsId": 12018,
         "titleTextMapHash": 3959127201,
         "subtitleTextMapHash": 1718918153,
@@ -3756,7 +3756,7 @@
         "tutorialId": 1221,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12019": {
         "pushTipsId": 12019,
         "titleTextMapHash": 1308173065,
         "subtitleTextMapHash": 2462673601,
@@ -3766,7 +3766,7 @@
         "tutorialId": 1222,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12020": {
         "pushTipsId": 12020,
         "titleTextMapHash": 3798174289,
         "subtitleTextMapHash": 629333161,
@@ -3776,7 +3776,7 @@
         "tutorialId": 1223,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12021": {
         "pushTipsId": 12021,
         "titleTextMapHash": 1902837489,
         "subtitleTextMapHash": 1180219681,
@@ -3786,7 +3786,7 @@
         "tutorialId": 1218,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12022": {
         "pushTipsId": 12022,
         "titleTextMapHash": 2879522801,
         "subtitleTextMapHash": 334609433,
@@ -3796,7 +3796,7 @@
         "tutorialId": 1242,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11044": {
         "pushTipsId": 11044,
         "titleTextMapHash": 504532073,
         "subtitleTextMapHash": 3028200441,
@@ -3806,7 +3806,7 @@
         "tutorialId": 1144,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11045": {
         "pushTipsId": 11045,
         "titleTextMapHash": 1814071977,
         "subtitleTextMapHash": 2721288977,
@@ -3816,7 +3816,7 @@
         "tutorialId": 1145,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11046": {
         "pushTipsId": 11046,
         "titleTextMapHash": 3318658049,
         "subtitleTextMapHash": 2526753457,
@@ -3826,7 +3826,7 @@
         "tutorialId": 1146,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11047": {
         "pushTipsId": 11047,
         "titleTextMapHash": 3609999297,
         "subtitleTextMapHash": 2970667457,
@@ -3836,7 +3836,7 @@
         "tutorialId": 1147,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11048": {
         "pushTipsId": 11048,
         "titleTextMapHash": 2351620457,
         "subtitleTextMapHash": 4217411865,
@@ -3846,7 +3846,7 @@
         "tutorialId": 1148,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11049": {
         "pushTipsId": 11049,
         "titleTextMapHash": 3991016929,
         "subtitleTextMapHash": 3963384769,
@@ -3856,7 +3856,7 @@
         "tutorialId": 1149,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11050": {
         "pushTipsId": 11050,
         "titleTextMapHash": 3065301177,
         "subtitleTextMapHash": 2038276369,
@@ -3866,7 +3866,7 @@
         "tutorialId": 1150,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11051": {
         "pushTipsId": 11051,
         "titleTextMapHash": 1095336481,
         "subtitleTextMapHash": 1433775553,
@@ -3876,7 +3876,7 @@
         "tutorialId": 1151,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11052": {
         "pushTipsId": 11052,
         "titleTextMapHash": 60766425,
         "subtitleTextMapHash": 1610853433,
@@ -3886,7 +3886,7 @@
         "tutorialId": 1152,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11053": {
         "pushTipsId": 11053,
         "titleTextMapHash": 2815884313,
         "subtitleTextMapHash": 2293531161,
@@ -3896,7 +3896,7 @@
         "tutorialId": 1153,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11054": {
         "pushTipsId": 11054,
         "titleTextMapHash": 1525178689,
         "subtitleTextMapHash": 3549323553,
@@ -3906,7 +3906,7 @@
         "tutorialId": 1149,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11055": {
         "pushTipsId": 11055,
         "titleTextMapHash": 3019429273,
         "subtitleTextMapHash": 1517781577,
@@ -3916,7 +3916,7 @@
         "tutorialId": 1154,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11056": {
         "pushTipsId": 11056,
         "titleTextMapHash": 1431982697,
         "subtitleTextMapHash": 1266338313,
@@ -3926,7 +3926,7 @@
         "tutorialId": 1155,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11057": {
         "pushTipsId": 11057,
         "titleTextMapHash": 294449201,
         "subtitleTextMapHash": 2284180897,
@@ -3936,7 +3936,7 @@
         "tutorialId": 1156,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11058": {
         "pushTipsId": 11058,
         "titleTextMapHash": 1827905457,
         "subtitleTextMapHash": 614964057,
@@ -3946,7 +3946,7 @@
         "tutorialId": 1157,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11059": {
         "pushTipsId": 11059,
         "titleTextMapHash": 391033777,
         "subtitleTextMapHash": 1958214649,
@@ -3956,7 +3956,7 @@
         "tutorialId": 1159,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11060": {
         "pushTipsId": 11060,
         "titleTextMapHash": 1240032281,
         "subtitleTextMapHash": 2867898113,
@@ -3966,7 +3966,7 @@
         "tutorialId": 1160,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11061": {
         "pushTipsId": 11061,
         "titleTextMapHash": 2020115361,
         "subtitleTextMapHash": 1314919785,
@@ -3976,7 +3976,7 @@
         "tutorialId": 1161,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11062": {
         "pushTipsId": 11062,
         "titleTextMapHash": 1435015601,
         "subtitleTextMapHash": 614833185,
@@ -3986,7 +3986,7 @@
         "tutorialId": 1162,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11063": {
         "pushTipsId": 11063,
         "titleTextMapHash": 376596457,
         "subtitleTextMapHash": 3152859985,
@@ -3996,7 +3996,7 @@
         "tutorialId": 1163,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11064": {
         "pushTipsId": 11064,
         "titleTextMapHash": 2164875145,
         "subtitleTextMapHash": 3238751985,
@@ -4006,7 +4006,7 @@
         "tutorialId": 1164,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11066": {
         "pushTipsId": 11066,
         "titleTextMapHash": 921664465,
         "subtitleTextMapHash": 243443529,
@@ -4016,7 +4016,7 @@
         "tutorialId": 1166,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "11084": {
         "pushTipsId": 11084,
         "titleTextMapHash": 613930505,
         "subtitleTextMapHash": 3522483345,
@@ -4026,7 +4026,7 @@
         "tutorialId": 1184,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12015": {
         "pushTipsId": 12015,
         "titleTextMapHash": 235900161,
         "subtitleTextMapHash": 502984497,
@@ -4036,7 +4036,7 @@
         "tutorialId": 1215,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12016": {
         "pushTipsId": 12016,
         "titleTextMapHash": 4348289,
         "subtitleTextMapHash": 1816027465,
@@ -4046,7 +4046,7 @@
         "tutorialId": 1216,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12023": {
         "pushTipsId": 12023,
         "titleTextMapHash": 1524139665,
         "subtitleTextMapHash": 3545463953,
@@ -4056,7 +4056,7 @@
         "tutorialId": 1245,
         "codexType": "CODEX_UNRECORDED"
     },
-    {
+    "12024": {
         "pushTipsId": 12024,
         "titleTextMapHash": 2389225729,
         "subtitleTextMapHash": 2834141409,
@@ -4066,4 +4066,4 @@
         "tutorialId": 1246,
         "codexType": "CODEX_UNRECORDED"
     }
-]
+}

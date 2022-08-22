@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "LHLKADIGNOO": 1,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000003,
@@ -8,7 +8,7 @@
         "NHFHLHOKPNN": 31,
         "order": 1
     },
-    {
+    "2": {
         "LHLKADIGNOO": 2,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000020,
@@ -16,7 +16,7 @@
         "NHFHLHOKPNN": 32,
         "order": 2
     },
-    {
+    "3": {
         "LHLKADIGNOO": 3,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000020,
@@ -24,7 +24,7 @@
         "NHFHLHOKPNN": 31,
         "order": 3
     },
-    {
+    "4": {
         "LHLKADIGNOO": 4,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000043,
@@ -32,7 +32,7 @@
         "NHFHLHOKPNN": 32,
         "order": 4
     },
-    {
+    "5": {
         "LHLKADIGNOO": 5,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000003,
@@ -40,28 +40,28 @@
         "NHFHLHOKPNN": 31,
         "IGFAKCDKFHE": 300
     },
-    {
+    "6": {
         "LHLKADIGNOO": 6,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000020,
         "NHFHLHOKPNN": 32,
         "IGFAKCDKFHE": 300
     },
-    {
+    "7": {
         "LHLKADIGNOO": 7,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000020,
         "NHFHLHOKPNN": 31,
         "IGFAKCDKFHE": 300
     },
-    {
+    "8": {
         "LHLKADIGNOO": 8,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000043,
         "NHFHLHOKPNN": 32,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1001": {
         "LHLKADIGNOO": 1001,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000003,
@@ -70,7 +70,7 @@
         "NHFHLHOKPNN": 33,
         "order": 5
     },
-    {
+    "1002": {
         "LHLKADIGNOO": 1002,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000003,
@@ -79,7 +79,7 @@
         "NHFHLHOKPNN": 41,
         "order": 6
     },
-    {
+    "1011": {
         "LHLKADIGNOO": 1011,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000003,
@@ -87,7 +87,7 @@
         "NHFHLHOKPNN": 33,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1012": {
         "LHLKADIGNOO": 1012,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000003,
@@ -95,7 +95,7 @@
         "NHFHLHOKPNN": 41,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1101": {
         "LHLKADIGNOO": 1101,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000006,
@@ -104,7 +104,7 @@
         "NHFHLHOKPNN": 33,
         "order": 7
     },
-    {
+    "1102": {
         "LHLKADIGNOO": 1102,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000006,
@@ -113,7 +113,7 @@
         "NHFHLHOKPNN": 37,
         "order": 8
     },
-    {
+    "1111": {
         "LHLKADIGNOO": 1111,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000006,
@@ -121,7 +121,7 @@
         "NHFHLHOKPNN": 33,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1112": {
         "LHLKADIGNOO": 1112,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000006,
@@ -129,7 +129,7 @@
         "NHFHLHOKPNN": 37,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1201": {
         "LHLKADIGNOO": 1201,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000014,
@@ -138,7 +138,7 @@
         "NHFHLHOKPNN": 34,
         "order": 9
     },
-    {
+    "1202": {
         "LHLKADIGNOO": 1202,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000014,
@@ -147,7 +147,7 @@
         "NHFHLHOKPNN": 41,
         "order": 10
     },
-    {
+    "1211": {
         "LHLKADIGNOO": 1211,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000014,
@@ -155,7 +155,7 @@
         "NHFHLHOKPNN": 34,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1212": {
         "LHLKADIGNOO": 1212,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000014,
@@ -163,7 +163,7 @@
         "NHFHLHOKPNN": 41,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1301": {
         "LHLKADIGNOO": 1301,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000015,
@@ -172,7 +172,7 @@
         "NHFHLHOKPNN": 41,
         "order": 11
     },
-    {
+    "1302": {
         "LHLKADIGNOO": 1302,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000015,
@@ -181,7 +181,7 @@
         "NHFHLHOKPNN": 47,
         "order": 12
     },
-    {
+    "1311": {
         "LHLKADIGNOO": 1311,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000015,
@@ -189,7 +189,7 @@
         "NHFHLHOKPNN": 41,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1312": {
         "LHLKADIGNOO": 1312,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000015,
@@ -197,7 +197,7 @@
         "NHFHLHOKPNN": 47,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1401": {
         "LHLKADIGNOO": 1401,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000016,
@@ -206,7 +206,7 @@
         "NHFHLHOKPNN": 39,
         "order": 13
     },
-    {
+    "1402": {
         "LHLKADIGNOO": 1402,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000016,
@@ -215,7 +215,7 @@
         "NHFHLHOKPNN": 47,
         "order": 14
     },
-    {
+    "1411": {
         "LHLKADIGNOO": 1411,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000016,
@@ -223,7 +223,7 @@
         "NHFHLHOKPNN": 39,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1412": {
         "LHLKADIGNOO": 1412,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000016,
@@ -231,7 +231,7 @@
         "NHFHLHOKPNN": 47,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1501": {
         "LHLKADIGNOO": 1501,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000020,
@@ -240,7 +240,7 @@
         "NHFHLHOKPNN": 38,
         "order": 15
     },
-    {
+    "1502": {
         "LHLKADIGNOO": 1502,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000020,
@@ -249,7 +249,7 @@
         "NHFHLHOKPNN": 40,
         "order": 16
     },
-    {
+    "1511": {
         "LHLKADIGNOO": 1511,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000020,
@@ -257,7 +257,7 @@
         "NHFHLHOKPNN": 38,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1512": {
         "LHLKADIGNOO": 1512,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000020,
@@ -265,7 +265,7 @@
         "NHFHLHOKPNN": 40,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1601": {
         "LHLKADIGNOO": 1601,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000021,
@@ -274,7 +274,7 @@
         "NHFHLHOKPNN": 40,
         "order": 17
     },
-    {
+    "1602": {
         "LHLKADIGNOO": 1602,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000021,
@@ -283,7 +283,7 @@
         "NHFHLHOKPNN": 45,
         "order": 18
     },
-    {
+    "1611": {
         "LHLKADIGNOO": 1611,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000021,
@@ -291,7 +291,7 @@
         "NHFHLHOKPNN": 40,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1612": {
         "LHLKADIGNOO": 1612,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000021,
@@ -299,7 +299,7 @@
         "NHFHLHOKPNN": 45,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1701": {
         "LHLKADIGNOO": 1701,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000022,
@@ -308,7 +308,7 @@
         "NHFHLHOKPNN": 41,
         "order": 19
     },
-    {
+    "1702": {
         "LHLKADIGNOO": 1702,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000022,
@@ -317,7 +317,7 @@
         "NHFHLHOKPNN": 47,
         "order": 20
     },
-    {
+    "1711": {
         "LHLKADIGNOO": 1711,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000022,
@@ -325,7 +325,7 @@
         "NHFHLHOKPNN": 41,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1712": {
         "LHLKADIGNOO": 1712,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000022,
@@ -333,7 +333,7 @@
         "NHFHLHOKPNN": 47,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1801": {
         "LHLKADIGNOO": 1801,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000023,
@@ -342,7 +342,7 @@
         "NHFHLHOKPNN": 38,
         "order": 21
     },
-    {
+    "1802": {
         "LHLKADIGNOO": 1802,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000023,
@@ -351,7 +351,7 @@
         "NHFHLHOKPNN": 42,
         "order": 22
     },
-    {
+    "1811": {
         "LHLKADIGNOO": 1811,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000023,
@@ -359,7 +359,7 @@
         "NHFHLHOKPNN": 38,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1812": {
         "LHLKADIGNOO": 1812,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000023,
@@ -367,7 +367,7 @@
         "NHFHLHOKPNN": 42,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1901": {
         "LHLKADIGNOO": 1901,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000024,
@@ -376,7 +376,7 @@
         "NHFHLHOKPNN": 42,
         "order": 23
     },
-    {
+    "1902": {
         "LHLKADIGNOO": 1902,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000024,
@@ -385,7 +385,7 @@
         "NHFHLHOKPNN": 45,
         "order": 24
     },
-    {
+    "1911": {
         "LHLKADIGNOO": 1911,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000024,
@@ -393,7 +393,7 @@
         "NHFHLHOKPNN": 42,
         "IGFAKCDKFHE": 300
     },
-    {
+    "1912": {
         "LHLKADIGNOO": 1912,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000024,
@@ -401,7 +401,7 @@
         "NHFHLHOKPNN": 45,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2001": {
         "LHLKADIGNOO": 2001,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000025,
@@ -410,7 +410,7 @@
         "NHFHLHOKPNN": 35,
         "order": 25
     },
-    {
+    "2002": {
         "LHLKADIGNOO": 2002,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000025,
@@ -419,7 +419,7 @@
         "NHFHLHOKPNN": 43,
         "order": 26
     },
-    {
+    "2011": {
         "LHLKADIGNOO": 2011,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000025,
@@ -427,7 +427,7 @@
         "NHFHLHOKPNN": 35,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2012": {
         "LHLKADIGNOO": 2012,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000025,
@@ -435,7 +435,7 @@
         "NHFHLHOKPNN": 43,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2101": {
         "LHLKADIGNOO": 2101,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000026,
@@ -444,7 +444,7 @@
         "NHFHLHOKPNN": 38,
         "order": 27
     },
-    {
+    "2102": {
         "LHLKADIGNOO": 2102,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000026,
@@ -453,7 +453,7 @@
         "NHFHLHOKPNN": 44,
         "order": 28
     },
-    {
+    "2111": {
         "LHLKADIGNOO": 2111,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000026,
@@ -461,7 +461,7 @@
         "NHFHLHOKPNN": 38,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2112": {
         "LHLKADIGNOO": 2112,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000026,
@@ -469,7 +469,7 @@
         "NHFHLHOKPNN": 44,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2201": {
         "LHLKADIGNOO": 2201,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000027,
@@ -478,7 +478,7 @@
         "NHFHLHOKPNN": 35,
         "order": 29
     },
-    {
+    "2202": {
         "LHLKADIGNOO": 2202,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000027,
@@ -487,7 +487,7 @@
         "NHFHLHOKPNN": 43,
         "order": 30
     },
-    {
+    "2211": {
         "LHLKADIGNOO": 2211,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000027,
@@ -495,7 +495,7 @@
         "NHFHLHOKPNN": 35,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2212": {
         "LHLKADIGNOO": 2212,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000027,
@@ -503,7 +503,7 @@
         "NHFHLHOKPNN": 43,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2301": {
         "LHLKADIGNOO": 2301,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000029,
@@ -512,7 +512,7 @@
         "NHFHLHOKPNN": 37,
         "order": 31
     },
-    {
+    "2302": {
         "LHLKADIGNOO": 2302,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000029,
@@ -521,7 +521,7 @@
         "NHFHLHOKPNN": 45,
         "order": 32
     },
-    {
+    "2311": {
         "LHLKADIGNOO": 2311,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000029,
@@ -529,7 +529,7 @@
         "NHFHLHOKPNN": 37,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2312": {
         "LHLKADIGNOO": 2312,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000029,
@@ -537,7 +537,7 @@
         "NHFHLHOKPNN": 45,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2401": {
         "LHLKADIGNOO": 2401,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000030,
@@ -546,7 +546,7 @@
         "NHFHLHOKPNN": 35,
         "order": 33
     },
-    {
+    "2402": {
         "LHLKADIGNOO": 2402,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000030,
@@ -555,7 +555,7 @@
         "NHFHLHOKPNN": 43,
         "order": 34
     },
-    {
+    "2411": {
         "LHLKADIGNOO": 2411,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000030,
@@ -563,7 +563,7 @@
         "NHFHLHOKPNN": 35,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2412": {
         "LHLKADIGNOO": 2412,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000030,
@@ -571,7 +571,7 @@
         "NHFHLHOKPNN": 43,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2501": {
         "LHLKADIGNOO": 2501,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000031,
@@ -580,7 +580,7 @@
         "NHFHLHOKPNN": 33,
         "order": 35
     },
-    {
+    "2502": {
         "LHLKADIGNOO": 2502,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000031,
@@ -589,7 +589,7 @@
         "NHFHLHOKPNN": 46,
         "order": 36
     },
-    {
+    "2511": {
         "LHLKADIGNOO": 2511,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000031,
@@ -597,7 +597,7 @@
         "NHFHLHOKPNN": 33,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2512": {
         "LHLKADIGNOO": 2512,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000031,
@@ -605,7 +605,7 @@
         "NHFHLHOKPNN": 46,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2601": {
         "LHLKADIGNOO": 2601,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000032,
@@ -614,7 +614,7 @@
         "NHFHLHOKPNN": 39,
         "order": 37
     },
-    {
+    "2602": {
         "LHLKADIGNOO": 2602,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000032,
@@ -623,7 +623,7 @@
         "NHFHLHOKPNN": 46,
         "order": 38
     },
-    {
+    "2611": {
         "LHLKADIGNOO": 2611,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000032,
@@ -631,7 +631,7 @@
         "NHFHLHOKPNN": 39,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2612": {
         "LHLKADIGNOO": 2612,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000032,
@@ -639,7 +639,7 @@
         "NHFHLHOKPNN": 46,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2701": {
         "LHLKADIGNOO": 2701,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000033,
@@ -648,7 +648,7 @@
         "NHFHLHOKPNN": 38,
         "order": 39
     },
-    {
+    "2702": {
         "LHLKADIGNOO": 2702,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000033,
@@ -657,7 +657,7 @@
         "NHFHLHOKPNN": 42,
         "order": 40
     },
-    {
+    "2711": {
         "LHLKADIGNOO": 2711,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000033,
@@ -665,7 +665,7 @@
         "NHFHLHOKPNN": 38,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2712": {
         "LHLKADIGNOO": 2712,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000033,
@@ -673,7 +673,7 @@
         "NHFHLHOKPNN": 42,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2801": {
         "LHLKADIGNOO": 2801,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000034,
@@ -682,7 +682,7 @@
         "NHFHLHOKPNN": 34,
         "order": 41
     },
-    {
+    "2802": {
         "LHLKADIGNOO": 2802,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000034,
@@ -691,7 +691,7 @@
         "NHFHLHOKPNN": 39,
         "order": 42
     },
-    {
+    "2811": {
         "LHLKADIGNOO": 2811,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000034,
@@ -699,7 +699,7 @@
         "NHFHLHOKPNN": 34,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2812": {
         "LHLKADIGNOO": 2812,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000034,
@@ -707,7 +707,7 @@
         "NHFHLHOKPNN": 39,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2901": {
         "LHLKADIGNOO": 2901,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000035,
@@ -716,7 +716,7 @@
         "NHFHLHOKPNN": 44,
         "order": 43
     },
-    {
+    "2902": {
         "LHLKADIGNOO": 2902,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000035,
@@ -725,7 +725,7 @@
         "NHFHLHOKPNN": 46,
         "order": 44
     },
-    {
+    "2911": {
         "LHLKADIGNOO": 2911,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000035,
@@ -733,7 +733,7 @@
         "NHFHLHOKPNN": 44,
         "IGFAKCDKFHE": 300
     },
-    {
+    "2912": {
         "LHLKADIGNOO": 2912,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000035,
@@ -741,7 +741,7 @@
         "NHFHLHOKPNN": 46,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3001": {
         "LHLKADIGNOO": 3001,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000036,
@@ -750,7 +750,7 @@
         "NHFHLHOKPNN": 36,
         "order": 45
     },
-    {
+    "3002": {
         "LHLKADIGNOO": 3002,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000036,
@@ -759,7 +759,7 @@
         "NHFHLHOKPNN": 46,
         "order": 46
     },
-    {
+    "3011": {
         "LHLKADIGNOO": 3011,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000036,
@@ -767,7 +767,7 @@
         "NHFHLHOKPNN": 36,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3012": {
         "LHLKADIGNOO": 3012,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000036,
@@ -775,7 +775,7 @@
         "NHFHLHOKPNN": 46,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3101": {
         "LHLKADIGNOO": 3101,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000037,
@@ -784,7 +784,7 @@
         "NHFHLHOKPNN": 36,
         "order": 47
     },
-    {
+    "3102": {
         "LHLKADIGNOO": 3102,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000037,
@@ -793,7 +793,7 @@
         "NHFHLHOKPNN": 42,
         "order": 48
     },
-    {
+    "3111": {
         "LHLKADIGNOO": 3111,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000037,
@@ -801,7 +801,7 @@
         "NHFHLHOKPNN": 36,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3112": {
         "LHLKADIGNOO": 3112,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000037,
@@ -809,7 +809,7 @@
         "NHFHLHOKPNN": 42,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3201": {
         "LHLKADIGNOO": 3201,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000038,
@@ -818,7 +818,7 @@
         "NHFHLHOKPNN": 37,
         "order": 49
     },
-    {
+    "3202": {
         "LHLKADIGNOO": 3202,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000038,
@@ -827,7 +827,7 @@
         "NHFHLHOKPNN": 46,
         "order": 50
     },
-    {
+    "3211": {
         "LHLKADIGNOO": 3211,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000038,
@@ -835,7 +835,7 @@
         "NHFHLHOKPNN": 37,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3212": {
         "LHLKADIGNOO": 3212,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000038,
@@ -843,7 +843,7 @@
         "NHFHLHOKPNN": 46,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3301": {
         "LHLKADIGNOO": 3301,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000039,
@@ -852,7 +852,7 @@
         "NHFHLHOKPNN": 40,
         "order": 51
     },
-    {
+    "3302": {
         "LHLKADIGNOO": 3302,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000039,
@@ -861,7 +861,7 @@
         "NHFHLHOKPNN": 39,
         "order": 52
     },
-    {
+    "3311": {
         "LHLKADIGNOO": 3311,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000039,
@@ -869,7 +869,7 @@
         "NHFHLHOKPNN": 40,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3312": {
         "LHLKADIGNOO": 3312,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000039,
@@ -877,7 +877,7 @@
         "NHFHLHOKPNN": 39,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3401": {
         "LHLKADIGNOO": 3401,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000042,
@@ -886,7 +886,7 @@
         "NHFHLHOKPNN": 36,
         "order": 53
     },
-    {
+    "3402": {
         "LHLKADIGNOO": 3402,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000042,
@@ -895,7 +895,7 @@
         "NHFHLHOKPNN": 43,
         "order": 54
     },
-    {
+    "3411": {
         "LHLKADIGNOO": 3411,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000042,
@@ -903,7 +903,7 @@
         "NHFHLHOKPNN": 36,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3412": {
         "LHLKADIGNOO": 3412,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000042,
@@ -911,7 +911,7 @@
         "NHFHLHOKPNN": 43,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3501": {
         "LHLKADIGNOO": 3501,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000043,
@@ -920,7 +920,7 @@
         "NHFHLHOKPNN": 37,
         "order": 55
     },
-    {
+    "3502": {
         "LHLKADIGNOO": 3502,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000043,
@@ -929,7 +929,7 @@
         "NHFHLHOKPNN": 45,
         "order": 56
     },
-    {
+    "3511": {
         "LHLKADIGNOO": 3511,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000043,
@@ -937,7 +937,7 @@
         "NHFHLHOKPNN": 37,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3512": {
         "LHLKADIGNOO": 3512,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000043,
@@ -945,7 +945,7 @@
         "NHFHLHOKPNN": 45,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3601": {
         "LHLKADIGNOO": 3601,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000044,
@@ -954,7 +954,7 @@
         "NHFHLHOKPNN": 42,
         "order": 57
     },
-    {
+    "3602": {
         "LHLKADIGNOO": 3602,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000044,
@@ -963,7 +963,7 @@
         "NHFHLHOKPNN": 44,
         "order": 58
     },
-    {
+    "3611": {
         "LHLKADIGNOO": 3611,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000044,
@@ -971,7 +971,7 @@
         "NHFHLHOKPNN": 42,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3612": {
         "LHLKADIGNOO": 3612,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000044,
@@ -979,7 +979,7 @@
         "NHFHLHOKPNN": 44,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3701": {
         "LHLKADIGNOO": 3701,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000045,
@@ -988,7 +988,7 @@
         "NHFHLHOKPNN": 41,
         "order": 59
     },
-    {
+    "3702": {
         "LHLKADIGNOO": 3702,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000045,
@@ -997,7 +997,7 @@
         "NHFHLHOKPNN": 47,
         "order": 60
     },
-    {
+    "3711": {
         "LHLKADIGNOO": 3711,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000045,
@@ -1005,7 +1005,7 @@
         "NHFHLHOKPNN": 41,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3712": {
         "LHLKADIGNOO": 3712,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000045,
@@ -1013,7 +1013,7 @@
         "NHFHLHOKPNN": 47,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3801": {
         "LHLKADIGNOO": 3801,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000046,
@@ -1022,7 +1022,7 @@
         "NHFHLHOKPNN": 36,
         "order": 61
     },
-    {
+    "3802": {
         "LHLKADIGNOO": 3802,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000046,
@@ -1031,7 +1031,7 @@
         "NHFHLHOKPNN": 44,
         "order": 62
     },
-    {
+    "3811": {
         "LHLKADIGNOO": 3811,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000046,
@@ -1039,7 +1039,7 @@
         "NHFHLHOKPNN": 36,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3812": {
         "LHLKADIGNOO": 3812,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000046,
@@ -1047,7 +1047,7 @@
         "NHFHLHOKPNN": 44,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3901": {
         "LHLKADIGNOO": 3901,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000048,
@@ -1056,7 +1056,7 @@
         "NHFHLHOKPNN": 36,
         "order": 63
     },
-    {
+    "3902": {
         "LHLKADIGNOO": 3902,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000048,
@@ -1065,7 +1065,7 @@
         "NHFHLHOKPNN": 43,
         "order": 64
     },
-    {
+    "3911": {
         "LHLKADIGNOO": 3911,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000048,
@@ -1073,7 +1073,7 @@
         "NHFHLHOKPNN": 36,
         "IGFAKCDKFHE": 300
     },
-    {
+    "3912": {
         "LHLKADIGNOO": 3912,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000048,
@@ -1081,7 +1081,7 @@
         "NHFHLHOKPNN": 43,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4001": {
         "LHLKADIGNOO": 4001,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000051,
@@ -1090,7 +1090,7 @@
         "NHFHLHOKPNN": 33,
         "order": 65
     },
-    {
+    "4002": {
         "LHLKADIGNOO": 4002,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000051,
@@ -1099,7 +1099,7 @@
         "NHFHLHOKPNN": 34,
         "order": 66
     },
-    {
+    "4011": {
         "LHLKADIGNOO": 4011,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000051,
@@ -1107,7 +1107,7 @@
         "NHFHLHOKPNN": 33,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4012": {
         "LHLKADIGNOO": 4012,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000051,
@@ -1115,7 +1115,7 @@
         "NHFHLHOKPNN": 34,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4101": {
         "LHLKADIGNOO": 4101,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000041,
@@ -1124,7 +1124,7 @@
         "NHFHLHOKPNN": 33,
         "order": 67
     },
-    {
+    "4102": {
         "LHLKADIGNOO": 4102,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000041,
@@ -1133,7 +1133,7 @@
         "NHFHLHOKPNN": 38,
         "order": 68
     },
-    {
+    "4111": {
         "LHLKADIGNOO": 4111,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000041,
@@ -1141,7 +1141,7 @@
         "NHFHLHOKPNN": 33,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4112": {
         "LHLKADIGNOO": 4112,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000041,
@@ -1149,7 +1149,7 @@
         "NHFHLHOKPNN": 38,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4201": {
         "LHLKADIGNOO": 4201,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000062,
@@ -1158,7 +1158,7 @@
         "NHFHLHOKPNN": 45,
         "order": 69
     },
-    {
+    "4202": {
         "LHLKADIGNOO": 4202,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000062,
@@ -1167,7 +1167,7 @@
         "NHFHLHOKPNN": 46,
         "order": 70
     },
-    {
+    "4211": {
         "LHLKADIGNOO": 4211,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000062,
@@ -1175,7 +1175,7 @@
         "NHFHLHOKPNN": 45,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4212": {
         "LHLKADIGNOO": 4212,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000062,
@@ -1183,7 +1183,7 @@
         "NHFHLHOKPNN": 46,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4301": {
         "LHLKADIGNOO": 4301,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000047,
@@ -1192,7 +1192,7 @@
         "NHFHLHOKPNN": 53,
         "order": 71
     },
-    {
+    "4302": {
         "LHLKADIGNOO": 4302,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000047,
@@ -1201,7 +1201,7 @@
         "NHFHLHOKPNN": 59,
         "order": 72
     },
-    {
+    "4311": {
         "LHLKADIGNOO": 4311,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000047,
@@ -1209,7 +1209,7 @@
         "NHFHLHOKPNN": 53,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4312": {
         "LHLKADIGNOO": 4312,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000047,
@@ -1217,7 +1217,7 @@
         "NHFHLHOKPNN": 59,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4401": {
         "LHLKADIGNOO": 4401,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000002,
@@ -1226,7 +1226,7 @@
         "NHFHLHOKPNN": 54,
         "order": 73
     },
-    {
+    "4402": {
         "LHLKADIGNOO": 4402,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000002,
@@ -1235,7 +1235,7 @@
         "NHFHLHOKPNN": 57,
         "order": 74
     },
-    {
+    "4411": {
         "LHLKADIGNOO": 4411,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000002,
@@ -1243,7 +1243,7 @@
         "NHFHLHOKPNN": 54,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4412": {
         "LHLKADIGNOO": 4412,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000002,
@@ -1251,7 +1251,7 @@
         "NHFHLHOKPNN": 57,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4501": {
         "LHLKADIGNOO": 4501,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000049,
@@ -1260,7 +1260,7 @@
         "NHFHLHOKPNN": 49,
         "order": 75
     },
-    {
+    "4502": {
         "LHLKADIGNOO": 4502,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000049,
@@ -1269,7 +1269,7 @@
         "NHFHLHOKPNN": 55,
         "order": 76
     },
-    {
+    "4511": {
         "LHLKADIGNOO": 4511,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000049,
@@ -1277,7 +1277,7 @@
         "NHFHLHOKPNN": 49,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4512": {
         "LHLKADIGNOO": 4512,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000049,
@@ -1285,7 +1285,7 @@
         "NHFHLHOKPNN": 55,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4601": {
         "LHLKADIGNOO": 4601,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000053,
@@ -1294,7 +1294,7 @@
         "NHFHLHOKPNN": 50,
         "order": 77
     },
-    {
+    "4602": {
         "LHLKADIGNOO": 4602,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000053,
@@ -1303,7 +1303,7 @@
         "NHFHLHOKPNN": 56,
         "order": 78
     },
-    {
+    "4611": {
         "LHLKADIGNOO": 4611,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000053,
@@ -1311,7 +1311,7 @@
         "NHFHLHOKPNN": 50,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4612": {
         "LHLKADIGNOO": 4612,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000053,
@@ -1319,7 +1319,7 @@
         "NHFHLHOKPNN": 56,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4701": {
         "LHLKADIGNOO": 4701,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000052,
@@ -1328,7 +1328,7 @@
         "NHFHLHOKPNN": 51,
         "order": 79
     },
-    {
+    "4702": {
         "LHLKADIGNOO": 4702,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000052,
@@ -1337,7 +1337,7 @@
         "NHFHLHOKPNN": 57,
         "order": 80
     },
-    {
+    "4711": {
         "LHLKADIGNOO": 4711,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000052,
@@ -1345,7 +1345,7 @@
         "NHFHLHOKPNN": 51,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4712": {
         "LHLKADIGNOO": 4712,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000052,
@@ -1353,7 +1353,7 @@
         "NHFHLHOKPNN": 57,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4801": {
         "LHLKADIGNOO": 4801,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000056,
@@ -1362,7 +1362,7 @@
         "NHFHLHOKPNN": 48,
         "order": 81
     },
-    {
+    "4802": {
         "LHLKADIGNOO": 4802,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000056,
@@ -1371,7 +1371,7 @@
         "NHFHLHOKPNN": 52,
         "order": 82
     },
-    {
+    "4811": {
         "LHLKADIGNOO": 4811,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000056,
@@ -1379,7 +1379,7 @@
         "NHFHLHOKPNN": 48,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4812": {
         "LHLKADIGNOO": 4812,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000056,
@@ -1387,7 +1387,7 @@
         "NHFHLHOKPNN": 52,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4901": {
         "LHLKADIGNOO": 4901,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000054,
@@ -1396,7 +1396,7 @@
         "NHFHLHOKPNN": 56,
         "order": 83
     },
-    {
+    "4902": {
         "LHLKADIGNOO": 4902,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000054,
@@ -1405,7 +1405,7 @@
         "NHFHLHOKPNN": 58,
         "order": 84
     },
-    {
+    "4911": {
         "LHLKADIGNOO": 4911,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000054,
@@ -1413,7 +1413,7 @@
         "NHFHLHOKPNN": 56,
         "IGFAKCDKFHE": 300
     },
-    {
+    "4912": {
         "LHLKADIGNOO": 4912,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000054,
@@ -1421,7 +1421,7 @@
         "NHFHLHOKPNN": 58,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5001": {
         "LHLKADIGNOO": 5001,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000050,
@@ -1430,7 +1430,7 @@
         "NHFHLHOKPNN": 55,
         "order": 85
     },
-    {
+    "5002": {
         "LHLKADIGNOO": 5002,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000050,
@@ -1439,7 +1439,7 @@
         "NHFHLHOKPNN": 59,
         "order": 86
     },
-    {
+    "5011": {
         "LHLKADIGNOO": 5011,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000050,
@@ -1447,7 +1447,7 @@
         "NHFHLHOKPNN": 55,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5012": {
         "LHLKADIGNOO": 5012,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000050,
@@ -1455,7 +1455,7 @@
         "NHFHLHOKPNN": 59,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5101": {
         "LHLKADIGNOO": 5101,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000055,
@@ -1464,7 +1464,7 @@
         "NHFHLHOKPNN": 50,
         "order": 87
     },
-    {
+    "5102": {
         "LHLKADIGNOO": 5102,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000055,
@@ -1473,7 +1473,7 @@
         "NHFHLHOKPNN": 49,
         "order": 88
     },
-    {
+    "5111": {
         "LHLKADIGNOO": 5111,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000055,
@@ -1481,7 +1481,7 @@
         "NHFHLHOKPNN": 50,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5112": {
         "LHLKADIGNOO": 5112,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000055,
@@ -1489,7 +1489,7 @@
         "NHFHLHOKPNN": 49,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5201": {
         "LHLKADIGNOO": 5201,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000057,
@@ -1498,7 +1498,7 @@
         "NHFHLHOKPNN": 53,
         "order": 89
     },
-    {
+    "5202": {
         "LHLKADIGNOO": 5202,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000057,
@@ -1507,7 +1507,7 @@
         "NHFHLHOKPNN": 54,
         "order": 90
     },
-    {
+    "5211": {
         "LHLKADIGNOO": 5211,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000057,
@@ -1515,7 +1515,7 @@
         "NHFHLHOKPNN": 53,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5212": {
         "LHLKADIGNOO": 5212,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000057,
@@ -1523,7 +1523,7 @@
         "NHFHLHOKPNN": 54,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5301": {
         "LHLKADIGNOO": 5301,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000063,
@@ -1532,7 +1532,7 @@
         "NHFHLHOKPNN": 44,
         "order": 91
     },
-    {
+    "5302": {
         "LHLKADIGNOO": 5302,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000063,
@@ -1541,7 +1541,7 @@
         "NHFHLHOKPNN": 43,
         "order": 92
     },
-    {
+    "5311": {
         "LHLKADIGNOO": 5311,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000063,
@@ -1549,7 +1549,7 @@
         "NHFHLHOKPNN": 44,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5312": {
         "LHLKADIGNOO": 5312,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000063,
@@ -1557,7 +1557,7 @@
         "NHFHLHOKPNN": 43,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5401": {
         "LHLKADIGNOO": 5401,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000064,
@@ -1566,7 +1566,7 @@
         "NHFHLHOKPNN": 35,
         "order": 93
     },
-    {
+    "5402": {
         "LHLKADIGNOO": 5402,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000064,
@@ -1575,7 +1575,7 @@
         "NHFHLHOKPNN": 43,
         "order": 94
     },
-    {
+    "5411": {
         "LHLKADIGNOO": 5411,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000064,
@@ -1583,7 +1583,7 @@
         "NHFHLHOKPNN": 35,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5412": {
         "LHLKADIGNOO": 5412,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000064,
@@ -1591,7 +1591,7 @@
         "NHFHLHOKPNN": 43,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5501": {
         "LHLKADIGNOO": 5501,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000058,
@@ -1600,7 +1600,7 @@
         "NHFHLHOKPNN": 51,
         "order": 95
     },
-    {
+    "5502": {
         "LHLKADIGNOO": 5502,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000058,
@@ -1609,7 +1609,7 @@
         "NHFHLHOKPNN": 49,
         "order": 96
     },
-    {
+    "5511": {
         "LHLKADIGNOO": 5511,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000058,
@@ -1617,7 +1617,7 @@
         "NHFHLHOKPNN": 51,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5512": {
         "LHLKADIGNOO": 5512,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000058,
@@ -1625,7 +1625,7 @@
         "NHFHLHOKPNN": 49,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5601": {
         "LHLKADIGNOO": 5601,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000066,
@@ -1634,7 +1634,7 @@
         "NHFHLHOKPNN": 54,
         "order": 97
     },
-    {
+    "5602": {
         "LHLKADIGNOO": 5602,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000066,
@@ -1643,7 +1643,7 @@
         "NHFHLHOKPNN": 48,
         "order": 98
     },
-    {
+    "5611": {
         "LHLKADIGNOO": 5611,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000066,
@@ -1651,7 +1651,7 @@
         "NHFHLHOKPNN": 54,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5612": {
         "LHLKADIGNOO": 5612,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000066,
@@ -1659,7 +1659,7 @@
         "NHFHLHOKPNN": 48,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5701": {
         "LHLKADIGNOO": 5701,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000060,
@@ -1668,7 +1668,7 @@
         "NHFHLHOKPNN": 44,
         "order": 99
     },
-    {
+    "5702": {
         "LHLKADIGNOO": 5702,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000060,
@@ -1677,7 +1677,7 @@
         "NHFHLHOKPNN": 42,
         "order": 100
     },
-    {
+    "5711": {
         "LHLKADIGNOO": 5711,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000060,
@@ -1685,7 +1685,7 @@
         "NHFHLHOKPNN": 44,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5712": {
         "LHLKADIGNOO": 5712,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000060,
@@ -1693,7 +1693,7 @@
         "NHFHLHOKPNN": 42,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5801": {
         "LHLKADIGNOO": 5801,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000065,
@@ -1702,7 +1702,7 @@
         "NHFHLHOKPNN": 58,
         "order": 101
     },
-    {
+    "5802": {
         "LHLKADIGNOO": 5802,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000065,
@@ -1711,7 +1711,7 @@
         "NHFHLHOKPNN": 55,
         "order": 102
     },
-    {
+    "5811": {
         "LHLKADIGNOO": 5811,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000065,
@@ -1719,7 +1719,7 @@
         "NHFHLHOKPNN": 58,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5812": {
         "LHLKADIGNOO": 5812,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000065,
@@ -1727,7 +1727,7 @@
         "NHFHLHOKPNN": 55,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5901": {
         "LHLKADIGNOO": 5901,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000059,
@@ -1736,7 +1736,7 @@
         "NHFHLHOKPNN": 49,
         "order": 103
     },
-    {
+    "5902": {
         "LHLKADIGNOO": 5902,
         "KINIEEEHECA": "HOME_AVATAR_REWARD_EVENT",
         "avatarID": 10000059,
@@ -1745,7 +1745,7 @@
         "NHFHLHOKPNN": 56,
         "order": 104
     },
-    {
+    "5911": {
         "LHLKADIGNOO": 5911,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000059,
@@ -1753,7 +1753,7 @@
         "NHFHLHOKPNN": 49,
         "IGFAKCDKFHE": 300
     },
-    {
+    "5912": {
         "LHLKADIGNOO": 5912,
         "KINIEEEHECA": "HOME_AVATAR_SUMMON_EVENT",
         "avatarID": 10000059,
@@ -1761,4 +1761,4 @@
         "NHFHLHOKPNN": 56,
         "IGFAKCDKFHE": 300
     }
-]
+}

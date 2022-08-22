@@ -1,5 +1,5 @@
-[
-    {
+{
+    "101": {
         "describeId": 101,
         "score": 0.5699999928474426,
         "NMGLAGAHONN": 0.5699999928474426,
@@ -7,7 +7,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "102": {
         "describeId": 102,
         "score": 2.440000057220459,
         "NMGLAGAHONN": 2.440000057220459,
@@ -15,7 +15,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "103": {
         "describeId": 103,
         "score": 0.5699999928474426,
         "NMGLAGAHONN": 0.5699999928474426,
@@ -23,7 +23,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "104": {
         "describeId": 104,
         "score": 2.440000057220459,
         "NMGLAGAHONN": 2.440000057220459,
@@ -31,7 +31,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "105": {
         "describeId": 105,
         "score": 0.5699999928474426,
         "NMGLAGAHONN": 0.5699999928474426,
@@ -39,7 +39,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "106": {
         "describeId": 106,
         "score": 2.440000057220459,
         "NMGLAGAHONN": 2.440000057220459,
@@ -47,7 +47,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "107": {
         "describeId": 107,
         "score": 2.440000057220459,
         "NMGLAGAHONN": 2.440000057220459,
@@ -55,7 +55,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "108": {
         "describeId": 108,
         "score": 0.5699999928474426,
         "NMGLAGAHONN": 0.5699999928474426,
@@ -63,7 +63,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "109": {
         "describeId": 109,
         "score": 2.440000057220459,
         "NMGLAGAHONN": 2.440000057220459,
@@ -71,7 +71,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "110": {
         "describeId": 110,
         "score": 0.5699999928474426,
         "NMGLAGAHONN": 0.5699999928474426,
@@ -79,7 +79,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "111": {
         "describeId": 111,
         "score": 2.440000057220459,
         "NMGLAGAHONN": 2.440000057220459,
@@ -87,7 +87,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "112": {
         "describeId": 112,
         "score": 0.5699999928474426,
         "NMGLAGAHONN": 0.5699999928474426,
@@ -95,7 +95,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "113": {
         "describeId": 113,
         "score": 2.440000057220459,
         "NMGLAGAHONN": 2.440000057220459,
@@ -103,7 +103,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "114": {
         "describeId": 114,
         "score": 0.5699999928474426,
         "NMGLAGAHONN": 0.5699999928474426,
@@ -111,7 +111,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "115": {
         "describeId": 115,
         "score": 2.440000057220459,
         "NMGLAGAHONN": 2.440000057220459,
@@ -119,7 +119,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "201": {
         "describeId": 201,
         "score": 6.139999866485596,
         "NMGLAGAHONN": 6.139999866485596,
@@ -127,7 +127,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "401": {
         "describeId": 401,
         "score": 12.390000343322754,
         "NMGLAGAHONN": 12.390000343322754,
@@ -135,7 +135,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "402": {
         "describeId": 402,
         "score": 12.390000343322754,
         "NMGLAGAHONN": 12.390000343322754,
@@ -143,7 +143,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "403": {
         "describeId": 403,
         "score": 14.630000114440918,
         "NMGLAGAHONN": 14.630000114440918,
@@ -151,7 +151,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "404": {
         "describeId": 404,
         "score": 21.459999084472656,
         "NMGLAGAHONN": 21.459999084472656,
@@ -159,7 +159,7 @@
         "HCOBFIBMNAG": 0.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "405": {
         "describeId": 405,
         "score": 12.390000343322754,
         "NMGLAGAHONN": 12.390000343322754,
@@ -167,7 +167,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "406": {
         "describeId": 406,
         "score": 16.209999084472656,
         "NMGLAGAHONN": 16.209999084472656,
@@ -175,7 +175,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "501": {
         "describeId": 501,
         "score": 15.100000381469727,
         "NMGLAGAHONN": 15.100000381469727,
@@ -183,7 +183,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "502": {
         "describeId": 502,
         "score": 1.5099999904632568,
         "NMGLAGAHONN": 1.5099999904632568,
@@ -191,7 +191,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "503": {
         "describeId": 503,
         "score": 1.3200000524520874,
         "NMGLAGAHONN": 1.3200000524520874,
@@ -199,7 +199,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "504": {
         "describeId": 504,
         "score": 1.5399999618530273,
         "NMGLAGAHONN": 1.5399999618530273,
@@ -207,7 +207,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "505": {
         "describeId": 505,
         "score": 3.6700000762939453,
         "NMGLAGAHONN": 3.6700000762939453,
@@ -215,7 +215,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "506": {
         "describeId": 506,
         "score": 1.1799999475479126,
         "NMGLAGAHONN": 1.1799999475479126,
@@ -223,7 +223,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "507": {
         "describeId": 507,
         "score": 1.6299999952316284,
         "NMGLAGAHONN": 1.6299999952316284,
@@ -231,7 +231,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "508": {
         "describeId": 508,
         "score": 3.6700000762939453,
         "NMGLAGAHONN": 3.6700000762939453,
@@ -239,7 +239,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "509": {
         "describeId": 509,
         "score": 1.2899999618530273,
         "NMGLAGAHONN": 1.2899999618530273,
@@ -247,7 +247,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "601": {
         "describeId": 601,
         "score": 1.9900000095367432,
         "NMGLAGAHONN": 1.9900000095367432,
@@ -255,7 +255,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "602": {
         "describeId": 602,
         "score": 1.9900000095367432,
         "NMGLAGAHONN": 1.9900000095367432,
@@ -263,7 +263,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "603": {
         "describeId": 603,
         "score": 1.9900000095367432,
         "NMGLAGAHONN": 1.9900000095367432,
@@ -271,7 +271,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "604": {
         "describeId": 604,
         "score": 1.9900000095367432,
         "NMGLAGAHONN": 1.9900000095367432,
@@ -279,7 +279,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "605": {
         "describeId": 605,
         "score": 1.9900000095367432,
         "NMGLAGAHONN": 1.9900000095367432,
@@ -287,7 +287,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "606": {
         "describeId": 606,
         "score": 1.9900000095367432,
         "NMGLAGAHONN": 1.9900000095367432,
@@ -295,7 +295,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "607": {
         "describeId": 607,
         "score": 1.8200000524520874,
         "NMGLAGAHONN": 1.8200000524520874,
@@ -303,7 +303,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "701": {
         "describeId": 701,
         "score": 24.84000015258789,
         "NMGLAGAHONN": 24.84000015258789,
@@ -311,7 +311,7 @@
         "HCOBFIBMNAG": 0.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10101": {
         "describeId": 10101,
         "score": 1.2999999523162842,
         "NMGLAGAHONN": 1.2999999523162842,
@@ -319,7 +319,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10102": {
         "describeId": 10102,
         "score": 1.2999999523162842,
         "NMGLAGAHONN": 1.2999999523162842,
@@ -327,7 +327,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10103": {
         "describeId": 10103,
         "score": 1.2999999523162842,
         "NMGLAGAHONN": 1.2999999523162842,
@@ -335,7 +335,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10104": {
         "describeId": 10104,
         "score": 0.7099999785423279,
         "NMGLAGAHONN": 0.7099999785423279,
@@ -343,7 +343,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10105": {
         "describeId": 10105,
         "score": 0.7099999785423279,
         "NMGLAGAHONN": 0.7099999785423279,
@@ -351,7 +351,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10106": {
         "describeId": 10106,
         "score": 1.2999999523162842,
         "NMGLAGAHONN": 1.2999999523162842,
@@ -359,7 +359,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10107": {
         "describeId": 10107,
         "score": 1.2999999523162842,
         "NMGLAGAHONN": 1.2999999523162842,
@@ -367,7 +367,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10108": {
         "describeId": 10108,
         "score": 1.0,
         "NMGLAGAHONN": 1.0,
@@ -375,7 +375,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10109": {
         "describeId": 10109,
         "score": 0.7099999785423279,
         "NMGLAGAHONN": 0.7099999785423279,
@@ -383,7 +383,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10110": {
         "describeId": 10110,
         "score": 0.7099999785423279,
         "NMGLAGAHONN": 0.7099999785423279,
@@ -391,7 +391,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10111": {
         "describeId": 10111,
         "score": 1.0,
         "NMGLAGAHONN": 1.0,
@@ -399,7 +399,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10112": {
         "describeId": 10112,
         "score": 1.2999999523162842,
         "NMGLAGAHONN": 1.2999999523162842,
@@ -407,7 +407,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10113": {
         "describeId": 10113,
         "score": 0.7099999785423279,
         "NMGLAGAHONN": 0.7099999785423279,
@@ -415,7 +415,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10114": {
         "describeId": 10114,
         "score": 1.0,
         "NMGLAGAHONN": 1.0,
@@ -423,7 +423,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10115": {
         "describeId": 10115,
         "score": 2.049999952316284,
         "NMGLAGAHONN": 2.049999952316284,
@@ -431,7 +431,7 @@
         "HCOBFIBMNAG": 2.0,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10116": {
         "describeId": 10116,
         "score": 1.2999999523162842,
         "NMGLAGAHONN": 1.2999999523162842,
@@ -439,7 +439,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10201": {
         "describeId": 10201,
         "score": 3.5999999046325684,
         "NMGLAGAHONN": 3.5999999046325684,
@@ -447,7 +447,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10202": {
         "describeId": 10202,
         "score": 3.5999999046325684,
         "NMGLAGAHONN": 3.5999999046325684,
@@ -455,7 +455,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10203": {
         "describeId": 10203,
         "score": 3.5999999046325684,
         "NMGLAGAHONN": 3.5999999046325684,
@@ -463,7 +463,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10204": {
         "describeId": 10204,
         "score": 17.030000686645508,
         "NMGLAGAHONN": 17.030000686645508,
@@ -471,7 +471,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10205": {
         "describeId": 10205,
         "score": 14.920000076293945,
         "NMGLAGAHONN": 14.920000076293945,
@@ -479,7 +479,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10206": {
         "describeId": 10206,
         "score": 2.700000047683716,
         "NMGLAGAHONN": 2.700000047683716,
@@ -487,7 +487,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10207": {
         "describeId": 10207,
         "score": 3.5999999046325684,
         "NMGLAGAHONN": 3.5999999046325684,
@@ -495,7 +495,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10208": {
         "describeId": 10208,
         "score": 17.030000686645508,
         "NMGLAGAHONN": 17.030000686645508,
@@ -503,7 +503,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10301": {
         "describeId": 10301,
         "score": 1.5,
         "NMGLAGAHONN": 1.5,
@@ -511,7 +511,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10302": {
         "describeId": 10302,
         "score": 1.5,
         "NMGLAGAHONN": 1.5,
@@ -519,7 +519,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10303": {
         "describeId": 10303,
         "score": 1.5,
         "NMGLAGAHONN": 1.5,
@@ -527,7 +527,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10304": {
         "describeId": 10304,
         "score": 1.5,
         "NMGLAGAHONN": 1.5,
@@ -535,7 +535,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10305": {
         "describeId": 10305,
         "score": 1.149999976158142,
         "NMGLAGAHONN": 1.149999976158142,
@@ -543,7 +543,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "10306": {
         "describeId": 10306,
         "score": 1.5,
         "NMGLAGAHONN": 1.5,
@@ -551,7 +551,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20101": {
         "describeId": 20101,
         "score": 4.050000190734863,
         "NMGLAGAHONN": 4.050000190734863,
@@ -559,7 +559,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20102": {
         "describeId": 20102,
         "score": 4.050000190734863,
         "NMGLAGAHONN": 4.050000190734863,
@@ -567,7 +567,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20103": {
         "describeId": 20103,
         "score": 5.179999828338623,
         "NMGLAGAHONN": 5.179999828338623,
@@ -575,7 +575,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20104": {
         "describeId": 20104,
         "score": 5.179999828338623,
         "NMGLAGAHONN": 5.179999828338623,
@@ -583,7 +583,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20201": {
         "describeId": 20201,
         "score": 15.600000381469727,
         "NMGLAGAHONN": 15.600000381469727,
@@ -591,7 +591,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20202": {
         "describeId": 20202,
         "score": 15.600000381469727,
         "NMGLAGAHONN": 15.600000381469727,
@@ -599,7 +599,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20301": {
         "describeId": 20301,
         "score": 16.3799991607666,
         "NMGLAGAHONN": 16.3799991607666,
@@ -607,7 +607,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20302": {
         "describeId": 20302,
         "score": 16.3799991607666,
         "NMGLAGAHONN": 16.3799991607666,
@@ -615,7 +615,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20401": {
         "describeId": 20401,
         "score": 2.819999933242798,
         "NMGLAGAHONN": 2.819999933242798,
@@ -623,7 +623,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20402": {
         "describeId": 20402,
         "score": 2.819999933242798,
         "NMGLAGAHONN": 2.819999933242798,
@@ -631,7 +631,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20501": {
         "describeId": 20501,
         "score": 11.819999694824219,
         "NMGLAGAHONN": 11.819999694824219,
@@ -639,7 +639,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20502": {
         "describeId": 20502,
         "score": 11.819999694824219,
         "NMGLAGAHONN": 11.819999694824219,
@@ -647,7 +647,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20601": {
         "describeId": 20601,
         "score": 28.790000915527344,
         "NMGLAGAHONN": 28.790000915527344,
@@ -655,7 +655,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20701": {
         "describeId": 20701,
         "score": 6.880000114440918,
         "NMGLAGAHONN": 6.880000114440918,
@@ -663,7 +663,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20702": {
         "describeId": 20702,
         "score": 7.119999885559082,
         "NMGLAGAHONN": 7.119999885559082,
@@ -671,7 +671,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20703": {
         "describeId": 20703,
         "score": 6.230000019073486,
         "NMGLAGAHONN": 6.230000019073486,
@@ -679,7 +679,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20801": {
         "describeId": 20801,
         "score": 12.25,
         "NMGLAGAHONN": 12.25,
@@ -687,7 +687,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "20901": {
         "describeId": 20901,
         "score": 3.819999933242798,
         "NMGLAGAHONN": 3.819999933242798,
@@ -695,7 +695,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30101": {
         "describeId": 30101,
         "score": 4.269999980926514,
         "NMGLAGAHONN": 4.269999980926514,
@@ -703,7 +703,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30102": {
         "describeId": 30102,
         "score": 3.0799999237060547,
         "NMGLAGAHONN": 3.0799999237060547,
@@ -711,7 +711,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30103": {
         "describeId": 30103,
         "score": 5.760000228881836,
         "NMGLAGAHONN": 5.760000228881836,
@@ -719,7 +719,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30104": {
         "describeId": 30104,
         "score": 3.6500000953674316,
         "NMGLAGAHONN": 3.6500000953674316,
@@ -727,7 +727,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30105": {
         "describeId": 30105,
         "score": 4.900000095367432,
         "NMGLAGAHONN": 4.900000095367432,
@@ -735,7 +735,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30106": {
         "describeId": 30106,
         "score": 4.21999979019165,
         "NMGLAGAHONN": 4.21999979019165,
@@ -743,7 +743,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30201": {
         "describeId": 30201,
         "score": 7.599999904632568,
         "NMGLAGAHONN": 7.599999904632568,
@@ -751,7 +751,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30301": {
         "describeId": 30301,
         "score": 5.78000020980835,
         "NMGLAGAHONN": 5.78000020980835,
@@ -759,7 +759,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30401": {
         "describeId": 30401,
         "score": 5.78000020980835,
         "NMGLAGAHONN": 5.78000020980835,
@@ -767,7 +767,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "30501": {
         "describeId": 30501,
         "score": 8.380000114440918,
         "NMGLAGAHONN": 8.380000114440918,
@@ -775,7 +775,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40101": {
         "describeId": 40101,
         "score": 8.430000305175781,
         "NMGLAGAHONN": 8.430000305175781,
@@ -783,7 +783,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40102": {
         "describeId": 40102,
         "score": 11.720000267028809,
         "NMGLAGAHONN": 11.720000267028809,
@@ -791,7 +791,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40103": {
         "describeId": 40103,
         "score": 12.949999809265137,
         "NMGLAGAHONN": 12.949999809265137,
@@ -799,7 +799,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40104": {
         "describeId": 40104,
         "score": 24.809999465942383,
         "NMGLAGAHONN": 24.809999465942383,
@@ -807,7 +807,7 @@
         "HCOBFIBMNAG": 0.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40201": {
         "describeId": 40201,
         "score": 5.110000133514404,
         "NMGLAGAHONN": 5.110000133514404,
@@ -815,7 +815,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40202": {
         "describeId": 40202,
         "score": 5.110000133514404,
         "NMGLAGAHONN": 5.110000133514404,
@@ -823,7 +823,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40203": {
         "describeId": 40203,
         "score": 7.170000076293945,
         "NMGLAGAHONN": 7.170000076293945,
@@ -831,7 +831,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40204": {
         "describeId": 40204,
         "score": 6.730000019073486,
         "NMGLAGAHONN": 6.730000019073486,
@@ -839,7 +839,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40211": {
         "describeId": 40211,
         "score": 29.18000030517578,
         "NMGLAGAHONN": 29.18000030517578,
@@ -847,7 +847,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "40301": {
         "describeId": 40301,
         "score": 11.569999694824219,
         "NMGLAGAHONN": 11.569999694824219,
@@ -856,7 +856,7 @@
         "LKBODDIOBMC": 1.2999999523162842,
         "EKCBBKCFGCD": 1.0
     },
-    {
+    "40302": {
         "describeId": 40302,
         "score": 10.079999923706055,
         "NMGLAGAHONN": 10.079999923706055,
@@ -865,7 +865,7 @@
         "LKBODDIOBMC": 2.299999952316284,
         "EKCBBKCFGCD": 2.0
     },
-    {
+    "50101": {
         "describeId": 50101,
         "score": 2.390000104904175,
         "NMGLAGAHONN": 2.390000104904175,
@@ -873,7 +873,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50102": {
         "describeId": 50102,
         "score": 1.0499999523162842,
         "NMGLAGAHONN": 1.0499999523162842,
@@ -881,7 +881,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50103": {
         "describeId": 50103,
         "score": 1.350000023841858,
         "NMGLAGAHONN": 1.350000023841858,
@@ -889,7 +889,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50104": {
         "describeId": 50104,
         "score": 1.350000023841858,
         "NMGLAGAHONN": 1.350000023841858,
@@ -897,7 +897,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50105": {
         "describeId": 50105,
         "score": 1.350000023841858,
         "NMGLAGAHONN": 1.350000023841858,
@@ -905,7 +905,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50106": {
         "describeId": 50106,
         "score": 1.350000023841858,
         "NMGLAGAHONN": 1.350000023841858,
@@ -913,7 +913,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50107": {
         "describeId": 50107,
         "score": 1.7200000286102295,
         "NMGLAGAHONN": 1.7200000286102295,
@@ -921,7 +921,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50201": {
         "describeId": 50201,
         "score": 2.049999952316284,
         "NMGLAGAHONN": 2.049999952316284,
@@ -929,7 +929,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50202": {
         "describeId": 50202,
         "score": 1.0499999523162842,
         "NMGLAGAHONN": 1.0499999523162842,
@@ -937,7 +937,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50301": {
         "describeId": 50301,
         "score": 2.619999885559082,
         "NMGLAGAHONN": 2.619999885559082,
@@ -945,7 +945,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50302": {
         "describeId": 50302,
         "score": 1.7200000286102295,
         "NMGLAGAHONN": 1.7200000286102295,
@@ -953,7 +953,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50303": {
         "describeId": 50303,
         "score": 1.7200000286102295,
         "NMGLAGAHONN": 1.7200000286102295,
@@ -961,7 +961,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50401": {
         "describeId": 50401,
         "score": 2.4100000858306885,
         "NMGLAGAHONN": 2.4100000858306885,
@@ -969,7 +969,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50501": {
         "describeId": 50501,
         "score": 1.350000023841858,
         "NMGLAGAHONN": 1.350000023841858,
@@ -977,7 +977,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50502": {
         "describeId": 50502,
         "score": 2.4100000858306885,
         "NMGLAGAHONN": 2.4100000858306885,
@@ -985,7 +985,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50503": {
         "describeId": 50503,
         "score": 1.850000023841858,
         "NMGLAGAHONN": 1.850000023841858,
@@ -993,7 +993,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50504": {
         "describeId": 50504,
         "score": 3.0799999237060547,
         "NMGLAGAHONN": 3.0799999237060547,
@@ -1001,7 +1001,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50505": {
         "describeId": 50505,
         "score": 1.350000023841858,
         "NMGLAGAHONN": 1.350000023841858,
@@ -1009,7 +1009,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50601": {
         "describeId": 50601,
         "score": 1.7200000286102295,
         "NMGLAGAHONN": 1.7200000286102295,
@@ -1017,7 +1017,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50701": {
         "describeId": 50701,
         "score": 1.7200000286102295,
         "NMGLAGAHONN": 1.7200000286102295,
@@ -1025,7 +1025,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50702": {
         "describeId": 50702,
         "score": 8.630000114440918,
         "NMGLAGAHONN": 8.630000114440918,
@@ -1033,7 +1033,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50801": {
         "describeId": 50801,
         "score": 2.259999990463257,
         "NMGLAGAHONN": 2.259999990463257,
@@ -1041,7 +1041,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50802": {
         "describeId": 50802,
         "score": 2.259999990463257,
         "NMGLAGAHONN": 2.259999990463257,
@@ -1049,7 +1049,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50803": {
         "describeId": 50803,
         "score": 2.259999990463257,
         "NMGLAGAHONN": 2.259999990463257,
@@ -1057,7 +1057,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50804": {
         "describeId": 50804,
         "score": 4.71999979019165,
         "NMGLAGAHONN": 4.71999979019165,
@@ -1065,7 +1065,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50901": {
         "describeId": 50901,
         "score": 25.3799991607666,
         "NMGLAGAHONN": 25.3799991607666,
@@ -1073,7 +1073,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50902": {
         "describeId": 50902,
         "score": 16.809999465942383,
         "NMGLAGAHONN": 16.809999465942383,
@@ -1081,7 +1081,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50903": {
         "describeId": 50903,
         "score": 16.809999465942383,
         "NMGLAGAHONN": 16.809999465942383,
@@ -1089,7 +1089,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "50904": {
         "describeId": 50904,
         "score": 16.59000015258789,
         "NMGLAGAHONN": 16.59000015258789,
@@ -1097,7 +1097,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "51001": {
         "describeId": 51001,
         "score": 9.279999732971191,
         "NMGLAGAHONN": 9.279999732971191,
@@ -1105,7 +1105,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "51002": {
         "describeId": 51002,
         "score": 9.279999732971191,
         "NMGLAGAHONN": 9.279999732971191,
@@ -1113,7 +1113,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "51003": {
         "describeId": 51003,
         "score": 9.279999732971191,
         "NMGLAGAHONN": 9.279999732971191,
@@ -1121,7 +1121,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "51004": {
         "describeId": 51004,
         "score": 9.279999732971191,
         "NMGLAGAHONN": 9.279999732971191,
@@ -1129,7 +1129,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "52101": {
         "describeId": 52101,
         "score": 1.850000023841858,
         "NMGLAGAHONN": 1.850000023841858,
@@ -1137,7 +1137,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "52102": {
         "describeId": 52102,
         "score": 1.6100000143051147,
         "NMGLAGAHONN": 1.6100000143051147,
@@ -1145,7 +1145,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "52103": {
         "describeId": 52103,
         "score": 1.6100000143051147,
         "NMGLAGAHONN": 1.6100000143051147,
@@ -1153,7 +1153,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "52104": {
         "describeId": 52104,
         "score": 1.850000023841858,
         "NMGLAGAHONN": 1.850000023841858,
@@ -1161,7 +1161,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "52105": {
         "describeId": 52105,
         "score": 1.850000023841858,
         "NMGLAGAHONN": 1.850000023841858,
@@ -1169,7 +1169,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "53101": {
         "describeId": 53101,
         "score": 5.199999809265137,
         "NMGLAGAHONN": 5.199999809265137,
@@ -1177,7 +1177,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "53102": {
         "describeId": 53102,
         "score": 5.199999809265137,
         "NMGLAGAHONN": 5.199999809265137,
@@ -1185,7 +1185,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "53103": {
         "describeId": 53103,
         "score": 5.380000114440918,
         "NMGLAGAHONN": 5.380000114440918,
@@ -1193,7 +1193,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60101": {
         "describeId": 60101,
         "score": 2.8399999141693115,
         "NMGLAGAHONN": 2.8399999141693115,
@@ -1201,7 +1201,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60102": {
         "describeId": 60102,
         "score": 3.359999895095825,
         "NMGLAGAHONN": 3.359999895095825,
@@ -1209,7 +1209,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60103": {
         "describeId": 60103,
         "score": 2.8399999141693115,
         "NMGLAGAHONN": 2.8399999141693115,
@@ -1217,7 +1217,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60201": {
         "describeId": 60201,
         "score": 11.609999656677246,
         "NMGLAGAHONN": 11.609999656677246,
@@ -1225,7 +1225,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60202": {
         "describeId": 60202,
         "score": 11.609999656677246,
         "NMGLAGAHONN": 11.609999656677246,
@@ -1233,7 +1233,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60203": {
         "describeId": 60203,
         "score": 14.220000267028809,
         "NMGLAGAHONN": 14.220000267028809,
@@ -1241,7 +1241,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60301": {
         "describeId": 60301,
         "score": 3.2699999809265137,
         "NMGLAGAHONN": 3.2699999809265137,
@@ -1249,7 +1249,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60401": {
         "describeId": 60401,
         "score": 9.270000457763672,
         "NMGLAGAHONN": 9.270000457763672,
@@ -1257,7 +1257,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60501": {
         "describeId": 60501,
         "score": 18.649999618530273,
         "NMGLAGAHONN": 18.649999618530273,
@@ -1265,7 +1265,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60502": {
         "describeId": 60502,
         "score": 18.649999618530273,
         "NMGLAGAHONN": 18.649999618530273,
@@ -1273,7 +1273,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60503": {
         "describeId": 60503,
         "score": 18.649999618530273,
         "NMGLAGAHONN": 18.649999618530273,
@@ -1281,7 +1281,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60504": {
         "describeId": 60504,
         "score": 18.649999618530273,
         "NMGLAGAHONN": 18.649999618530273,
@@ -1289,7 +1289,7 @@
         "HCOBFIBMNAG": 0.75,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60506": {
         "describeId": 60506,
         "score": 12.600000381469727,
         "NMGLAGAHONN": 12.600000381469727,
@@ -1297,7 +1297,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60507": {
         "describeId": 60507,
         "score": 20.65999984741211,
         "NMGLAGAHONN": 20.65999984741211,
@@ -1305,7 +1305,7 @@
         "HCOBFIBMNAG": 0.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60508": {
         "describeId": 60508,
         "score": 20.65999984741211,
         "NMGLAGAHONN": 20.65999984741211,
@@ -1313,7 +1313,7 @@
         "HCOBFIBMNAG": 0.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60509": {
         "describeId": 60509,
         "score": 4.880000114440918,
         "NMGLAGAHONN": 4.880000114440918,
@@ -1321,7 +1321,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60510": {
         "describeId": 60510,
         "score": 4.880000114440918,
         "NMGLAGAHONN": 4.880000114440918,
@@ -1329,7 +1329,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60511": {
         "describeId": 60511,
         "score": 4.880000114440918,
         "NMGLAGAHONN": 4.880000114440918,
@@ -1337,7 +1337,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60601": {
         "describeId": 60601,
         "score": 0.5299999713897705,
         "NMGLAGAHONN": 0.5299999713897705,
@@ -1345,7 +1345,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60602": {
         "describeId": 60602,
         "score": 0.5299999713897705,
         "NMGLAGAHONN": 0.5299999713897705,
@@ -1353,7 +1353,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60603": {
         "describeId": 60603,
         "score": 0.5299999713897705,
         "NMGLAGAHONN": 0.5299999713897705,
@@ -1361,7 +1361,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60801": {
         "describeId": 60801,
         "score": 28.790000915527344,
         "NMGLAGAHONN": 28.790000915527344,
@@ -1369,7 +1369,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60901": {
         "describeId": 60901,
         "score": 1.149999976158142,
         "NMGLAGAHONN": 1.149999976158142,
@@ -1377,7 +1377,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60902": {
         "describeId": 60902,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1385,7 +1385,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60903": {
         "describeId": 60903,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1393,7 +1393,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60904": {
         "describeId": 60904,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1401,7 +1401,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60905": {
         "describeId": 60905,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1409,7 +1409,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60906": {
         "describeId": 60906,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1417,7 +1417,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60907": {
         "describeId": 60907,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1425,7 +1425,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60908": {
         "describeId": 60908,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1433,7 +1433,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60909": {
         "describeId": 60909,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1441,7 +1441,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "60910": {
         "describeId": 60910,
         "score": 1.399999976158142,
         "NMGLAGAHONN": 1.399999976158142,
@@ -1449,7 +1449,7 @@
         "HCOBFIBMNAG": 1.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "61101": {
         "describeId": 61101,
         "score": 23.639999389648438,
         "NMGLAGAHONN": 23.639999389648438,
@@ -1457,7 +1457,7 @@
         "HCOBFIBMNAG": 0.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "90101": {
         "describeId": 90101,
         "score": 19.549999237060547,
         "NMGLAGAHONN": 19.549999237060547,
@@ -1465,7 +1465,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "90201": {
         "describeId": 90201,
         "score": 24.8799991607666,
         "NMGLAGAHONN": 24.8799991607666,
@@ -1473,7 +1473,7 @@
         "HCOBFIBMNAG": 0.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "90301": {
         "describeId": 90301,
         "score": 28.18600082397461,
         "NMGLAGAHONN": 28.18600082397461,
@@ -1481,7 +1481,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "90401": {
         "describeId": 90401,
         "score": 47.52000045776367,
         "NMGLAGAHONN": 47.52000045776367,
@@ -1489,7 +1489,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "90501": {
         "describeId": 90501,
         "score": 50.11199951171875,
         "NMGLAGAHONN": 50.11199951171875,
@@ -1497,7 +1497,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "90601": {
         "describeId": 90601,
         "score": 24.90999984741211,
         "NMGLAGAHONN": 24.90999984741211,
@@ -1505,7 +1505,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "90602": {
         "describeId": 90602,
         "score": 133.75999450683594,
         "NMGLAGAHONN": 43.369998931884766,
@@ -1513,7 +1513,7 @@
         "HCOBFIBMNAG": 0.25,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80601": {
         "describeId": 80601,
         "score": 0.6299999952316284,
         "NMGLAGAHONN": 0.6299999952316284,
@@ -1521,7 +1521,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80602": {
         "describeId": 80602,
         "score": 0.7300000190734863,
         "NMGLAGAHONN": 0.7300000190734863,
@@ -1529,7 +1529,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80605": {
         "describeId": 80605,
         "score": 0.6299999952316284,
         "NMGLAGAHONN": 0.6299999952316284,
@@ -1537,7 +1537,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80606": {
         "describeId": 80606,
         "score": 0.6299999952316284,
         "NMGLAGAHONN": 0.6299999952316284,
@@ -1545,7 +1545,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80607": {
         "describeId": 80607,
         "score": 1.4299999475479126,
         "NMGLAGAHONN": 1.4299999475479126,
@@ -1553,7 +1553,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80608": {
         "describeId": 80608,
         "score": 1.0399999618530273,
         "NMGLAGAHONN": 1.0399999618530273,
@@ -1561,7 +1561,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80609": {
         "describeId": 80609,
         "score": 1.0399999618530273,
         "NMGLAGAHONN": 1.0399999618530273,
@@ -1569,7 +1569,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80610": {
         "describeId": 80610,
         "score": 0.6800000071525574,
         "NMGLAGAHONN": 0.6800000071525574,
@@ -1577,7 +1577,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80611": {
         "describeId": 80611,
         "score": 1.4299999475479126,
         "NMGLAGAHONN": 1.4299999475479126,
@@ -1585,7 +1585,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80612": {
         "describeId": 80612,
         "score": 1.0399999618530273,
         "NMGLAGAHONN": 1.0399999618530273,
@@ -1593,7 +1593,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80613": {
         "describeId": 80613,
         "score": 1.0399999618530273,
         "NMGLAGAHONN": 1.0399999618530273,
@@ -1601,7 +1601,7 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     },
-    {
+    "80614": {
         "describeId": 80614,
         "score": 0.6800000071525574,
         "NMGLAGAHONN": 0.6800000071525574,
@@ -1609,4 +1609,4 @@
         "HCOBFIBMNAG": 1.5,
         "LKBODDIOBMC": 0.30000001192092896
     }
-]
+}

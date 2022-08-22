@@ -1,1250 +1,1250 @@
-[
-    {
+{
+    "101": {
         "titleID": 101,
         "titleNameTextMapHash": 611289343,
         "isInverted": true
     },
-    {
+    "102": {
         "titleID": 102,
         "titleNameTextMapHash": 1863790967,
         "isInverted": true
     },
-    {
+    "103": {
         "titleID": 103,
         "titleNameTextMapHash": 1683437439,
         "isInverted": true
     },
-    {
+    "111": {
         "titleID": 111,
         "titleNameTextMapHash": 1610694895,
         "isInverted": true
     },
-    {
+    "112": {
         "titleID": 112,
         "titleNameTextMapHash": 2071156167,
         "isInverted": true
     },
-    {
+    "121": {
         "titleID": 121,
         "titleNameTextMapHash": 1786437831,
         "isInverted": true
     },
-    {
+    "122": {
         "titleID": 122,
         "titleNameTextMapHash": 456265943,
         "isInverted": true
     },
-    {
+    "123": {
         "titleID": 123,
         "titleNameTextMapHash": 1407733695,
         "isInverted": true
     },
-    {
+    "131": {
         "titleID": 131,
         "titleNameTextMapHash": 3648933895,
         "isInverted": true
     },
-    {
+    "141": {
         "titleID": 141,
         "titleNameTextMapHash": 1621370703,
         "isInverted": true
     },
-    {
+    "142": {
         "titleID": 142,
         "titleNameTextMapHash": 792431279
     },
-    {
+    "151": {
         "titleID": 151,
         "titleNameTextMapHash": 4011091919
     },
-    {
+    "152": {
         "titleID": 152,
         "titleNameTextMapHash": 1411916199
     },
-    {
+    "153": {
         "titleID": 153,
         "titleNameTextMapHash": 1327725359
     },
-    {
+    "154": {
         "titleID": 154,
         "titleNameTextMapHash": 3316199415,
         "isInverted": true
     },
-    {
+    "155": {
         "titleID": 155,
         "titleNameTextMapHash": 2349810527,
         "isInverted": true
     },
-    {
+    "1001": {
         "titleID": 1001,
         "titleNameTextMapHash": 3442676239
     },
-    {
+    "1002": {
         "titleID": 1002,
         "titleNameTextMapHash": 1907026423
     },
-    {
+    "1003": {
         "titleID": 1003,
         "titleNameTextMapHash": 826927551
     },
-    {
+    "1004": {
         "titleID": 1004,
         "titleNameTextMapHash": 50110623
     },
-    {
+    "1005": {
         "titleID": 1005,
         "titleNameTextMapHash": 3162776823
     },
-    {
+    "1006": {
         "titleID": 1006,
         "titleNameTextMapHash": 812925943
     },
-    {
+    "1007": {
         "titleID": 1007,
         "titleNameTextMapHash": 1884823111
     },
-    {
+    "1011": {
         "titleID": 1011,
         "titleNameTextMapHash": 1126712863
     },
-    {
+    "1021": {
         "titleID": 1021,
         "titleNameTextMapHash": 1066398151
     },
-    {
+    "1031": {
         "titleID": 1031,
         "titleNameTextMapHash": 1095536183
     },
-    {
+    "1032": {
         "titleID": 1032,
         "titleNameTextMapHash": 1694877743
     },
-    {
+    "1041": {
         "titleID": 1041,
         "titleNameTextMapHash": 4183094271
     },
-    {
+    "1051": {
         "titleID": 1051,
         "titleNameTextMapHash": 1456938855
     },
-    {
+    "1061": {
         "titleID": 1061,
         "titleNameTextMapHash": 1149332895
     },
-    {
+    "1071": {
         "titleID": 1071,
         "titleNameTextMapHash": 3162896055
     },
-    {
+    "1101": {
         "titleID": 1101,
         "titleNameTextMapHash": 2915077007
     },
-    {
+    "1102": {
         "titleID": 1102,
         "titleNameTextMapHash": 3489578911
     },
-    {
+    "1103": {
         "titleID": 1103,
         "titleNameTextMapHash": 1464476751
     },
-    {
+    "1111": {
         "titleID": 1111,
         "titleNameTextMapHash": 1580002279
     },
-    {
+    "1112": {
         "titleID": 1112,
         "titleNameTextMapHash": 201192031
     },
-    {
+    "1113": {
         "titleID": 1113,
         "titleNameTextMapHash": 3140338047
     },
-    {
+    "1114": {
         "titleID": 1114,
         "titleNameTextMapHash": 3258054855
     },
-    {
+    "1115": {
         "titleID": 1115,
         "titleNameTextMapHash": 2801746367
     },
-    {
+    "1116": {
         "titleID": 1116,
         "titleNameTextMapHash": 724965327
     },
-    {
+    "1117": {
         "titleID": 1117,
         "titleNameTextMapHash": 1504415135
     },
-    {
+    "1201": {
         "titleID": 1201,
         "titleNameTextMapHash": 641743687
     },
-    {
+    "1202": {
         "titleID": 1202,
         "titleNameTextMapHash": 2866324807
     },
-    {
+    "2001": {
         "titleID": 2001,
         "titleNameTextMapHash": 3372311639
     },
-    {
+    "2002": {
         "titleID": 2002,
         "titleNameTextMapHash": 4787039
     },
-    {
+    "2003": {
         "titleID": 2003,
         "titleNameTextMapHash": 3502543183
     },
-    {
+    "2004": {
         "titleID": 2004,
         "titleNameTextMapHash": 3940540839
     },
-    {
+    "2005": {
         "titleID": 2005,
         "titleNameTextMapHash": 1433877471
     },
-    {
+    "2006": {
         "titleID": 2006,
         "titleNameTextMapHash": 4106108231
     },
-    {
+    "2101": {
         "titleID": 2101,
         "titleNameTextMapHash": 3272662991
     },
-    {
+    "2102": {
         "titleID": 2102,
         "titleNameTextMapHash": 2763565143
     },
-    {
+    "2103": {
         "titleID": 2103,
         "titleNameTextMapHash": 2312309791
     },
-    {
+    "2111": {
         "titleID": 2111,
         "titleNameTextMapHash": 382592143
     },
-    {
+    "2112": {
         "titleID": 2112,
         "titleNameTextMapHash": 1260004983
     },
-    {
+    "2113": {
         "titleID": 2113,
         "titleNameTextMapHash": 510012799
     },
-    {
+    "2201": {
         "titleID": 2201,
         "titleNameTextMapHash": 705562231,
         "isInverted": true
     },
-    {
+    "2202": {
         "titleID": 2202,
         "titleNameTextMapHash": 1735603255
     },
-    {
+    "2211": {
         "titleID": 2211,
         "titleNameTextMapHash": 1764723215,
         "isInverted": true
     },
-    {
+    "2221": {
         "titleID": 2221,
         "titleNameTextMapHash": 2109139647
     },
-    {
+    "2222": {
         "titleID": 2222,
         "titleNameTextMapHash": 826570055
     },
-    {
+    "2223": {
         "titleID": 2223,
         "titleNameTextMapHash": 783836327
     },
-    {
+    "2224": {
         "titleID": 2224,
         "titleNameTextMapHash": 2299711455
     },
-    {
+    "2225": {
         "titleID": 2225,
         "titleNameTextMapHash": 2339276447
     },
-    {
+    "2226": {
         "titleID": 2226,
         "titleNameTextMapHash": 3598397775
     },
-    {
+    "2227": {
         "titleID": 2227,
         "titleNameTextMapHash": 3236505111
     },
-    {
+    "2228": {
         "titleID": 2228,
         "titleNameTextMapHash": 2763133887
     },
-    {
+    "3001": {
         "titleID": 3001,
         "titleNameTextMapHash": 4275091487
     },
-    {
+    "3011": {
         "titleID": 3011,
         "titleNameTextMapHash": 2119774575
     },
-    {
+    "3090": {
         "titleID": 3090,
         "titleNameTextMapHash": 1619610175
     },
-    {
+    "3101": {
         "titleID": 3101,
         "titleNameTextMapHash": 3041589367
     },
-    {
+    "3102": {
         "titleID": 3102,
         "titleNameTextMapHash": 71501855
     },
-    {
+    "3103": {
         "titleID": 3103,
         "titleNameTextMapHash": 2732729943
     },
-    {
+    "3104": {
         "titleID": 3104,
         "titleNameTextMapHash": 2938534431
     },
-    {
+    "3105": {
         "titleID": 3105,
         "titleNameTextMapHash": 3330886223
     },
-    {
+    "3111": {
         "titleID": 3111,
         "titleNameTextMapHash": 3207163591
     },
-    {
+    "3112": {
         "titleID": 3112,
         "titleNameTextMapHash": 2455323215
     },
-    {
+    "3113": {
         "titleID": 3113,
         "titleNameTextMapHash": 4262641967
     },
-    {
+    "3201": {
         "titleID": 3201,
         "titleNameTextMapHash": 3138720183
     },
-    {
+    "3202": {
         "titleID": 3202,
         "titleNameTextMapHash": 752200839
     },
-    {
+    "3203": {
         "titleID": 3203,
         "titleNameTextMapHash": 3144530879
     },
-    {
+    "3204": {
         "titleID": 3204,
         "titleNameTextMapHash": 2461230975
     },
-    {
+    "3205": {
         "titleID": 3205,
         "titleNameTextMapHash": 172091855
     },
-    {
+    "3206": {
         "titleID": 3206,
         "titleNameTextMapHash": 2294697567
     },
-    {
+    "4001": {
         "titleID": 4001,
         "titleNameTextMapHash": 1400868983,
         "isInverted": true
     },
-    {
+    "4002": {
         "titleID": 4002,
         "titleNameTextMapHash": 2296200775,
         "isInverted": true
     },
-    {
+    "4003": {
         "titleID": 4003,
         "titleNameTextMapHash": 715089791,
         "isInverted": true
     },
-    {
+    "4004": {
         "titleID": 4004,
         "titleNameTextMapHash": 3179181415,
         "isInverted": true
     },
-    {
+    "4011": {
         "titleID": 4011,
         "titleNameTextMapHash": 1822534847,
         "isInverted": true
     },
-    {
+    "4021": {
         "titleID": 4021,
         "titleNameTextMapHash": 2054457567,
         "isInverted": true
     },
-    {
+    "4022": {
         "titleID": 4022,
         "titleNameTextMapHash": 310413383,
         "isInverted": true
     },
-    {
+    "4031": {
         "titleID": 4031,
         "titleNameTextMapHash": 3295893655
     },
-    {
+    "4032": {
         "titleID": 4032,
         "titleNameTextMapHash": 3150185015
     },
-    {
+    "4041": {
         "titleID": 4041,
         "titleNameTextMapHash": 3354779047
     },
-    {
+    "4051": {
         "titleID": 4051,
         "titleNameTextMapHash": 3949690983,
         "isInverted": true
     },
-    {
+    "4061": {
         "titleID": 4061,
         "titleNameTextMapHash": 3896091415,
         "isInverted": true
     },
-    {
+    "5001": {
         "titleID": 5001,
         "titleNameTextMapHash": 1306608279,
         "isInverted": true
     },
-    {
+    "5002": {
         "titleID": 5002,
         "titleNameTextMapHash": 510473727,
         "isInverted": true
     },
-    {
+    "5003": {
         "titleID": 5003,
         "titleNameTextMapHash": 553527231,
         "isInverted": true
     },
-    {
+    "5004": {
         "titleID": 5004,
         "titleNameTextMapHash": 882519711,
         "isInverted": true
     },
-    {
+    "5101": {
         "titleID": 5101,
         "titleNameTextMapHash": 3682481871,
         "isInverted": true
     },
-    {
+    "5102": {
         "titleID": 5102,
         "titleNameTextMapHash": 4062303479,
         "isInverted": true
     },
-    {
+    "5111": {
         "titleID": 5111,
         "titleNameTextMapHash": 3368507119,
         "isInverted": true
     },
-    {
+    "5112": {
         "titleID": 5112,
         "titleNameTextMapHash": 2112511879,
         "isInverted": true
     },
-    {
+    "5121": {
         "titleID": 5121,
         "titleNameTextMapHash": 4135901895,
         "isInverted": true
     },
-    {
+    "5122": {
         "titleID": 5122,
         "titleNameTextMapHash": 3742072615,
         "isInverted": true
     },
-    {
+    "6001": {
         "titleID": 6001,
         "titleNameTextMapHash": 1074946407
     },
-    {
+    "6002": {
         "titleID": 6002,
         "titleNameTextMapHash": 1867418743
     },
-    {
+    "6003": {
         "titleID": 6003,
         "titleNameTextMapHash": 3768379127
     },
-    {
+    "6004": {
         "titleID": 6004,
         "titleNameTextMapHash": 376189863
     },
-    {
+    "6005": {
         "titleID": 6005,
         "titleNameTextMapHash": 411852207
     },
-    {
+    "6006": {
         "titleID": 6006,
         "titleNameTextMapHash": 2279099679
     },
-    {
+    "6011": {
         "titleID": 6011,
         "titleNameTextMapHash": 2810870263
     },
-    {
+    "6012": {
         "titleID": 6012,
         "titleNameTextMapHash": 1902706071
     },
-    {
+    "6013": {
         "titleID": 6013,
         "titleNameTextMapHash": 1022571935
     },
-    {
+    "6014": {
         "titleID": 6014,
         "titleNameTextMapHash": 4224913535
     },
-    {
+    "6101": {
         "titleID": 6101,
         "titleNameTextMapHash": 3804864135
     },
-    {
+    "7001": {
         "titleID": 7001,
         "titleNameTextMapHash": 2475795295
     },
-    {
+    "7002": {
         "titleID": 7002,
         "titleNameTextMapHash": 1400128311
     },
-    {
+    "7003": {
         "titleID": 7003,
         "titleNameTextMapHash": 1902406215
     },
-    {
+    "7004": {
         "titleID": 7004,
         "titleNameTextMapHash": 3843706759
     },
-    {
+    "7005": {
         "titleID": 7005,
         "titleNameTextMapHash": 1327255903
     },
-    {
+    "7006": {
         "titleID": 7006,
         "titleNameTextMapHash": 505271079
     },
-    {
+    "7007": {
         "titleID": 7007,
         "titleNameTextMapHash": 2072107391
     },
-    {
+    "7008": {
         "titleID": 7008,
         "titleNameTextMapHash": 1341597039
     },
-    {
+    "7011": {
         "titleID": 7011,
         "titleNameTextMapHash": 3021789503
     },
-    {
+    "7012": {
         "titleID": 7012,
         "titleNameTextMapHash": 701893295
     },
-    {
+    "7111": {
         "titleID": 7111,
         "titleNameTextMapHash": 898493423
     },
-    {
+    "7112": {
         "titleID": 7112,
         "titleNameTextMapHash": 3498832663
     },
-    {
+    "7121": {
         "titleID": 7121,
         "titleNameTextMapHash": 2877411191
     },
-    {
+    "7122": {
         "titleID": 7122,
         "titleNameTextMapHash": 1290509175
     },
-    {
+    "7123": {
         "titleID": 7123,
         "titleNameTextMapHash": 748026823
     },
-    {
+    "7124": {
         "titleID": 7124,
         "titleNameTextMapHash": 459203023
     },
-    {
+    "7131": {
         "titleID": 7131,
         "titleNameTextMapHash": 1459083847
     },
-    {
+    "7132": {
         "titleID": 7132,
         "titleNameTextMapHash": 1958846447
     },
-    {
+    "7141": {
         "titleID": 7141,
         "titleNameTextMapHash": 4276083191,
         "isInverted": true
     },
-    {
+    "7142": {
         "titleID": 7142,
         "titleNameTextMapHash": 1930527327,
         "isInverted": true
     },
-    {
+    "7143": {
         "titleID": 7143,
         "titleNameTextMapHash": 585628847,
         "isInverted": true
     },
-    {
+    "7144": {
         "titleID": 7144,
         "titleNameTextMapHash": 3192005023,
         "isInverted": true
     },
-    {
+    "7145": {
         "titleID": 7145,
         "titleNameTextMapHash": 501044623,
         "isInverted": true
     },
-    {
+    "7146": {
         "titleID": 7146,
         "titleNameTextMapHash": 3951346303
     },
-    {
+    "7147": {
         "titleID": 7147,
         "titleNameTextMapHash": 1956851607
     },
-    {
+    "7148": {
         "titleID": 7148,
         "titleNameTextMapHash": 2919593911
     },
-    {
+    "7151": {
         "titleID": 7151,
         "titleNameTextMapHash": 4119265847
     },
-    {
+    "7152": {
         "titleID": 7152,
         "titleNameTextMapHash": 681212735
     },
-    {
+    "7153": {
         "titleID": 7153,
         "titleNameTextMapHash": 2254304583
     },
-    {
+    "7201": {
         "titleID": 7201,
         "titleNameTextMapHash": 3478689231
     },
-    {
+    "7301": {
         "titleID": 7301,
         "titleNameTextMapHash": 3350792191
     },
-    {
+    "7302": {
         "titleID": 7302,
         "titleNameTextMapHash": 2035063487
     },
-    {
+    "7303": {
         "titleID": 7303,
         "titleNameTextMapHash": 3535089111
     },
-    {
+    "7304": {
         "titleID": 7304,
         "titleNameTextMapHash": 1865425207
     },
-    {
+    "7305": {
         "titleID": 7305,
         "titleNameTextMapHash": 1573506223
     },
-    {
+    "7311": {
         "titleID": 7311,
         "titleNameTextMapHash": 4213177647
     },
-    {
+    "7321": {
         "titleID": 7321,
         "titleNameTextMapHash": 2857957759
     },
-    {
+    "7331": {
         "titleID": 7331,
         "titleNameTextMapHash": 3235319175
     },
-    {
+    "8001": {
         "titleID": 8001,
         "titleNameTextMapHash": 174961871
     },
-    {
+    "8002": {
         "titleID": 8002,
         "titleNameTextMapHash": 2926371463
     },
-    {
+    "8003": {
         "titleID": 8003,
         "titleNameTextMapHash": 282390671
     },
-    {
+    "8004": {
         "titleID": 8004,
         "titleNameTextMapHash": 1183284895
     },
-    {
+    "8005": {
         "titleID": 8005,
         "titleNameTextMapHash": 1191368287
     },
-    {
+    "8006": {
         "titleID": 8006,
         "titleNameTextMapHash": 2560859023
     },
-    {
+    "8011": {
         "titleID": 8011,
         "titleNameTextMapHash": 250559111,
         "isInverted": true
     },
-    {
+    "8021": {
         "titleID": 8021,
         "titleNameTextMapHash": 1400422127
     },
-    {
+    "8022": {
         "titleID": 8022,
         "titleNameTextMapHash": 2125644439
     },
-    {
+    "8024": {
         "titleID": 8024,
         "titleNameTextMapHash": 1332085695
     },
-    {
+    "8025": {
         "titleID": 8025,
         "titleNameTextMapHash": 3251431
     },
-    {
+    "8027": {
         "titleID": 8027,
         "titleNameTextMapHash": 324732879
     },
-    {
+    "8028": {
         "titleID": 8028,
         "titleNameTextMapHash": 3264665823
     },
-    {
+    "8029": {
         "titleID": 8029,
         "titleNameTextMapHash": 4251659751
     },
-    {
+    "8031": {
         "titleID": 8031,
         "titleNameTextMapHash": 2681087391
     },
-    {
+    "8032": {
         "titleID": 8032,
         "titleNameTextMapHash": 2237191399
     },
-    {
+    "8033": {
         "titleID": 8033,
         "titleNameTextMapHash": 2850999095
     },
-    {
+    "8041": {
         "titleID": 8041,
         "titleNameTextMapHash": 306731351
     },
-    {
+    "10001": {
         "titleID": 10001,
         "titleNameTextMapHash": 841627719
     },
-    {
+    "10002": {
         "titleID": 10002,
         "titleNameTextMapHash": 3521985375
     },
-    {
+    "10003": {
         "titleID": 10003,
         "titleNameTextMapHash": 225429327
     },
-    {
+    "10004": {
         "titleID": 10004,
         "titleNameTextMapHash": 170546951
     },
-    {
+    "10005": {
         "titleID": 10005,
         "titleNameTextMapHash": 412604943
     },
-    {
+    "10006": {
         "titleID": 10006,
         "titleNameTextMapHash": 1828698055
     },
-    {
+    "10007": {
         "titleID": 10007,
         "titleNameTextMapHash": 166226487
     },
-    {
+    "10008": {
         "titleID": 10008,
         "titleNameTextMapHash": 1534503967
     },
-    {
+    "10009": {
         "titleID": 10009,
         "titleNameTextMapHash": 3529736143,
         "isInverted": true
     },
-    {
+    "10010": {
         "titleID": 10010,
         "titleNameTextMapHash": 1434721479
     },
-    {
+    "10011": {
         "titleID": 10011,
         "titleNameTextMapHash": 2785407935
     },
-    {
+    "10012": {
         "titleID": 10012,
         "titleNameTextMapHash": 1806263751
     },
-    {
+    "10013": {
         "titleID": 10013,
         "titleNameTextMapHash": 3420331927
     },
-    {
+    "10014": {
         "titleID": 10014,
         "titleNameTextMapHash": 4006563327,
         "isInverted": true
     },
-    {
+    "10015": {
         "titleID": 10015,
         "titleNameTextMapHash": 746583,
         "isInverted": true
     },
-    {
+    "10016": {
         "titleID": 10016,
         "titleNameTextMapHash": 2780071679,
         "isInverted": true
     },
-    {
+    "10017": {
         "titleID": 10017,
         "titleNameTextMapHash": 3625070039,
         "isInverted": true
     },
-    {
+    "10018": {
         "titleID": 10018,
         "titleNameTextMapHash": 4359615
     },
-    {
+    "10019": {
         "titleID": 10019,
         "titleNameTextMapHash": 3474341055
     },
-    {
+    "10020": {
         "titleID": 10020,
         "titleNameTextMapHash": 1787379671
     },
-    {
+    "10021": {
         "titleID": 10021,
         "titleNameTextMapHash": 3894951967
     },
-    {
+    "10022": {
         "titleID": 10022,
         "titleNameTextMapHash": 2069642471
     },
-    {
+    "10023": {
         "titleID": 10023,
         "titleNameTextMapHash": 3794544615
     },
-    {
+    "10024": {
         "titleID": 10024,
         "titleNameTextMapHash": 2098698831
     },
-    {
+    "10025": {
         "titleID": 10025,
         "titleNameTextMapHash": 3715356559
     },
-    {
+    "10026": {
         "titleID": 10026,
         "titleNameTextMapHash": 3577563463
     },
-    {
+    "10027": {
         "titleID": 10027,
         "titleNameTextMapHash": 4066892823
     },
-    {
+    "10028": {
         "titleID": 10028,
         "titleNameTextMapHash": 4135205159
     },
-    {
+    "10029": {
         "titleID": 10029,
         "titleNameTextMapHash": 3525110055
     },
-    {
+    "10030": {
         "titleID": 10030,
         "titleNameTextMapHash": 3464719295
     },
-    {
+    "10031": {
         "titleID": 10031,
         "titleNameTextMapHash": 2699341599
     },
-    {
+    "10032": {
         "titleID": 10032,
         "titleNameTextMapHash": 2795701455
     },
-    {
+    "10033": {
         "titleID": 10033,
         "titleNameTextMapHash": 3993926567
     },
-    {
+    "10034": {
         "titleID": 10034,
         "titleNameTextMapHash": 2808417535
     },
-    {
+    "10035": {
         "titleID": 10035,
         "titleNameTextMapHash": 1421186687
     },
-    {
+    "10036": {
         "titleID": 10036,
         "titleNameTextMapHash": 1932074351
     },
-    {
+    "10037": {
         "titleID": 10037,
         "titleNameTextMapHash": 497635471
     },
-    {
+    "10038": {
         "titleID": 10038,
         "titleNameTextMapHash": 48552703
     },
-    {
+    "10039": {
         "titleID": 10039,
         "titleNameTextMapHash": 364460599
     },
-    {
+    "10040": {
         "titleID": 10040,
         "titleNameTextMapHash": 1333421063
     },
-    {
+    "10041": {
         "titleID": 10041,
         "titleNameTextMapHash": 2621746007
     },
-    {
+    "10042": {
         "titleID": 10042,
         "titleNameTextMapHash": 347720191
     },
-    {
+    "10043": {
         "titleID": 10043,
         "titleNameTextMapHash": 3914699591
     },
-    {
+    "10044": {
         "titleID": 10044,
         "titleNameTextMapHash": 979303295
     },
-    {
+    "10045": {
         "titleID": 10045,
         "titleNameTextMapHash": 2421358927
     },
-    {
+    "10046": {
         "titleID": 10046,
         "titleNameTextMapHash": 3108236287
     },
-    {
+    "10047": {
         "titleID": 10047,
         "titleNameTextMapHash": 1882999935
     },
-    {
+    "10048": {
         "titleID": 10048,
         "titleNameTextMapHash": 3554706967
     },
-    {
+    "10049": {
         "titleID": 10049,
         "titleNameTextMapHash": 17236511
     },
-    {
+    "10050": {
         "titleID": 10050,
         "titleNameTextMapHash": 1793795103
     },
-    {
+    "10051": {
         "titleID": 10051,
         "titleNameTextMapHash": 469016327,
         "isInverted": true
     },
-    {
+    "10052": {
         "titleID": 10052,
         "titleNameTextMapHash": 1541802215
     },
-    {
+    "10053": {
         "titleID": 10053,
         "titleNameTextMapHash": 406748647
     },
-    {
+    "10054": {
         "titleID": 10054,
         "titleNameTextMapHash": 3037216599
     },
-    {
+    "10055": {
         "titleID": 10055,
         "titleNameTextMapHash": 2869597431
     },
-    {
+    "10056": {
         "titleID": 10056,
         "titleNameTextMapHash": 997421111
     },
-    {
+    "10057": {
         "titleID": 10057,
         "titleNameTextMapHash": 264098255
     },
-    {
+    "10058": {
         "titleID": 10058,
         "titleNameTextMapHash": 3682143087
     },
-    {
+    "10059": {
         "titleID": 10059,
         "titleNameTextMapHash": 3886583495
     },
-    {
+    "10060": {
         "titleID": 10060,
         "titleNameTextMapHash": 170477151
     },
-    {
+    "10061": {
         "titleID": 10061,
         "titleNameTextMapHash": 121700391
     },
-    {
+    "10062": {
         "titleID": 10062,
         "titleNameTextMapHash": 2417736951
     },
-    {
+    "10063": {
         "titleID": 10063,
         "titleNameTextMapHash": 787337479
     },
-    {
+    "10064": {
         "titleID": 10064,
         "titleNameTextMapHash": 3398850623
     },
-    {
+    "10065": {
         "titleID": 10065,
         "titleNameTextMapHash": 447788807
     },
-    {
+    "10067": {
         "titleID": 10067,
         "titleNameTextMapHash": 2085419679
     },
-    {
+    "10068": {
         "titleID": 10068,
         "titleNameTextMapHash": 813985311
     },
-    {
+    "10069": {
         "titleID": 10069,
         "titleNameTextMapHash": 1179393095,
         "isInverted": true
     },
-    {
+    "10070": {
         "titleID": 10070,
         "titleNameTextMapHash": 490955143
     },
-    {
+    "10071": {
         "titleID": 10071,
         "titleNameTextMapHash": 2561370767
     },
-    {
+    "10072": {
         "titleID": 10072,
         "titleNameTextMapHash": 672111127
     },
-    {
+    "10073": {
         "titleID": 10073,
         "titleNameTextMapHash": 2777532791
     },
-    {
+    "10074": {
         "titleID": 10074,
         "titleNameTextMapHash": 440157775
     },
-    {
+    "10075": {
         "titleID": 10075,
         "titleNameTextMapHash": 3917885975
     },
-    {
+    "10076": {
         "titleID": 10076,
         "titleNameTextMapHash": 3755794871
     },
-    {
+    "10077": {
         "titleID": 10077,
         "titleNameTextMapHash": 2562208295
     },
-    {
+    "10078": {
         "titleID": 10078,
         "titleNameTextMapHash": 2346084735
     },
-    {
+    "10079": {
         "titleID": 10079,
         "titleNameTextMapHash": 887687583
     },
-    {
+    "10080": {
         "titleID": 10080,
         "titleNameTextMapHash": 4176219855
     },
-    {
+    "10081": {
         "titleID": 10081,
         "titleNameTextMapHash": 2585594071
     },
-    {
+    "10082": {
         "titleID": 10082,
         "titleNameTextMapHash": 4182229031
     },
-    {
+    "10083": {
         "titleID": 10083,
         "titleNameTextMapHash": 3755944239
     },
-    {
+    "10084": {
         "titleID": 10084,
         "titleNameTextMapHash": 1234473015
     },
-    {
+    "10085": {
         "titleID": 10085,
         "titleNameTextMapHash": 3217467799
     },
-    {
+    "10086": {
         "titleID": 10086,
         "titleNameTextMapHash": 1233568935
     },
-    {
+    "10087": {
         "titleID": 10087,
         "titleNameTextMapHash": 1307196423
     },
-    {
+    "10088": {
         "titleID": 10088,
         "titleNameTextMapHash": 3838655807
     },
-    {
+    "10089": {
         "titleID": 10089,
         "titleNameTextMapHash": 1745050399
     },
-    {
+    "10090": {
         "titleID": 10090,
         "titleNameTextMapHash": 1878134239
     },
-    {
+    "10091": {
         "titleID": 10091,
         "titleNameTextMapHash": 1775252303
     },
-    {
+    "10092": {
         "titleID": 10092,
         "titleNameTextMapHash": 1279787943
     },
-    {
+    "10093": {
         "titleID": 10093,
         "titleNameTextMapHash": 702047895
     },
-    {
+    "10094": {
         "titleID": 10094,
         "titleNameTextMapHash": 131405335
     },
-    {
+    "10095": {
         "titleID": 10095,
         "titleNameTextMapHash": 3974738703
     },
-    {
+    "10096": {
         "titleID": 10096,
         "titleNameTextMapHash": 3441040807
     },
-    {
+    "10097": {
         "titleID": 10097,
         "titleNameTextMapHash": 1587657927
     },
-    {
+    "10098": {
         "titleID": 10098,
         "titleNameTextMapHash": 3602692711
     },
-    {
+    "10099": {
         "titleID": 10099,
         "titleNameTextMapHash": 2511071895
     },
-    {
+    "10100": {
         "titleID": 10100,
         "titleNameTextMapHash": 1283884687,
         "isInverted": true
     },
-    {
+    "10101": {
         "titleID": 10101,
         "titleNameTextMapHash": 991524591,
         "isInverted": true
     },
-    {
+    "10102": {
         "titleID": 10102,
         "titleNameTextMapHash": 3150283479
     },
-    {
+    "10103": {
         "titleID": 10103,
         "titleNameTextMapHash": 2589156975
     },
-    {
+    "10104": {
         "titleID": 10104,
         "titleNameTextMapHash": 2895458815
     },
-    {
+    "10105": {
         "titleID": 10105,
         "titleNameTextMapHash": 3407591023,
         "isInverted": true
     },
-    {
+    "10106": {
         "titleID": 10106,
         "titleNameTextMapHash": 2618651551,
         "isInverted": true
     },
-    {
+    "10108": {
         "titleID": 10108,
         "titleNameTextMapHash": 752466391
     },
-    {
+    "10109": {
         "titleID": 10109,
         "titleNameTextMapHash": 360480071
     },
-    {
+    "10110": {
         "titleID": 10110,
         "titleNameTextMapHash": 184231415
     },
-    {
+    "10111": {
         "titleID": 10111,
         "titleNameTextMapHash": 2464720535
     },
-    {
+    "10112": {
         "titleID": 10112,
         "titleNameTextMapHash": 1181124103
     },
-    {
+    "10113": {
         "titleID": 10113,
         "titleNameTextMapHash": 4149311183
     },
-    {
+    "10114": {
         "titleID": 10114,
         "titleNameTextMapHash": 1251334711
     },
-    {
+    "10115": {
         "titleID": 10115,
         "titleNameTextMapHash": 1998443119
     },
-    {
+    "10116": {
         "titleID": 10116,
         "titleNameTextMapHash": 2151656799
     },
-    {
+    "10117": {
         "titleID": 10117,
         "titleNameTextMapHash": 1948885815
     },
-    {
+    "10118": {
         "titleID": 10118,
         "titleNameTextMapHash": 4136286407
     },
-    {
+    "10119": {
         "titleID": 10119,
         "titleNameTextMapHash": 2688541903
     },
-    {
+    "10120": {
         "titleID": 10120,
         "titleNameTextMapHash": 942068191
     },
-    {
+    "10121": {
         "titleID": 10121,
         "titleNameTextMapHash": 962313223
     },
-    {
+    "10122": {
         "titleID": 10122,
         "titleNameTextMapHash": 1607400975,
         "isInverted": true
     },
-    {
+    "10123": {
         "titleID": 10123,
         "titleNameTextMapHash": 825116295
     },
-    {
+    "10124": {
         "titleID": 10124,
         "titleNameTextMapHash": 1025188215
     },
-    {
+    "10125": {
         "titleID": 10125,
         "titleNameTextMapHash": 3333600231
     },
-    {
+    "10126": {
         "titleID": 10126,
         "titleNameTextMapHash": 1927994727
     },
-    {
+    "10127": {
         "titleID": 10127,
         "titleNameTextMapHash": 1706844919
     },
-    {
+    "10129": {
         "titleID": 10129,
         "titleNameTextMapHash": 1213266559
     },
-    {
+    "10130": {
         "titleID": 10130,
         "titleNameTextMapHash": 227996975,
         "isInverted": true
     }
-]
+}

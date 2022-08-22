@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5024001": {
         "id": 5024001,
         "dayIndex": 1,
         "durationHint": "Unta nunu",
@@ -12,7 +12,7 @@
         "positionRadius": 45,
         "watcherID": 1502401
     },
-    {
+    "5024002": {
         "id": 5024002,
         "dayIndex": 2,
         "durationHint": "Unta mosi dada",
@@ -25,7 +25,7 @@
         "positionRadius": 45,
         "watcherID": 1502402
     },
-    {
+    "5024003": {
         "id": 5024003,
         "dayIndex": 3,
         "durationHint": "Unta nunu",
@@ -38,7 +38,7 @@
         "positionRadius": 45,
         "watcherID": 1502403
     },
-    {
+    "5024004": {
         "id": 5024004,
         "dayIndex": 4,
         "durationHint": "Unta mosi dada",
@@ -51,7 +51,7 @@
         "positionRadius": 45,
         "watcherID": 1502404
     },
-    {
+    "5024005": {
         "id": 5024005,
         "dayIndex": 5,
         "durationHint": "Mosi aba nunu",
@@ -64,7 +64,7 @@
         "positionRadius": 45,
         "watcherID": 1502405
     },
-    {
+    "5024006": {
         "id": 5024006,
         "dayIndex": 6,
         "durationHint": "Unta mosi dada",
@@ -77,7 +77,7 @@
         "positionRadius": 45,
         "watcherID": 1502406
     },
-    {
+    "5024007": {
         "id": 5024007,
         "dayIndex": 7,
         "durationHint": "Aba mosi dada",
@@ -90,4 +90,4 @@
         "positionRadius": 45,
         "watcherID": 1502407
     }
-]
+}

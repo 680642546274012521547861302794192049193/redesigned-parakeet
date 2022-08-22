@@ -1,5 +1,5 @@
-[
-    {
+{
+    "3001": {
         "draftId": 3001,
         "draftBtnName": "UI_ONLINE_DRAFT_BUTTON",
         "draftBtnTips": "UI_ACTIVITY_HIDE_AND_SEEK_SCOREMUTI_WARNING",
@@ -12,7 +12,7 @@
         "inviteWarningDescTextMapHash": 4031929350,
         "draftTitleTextMapHash": 2536652256
     },
-    {
+    "1001": {
         "draftId": 1001,
         "draftBtnName": "UI_ACTIVITY_FLEURFAIR_DRAFT_MPSTART",
         "draftBtnTips": "",
@@ -25,7 +25,7 @@
         "inviteWarningDescTextMapHash": 3226658726,
         "draftTitleTextMapHash": 1890234312
     },
-    {
+    "1003": {
         "draftId": 1003,
         "draftBtnName": "UI_ACTIVITY_FLEURFAIR_DRAFT_MPSTART",
         "draftBtnTips": "",
@@ -38,7 +38,7 @@
         "inviteWarningDescTextMapHash": 1536050878,
         "draftTitleTextMapHash": 696407608
     },
-    {
+    "1004": {
         "draftId": 1004,
         "draftBtnName": "UI_ACTIVITY_FLEURFAIR_DRAFT_MPSTART",
         "draftBtnTips": "",
@@ -51,7 +51,7 @@
         "inviteWarningDescTextMapHash": 2496006918,
         "draftTitleTextMapHash": 3507921024
     },
-    {
+    "1005": {
         "draftId": 1005,
         "draftBtnName": "UI_ACTIVITY_FLEURFAIR_DRAFT_MPSTART",
         "draftBtnTips": "",
@@ -64,7 +64,7 @@
         "inviteWarningDescTextMapHash": 3279793246,
         "draftTitleTextMapHash": 2360587504
     },
-    {
+    "2001": {
         "draftId": 2001,
         "draftBtnName": "UI_ACTIVITY_FLEURFAIR_DRAFT_MPSTART",
         "draftBtnTips": "",
@@ -77,7 +77,7 @@
         "inviteWarningDescTextMapHash": 3890623838,
         "draftTitleTextMapHash": 2194214472
     },
-    {
+    "2002": {
         "draftId": 2002,
         "draftBtnName": "UI_ACTIVITY_FLEURFAIR_DRAFT_MPSTART",
         "draftBtnTips": "",
@@ -90,7 +90,7 @@
         "inviteWarningDescTextMapHash": 4236163518,
         "draftTitleTextMapHash": 574780264
     },
-    {
+    "2003": {
         "draftId": 2003,
         "draftBtnName": "UI_ACTIVITY_FLEURFAIR_DRAFT_MPSTART",
         "draftBtnTips": "",
@@ -103,7 +103,7 @@
         "inviteWarningDescTextMapHash": 1233428430,
         "draftTitleTextMapHash": 3109099096
     },
-    {
+    "2004": {
         "draftId": 2004,
         "draftBtnName": "UI_ACTIVITY_FLEURFAIR_DRAFT_MPSTART",
         "draftBtnTips": "",
@@ -116,7 +116,7 @@
         "inviteWarningDescTextMapHash": 4113620966,
         "draftTitleTextMapHash": 2874436784
     },
-    {
+    "4001": {
         "draftId": 4001,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -129,7 +129,7 @@
         "inviteWarningDescTextMapHash": 840673222,
         "draftTitleTextMapHash": 3710403456
     },
-    {
+    "4002": {
         "draftId": 4002,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -142,7 +142,7 @@
         "inviteWarningDescTextMapHash": 3953936342,
         "draftTitleTextMapHash": 4116509312
     },
-    {
+    "4003": {
         "draftId": 4003,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -155,7 +155,7 @@
         "inviteWarningDescTextMapHash": 2558236422,
         "draftTitleTextMapHash": 949623928
     },
-    {
+    "5001": {
         "draftId": 5001,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -168,7 +168,7 @@
         "inviteWarningDescTextMapHash": 3762890326,
         "draftTitleTextMapHash": 2205411624
     },
-    {
+    "5002": {
         "draftId": 5002,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -181,7 +181,7 @@
         "inviteWarningDescTextMapHash": 3907048550,
         "draftTitleTextMapHash": 1752415520
     },
-    {
+    "5003": {
         "draftId": 5003,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -194,7 +194,7 @@
         "inviteWarningDescTextMapHash": 361209414,
         "draftTitleTextMapHash": 3603264984
     },
-    {
+    "5004": {
         "draftId": 5004,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -207,7 +207,7 @@
         "inviteWarningDescTextMapHash": 422472694,
         "draftTitleTextMapHash": 1351024456
     },
-    {
+    "5005": {
         "draftId": 5005,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -220,7 +220,7 @@
         "inviteWarningDescTextMapHash": 686380230,
         "draftTitleTextMapHash": 3038985400
     },
-    {
+    "5006": {
         "draftId": 5006,
         "draftBtnName": "",
         "draftBtnTips": "",
@@ -233,4 +233,4 @@
         "inviteWarningDescTextMapHash": 1195379990,
         "draftTitleTextMapHash": 506241184
     }
-]
+}

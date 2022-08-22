@@ -1,5 +1,5 @@
-[
-    {
+{
+    "ENVIRONMENT_GENERAL": {
         "envType": "ENVIRONMENT_GENERAL",
         "weightVec": [
             {
@@ -19,7 +19,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_GRASS": {
         "envType": "ENVIRONMENT_GRASS",
         "weightVec": [
             {
@@ -48,7 +48,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_RIVERSIDE": {
         "envType": "ENVIRONMENT_RIVERSIDE",
         "weightVec": [
             {
@@ -77,7 +77,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_MOUNTAIN": {
         "envType": "ENVIRONMENT_MOUNTAIN",
         "weightVec": [
             {
@@ -103,7 +103,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_CRAB": {
         "envType": "ENVIRONMENT_CRAB",
         "weightVec": [
             {
@@ -129,7 +129,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_BUTTERFLY": {
         "envType": "ENVIRONMENT_BUTTERFLY",
         "weightVec": [
             {
@@ -152,7 +152,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_GRASSSHOPPER": {
         "envType": "ENVIRONMENT_GRASSSHOPPER",
         "weightVec": [
             {
@@ -169,7 +169,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_BUSH": {
         "envType": "ENVIRONMENT_BUSH",
         "weightVec": [
             {
@@ -195,7 +195,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_FIREFLY": {
         "envType": "ENVIRONMENT_FIREFLY",
         "weightVec": [
             {
@@ -218,7 +218,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_WOODS": {
         "envType": "ENVIRONMENT_WOODS",
         "weightVec": [
             {
@@ -247,7 +247,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_BUTTERFLY_INAZUMA_HIGH": {
         "envType": "ENVIRONMENT_BUTTERFLY_INAZUMA_HIGH",
         "weightVec": [
             {
@@ -267,7 +267,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_BUTTERFLY_INAZUMA_LOW": {
         "envType": "ENVIRONMENT_BUTTERFLY_INAZUMA_LOW",
         "weightVec": [
             {
@@ -287,7 +287,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_FIREFLY_INAZUMA": {
         "envType": "ENVIRONMENT_FIREFLY_INAZUMA",
         "weightVec": [
             {
@@ -310,7 +310,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_CRAB_INAZUMA": {
         "envType": "ENVIRONMENT_CRAB_INAZUMA",
         "weightVec": [
             {
@@ -333,7 +333,7 @@
             }
         ]
     },
-    {
+    "ENVIRONMENT_LIZARD_INAZUMA": {
         "envType": "ENVIRONMENT_LIZARD_INAZUMA",
         "weightVec": [
             {
@@ -353,4 +353,4 @@
             }
         ]
     }
-]
+}

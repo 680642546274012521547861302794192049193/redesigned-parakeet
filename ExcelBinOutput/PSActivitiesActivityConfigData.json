@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "activityNameTextMapHash": 1339661416,
         "activityDescTextMapHash": 1107211746,
         "availableByDefault": true,
@@ -10,7 +10,7 @@
         "objectID": "quest1",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "2": {
         "activityNameTextMapHash": 3986694992,
         "activityDescTextMapHash": 3409736410,
         "isRequiredForCompletion": true,
@@ -20,7 +20,7 @@
         "objectID": "quest2",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "3": {
         "activityNameTextMapHash": 2737183552,
         "activityDescTextMapHash": 206566890,
         "isRequiredForCompletion": true,
@@ -30,7 +30,7 @@
         "objectID": "quest3",
         "LCDICEJLIJL": "1.6.0"
     },
-    {
+    "4": {
         "activityNameTextMapHash": 256786432,
         "activityDescTextMapHash": 3577422610,
         "isRequiredForCompletion": true,
@@ -40,4 +40,4 @@
         "objectID": "quest4",
         "LCDICEJLIJL": "3.0.0"
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "mpPlayId": 1,
         "questTextMapHash": 680277890,
         "rewardTextMapHash": 2102907456,
@@ -14,7 +14,7 @@
         "timespendTextMapHash": 2557456156,
         "upAvatarTextTextMapHash": 678802996
     },
-    {
+    "2": {
         "mpPlayId": 2,
         "questTextMapHash": 1365922530,
         "rewardTextMapHash": 539166624,
@@ -29,7 +29,7 @@
         "timespendTextMapHash": 4110009956,
         "upAvatarTextTextMapHash": 534581132
     },
-    {
+    "3": {
         "mpPlayId": 3,
         "questTextMapHash": 2869922714,
         "rewardTextMapHash": 3177895552,
@@ -44,7 +44,7 @@
         "timespendTextMapHash": 4144911844,
         "upAvatarTextTextMapHash": 3204056572
     },
-    {
+    "4": {
         "mpPlayId": 4,
         "questTextMapHash": 100404962,
         "rewardTextMapHash": 2487473992,
@@ -59,7 +59,7 @@
         "timespendTextMapHash": 1368881388,
         "upAvatarTextTextMapHash": 2797423860
     },
-    {
+    "5": {
         "mpPlayId": 5,
         "questTextMapHash": 2071391154,
         "rewardTextMapHash": 132070296,
@@ -74,4 +74,4 @@
         "timespendTextMapHash": 974562052,
         "upAvatarTextTextMapHash": 39252212
     }
-]
+}

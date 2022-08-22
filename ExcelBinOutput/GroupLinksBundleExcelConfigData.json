@@ -1,5 +1,5 @@
-[
-    {
+{
+    "20070101": {
         "Id": 20070101,
         "groupList": [
             133104288
@@ -16,7 +16,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070102": {
         "Id": 20070102,
         "groupList": [
             133104297,
@@ -34,7 +34,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070103": {
         "Id": 20070103,
         "groupList": [
             133104306,
@@ -52,7 +52,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070104": {
         "Id": 20070104,
         "groupList": [
             133104308,
@@ -70,7 +70,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070105": {
         "Id": 20070105,
         "groupList": [
             133108190,
@@ -88,7 +88,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070106": {
         "Id": 20070106,
         "groupList": [
             133108191,
@@ -106,7 +106,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070201": {
         "Id": 20070201,
         "groupList": [
             133001043
@@ -123,7 +123,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070202": {
         "Id": 20070202,
         "groupList": [
             133001044,
@@ -141,7 +141,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070203": {
         "Id": 20070203,
         "groupList": [
             133001045,
@@ -159,7 +159,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070204": {
         "Id": 20070204,
         "groupList": [
             133003038,
@@ -177,7 +177,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070205": {
         "Id": 20070205,
         "groupList": [
             133003039,
@@ -195,7 +195,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070206": {
         "Id": 20070206,
         "groupList": [
             133003040,
@@ -213,7 +213,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070301": {
         "Id": 20070301,
         "groupList": [
             133008210
@@ -230,7 +230,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070302": {
         "Id": 20070302,
         "groupList": [
             133008586,
@@ -248,7 +248,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070303": {
         "Id": 20070303,
         "groupList": [
             133008578,
@@ -266,7 +266,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070304": {
         "Id": 20070304,
         "groupList": [
             133008654,
@@ -284,7 +284,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070305": {
         "Id": 20070305,
         "groupList": [
             133008659,
@@ -302,7 +302,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20070306": {
         "Id": 20070306,
         "groupList": [
             133008660,
@@ -320,7 +320,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490001": {
         "Id": 50490001,
         "groupList": [
             133225015
@@ -333,7 +333,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490101": {
         "Id": 50490101,
         "groupList": [
             133007082
@@ -349,7 +349,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490102": {
         "Id": 50490102,
         "groupList": [
             133105048
@@ -365,7 +365,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490103": {
         "Id": 50490103,
         "groupList": [
             133106028
@@ -381,7 +381,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490104": {
         "Id": 50490104,
         "groupList": [
             133212576
@@ -397,7 +397,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490201": {
         "Id": 50490201,
         "groupList": [
             133007088
@@ -410,7 +410,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490202": {
         "Id": 50490202,
         "groupList": [
             133105052
@@ -423,7 +423,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490203": {
         "Id": 50490203,
         "groupList": [
             133106029
@@ -436,7 +436,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490204": {
         "Id": 50490204,
         "groupList": [
             133212585
@@ -449,7 +449,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490301": {
         "Id": 50490301,
         "groupList": [
             133225009
@@ -462,7 +462,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490302": {
         "Id": 50490302,
         "groupList": [
             133223271
@@ -475,7 +475,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490401": {
         "Id": 50490401,
         "groupList": [
             133008668
@@ -490,7 +490,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490402": {
         "Id": 50490402,
         "groupList": [
             133008669
@@ -503,7 +503,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490403": {
         "Id": 50490403,
         "groupList": [
             133108193
@@ -518,7 +518,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50490404": {
         "Id": 50490404,
         "groupList": [
             133108194
@@ -531,7 +531,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20090101": {
         "Id": 20090101,
         "groupList": [
             133001058
@@ -547,7 +547,7 @@
         "KFAMCIBJPLK": 200901,
         "EKLINBJGMHK": true
     },
-    {
+    "20090102": {
         "Id": 20090102,
         "groupList": [
             133001061
@@ -563,7 +563,7 @@
         "KFAMCIBJPLK": 200901,
         "EKLINBJGMHK": true
     },
-    {
+    "20090104": {
         "Id": 20090104,
         "groupList": [
             133001063
@@ -579,7 +579,7 @@
         "KFAMCIBJPLK": 200901,
         "EKLINBJGMHK": true
     },
-    {
+    "20090105": {
         "Id": 20090105,
         "groupList": [
             133001064
@@ -595,7 +595,7 @@
         "KFAMCIBJPLK": 200901,
         "EKLINBJGMHK": true
     },
-    {
+    "20090108": {
         "Id": 20090108,
         "groupList": [
             133008678
@@ -611,7 +611,7 @@
         "KFAMCIBJPLK": 200901,
         "EKLINBJGMHK": true
     },
-    {
+    "20090109": {
         "Id": 20090109,
         "groupList": [
             133008679
@@ -627,7 +627,7 @@
         "KFAMCIBJPLK": 200901,
         "EKLINBJGMHK": true
     },
-    {
+    "20090110": {
         "Id": 20090110,
         "groupList": [
             133008680
@@ -643,7 +643,7 @@
         "KFAMCIBJPLK": 200901,
         "EKLINBJGMHK": true
     },
-    {
+    "20090111": {
         "Id": 20090111,
         "groupList": [
             133008681
@@ -659,7 +659,7 @@
         "KFAMCIBJPLK": 200901,
         "EKLINBJGMHK": true
     },
-    {
+    "20090201": {
         "Id": 20090201,
         "groupList": [
             133001060
@@ -675,7 +675,7 @@
         "KFAMCIBJPLK": 200902,
         "EKLINBJGMHK": true
     },
-    {
+    "20090202": {
         "Id": 20090202,
         "groupList": [
             133008117
@@ -691,7 +691,7 @@
         "KFAMCIBJPLK": 200902,
         "EKLINBJGMHK": true
     },
-    {
+    "20090203": {
         "Id": 20090203,
         "groupList": [
             133008674
@@ -707,7 +707,7 @@
         "KFAMCIBJPLK": 200902,
         "EKLINBJGMHK": true
     },
-    {
+    "20090204": {
         "Id": 20090204,
         "groupList": [
             133008675
@@ -723,7 +723,7 @@
         "KFAMCIBJPLK": 200902,
         "EKLINBJGMHK": true
     },
-    {
+    "20090205": {
         "Id": 20090205,
         "groupList": [
             133008676
@@ -739,7 +739,7 @@
         "KFAMCIBJPLK": 200902,
         "EKLINBJGMHK": true
     },
-    {
+    "20090206": {
         "Id": 20090206,
         "groupList": [
             133105060
@@ -755,7 +755,7 @@
         "KFAMCIBJPLK": 200902,
         "EKLINBJGMHK": true
     },
-    {
+    "20090207": {
         "Id": 20090207,
         "groupList": [
             133002083
@@ -771,7 +771,7 @@
         "KFAMCIBJPLK": 200902,
         "EKLINBJGMHK": true
     },
-    {
+    "20090208": {
         "Id": 20090208,
         "groupList": [
             133002088
@@ -787,7 +787,7 @@
         "KFAMCIBJPLK": 200902,
         "EKLINBJGMHK": true
     },
-    {
+    "20090301": {
         "Id": 20090301,
         "groupList": [
             133008672
@@ -800,7 +800,7 @@
         "playType": "WINTER_CAMP_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20090302": {
         "Id": 20090302,
         "groupList": [
             133008673
@@ -813,7 +813,7 @@
         "playType": "WINTER_CAMP_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20090303": {
         "Id": 20090303,
         "groupList": [
             133008670
@@ -826,7 +826,7 @@
         "playType": "WINTER_CAMP_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20090304": {
         "Id": 20090304,
         "groupList": [
             133008671
@@ -839,7 +839,7 @@
         "playType": "WINTER_CAMP_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20090401": {
         "Id": 20090401,
         "groupList": [
             133001059
@@ -850,7 +850,7 @@
         "ABIHDOEPHMN": 1321116939,
         "EKLINBJGMHK": true
     },
-    {
+    "20104101": {
         "Id": 20104101,
         "groupList": [
             133108226
@@ -866,7 +866,7 @@
         "IEMKDGGPGKP": 30,
         "KFAMCIBJPLK": 201041
     },
-    {
+    "20104102": {
         "Id": 20104102,
         "groupList": [
             133108225
@@ -882,7 +882,7 @@
         "IEMKDGGPGKP": 30,
         "KFAMCIBJPLK": 201041
     },
-    {
+    "20104103": {
         "Id": 20104103,
         "groupList": [
             133108231
@@ -898,7 +898,7 @@
         "IEMKDGGPGKP": 30,
         "KFAMCIBJPLK": 201041
     },
-    {
+    "20104104": {
         "Id": 20104104,
         "groupList": [
             133108228
@@ -914,7 +914,7 @@
         "IEMKDGGPGKP": 30,
         "KFAMCIBJPLK": 201042
     },
-    {
+    "20104105": {
         "Id": 20104105,
         "groupList": [
             133108229
@@ -930,7 +930,7 @@
         "IEMKDGGPGKP": 30,
         "KFAMCIBJPLK": 201042
     },
-    {
+    "20104106": {
         "Id": 20104106,
         "groupList": [
             133108230
@@ -946,7 +946,7 @@
         "IEMKDGGPGKP": 30,
         "KFAMCIBJPLK": 201042
     },
-    {
+    "20104201": {
         "Id": 20104201,
         "groupList": [
             133108246
@@ -962,7 +962,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201043
     },
-    {
+    "20104202": {
         "Id": 20104202,
         "groupList": [
             133108247
@@ -978,7 +978,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201043
     },
-    {
+    "20104203": {
         "Id": 20104203,
         "groupList": [
             133108240
@@ -992,7 +992,7 @@
         "playType": "LANTERN_RITE_SALVAGE_SEA",
         "KFAMCIBJPLK": 201043
     },
-    {
+    "20104204": {
         "Id": 20104204,
         "groupList": [
             133108234
@@ -1008,7 +1008,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201043
     },
-    {
+    "20104205": {
         "Id": 20104205,
         "groupList": [
             133108239
@@ -1024,7 +1024,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201043
     },
-    {
+    "20104206": {
         "Id": 20104206,
         "groupList": [
             133108242
@@ -1038,7 +1038,7 @@
         "playType": "LANTERN_RITE_SALVAGE_SEA",
         "KFAMCIBJPLK": 201044
     },
-    {
+    "20104207": {
         "Id": 20104207,
         "groupList": [
             133108243
@@ -1052,7 +1052,7 @@
         "playType": "LANTERN_RITE_SALVAGE_SEA",
         "KFAMCIBJPLK": 201044
     },
-    {
+    "20104208": {
         "Id": 20104208,
         "groupList": [
             133108236
@@ -1068,7 +1068,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201044
     },
-    {
+    "20104209": {
         "Id": 20104209,
         "groupList": [
             133108237
@@ -1084,7 +1084,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201044
     },
-    {
+    "20104210": {
         "Id": 20104210,
         "groupList": [
             133108238
@@ -1100,7 +1100,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201044
     },
-    {
+    "20104211": {
         "Id": 20104211,
         "groupList": [
             133108248
@@ -1116,7 +1116,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201044
     },
-    {
+    "20104212": {
         "Id": 20104212,
         "groupList": [
             133108249
@@ -1132,7 +1132,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201044
     },
-    {
+    "20104213": {
         "Id": 20104213,
         "groupList": [
             133108250
@@ -1148,7 +1148,7 @@
         "IEMKDGGPGKP": 45,
         "KFAMCIBJPLK": 201044
     },
-    {
+    "20104301": {
         "Id": 20104301,
         "groupList": [
             133108202
@@ -1163,7 +1163,7 @@
         "KFAMCIBJPLK": 201045,
         "EKLINBJGMHK": true
     },
-    {
+    "20104302": {
         "Id": 20104302,
         "groupList": [
             133108203
@@ -1178,7 +1178,7 @@
         "KFAMCIBJPLK": 201046,
         "EKLINBJGMHK": true
     },
-    {
+    "20104401": {
         "Id": 20104401,
         "groupList": [
             133108201
@@ -1193,7 +1193,7 @@
         "KFAMCIBJPLK": 201047,
         "EKLINBJGMHK": true
     },
-    {
+    "20104402": {
         "Id": 20104402,
         "groupList": [
             133108253
@@ -1208,7 +1208,7 @@
         "KFAMCIBJPLK": 201048,
         "EKLINBJGMHK": true
     },
-    {
+    "20104501": {
         "Id": 20104501,
         "groupList": [
             133108198
@@ -1223,7 +1223,7 @@
         "KFAMCIBJPLK": 201049,
         "EKLINBJGMHK": true
     },
-    {
+    "20111001": {
         "Id": 20111001,
         "groupList": [
             177005155
@@ -1239,7 +1239,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20111002": {
         "Id": 20111002,
         "groupList": [
             177005156
@@ -1255,7 +1255,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20111003": {
         "Id": 20111003,
         "groupList": [
             177006001
@@ -1271,7 +1271,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20111004": {
         "Id": 20111004,
         "groupList": [
             177006002
@@ -1287,7 +1287,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20111005": {
         "Id": 20111005,
         "groupList": [
             177008080
@@ -1303,7 +1303,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20111006": {
         "Id": 20111006,
         "groupList": [
             177008081
@@ -1319,7 +1319,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20112001": {
         "Id": 20112001,
         "groupList": [
             177005075
@@ -1334,7 +1334,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680101": {
         "Id": 50680101,
         "groupList": [
             133004066
@@ -1349,7 +1349,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680102": {
         "Id": 50680102,
         "groupList": [
             133001078
@@ -1364,7 +1364,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680103": {
         "Id": 50680103,
         "groupList": [
             133104823
@@ -1379,7 +1379,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680104": {
         "Id": 50680104,
         "groupList": [
             133104824
@@ -1394,7 +1394,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680105": {
         "Id": 50680105,
         "groupList": [
             133002135
@@ -1409,7 +1409,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680106": {
         "Id": 50680106,
         "groupList": [
             133102221
@@ -1424,7 +1424,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680107": {
         "Id": 50680107,
         "groupList": [
             133106485
@@ -1439,7 +1439,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680108": {
         "Id": 50680108,
         "groupList": [
             133107250
@@ -1454,7 +1454,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680109": {
         "Id": 50680109,
         "groupList": [
             133103360
@@ -1469,7 +1469,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680110": {
         "Id": 50680110,
         "groupList": [
             133101019
@@ -1484,7 +1484,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680111": {
         "Id": 50680111,
         "groupList": [
             133106487
@@ -1499,7 +1499,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680112": {
         "Id": 50680112,
         "groupList": [
             133106488
@@ -1514,7 +1514,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680113": {
         "Id": 50680113,
         "groupList": [
             133221076
@@ -1529,7 +1529,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50680114": {
         "Id": 50680114,
         "groupList": [
             133209083
@@ -1544,7 +1544,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50800101": {
         "Id": 50800101,
         "groupList": [
             133001079
@@ -1559,7 +1559,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50800201": {
         "Id": 50800201,
         "groupList": [
             133105077
@@ -1574,7 +1574,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50800301": {
         "Id": 50800301,
         "groupList": [
             133213557
@@ -1589,7 +1589,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "50790101": {
         "Id": 50790101,
         "groupList": [
             166001606
@@ -1601,7 +1601,7 @@
         "KFAMCIBJPLK": 507901,
         "EKLINBJGMHK": true
     },
-    {
+    "50790102": {
         "Id": 50790102,
         "groupList": [
             166001581
@@ -1613,7 +1613,7 @@
         "KFAMCIBJPLK": 507902,
         "EKLINBJGMHK": true
     },
-    {
+    "50790103": {
         "Id": 50790103,
         "groupList": [
             166001630
@@ -1625,7 +1625,7 @@
         "KFAMCIBJPLK": 507903,
         "EKLINBJGMHK": true
     },
-    {
+    "50790104": {
         "Id": 50790104,
         "groupList": [
             166001582
@@ -1637,7 +1637,7 @@
         "KFAMCIBJPLK": 507904,
         "EKLINBJGMHK": true
     },
-    {
+    "50790105": {
         "Id": 50790105,
         "groupList": [
             166001574
@@ -1649,7 +1649,7 @@
         "KFAMCIBJPLK": 507905,
         "EKLINBJGMHK": true
     },
-    {
+    "20140101": {
         "Id": 20140101,
         "groupList": [
             199003065
@@ -1663,7 +1663,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20140201": {
         "Id": 20140201,
         "groupList": [
             199004061
@@ -1677,7 +1677,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20140301": {
         "Id": 20140301,
         "groupList": [
             199003025
@@ -1691,7 +1691,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20140401": {
         "Id": 20140401,
         "groupList": [
             199001094
@@ -1705,7 +1705,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20140501": {
         "Id": 20140501,
         "groupList": [
             199001098
@@ -1719,7 +1719,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20140601": {
         "Id": 20140601,
         "groupList": [
             199002079
@@ -1733,7 +1733,7 @@
         "AAMLIPDFLMF": true,
         "EKLINBJGMHK": true
     },
-    {
+    "20150101": {
         "Id": 20150101,
         "groupList": [
             133302136
@@ -1747,7 +1747,7 @@
         "KFAMCIBJPLK": 201501,
         "EKLINBJGMHK": true
     },
-    {
+    "20150102": {
         "Id": 20150102,
         "groupList": [
             133302137
@@ -1761,7 +1761,7 @@
         "KFAMCIBJPLK": 201501,
         "EKLINBJGMHK": true
     },
-    {
+    "20150103": {
         "Id": 20150103,
         "groupList": [
             133302095
@@ -1775,7 +1775,7 @@
         "KFAMCIBJPLK": 201501,
         "EKLINBJGMHK": true
     },
-    {
+    "20150104": {
         "Id": 20150104,
         "groupList": [
             133302138
@@ -1789,7 +1789,7 @@
         "KFAMCIBJPLK": 201501,
         "EKLINBJGMHK": true
     },
-    {
+    "20150105": {
         "Id": 20150105,
         "groupList": [
             133302121
@@ -1803,7 +1803,7 @@
         "KFAMCIBJPLK": 201501,
         "EKLINBJGMHK": true
     },
-    {
+    "20150106": {
         "Id": 20150106,
         "groupList": [
             133302140
@@ -1817,7 +1817,7 @@
         "KFAMCIBJPLK": 201502,
         "EKLINBJGMHK": true
     },
-    {
+    "20150107": {
         "Id": 20150107,
         "groupList": [
             133302141
@@ -1831,7 +1831,7 @@
         "KFAMCIBJPLK": 201502,
         "EKLINBJGMHK": true
     },
-    {
+    "20150108": {
         "Id": 20150108,
         "groupList": [
             133302143
@@ -1845,7 +1845,7 @@
         "KFAMCIBJPLK": 201502,
         "EKLINBJGMHK": true
     },
-    {
+    "20150109": {
         "Id": 20150109,
         "groupList": [
             133302144
@@ -1859,7 +1859,7 @@
         "KFAMCIBJPLK": 201502,
         "EKLINBJGMHK": true
     },
-    {
+    "20150110": {
         "Id": 20150110,
         "groupList": [
             133302145
@@ -1873,7 +1873,7 @@
         "KFAMCIBJPLK": 201502,
         "EKLINBJGMHK": true
     },
-    {
+    "20150111": {
         "Id": 20150111,
         "groupList": [
             133302146
@@ -1887,7 +1887,7 @@
         "KFAMCIBJPLK": 201503,
         "EKLINBJGMHK": true
     },
-    {
+    "20150112": {
         "Id": 20150112,
         "groupList": [
             133302147
@@ -1901,7 +1901,7 @@
         "KFAMCIBJPLK": 201503,
         "EKLINBJGMHK": true
     },
-    {
+    "20150113": {
         "Id": 20150113,
         "groupList": [
             133302149
@@ -1915,7 +1915,7 @@
         "KFAMCIBJPLK": 201503,
         "EKLINBJGMHK": true
     },
-    {
+    "20150114": {
         "Id": 20150114,
         "groupList": [
             133302150
@@ -1929,7 +1929,7 @@
         "KFAMCIBJPLK": 201503,
         "EKLINBJGMHK": true
     },
-    {
+    "20150115": {
         "Id": 20150115,
         "groupList": [
             133302151
@@ -1943,7 +1943,7 @@
         "KFAMCIBJPLK": 201503,
         "EKLINBJGMHK": true
     },
-    {
+    "20150116": {
         "Id": 20150116,
         "groupList": [
             133302152
@@ -1957,7 +1957,7 @@
         "KFAMCIBJPLK": 201504,
         "EKLINBJGMHK": true
     },
-    {
+    "20150117": {
         "Id": 20150117,
         "groupList": [
             133302154
@@ -1971,7 +1971,7 @@
         "KFAMCIBJPLK": 201504,
         "EKLINBJGMHK": true
     },
-    {
+    "20150118": {
         "Id": 20150118,
         "groupList": [
             133302155
@@ -1985,7 +1985,7 @@
         "KFAMCIBJPLK": 201504,
         "EKLINBJGMHK": true
     },
-    {
+    "20150119": {
         "Id": 20150119,
         "groupList": [
             133302156
@@ -1999,7 +1999,7 @@
         "KFAMCIBJPLK": 201504,
         "EKLINBJGMHK": true
     },
-    {
+    "20150120": {
         "Id": 20150120,
         "groupList": [
             133302157
@@ -2013,7 +2013,7 @@
         "KFAMCIBJPLK": 201504,
         "EKLINBJGMHK": true
     },
-    {
+    "20150121": {
         "Id": 20150121,
         "groupList": [
             133302061
@@ -2025,7 +2025,7 @@
         "playType": "GRAVEN_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20150122": {
         "Id": 20150122,
         "groupList": [
             133302185
@@ -2037,7 +2037,7 @@
         "playType": "GRAVEN_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20150123": {
         "Id": 20150123,
         "groupList": [
             133302056
@@ -2049,7 +2049,7 @@
         "playType": "GRAVEN_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20150124": {
         "Id": 20150124,
         "groupList": [
             133302062
@@ -2061,7 +2061,7 @@
         "playType": "GRAVEN_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20150125": {
         "Id": 20150125,
         "groupList": [
             133302060
@@ -2073,7 +2073,7 @@
         "playType": "GRAVEN_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20150126": {
         "Id": 20150126,
         "groupList": [
             133302260
@@ -2085,7 +2085,7 @@
         "playType": "GRAVEN_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20150127": {
         "Id": 20150127,
         "groupList": [
             133302183
@@ -2097,7 +2097,7 @@
         "playType": "GRAVEN_RACE",
         "EKLINBJGMHK": true
     },
-    {
+    "20150128": {
         "Id": 20150128,
         "groupList": [
             133302567
@@ -2113,7 +2113,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600142
     },
-    {
+    "20150129": {
         "Id": 20150129,
         "groupList": [
             133315233
@@ -2129,7 +2129,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600146
     },
-    {
+    "20150130": {
         "Id": 20150130,
         "groupList": [
             133302571
@@ -2145,7 +2145,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600144
     },
-    {
+    "20150131": {
         "Id": 20150131,
         "groupList": [
             133302572
@@ -2161,7 +2161,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600145
     },
-    {
+    "20150132": {
         "Id": 20150132,
         "groupList": [
             133302574
@@ -2177,7 +2177,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600147
     },
-    {
+    "20150133": {
         "Id": 20150133,
         "groupList": [
             133302576
@@ -2193,7 +2193,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600148
     },
-    {
+    "20150134": {
         "Id": 20150134,
         "groupList": [
             133302577
@@ -2209,7 +2209,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600149
     },
-    {
+    "20150135": {
         "Id": 20150135,
         "groupList": [
             133302581
@@ -2225,7 +2225,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600146
     },
-    {
+    "20150136": {
         "Id": 20150136,
         "groupList": [
             133302580
@@ -2241,7 +2241,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600144
     },
-    {
+    "20150137": {
         "Id": 20150137,
         "groupList": [
             133302579
@@ -2257,7 +2257,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600145
     },
-    {
+    "20150138": {
         "Id": 20150138,
         "groupList": [
             133302578
@@ -2271,7 +2271,7 @@
         "AAMLIPDFLMF": true,
         "DGCKDKPNNBP": true
     },
-    {
+    "20150139": {
         "Id": 20150139,
         "groupList": [
             133302568
@@ -2287,7 +2287,7 @@
         "DGCKDKPNNBP": true,
         "PKHGMNCGMJI": 600143
     },
-    {
+    "50910101": {
         "Id": 50910101,
         "groupList": [
             133315072
@@ -2300,7 +2300,7 @@
         "IEMKDGGPGKP": 180,
         "ILGLMFIMKDM": true
     },
-    {
+    "50910102": {
         "Id": 50910102,
         "groupList": [
             133301019
@@ -2313,7 +2313,7 @@
         "IEMKDGGPGKP": 150,
         "ILGLMFIMKDM": true
     },
-    {
+    "50910103": {
         "Id": 50910103,
         "groupList": [
             133304053
@@ -2326,7 +2326,7 @@
         "IEMKDGGPGKP": 170,
         "ILGLMFIMKDM": true
     },
-    {
+    "50910104": {
         "Id": 50910104,
         "groupList": [
             133304231
@@ -2339,7 +2339,7 @@
         "IEMKDGGPGKP": 170,
         "ILGLMFIMKDM": true
     },
-    {
+    "50910105": {
         "Id": 50910105,
         "groupList": [
             133302232
@@ -2352,7 +2352,7 @@
         "IEMKDGGPGKP": 160,
         "ILGLMFIMKDM": true
     },
-    {
+    "50910106": {
         "Id": 50910106,
         "groupList": [
             133303053
@@ -2365,4 +2365,4 @@
         "IEMKDGGPGKP": 180,
         "ILGLMFIMKDM": true
     }
-]
+}

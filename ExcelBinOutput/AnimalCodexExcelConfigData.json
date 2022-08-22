@@ -1,5 +1,5 @@
-[
-    {
+{
+    "20011201": {
         "Id": 20011201,
         "type": "CODEX_MONSTER",
         "describeId": 112,
@@ -8,7 +8,7 @@
         "descTextMapHash": 3632663572,
         "modelPath": "Codex_Monster_Slime_Mid_Fire"
     },
-    {
+    "20011301": {
         "Id": 20011301,
         "type": "CODEX_MONSTER",
         "describeId": 113,
@@ -17,7 +17,7 @@
         "descTextMapHash": 801697876,
         "modelPath": "Codex_Monster_Slime_Large_Fire"
     },
-    {
+    "20011001": {
         "Id": 20011001,
         "type": "CODEX_MONSTER",
         "describeId": 110,
@@ -26,7 +26,7 @@
         "descTextMapHash": 2618661588,
         "modelPath": "Codex_Monster_Slime_Mid_Water"
     },
-    {
+    "20011101": {
         "Id": 20011101,
         "type": "CODEX_MONSTER",
         "describeId": 111,
@@ -35,7 +35,7 @@
         "descTextMapHash": 3077605068,
         "modelPath": "Codex_Monster_Slime_Large_Water"
     },
-    {
+    "20010301": {
         "Id": 20010301,
         "type": "CODEX_MONSTER",
         "describeId": 103,
@@ -44,7 +44,7 @@
         "descTextMapHash": 825096204,
         "modelPath": "Codex_Monster_Slime_Mid_Wind"
     },
-    {
+    "20010401": {
         "Id": 20010401,
         "type": "CODEX_MONSTER",
         "describeId": 104,
@@ -53,7 +53,7 @@
         "descTextMapHash": 1126409596,
         "modelPath": "Codex_Monster_Slime_Large_Wind"
     },
-    {
+    "20010501": {
         "Id": 20010501,
         "type": "CODEX_MONSTER",
         "describeId": 105,
@@ -62,7 +62,7 @@
         "descTextMapHash": 2404243964,
         "modelPath": "Codex_Monster_Slime_Mid_Electric"
     },
-    {
+    "20010601": {
         "Id": 20010601,
         "type": "CODEX_MONSTER",
         "describeId": 106,
@@ -71,7 +71,7 @@
         "descTextMapHash": 1654738036,
         "modelPath": "Codex_Monster_Slime_Large_Electric"
     },
-    {
+    "20010701": {
         "Id": 20010701,
         "type": "CODEX_MONSTER",
         "describeId": 107,
@@ -80,7 +80,7 @@
         "descTextMapHash": 4250343500,
         "modelPath": "Codex_Monster_Slime_Large_Electric_Positive"
     },
-    {
+    "20010101": {
         "Id": 20010101,
         "type": "CODEX_MONSTER",
         "describeId": 101,
@@ -89,7 +89,7 @@
         "descTextMapHash": 783763292,
         "modelPath": "Codex_Monster_Slime_Mid_Grass"
     },
-    {
+    "20010201": {
         "Id": 20010201,
         "type": "CODEX_MONSTER",
         "describeId": 102,
@@ -98,7 +98,7 @@
         "descTextMapHash": 2944052036,
         "modelPath": "Codex_Monster_Slime_Large_Grass"
     },
-    {
+    "20010801": {
         "Id": 20010801,
         "type": "CODEX_MONSTER",
         "describeId": 108,
@@ -107,7 +107,7 @@
         "descTextMapHash": 1711786164,
         "modelPath": "Codex_Monster_Slime_Mid_Ice"
     },
-    {
+    "20010901": {
         "Id": 20010901,
         "type": "CODEX_MONSTER",
         "describeId": 109,
@@ -117,7 +117,7 @@
         "modelPath": "Codex_Monster_Slime_Large_Ice",
         "pushTipsCodexId": 60500001
     },
-    {
+    "20011401": {
         "Id": 20011401,
         "type": "CODEX_MONSTER",
         "describeId": 114,
@@ -126,7 +126,7 @@
         "descTextMapHash": 1145750372,
         "modelPath": "Codex_Monster_Slime_Mid_Rock"
     },
-    {
+    "20011501": {
         "Id": 20011501,
         "type": "CODEX_MONSTER",
         "describeId": 115,
@@ -136,7 +136,7 @@
         "modelPath": "Codex_Monster_Slime_Large_Rock",
         "pushTipsCodexId": 60500002
     },
-    {
+    "20020101": {
         "Id": 20020101,
         "type": "CODEX_MONSTER",
         "describeId": 201,
@@ -146,7 +146,7 @@
         "modelPath": "Codex_Monster_Elemental_Wind",
         "pushTipsCodexId": 60500003
     },
-    {
+    "20040601": {
         "Id": 20040601,
         "type": "CODEX_MONSTER",
         "describeId": 406,
@@ -156,7 +156,7 @@
         "modelPath": "Codex_Monster_Effigy_Fire",
         "pushTipsCodexId": 60500035
     },
-    {
+    "20040401": {
         "Id": 20040401,
         "type": "CODEX_MONSTER",
         "describeId": 404,
@@ -166,7 +166,7 @@
         "modelPath": "Codex_Monster_Effigy_Water",
         "pushTipsCodexId": 60500037
     },
-    {
+    "20040201": {
         "Id": 20040201,
         "type": "CODEX_MONSTER",
         "describeId": 402,
@@ -176,7 +176,7 @@
         "modelPath": "Codex_Monster_Effigy_Wind",
         "pushTipsCodexId": 60500014
     },
-    {
+    "20040101": {
         "Id": 20040101,
         "type": "CODEX_MONSTER",
         "describeId": 401,
@@ -186,7 +186,7 @@
         "modelPath": "Codex_Monster_Effigy_Electric",
         "pushTipsCodexId": 60500010
     },
-    {
+    "20040501": {
         "Id": 20040501,
         "type": "CODEX_MONSTER",
         "describeId": 405,
@@ -196,7 +196,7 @@
         "modelPath": "Codex_Monster_Effigy_Ice",
         "pushTipsCodexId": 60500033
     },
-    {
+    "20040301": {
         "Id": 20040301,
         "type": "CODEX_MONSTER",
         "describeId": 403,
@@ -206,7 +206,7 @@
         "modelPath": "Codex_Monster_Effigy_Rock",
         "pushTipsCodexId": 60500015
     },
-    {
+    "20050101": {
         "Id": 20050101,
         "type": "CODEX_MONSTER",
         "describeId": 501,
@@ -216,7 +216,7 @@
         "modelPath": "Codex_Monster_Fairfolk_Oceanid",
         "pushTipsCodexId": 60500026
     },
-    {
+    "20070101": {
         "Id": 20070101,
         "type": "CODEX_MONSTER",
         "describeId": 701,
@@ -226,7 +226,7 @@
         "modelPath": "Codex_Monster_Fairfolk_Raijin",
         "pushTipsCodexId": 60500038
     },
-    {
+    "20060601": {
         "Id": 20060601,
         "type": "CODEX_MONSTER",
         "describeId": 606,
@@ -236,7 +236,7 @@
         "modelPath": "Codex_Monster_Sylph_Fire_01",
         "pushTipsCodexId": 60500049
     },
-    {
+    "20060101": {
         "Id": 20060101,
         "type": "CODEX_MONSTER",
         "describeId": 601,
@@ -246,7 +246,7 @@
         "modelPath": "Codex_Monster_Sylph_Water_01",
         "pushTipsCodexId": 60500039
     },
-    {
+    "20060301": {
         "Id": 20060301,
         "type": "CODEX_MONSTER",
         "describeId": 603,
@@ -256,7 +256,7 @@
         "modelPath": "Codex_Monster_Sylph_Wind_01",
         "pushTipsCodexId": 60500041
     },
-    {
+    "20060501": {
         "Id": 20060501,
         "type": "CODEX_MONSTER",
         "describeId": 605,
@@ -266,7 +266,7 @@
         "modelPath": "Codex_Monster_Sylph_Electric_01",
         "pushTipsCodexId": 60500048
     },
-    {
+    "20060701": {
         "Id": 20060701,
         "type": "CODEX_MONSTER",
         "describeId": 607,
@@ -276,7 +276,7 @@
         "modelPath": "Codex_Monster_Sylph_Grass_01",
         "pushTipsCodexId": 60500059
     },
-    {
+    "20060401": {
         "Id": 20060401,
         "type": "CODEX_MONSTER",
         "describeId": 604,
@@ -286,7 +286,7 @@
         "modelPath": "Codex_Monster_Sylph_Ice_01",
         "pushTipsCodexId": 60500047
     },
-    {
+    "20060201": {
         "Id": 20060201,
         "type": "CODEX_MONSTER",
         "describeId": 602,
@@ -296,7 +296,7 @@
         "modelPath": "Codex_Monster_Sylph_Rock_01",
         "pushTipsCodexId": 60500040
     },
-    {
+    "21010101": {
         "Id": 21010101,
         "type": "CODEX_MONSTER",
         "describeId": 10101,
@@ -306,7 +306,7 @@
         "descTextMapHash": 531206316,
         "modelPath": "Codex_Monster_Hili_None_NoWeapon"
     },
-    {
+    "21010201": {
         "Id": 21010201,
         "type": "CODEX_MONSTER",
         "describeId": 10102,
@@ -316,7 +316,7 @@
         "descTextMapHash": 610916844,
         "modelPath": "Codex_Monster_Hili_None_Club"
     },
-    {
+    "21010701": {
         "Id": 21010701,
         "type": "CODEX_MONSTER",
         "describeId": 10107,
@@ -326,7 +326,7 @@
         "descTextMapHash": 253675740,
         "modelPath": "Codex_Monster_Hili_Fire_Rush"
     },
-    {
+    "21010301": {
         "Id": 21010301,
         "type": "CODEX_MONSTER",
         "describeId": 10103,
@@ -337,7 +337,7 @@
         "modelPath": "Codex_Monster_Hili_None_ShieldGrass",
         "pushTipsCodexId": 60500004
     },
-    {
+    "21011401": {
         "Id": 21011401,
         "type": "CODEX_MONSTER",
         "describeId": 10114,
@@ -347,7 +347,7 @@
         "descTextMapHash": 3714619124,
         "modelPath": "Codex_Monster_Hili_None_ShieldIce"
     },
-    {
+    "21011201": {
         "Id": 21011201,
         "type": "CODEX_MONSTER",
         "describeId": 10112,
@@ -358,7 +358,7 @@
         "modelPath": "Codex_Monster_Hili_None_ShieldRock",
         "pushTipsCodexId": 60500012
     },
-    {
+    "21010401": {
         "Id": 21010401,
         "type": "CODEX_MONSTER",
         "describeId": 10104,
@@ -368,7 +368,7 @@
         "descTextMapHash": 1216892164,
         "modelPath": "Codex_Monster_Hili_None_Crossbow"
     },
-    {
+    "21010501": {
         "Id": 21010501,
         "type": "CODEX_MONSTER",
         "describeId": 10105,
@@ -378,7 +378,7 @@
         "descTextMapHash": 1168944596,
         "modelPath": "Codex_Monster_Hili_Fire_Crossbow"
     },
-    {
+    "21011001": {
         "Id": 21011001,
         "type": "CODEX_MONSTER",
         "describeId": 10110,
@@ -388,7 +388,7 @@
         "descTextMapHash": 3926292036,
         "modelPath": "Codex_Monster_Hili_Electric_Crossbow"
     },
-    {
+    "21010901": {
         "Id": 21010901,
         "type": "CODEX_MONSTER",
         "describeId": 10109,
@@ -398,7 +398,7 @@
         "descTextMapHash": 202794476,
         "modelPath": "Codex_Monster_Hili_Ice_Crossbow"
     },
-    {
+    "21010601": {
         "Id": 21010601,
         "type": "CODEX_MONSTER",
         "describeId": 10106,
@@ -408,7 +408,7 @@
         "descTextMapHash": 2235915676,
         "modelPath": "Codex_Monster_Hili_Fire_Range"
     },
-    {
+    "21011601": {
         "Id": 21011601,
         "type": "CODEX_MONSTER",
         "describeId": 10116,
@@ -418,7 +418,7 @@
         "descTextMapHash": 1287404276,
         "modelPath": "Codex_Monster_Hili_Electric_Range"
     },
-    {
+    "21011301": {
         "Id": 21011301,
         "type": "CODEX_MONSTER",
         "describeId": 10113,
@@ -428,7 +428,7 @@
         "descTextMapHash": 2487554468,
         "modelPath": "Codex_Monster_Hili_Ice_Range"
     },
-    {
+    "21011501": {
         "Id": 21011501,
         "type": "CODEX_MONSTER",
         "describeId": 10115,
@@ -438,7 +438,7 @@
         "descTextMapHash": 894137756,
         "modelPath": "Codex_Monster_Hili_None_NoWeapon_Wei"
     },
-    {
+    "21020101": {
         "Id": 21020101,
         "type": "CODEX_MONSTER",
         "describeId": 10201,
@@ -449,7 +449,7 @@
         "modelPath": "Codex_Monster_Brute_None_Shield_Grass",
         "pushTipsCodexId": 60500005
     },
-    {
+    "21020301": {
         "Id": 21020301,
         "type": "CODEX_MONSTER",
         "describeId": 10203,
@@ -460,7 +460,7 @@
         "modelPath": "Codex_Monster_Brute_None_Shield_Rock",
         "pushTipsCodexId": 60500013
     },
-    {
+    "21020601": {
         "Id": 21020601,
         "type": "CODEX_MONSTER",
         "describeId": 10206,
@@ -471,7 +471,7 @@
         "modelPath": "Codex_Monster_Brute_None_Shield_Ice",
         "pushTipsCodexId": 60500027
     },
-    {
+    "21020201": {
         "Id": 21020201,
         "type": "CODEX_MONSTER",
         "describeId": 10202,
@@ -481,7 +481,7 @@
         "descTextMapHash": 2800506452,
         "modelPath": "Codex_Monster_Brute_None_Axe_Fire"
     },
-    {
+    "21020701": {
         "Id": 21020701,
         "type": "CODEX_MONSTER",
         "describeId": 10207,
@@ -491,7 +491,7 @@
         "descTextMapHash": 4269404884,
         "modelPath": "Codex_Monster_Brute_None_Axe_Electric"
     },
-    {
+    "21020801": {
         "Id": 21020801,
         "type": "CODEX_MONSTER",
         "describeId": 10208,
@@ -501,7 +501,7 @@
         "descTextMapHash": 373933988,
         "modelPath": "Codex_Monster_Brute_Electric"
     },
-    {
+    "21020401": {
         "Id": 21020401,
         "type": "CODEX_MONSTER",
         "describeId": 10204,
@@ -511,7 +511,7 @@
         "descTextMapHash": 1602972604,
         "modelPath": "Codex_Monster_Brute_Ice"
     },
-    {
+    "21020501": {
         "Id": 21020501,
         "type": "CODEX_MONSTER",
         "describeId": 10205,
@@ -521,7 +521,7 @@
         "descTextMapHash": 2679728316,
         "modelPath": "Codex_Monster_Brute_Rock"
     },
-    {
+    "21030101": {
         "Id": 21030101,
         "type": "CODEX_MONSTER",
         "describeId": 10301,
@@ -531,7 +531,7 @@
         "descTextMapHash": 2229588756,
         "modelPath": "Codex_Monster_Shaman_Water"
     },
-    {
+    "21030301": {
         "Id": 21030301,
         "type": "CODEX_MONSTER",
         "describeId": 10303,
@@ -541,7 +541,7 @@
         "descTextMapHash": 2150696492,
         "modelPath": "Codex_Monster_Shaman_Wind"
     },
-    {
+    "21030601": {
         "Id": 21030601,
         "type": "CODEX_MONSTER",
         "describeId": 10306,
@@ -551,7 +551,7 @@
         "descTextMapHash": 340331220,
         "modelPath": "Codex_Monster_Shaman_Electric"
     },
-    {
+    "21030201": {
         "Id": 21030201,
         "type": "CODEX_MONSTER",
         "describeId": 10302,
@@ -561,7 +561,7 @@
         "descTextMapHash": 2256283548,
         "modelPath": "Codex_Monster_Shaman_Grass"
     },
-    {
+    "21030501": {
         "Id": 21030501,
         "type": "CODEX_MONSTER",
         "describeId": 10305,
@@ -571,7 +571,7 @@
         "descTextMapHash": 899970532,
         "modelPath": "Codex_Monster_Shaman_Ice"
     },
-    {
+    "21030401": {
         "Id": 21030401,
         "type": "CODEX_MONSTER",
         "describeId": 10304,
@@ -582,7 +582,7 @@
         "modelPath": "Codex_Monster_Shaman_Rock",
         "pushTipsCodexId": 60500016
     },
-    {
+    "22010101": {
         "Id": 22010101,
         "type": "CODEX_MONSTER",
         "describeId": 20101,
@@ -593,7 +593,7 @@
         "modelPath": "Codex_Monster_Abyss_Fire",
         "pushTipsCodexId": 60500006
     },
-    {
+    "22010301": {
         "Id": 22010301,
         "type": "CODEX_MONSTER",
         "describeId": 20103,
@@ -604,7 +604,7 @@
         "modelPath": "Codex_Monster_Abyss_Water",
         "pushTipsCodexId": 60500008
     },
-    {
+    "22010401": {
         "Id": 22010401,
         "type": "CODEX_MONSTER",
         "describeId": 20104,
@@ -614,7 +614,7 @@
         "descTextMapHash": 2549338316,
         "modelPath": "Codex_Monster_Abyss_Electric"
     },
-    {
+    "22010201": {
         "Id": 22010201,
         "type": "CODEX_MONSTER",
         "describeId": 20102,
@@ -625,7 +625,7 @@
         "modelPath": "Codex_Monster_Abyss_Ice",
         "pushTipsCodexId": 60500007
     },
-    {
+    "22020101": {
         "Id": 22020101,
         "type": "CODEX_MONSTER",
         "describeId": 20201,
@@ -636,7 +636,7 @@
         "modelPath": "Codex_Monster_Invoker_Herald_Water",
         "pushTipsCodexId": 60500031
     },
-    {
+    "22030201": {
         "Id": 22030201,
         "type": "CODEX_MONSTER",
         "describeId": 20302,
@@ -647,7 +647,7 @@
         "modelPath": "Codex_Monster_Invoker_Deacon_Fire",
         "pushTipsCodexId": 60500053
     },
-    {
+    "22030101": {
         "Id": 22030101,
         "type": "CODEX_MONSTER",
         "describeId": 20301,
@@ -658,7 +658,7 @@
         "modelPath": "Codex_Monster_Invoker_Deacon_Electric",
         "pushTipsCodexId": 60500032
     },
-    {
+    "22040101": {
         "Id": 22040101,
         "type": "CODEX_MONSTER",
         "describeId": 20401,
@@ -669,7 +669,7 @@
         "modelPath": "Codex_Monster_Hound_Kanis_Rock",
         "pushTipsCodexId": 60500042
     },
-    {
+    "22040201": {
         "Id": 22040201,
         "type": "CODEX_MONSTER",
         "describeId": 20402,
@@ -680,7 +680,7 @@
         "modelPath": "Codex_Monster_Hound_Kanis_Electric",
         "pushTipsCodexId": 60500043
     },
-    {
+    "22050101": {
         "Id": 22050101,
         "type": "CODEX_MONSTER",
         "describeId": 20501,
@@ -691,7 +691,7 @@
         "modelPath": "Codex_Monster_Hound_Riftstalker_Rock",
         "pushTipsCodexId": 60500044
     },
-    {
+    "22050201": {
         "Id": 22050201,
         "type": "CODEX_MONSTER",
         "describeId": 20502,
@@ -702,7 +702,7 @@
         "modelPath": "Codex_Monster_Hound_Riftstalker_Electric",
         "pushTipsCodexId": 60500045
     },
-    {
+    "22060101": {
         "Id": 22060101,
         "type": "CODEX_MONSTER",
         "describeId": 20601,
@@ -713,7 +713,7 @@
         "modelPath": "Codex_Monster_Hound_Planelurker",
         "pushTipsCodexId": 60500046
     },
-    {
+    "22070101": {
         "Id": 22070101,
         "type": "CODEX_MONSTER",
         "describeId": 20701,
@@ -724,7 +724,7 @@
         "modelPath": "Codex_Monster_ForlornVessel_Strong_Warbanner_Fire",
         "pushTipsCodexId": 60500054
     },
-    {
+    "22070201": {
         "Id": 22070201,
         "type": "CODEX_MONSTER",
         "describeId": 20702,
@@ -735,7 +735,7 @@
         "modelPath": "Codex_Monster_ForlornVessel_Strong_Lance_Water",
         "pushTipsCodexId": 60500055
     },
-    {
+    "22070301": {
         "Id": 22070301,
         "type": "CODEX_MONSTER",
         "describeId": 20703,
@@ -746,7 +746,7 @@
         "modelPath": "Codex_Monster_ForlornVessel_Strong_Chargebow_Ice",
         "pushTipsCodexId": 60500056
     },
-    {
+    "22080101": {
         "Id": 22080101,
         "type": "CODEX_MONSTER",
         "describeId": 20801,
@@ -757,7 +757,7 @@
         "modelPath": "Codex_Monster_ForlornVessel_Darkwraith_Strong_Wind",
         "pushTipsCodexId": 60500058
     },
-    {
+    "23010601": {
         "Id": 23010601,
         "type": "CODEX_MONSTER",
         "describeId": 30106,
@@ -768,7 +768,7 @@
         "modelPath": "Codex_Monster_Skirmisher_Male_Standard_Rifle_Fire",
         "pushTipsCodexId": 60500022
     },
-    {
+    "23010201": {
         "Id": 23010201,
         "type": "CODEX_MONSTER",
         "describeId": 30102,
@@ -779,7 +779,7 @@
         "modelPath": "Codex_Monster_Skirmisher_Male_Fat_SprayGun_Water",
         "pushTipsCodexId": 60500018
     },
-    {
+    "23010501": {
         "Id": 23010501,
         "type": "CODEX_MONSTER",
         "describeId": 30105,
@@ -790,7 +790,7 @@
         "modelPath": "Codex_Monster_Skirmisher_Male_Strong_Gloves_Wind",
         "pushTipsCodexId": 60500021
     },
-    {
+    "23010301": {
         "Id": 23010301,
         "type": "CODEX_MONSTER",
         "describeId": 30103,
@@ -801,7 +801,7 @@
         "modelPath": "Codex_Monster_Skirmisher_Male_Strong_GreatHammer_Electric",
         "pushTipsCodexId": 60500019
     },
-    {
+    "23010101": {
         "Id": 23010101,
         "type": "CODEX_MONSTER",
         "describeId": 30101,
@@ -812,7 +812,7 @@
         "modelPath": "Codex_Monster_Skirmisher_Male_Fat_SprayGun_Ice",
         "pushTipsCodexId": 60500017
     },
-    {
+    "23010401": {
         "Id": 23010401,
         "type": "CODEX_MONSTER",
         "describeId": 30104,
@@ -823,7 +823,7 @@
         "modelPath": "Codex_Monster_Skirmisher_Male_Standard_Staff_Rock",
         "pushTipsCodexId": 60500020
     },
-    {
+    "23020101": {
         "Id": 23020101,
         "type": "CODEX_MONSTER",
         "describeId": 30201,
@@ -833,7 +833,7 @@
         "descTextMapHash": 2721264164,
         "modelPath": "Codex_Monster_Fatuus_Agent_Fire"
     },
-    {
+    "23030101": {
         "Id": 23030101,
         "type": "CODEX_MONSTER",
         "describeId": 30301,
@@ -843,7 +843,7 @@
         "descTextMapHash": 1845452236,
         "modelPath": "Codex_Monster_Fatuus_Mage_Electric"
     },
-    {
+    "23040101": {
         "Id": 23040101,
         "type": "CODEX_MONSTER",
         "describeId": 30401,
@@ -853,7 +853,7 @@
         "descTextMapHash": 279158900,
         "modelPath": "Codex_Monster_Fatuus_Mage_Ice"
     },
-    {
+    "23050101": {
         "Id": 23050101,
         "type": "CODEX_MONSTER",
         "describeId": 30501,
@@ -864,7 +864,7 @@
         "modelPath": "Codex_Monster_Fatuus_Maiden_Water",
         "pushTipsCodexId": 60500034
     },
-    {
+    "24010101": {
         "Id": 24010101,
         "type": "CODEX_MONSTER",
         "describeId": 40101,
@@ -875,7 +875,7 @@
         "modelPath": "Codex_Monster_Defender_None",
         "pushTipsCodexId": 60500009
     },
-    {
+    "24010201": {
         "Id": 24010201,
         "type": "CODEX_MONSTER",
         "describeId": 40102,
@@ -886,7 +886,7 @@
         "modelPath": "Codex_Monster_Formathr_None",
         "pushTipsCodexId": 60500011
     },
-    {
+    "24010301": {
         "Id": 24010301,
         "type": "CODEX_MONSTER",
         "describeId": 40103,
@@ -897,7 +897,7 @@
         "modelPath": "Codex_Monster_Defender_Konungmathr",
         "pushTipsCodexId": 60500028
     },
-    {
+    "24010401": {
         "Id": 24010401,
         "type": "CODEX_MONSTER",
         "describeId": 40104,
@@ -908,7 +908,7 @@
         "modelPath": "Codex_Monster_Nithhoggr_None",
         "pushTipsCodexId": 60500057
     },
-    {
+    "24020101": {
         "Id": 24020101,
         "type": "CODEX_MONSTER",
         "describeId": 40201,
@@ -918,7 +918,7 @@
         "descTextMapHash": 4150296284,
         "modelPath": "Codex_Monster_Apparatus_Enigma_BionicDrone"
     },
-    {
+    "24020201": {
         "Id": 24020201,
         "type": "CODEX_MONSTER",
         "describeId": 40202,
@@ -928,7 +928,7 @@
         "descTextMapHash": 3150417148,
         "modelPath": "Codex_Monster_Apparatus_Enigma_BionicFlora"
     },
-    {
+    "24020301": {
         "Id": 24020301,
         "type": "CODEX_MONSTER",
         "describeId": 40203,
@@ -938,7 +938,7 @@
         "descTextMapHash": 1969176836,
         "modelPath": "Codex_Monster_Apparatus_Enigma_BionicInsecta"
     },
-    {
+    "24020401": {
         "Id": 24020401,
         "type": "CODEX_MONSTER",
         "describeId": 40204,
@@ -948,7 +948,7 @@
         "descTextMapHash": 3883299804,
         "modelPath": "Codex_Monster_Apparatus_Enigma_BionicNettler"
     },
-    {
+    "24021101": {
         "Id": 24021101,
         "type": "CODEX_MONSTER",
         "describeId": 40211,
@@ -959,7 +959,7 @@
         "modelPath": "Codex_Monster_Apparatus_Perpetual",
         "pushTipsCodexId": 60500036
     },
-    {
+    "24030201": {
         "Id": 24030201,
         "type": "CODEX_MONSTER",
         "describeId": 40302,
@@ -970,7 +970,7 @@
         "modelPath": "Codex_Monster_Gargoyle_Ground",
         "pushTipsCodexId": 60500062
     },
-    {
+    "24030101": {
         "Id": 24030101,
         "type": "CODEX_MONSTER",
         "describeId": 40301,
@@ -981,7 +981,7 @@
         "modelPath": "Codex_Monster_Gargoyle_Airborne",
         "pushTipsCodexId": 60500063
     },
-    {
+    "25090101": {
         "Id": 25090101,
         "type": "CODEX_MONSTER",
         "describeId": 50901,
@@ -991,7 +991,7 @@
         "descTextMapHash": 3531349252,
         "modelPath": "Codex_Monster_Samurai_Ningyo"
     },
-    {
+    "25010101": {
         "Id": 25010101,
         "type": "CODEX_MONSTER",
         "describeId": 50101,
@@ -1002,7 +1002,7 @@
         "descTextMapHash": 3361807732,
         "modelPath": ""
     },
-    {
+    "25010201": {
         "Id": 25010201,
         "type": "CODEX_MONSTER",
         "describeId": 50102,
@@ -1012,7 +1012,7 @@
         "descTextMapHash": 3203861772,
         "modelPath": "Codex_Monster_Thoarder_Male_Scout"
     },
-    {
+    "25010301": {
         "Id": 25010301,
         "type": "CODEX_MONSTER",
         "describeId": 50103,
@@ -1022,7 +1022,7 @@
         "descTextMapHash": 4258650324,
         "modelPath": "Codex_Monster_Thoarder_Male_Chemist_Fire"
     },
-    {
+    "25010401": {
         "Id": 25010401,
         "type": "CODEX_MONSTER",
         "describeId": 50104,
@@ -1032,7 +1032,7 @@
         "descTextMapHash": 391056196,
         "modelPath": "Codex_Monster_Thoarder_Male_Chemist_Water"
     },
-    {
+    "25010501": {
         "Id": 25010501,
         "type": "CODEX_MONSTER",
         "describeId": 50105,
@@ -1042,7 +1042,7 @@
         "descTextMapHash": 1056968788,
         "modelPath": "Codex_Monster_Thoarder_Male_Chemist_Electric"
     },
-    {
+    "25010601": {
         "Id": 25010601,
         "type": "CODEX_MONSTER",
         "describeId": 50106,
@@ -1052,7 +1052,7 @@
         "descTextMapHash": 932946668,
         "modelPath": "Codex_Monster_Thoarder_Male_Chemist_Ice"
     },
-    {
+    "25010701": {
         "Id": 25010701,
         "type": "CODEX_MONSTER",
         "describeId": 50107,
@@ -1062,7 +1062,7 @@
         "descTextMapHash": 2932021268,
         "modelPath": "Codex_Monster_Thoarder_Male_Handyman"
     },
-    {
+    "25020101": {
         "Id": 25020101,
         "type": "CODEX_MONSTER",
         "describeId": 50201,
@@ -1073,7 +1073,7 @@
         "descTextMapHash": 2809913076,
         "modelPath": ""
     },
-    {
+    "25020201": {
         "Id": 25020201,
         "type": "CODEX_MONSTER",
         "describeId": 50202,
@@ -1083,7 +1083,7 @@
         "descTextMapHash": 2135449188,
         "modelPath": "Codex_Monster_Thoarder_Male_Marksman"
     },
-    {
+    "25030101": {
         "Id": 25030101,
         "type": "CODEX_MONSTER",
         "describeId": 50301,
@@ -1094,7 +1094,7 @@
         "descTextMapHash": 3343637564,
         "modelPath": ""
     },
-    {
+    "25030201": {
         "Id": 25030201,
         "type": "CODEX_MONSTER",
         "describeId": 50302,
@@ -1104,7 +1104,7 @@
         "descTextMapHash": 2438565732,
         "modelPath": "Codex_Monster_Thoarder_Male_Gravedigger"
     },
-    {
+    "25030301": {
         "Id": 25030301,
         "type": "CODEX_MONSTER",
         "describeId": 50303,
@@ -1114,7 +1114,7 @@
         "descTextMapHash": 3176958380,
         "modelPath": "Codex_Monster_Thoarder_Male_Seaman"
     },
-    {
+    "25040101": {
         "Id": 25040101,
         "type": "CODEX_MONSTER",
         "describeId": 50401,
@@ -1125,7 +1125,7 @@
         "descTextMapHash": 2057035140,
         "modelPath": ""
     },
-    {
+    "25050101": {
         "Id": 25050101,
         "type": "CODEX_MONSTER",
         "describeId": 50501,
@@ -1136,7 +1136,7 @@
         "descTextMapHash": 3778845460,
         "modelPath": ""
     },
-    {
+    "25050201": {
         "Id": 25050201,
         "type": "CODEX_MONSTER",
         "describeId": 50502,
@@ -1147,7 +1147,7 @@
         "descTextMapHash": 1822072796,
         "modelPath": ""
     },
-    {
+    "25060101": {
         "Id": 25060101,
         "type": "CODEX_MONSTER",
         "describeId": 50601,
@@ -1157,7 +1157,7 @@
         "descTextMapHash": 3157705420,
         "modelPath": "Codex_Monster_Thoarder_MuscleMan_Pugilist"
     },
-    {
+    "25070101": {
         "Id": 25070101,
         "type": "CODEX_MONSTER",
         "describeId": 50701,
@@ -1167,7 +1167,7 @@
         "descTextMapHash": 3599973484,
         "modelPath": "Codex_Monster_Thoarder_MuscleMan_Crusher"
     },
-    {
+    "25080101": {
         "Id": 25080101,
         "type": "CODEX_MONSTER",
         "describeId": 50801,
@@ -1177,7 +1177,7 @@
         "descTextMapHash": 965565028,
         "modelPath": "Codex_Monster_Samurai_Ronin"
     },
-    {
+    "25080201": {
         "Id": 25080201,
         "type": "CODEX_MONSTER",
         "describeId": 50802,
@@ -1187,7 +1187,7 @@
         "descTextMapHash": 2294436340,
         "modelPath": "Codex_Monster_Samurai_Ronin_Hisago"
     },
-    {
+    "25080301": {
         "Id": 25080301,
         "type": "CODEX_MONSTER",
         "describeId": 50803,
@@ -1197,7 +1197,7 @@
         "descTextMapHash": 4243582156,
         "modelPath": "Codex_Monster_Samurai_Ronin_Maki"
     },
-    {
+    "25100201": {
         "Id": 25100201,
         "type": "CODEX_MONSTER",
         "describeId": 51002,
@@ -1207,7 +1207,7 @@
         "descTextMapHash": 4004028948,
         "modelPath": "Codex_Monster_Samurai_Kairagi_Fire"
     },
-    {
+    "25100101": {
         "Id": 25100101,
         "type": "CODEX_MONSTER",
         "describeId": 51001,
@@ -1217,7 +1217,7 @@
         "descTextMapHash": 1746776396,
         "modelPath": "Codex_Monster_Samurai_Kairagi_Electric"
     },
-    {
+    "25210101": {
         "Id": 25210101,
         "type": "CODEX_MONSTER",
         "describeId": 52101,
@@ -1227,7 +1227,7 @@
         "descTextMapHash": 1578336260,
         "modelPath": "Codex_Monster_Eremite_Female_Hatchet"
     },
-    {
+    "25210201": {
         "Id": 25210201,
         "type": "CODEX_MONSTER",
         "describeId": 52102,
@@ -1237,7 +1237,7 @@
         "descTextMapHash": 1774778268,
         "modelPath": "Codex_Monster_Eremite_Male_Standard_Crossbow"
     },
-    {
+    "25210301": {
         "Id": 25210301,
         "type": "CODEX_MONSTER",
         "describeId": 52103,
@@ -1247,7 +1247,7 @@
         "descTextMapHash": 255350996,
         "modelPath": "Codex_Monster_Eremite_Male_Standard_Pole"
     },
-    {
+    "25210401": {
         "Id": 25210401,
         "type": "CODEX_MONSTER",
         "describeId": 52104,
@@ -1257,7 +1257,7 @@
         "descTextMapHash": 983366940,
         "modelPath": "Codex_Monster_Eremite_MuscleMan_Gloves"
     },
-    {
+    "25210501": {
         "Id": 25210501,
         "type": "CODEX_MONSTER",
         "describeId": 52105,
@@ -1267,7 +1267,7 @@
         "descTextMapHash": 3347785908,
         "modelPath": "Codex_Monster_Eremite_MuscleMan_Simitar"
     },
-    {
+    "25310101": {
         "Id": 25310101,
         "type": "CODEX_MONSTER",
         "describeId": 53101,
@@ -1278,7 +1278,7 @@
         "modelPath": "Codex_Monster_Eremite_Female_Slim_PushDagger",
         "pushTipsCodexId": 60500064
     },
-    {
+    "25310201": {
         "Id": 25310201,
         "type": "CODEX_MONSTER",
         "describeId": 53102,
@@ -1289,7 +1289,7 @@
         "modelPath": "Codex_Monster_Eremite_Male_Standard_Glaive",
         "pushTipsCodexId": 60500065
     },
-    {
+    "25310301": {
         "Id": 25310301,
         "type": "CODEX_MONSTER",
         "describeId": 53103,
@@ -1300,7 +1300,7 @@
         "modelPath": "Codex_Monster_Eremite_Male_Standard_Polearm",
         "pushTipsCodexId": 60500066
     },
-    {
+    "26010201": {
         "Id": 26010201,
         "type": "CODEX_MONSTER",
         "describeId": 60102,
@@ -1310,7 +1310,7 @@
         "descTextMapHash": 1548992428,
         "modelPath": "Codex_Monster_Mimik_Fire"
     },
-    {
+    "26010301": {
         "Id": 26010301,
         "type": "CODEX_MONSTER",
         "describeId": 60103,
@@ -1320,7 +1320,7 @@
         "descTextMapHash": 1087861108,
         "modelPath": "Codex_Monster_Mimik_Electric"
     },
-    {
+    "26010101": {
         "Id": 26010101,
         "type": "CODEX_MONSTER",
         "describeId": 60101,
@@ -1330,7 +1330,7 @@
         "descTextMapHash": 3680567484,
         "modelPath": "Codex_Monster_Mimik_Ice"
     },
-    {
+    "26020201": {
         "Id": 26020201,
         "type": "CODEX_MONSTER",
         "describeId": 60202,
@@ -1341,7 +1341,7 @@
         "modelPath": "Codex_Monster_Regisvine_Fire",
         "pushTipsCodexId": 60500024
     },
-    {
+    "26020301": {
         "Id": 26020301,
         "type": "CODEX_MONSTER",
         "describeId": 60203,
@@ -1352,7 +1352,7 @@
         "modelPath": "Codex_Monster_Regisvine_Electric",
         "pushTipsCodexId": 60500067
     },
-    {
+    "26020101": {
         "Id": 26020101,
         "type": "CODEX_MONSTER",
         "describeId": 60201,
@@ -1363,7 +1363,7 @@
         "modelPath": "Codex_Monster_Regisvine_Ice",
         "pushTipsCodexId": 60500023
     },
-    {
+    "26030101": {
         "Id": 26030101,
         "type": "CODEX_MONSTER",
         "describeId": 60301,
@@ -1374,7 +1374,7 @@
         "modelPath": "Codex_Monster_Wyrm_Rock",
         "pushTipsCodexId": 60500025
     },
-    {
+    "26040101": {
         "Id": 26040101,
         "type": "CODEX_MONSTER",
         "describeId": 60401,
@@ -1385,7 +1385,7 @@
         "modelPath": "Codex_Monster_Drake_Rock",
         "pushTipsCodexId": 60500029
     },
-    {
+    "26050101": {
         "Id": 26050101,
         "type": "CODEX_MONSTER",
         "describeId": 60501,
@@ -1396,7 +1396,7 @@
         "modelPath": "Codex_Monster_Drake_Primo_Rock",
         "pushTipsCodexId": 60500030
     },
-    {
+    "26050601": {
         "Id": 26050601,
         "type": "CODEX_MONSTER",
         "describeId": 60506,
@@ -1407,7 +1407,7 @@
         "modelPath": "Codex_Monster_Drake_Deepsea_Water",
         "pushTipsCodexId": 60500050
     },
-    {
+    "26050701": {
         "Id": 26050701,
         "type": "CODEX_MONSTER",
         "describeId": 60507,
@@ -1418,7 +1418,7 @@
         "modelPath": "Codex_Monster_Drake_Deepsea_Ice",
         "pushTipsCodexId": 60500051
     },
-    {
+    "26050801": {
         "Id": 26050801,
         "type": "CODEX_MONSTER",
         "describeId": 60508,
@@ -1429,7 +1429,7 @@
         "modelPath": "Codex_Monster_Drake_Deepsea_Electric",
         "pushTipsCodexId": 60500052
     },
-    {
+    "26060201": {
         "Id": 26060201,
         "type": "CODEX_MONSTER",
         "describeId": 60602,
@@ -1439,7 +1439,7 @@
         "descTextMapHash": 78252036,
         "modelPath": "Codex_Monster_Cicin_Water"
     },
-    {
+    "26060101": {
         "Id": 26060101,
         "type": "CODEX_MONSTER",
         "describeId": 60601,
@@ -1449,7 +1449,7 @@
         "descTextMapHash": 473075596,
         "modelPath": "Codex_Monster_Cicin_Electric"
     },
-    {
+    "26060301": {
         "Id": 26060301,
         "type": "CODEX_MONSTER",
         "describeId": 60603,
@@ -1459,7 +1459,7 @@
         "descTextMapHash": 3816442516,
         "modelPath": "Codex_Monster_Cicin_Ice"
     },
-    {
+    "26090101": {
         "Id": 26090101,
         "type": "CODEX_MONSTER",
         "describeId": 60901,
@@ -1470,7 +1470,7 @@
         "modelPath": "Codex_Monster_Fungus_Un_Gamma_Water",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26090201": {
         "Id": 26090201,
         "type": "CODEX_MONSTER",
         "describeId": 60902,
@@ -1481,7 +1481,7 @@
         "modelPath": "Codex_Monster_Fungus_Un_Delta_Grass",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26090401": {
         "Id": 26090401,
         "type": "CODEX_MONSTER",
         "describeId": 60904,
@@ -1492,7 +1492,7 @@
         "modelPath": "Codex_Monster_Fungus_Trois_Epsilon_Electric",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26090501": {
         "Id": 26090501,
         "type": "CODEX_MONSTER",
         "describeId": 60905,
@@ -1503,7 +1503,7 @@
         "modelPath": "Codex_Monster_Fungus_Trois_Alpha_Ice",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26090701": {
         "Id": 26090701,
         "type": "CODEX_MONSTER",
         "describeId": 60907,
@@ -1514,7 +1514,7 @@
         "modelPath": "Codex_Monster_Fungus_Deux_Alpha_Fire",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26090801": {
         "Id": 26090801,
         "type": "CODEX_MONSTER",
         "describeId": 60908,
@@ -1525,7 +1525,7 @@
         "modelPath": "Codex_Monster_Fungus_Deux_Epsilon_Wind",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26090901": {
         "Id": 26090901,
         "type": "CODEX_MONSTER",
         "describeId": 60909,
@@ -1536,7 +1536,7 @@
         "modelPath": "Codex_Monster_Fungus_Deux_Beta_Rock",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26120301": {
         "Id": 26120301,
         "type": "CODEX_MONSTER",
         "describeId": 61203,
@@ -1547,7 +1547,7 @@
         "modelPath": "Codex_Monster_Fungus_Amanita_Du_Anudatta_Water",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26120101": {
         "Id": 26120101,
         "type": "CODEX_MONSTER",
         "describeId": 61201,
@@ -1558,7 +1558,7 @@
         "modelPath": "Codex_Monster_Fungus_Amanita_Unu_Anudatta_Grass",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26120201": {
         "Id": 26120201,
         "type": "CODEX_MONSTER",
         "describeId": 61202,
@@ -1569,7 +1569,7 @@
         "modelPath": "Codex_Monster_Fungus_Amanita_Unu_Svarita_Ice",
         "pushTipsCodexId": 60500060
     },
-    {
+    "26110101": {
         "Id": 26110101,
         "type": "CODEX_MONSTER",
         "describeId": 61101,
@@ -1580,7 +1580,7 @@
         "modelPath": "Codex_Monster_Fungus_Raptor",
         "pushTipsCodexId": 60500061
     },
-    {
+    "29010101": {
         "Id": 29010101,
         "type": "CODEX_MONSTER",
         "describeId": 90101,
@@ -1590,7 +1590,7 @@
         "descTextMapHash": 572043132,
         "modelPath": "Codex_Monster_Dvalin"
     },
-    {
+    "29020101": {
         "Id": 29020101,
         "type": "CODEX_MONSTER",
         "describeId": 90201,
@@ -1600,7 +1600,7 @@
         "descTextMapHash": 4021589100,
         "modelPath": "Codex_Monster_LupiBoreas"
     },
-    {
+    "29030101": {
         "Id": 29030101,
         "type": "CODEX_MONSTER",
         "describeId": 90301,
@@ -1610,7 +1610,7 @@
         "descTextMapHash": 397820092,
         "modelPath": "Codex_Monster_Tartaglia"
     },
-    {
+    "29040101": {
         "Id": 29040101,
         "type": "CODEX_MONSTER",
         "describeId": 90401,
@@ -1620,7 +1620,7 @@
         "descTextMapHash": 605456996,
         "modelPath": "Codex_Monster_Dahaka"
     },
-    {
+    "29050101": {
         "Id": 29050101,
         "type": "CODEX_MONSTER",
         "describeId": 90501,
@@ -1630,7 +1630,7 @@
         "descTextMapHash": 717955844,
         "modelPath": "Codex_Monster_LaSignora"
     },
-    {
+    "29060201": {
         "Id": 29060201,
         "type": "CODEX_MONSTER",
         "describeId": 90602,
@@ -1640,7 +1640,7 @@
         "descTextMapHash": 848969412,
         "modelPath": "Codex_Monster_Shougun_Mitakenarukami"
     },
-    {
+    "28030201": {
         "Id": 28030201,
         "describeId": 28030201,
         "SortOrder": 10001,
@@ -1648,7 +1648,7 @@
         "descTextMapHash": 1105531548,
         "modelPath": "Codex_Animal_Falcon_01"
     },
-    {
+    "28030202": {
         "Id": 28030202,
         "describeId": 28030202,
         "SortOrder": 10002,
@@ -1656,7 +1656,7 @@
         "descTextMapHash": 4228486892,
         "modelPath": "Codex_Animal_Falcon_02"
     },
-    {
+    "28030203": {
         "Id": 28030203,
         "describeId": 28030203,
         "SortOrder": 10003,
@@ -1664,7 +1664,7 @@
         "descTextMapHash": 1932071780,
         "modelPath": "Codex_Animal_Falcon_03"
     },
-    {
+    "28030204": {
         "Id": 28030204,
         "describeId": 28030204,
         "SortOrder": 10004,
@@ -1672,7 +1672,7 @@
         "descTextMapHash": 4276303852,
         "modelPath": "Codex_Animal_Falcon_04"
     },
-    {
+    "28030301": {
         "Id": 28030301,
         "describeId": 28030301,
         "SortOrder": 10005,
@@ -1681,7 +1681,7 @@
         "descTextMapHash": 4010649780,
         "modelPath": "Codex_Animal_Pigeon_01"
     },
-    {
+    "28030302": {
         "Id": 28030302,
         "describeId": 28030302,
         "SortOrder": 10006,
@@ -1690,7 +1690,7 @@
         "descTextMapHash": 3034101260,
         "modelPath": "Codex_Animal_Pigeon_02"
     },
-    {
+    "28030303": {
         "Id": 28030303,
         "describeId": 28030303,
         "SortOrder": 10007,
@@ -1699,7 +1699,7 @@
         "descTextMapHash": 377350284,
         "modelPath": "Codex_Animal_Pigeon_03"
     },
-    {
+    "28030304": {
         "Id": 28030304,
         "describeId": 28030304,
         "SortOrder": 10008,
@@ -1708,7 +1708,7 @@
         "descTextMapHash": 3580989828,
         "modelPath": "Codex_Animal_Pigeon_04"
     },
-    {
+    "28030305": {
         "Id": 28030305,
         "describeId": 28030305,
         "SortOrder": 10009,
@@ -1717,7 +1717,7 @@
         "descTextMapHash": 4011950268,
         "modelPath": "Codex_Animal_Pigeon_05"
     },
-    {
+    "28030401": {
         "Id": 28030401,
         "describeId": 28030401,
         "SortOrder": 10010,
@@ -1726,7 +1726,7 @@
         "descTextMapHash": 3267556180,
         "modelPath": "Codex_Animal_Tit_01"
     },
-    {
+    "28030402": {
         "Id": 28030402,
         "describeId": 28030402,
         "SortOrder": 10011,
@@ -1735,7 +1735,7 @@
         "descTextMapHash": 3064809156,
         "modelPath": "Codex_Animal_Tit_02"
     },
-    {
+    "28030403": {
         "Id": 28030403,
         "describeId": 28030403,
         "SortOrder": 10012,
@@ -1744,7 +1744,7 @@
         "descTextMapHash": 2887369468,
         "modelPath": "Codex_Animal_Tit_03"
     },
-    {
+    "28030404": {
         "Id": 28030404,
         "describeId": 28030404,
         "SortOrder": 10013,
@@ -1753,7 +1753,7 @@
         "descTextMapHash": 3386843732,
         "modelPath": "Codex_Animal_Tit_04"
     },
-    {
+    "28030501": {
         "Id": 28030501,
         "describeId": 28030501,
         "SortOrder": 10014,
@@ -1761,7 +1761,7 @@
         "descTextMapHash": 3578611164,
         "modelPath": "Codex_Animal_Wigeon_01"
     },
-    {
+    "28030502": {
         "Id": 28030502,
         "describeId": 28030502,
         "SortOrder": 10015,
@@ -1769,7 +1769,7 @@
         "descTextMapHash": 1355737348,
         "modelPath": "Codex_Animal_Wigeon_02"
     },
-    {
+    "28030101": {
         "Id": 28030101,
         "describeId": 28030101,
         "SortOrder": 10017,
@@ -1777,7 +1777,7 @@
         "descTextMapHash": 10750060,
         "modelPath": "Codex_Animal_Crane_01"
     },
-    {
+    "28030102": {
         "Id": 28030102,
         "describeId": 28030102,
         "SortOrder": 10018,
@@ -1786,7 +1786,7 @@
         "descTextMapHash": 686282284,
         "modelPath": "Codex_Animal_Crane_02"
     },
-    {
+    "28030306": {
         "Id": 28030306,
         "describeId": 28030306,
         "SortOrder": 10020,
@@ -1795,7 +1795,7 @@
         "descTextMapHash": 526707716,
         "modelPath": "Codex_Animal_Crow_01"
     },
-    {
+    "28030313": {
         "Id": 28030313,
         "describeId": 28030313,
         "SortOrder": 10021,
@@ -1804,7 +1804,7 @@
         "descTextMapHash": 3924720076,
         "modelPath": "Codex_Animal_Pigeon_Beak"
     },
-    {
+    "28020101": {
         "Id": 28020101,
         "describeId": 28020101,
         "SortOrder": 11001,
@@ -1813,7 +1813,7 @@
         "descTextMapHash": 3163587340,
         "modelPath": "Codex_Animal_Fox_01"
     },
-    {
+    "28020102": {
         "Id": 28020102,
         "describeId": 28020102,
         "SortOrder": 11002,
@@ -1822,7 +1822,7 @@
         "descTextMapHash": 2713753684,
         "modelPath": "Codex_Animal_Fox_02"
     },
-    {
+    "28020701": {
         "Id": 28020701,
         "describeId": 28020701,
         "isSeenActive": true,
@@ -1832,7 +1832,7 @@
         "descTextMapHash": 1235860324,
         "modelPath": "Codex_Animal_Vulpes_01"
     },
-    {
+    "28020201": {
         "Id": 28020201,
         "describeId": 28020201,
         "SortOrder": 11005,
@@ -1841,7 +1841,7 @@
         "descTextMapHash": 409299996,
         "modelPath": "Codex_Animal_Squirrel_01"
     },
-    {
+    "28020301": {
         "Id": 28020301,
         "describeId": 28020301,
         "SortOrder": 11006,
@@ -1849,7 +1849,7 @@
         "descTextMapHash": 3473645700,
         "modelPath": "Codex_Animal_Boar_01"
     },
-    {
+    "28020302": {
         "Id": 28020302,
         "describeId": 28020302,
         "SortOrder": 11007,
@@ -1858,7 +1858,7 @@
         "descTextMapHash": 3009146260,
         "modelPath": ""
     },
-    {
+    "28020303": {
         "Id": 28020303,
         "describeId": 28020303,
         "SortOrder": 11008,
@@ -1867,7 +1867,7 @@
         "descTextMapHash": 2586620676,
         "modelPath": "Codex_Animal_Boar_02"
     },
-    {
+    "28020304": {
         "Id": 28020304,
         "describeId": 28020304,
         "SortOrder": 11009,
@@ -1875,7 +1875,7 @@
         "descTextMapHash": 3209357948,
         "modelPath": "Codex_Animal_Boar_03"
     },
-    {
+    "28020314": {
         "Id": 28020314,
         "describeId": 28020314,
         "SortOrder": 11010,
@@ -1884,7 +1884,7 @@
         "descTextMapHash": 3435351308,
         "modelPath": "Codex_Animal_Boar_Grass_Small"
     },
-    {
+    "28020313": {
         "Id": 28020313,
         "describeId": 28020313,
         "SortOrder": 11011,
@@ -1893,7 +1893,7 @@
         "descTextMapHash": 1916771356,
         "modelPath": "Codex_Animal_Boar_Grass"
     },
-    {
+    "28020401": {
         "Id": 28020401,
         "describeId": 28020401,
         "isSeenActive": true,
@@ -1902,7 +1902,7 @@
         "descTextMapHash": 2316470124,
         "modelPath": "Codex_Animal_Dog_01"
     },
-    {
+    "28020402": {
         "Id": 28020402,
         "describeId": 28020402,
         "isSeenActive": true,
@@ -1911,7 +1911,7 @@
         "descTextMapHash": 2339016692,
         "modelPath": "Codex_Animal_Dog_02"
     },
-    {
+    "28020403": {
         "Id": 28020403,
         "describeId": 28020403,
         "isSeenActive": true,
@@ -1920,7 +1920,7 @@
         "descTextMapHash": 176728284,
         "modelPath": "Codex_Animal_Dog_03"
     },
-    {
+    "28020404": {
         "Id": 28020404,
         "describeId": 28020404,
         "isSeenActive": true,
@@ -1929,7 +1929,7 @@
         "descTextMapHash": 104452900,
         "modelPath": "Codex_Animal_Dog_04"
     },
-    {
+    "28020501": {
         "Id": 28020501,
         "describeId": 28020501,
         "isSeenActive": true,
@@ -1939,7 +1939,7 @@
         "descTextMapHash": 2510531884,
         "modelPath": "Codex_Animal_Cat_01"
     },
-    {
+    "28020502": {
         "Id": 28020502,
         "describeId": 28020502,
         "isSeenActive": true,
@@ -1948,7 +1948,7 @@
         "descTextMapHash": 31740172,
         "modelPath": "Codex_Animal_Cat_02"
     },
-    {
+    "28020503": {
         "Id": 28020503,
         "describeId": 28020503,
         "isSeenActive": true,
@@ -1958,7 +1958,7 @@
         "descTextMapHash": 1364989956,
         "modelPath": "Codex_Animal_Cat_03"
     },
-    {
+    "28020504": {
         "Id": 28020504,
         "describeId": 28020504,
         "isSeenActive": true,
@@ -1967,7 +1967,7 @@
         "descTextMapHash": 1770888828,
         "modelPath": "Codex_Animal_Cat_04"
     },
-    {
+    "28020505": {
         "Id": 28020505,
         "describeId": 28020505,
         "isSeenActive": true,
@@ -1976,7 +1976,7 @@
         "descTextMapHash": 4193477012,
         "modelPath": "Codex_Animal_Cat_05"
     },
-    {
+    "28020506": {
         "Id": 28020506,
         "describeId": 28020506,
         "isSeenActive": true,
@@ -1985,7 +1985,7 @@
         "descTextMapHash": 725605172,
         "modelPath": "Codex_Animal_Cat_06"
     },
-    {
+    "28020507": {
         "Id": 28020507,
         "describeId": 28020507,
         "isSeenActive": true,
@@ -1994,7 +1994,7 @@
         "descTextMapHash": 4183110348,
         "modelPath": "Codex_Animal_Cat_07"
     },
-    {
+    "28020601": {
         "Id": 28020601,
         "describeId": 28020601,
         "SortOrder": 11023,
@@ -2003,7 +2003,7 @@
         "descTextMapHash": 168967340,
         "modelPath": "Codex_Animal_Marten_01"
     },
-    {
+    "28020602": {
         "Id": 28020602,
         "describeId": 28020602,
         "SortOrder": 11024,
@@ -2012,7 +2012,7 @@
         "descTextMapHash": 3077374988,
         "modelPath": "Codex_Animal_Marten_02"
     },
-    {
+    "28020603": {
         "Id": 28020603,
         "describeId": 28020603,
         "SortOrder": 11025,
@@ -2021,7 +2021,7 @@
         "descTextMapHash": 2471583364,
         "modelPath": "Codex_Animal_Marten_03"
     },
-    {
+    "28020605": {
         "Id": 28020605,
         "describeId": 28020605,
         "SortOrder": 11027,
@@ -2030,7 +2030,7 @@
         "descTextMapHash": 2748853220,
         "modelPath": "Codex_Animal_Marten_05"
     },
-    {
+    "28050201": {
         "Id": 28050201,
         "describeId": 28050201,
         "SortOrder": 11028,
@@ -2038,7 +2038,7 @@
         "descTextMapHash": 3200339764,
         "modelPath": "Codex_Animal_Thoarder_Weasel_01"
     },
-    {
+    "28050202": {
         "Id": 28050202,
         "describeId": 28050202,
         "SortOrder": 11029,
@@ -2046,7 +2046,7 @@
         "descTextMapHash": 3943971220,
         "modelPath": "Codex_Animal_Thoarder_Weasel_02"
     },
-    {
+    "28050203": {
         "Id": 28050203,
         "describeId": 28050203,
         "SortOrder": 11030,
@@ -2054,7 +2054,7 @@
         "descTextMapHash": 3629549876,
         "modelPath": "Codex_Animal_Thoarder_Weasel_03"
     },
-    {
+    "28020801": {
         "Id": 28020801,
         "describeId": 28020801,
         "isSeenActive": true,
@@ -2063,7 +2063,7 @@
         "descTextMapHash": 1714856844,
         "modelPath": "Codex_Animal_Inu_Tanuki_01"
     },
-    {
+    "28060101": {
         "Id": 28060101,
         "describeId": 28060101,
         "SortOrder": 11032,
@@ -2071,7 +2071,7 @@
         "descTextMapHash": 2621135756,
         "modelPath": "Codex_Animal_Gator_01"
     },
-    {
+    "28060201": {
         "Id": 28060201,
         "describeId": 28060201,
         "SortOrder": 11033,
@@ -2079,7 +2079,7 @@
         "descTextMapHash": 1357052844,
         "modelPath": "Codex_Animal_Panther_01"
     },
-    {
+    "28060601": {
         "Id": 28060601,
         "describeId": 28060601,
         "SortOrder": 11037,
@@ -2087,7 +2087,7 @@
         "descTextMapHash": 1160225108,
         "modelPath": "Codex_Animal_Megamoth_Jungle"
     },
-    {
+    "28040101": {
         "Id": 28040101,
         "describeId": 28040101,
         "SortOrder": 12001,
@@ -2095,7 +2095,7 @@
         "descTextMapHash": 1635980324,
         "modelPath": "Codex_Animal_Fish_01"
     },
-    {
+    "28040102": {
         "Id": 28040102,
         "describeId": 28040102,
         "SortOrder": 12002,
@@ -2103,7 +2103,7 @@
         "descTextMapHash": 1423986404,
         "modelPath": "Codex_Animal_Fish_02"
     },
-    {
+    "28040103": {
         "Id": 28040103,
         "describeId": 28040103,
         "SortOrder": 12003,
@@ -2111,7 +2111,7 @@
         "descTextMapHash": 3148834244,
         "modelPath": "Codex_Animal_Fish_03"
     },
-    {
+    "28040703": {
         "Id": 28040703,
         "describeId": 28040703,
         "isSeenActive": true,
@@ -2120,7 +2120,7 @@
         "descTextMapHash": 1117684060,
         "modelPath": "Codex_Animal_Fishable_Ray_Stellamarisidae_01"
     },
-    {
+    "28040201": {
         "Id": 28040201,
         "describeId": 28040201,
         "SortOrder": 12201,
@@ -2129,7 +2129,7 @@
         "descTextMapHash": 996942964,
         "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_01"
     },
-    {
+    "28040202": {
         "Id": 28040202,
         "describeId": 28040202,
         "SortOrder": 12202,
@@ -2138,7 +2138,7 @@
         "descTextMapHash": 692376060,
         "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_02"
     },
-    {
+    "28040203": {
         "Id": 28040203,
         "describeId": 28040203,
         "SortOrder": 12203,
@@ -2147,7 +2147,7 @@
         "descTextMapHash": 4080124556,
         "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_03"
     },
-    {
+    "28040204": {
         "Id": 28040204,
         "describeId": 28040204,
         "SortOrder": 12204,
@@ -2156,7 +2156,7 @@
         "descTextMapHash": 3174647436,
         "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_04"
     },
-    {
+    "28040205": {
         "Id": 28040205,
         "describeId": 28040205,
         "SortOrder": 12205,
@@ -2165,7 +2165,7 @@
         "descTextMapHash": 1801568964,
         "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_05"
     },
-    {
+    "28040206": {
         "Id": 28040206,
         "describeId": 28040206,
         "SortOrder": 12206,
@@ -2174,7 +2174,7 @@
         "descTextMapHash": 187982980,
         "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_06"
     },
-    {
+    "28040301": {
         "Id": 28040301,
         "describeId": 28040301,
         "SortOrder": 12207,
@@ -2183,7 +2183,7 @@
         "descTextMapHash": 4285796596,
         "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_01"
     },
-    {
+    "28040302": {
         "Id": 28040302,
         "describeId": 28040302,
         "SortOrder": 12208,
@@ -2192,7 +2192,7 @@
         "descTextMapHash": 1562063228,
         "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_02"
     },
-    {
+    "28040303": {
         "Id": 28040303,
         "describeId": 28040303,
         "SortOrder": 12209,
@@ -2201,7 +2201,7 @@
         "descTextMapHash": 3804970196,
         "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_03"
     },
-    {
+    "28040304": {
         "Id": 28040304,
         "describeId": 28040304,
         "SortOrder": 12210,
@@ -2210,7 +2210,7 @@
         "descTextMapHash": 584979076,
         "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_04"
     },
-    {
+    "28040305": {
         "Id": 28040305,
         "describeId": 28040305,
         "SortOrder": 12211,
@@ -2219,7 +2219,7 @@
         "descTextMapHash": 3520398868,
         "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_05"
     },
-    {
+    "28040401": {
         "Id": 28040401,
         "describeId": 28040401,
         "SortOrder": 12212,
@@ -2228,7 +2228,7 @@
         "descTextMapHash": 1293195276,
         "modelPath": "Codex_Animal_Fishable_Maritime_Cheirolepis_01"
     },
-    {
+    "28040402": {
         "Id": 28040402,
         "describeId": 28040402,
         "SortOrder": 12213,
@@ -2237,7 +2237,7 @@
         "descTextMapHash": 3109015980,
         "modelPath": "Codex_Animal_Fishable_Maritime_Cheirolepis_02"
     },
-    {
+    "28040501": {
         "Id": 28040501,
         "describeId": 28040501,
         "SortOrder": 12214,
@@ -2246,7 +2246,7 @@
         "descTextMapHash": 3063244628,
         "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_01"
     },
-    {
+    "28040502": {
         "Id": 28040502,
         "describeId": 28040502,
         "SortOrder": 12215,
@@ -2255,7 +2255,7 @@
         "descTextMapHash": 2749687940,
         "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_02"
     },
-    {
+    "28040503": {
         "Id": 28040503,
         "describeId": 28040503,
         "SortOrder": 12216,
@@ -2264,7 +2264,7 @@
         "descTextMapHash": 4280266860,
         "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_03"
     },
-    {
+    "28040504": {
         "Id": 28040504,
         "describeId": 28040504,
         "SortOrder": 12217,
@@ -2273,7 +2273,7 @@
         "descTextMapHash": 1043847444,
         "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_04"
     },
-    {
+    "28040505": {
         "Id": 28040505,
         "describeId": 28040505,
         "SortOrder": 12218,
@@ -2282,7 +2282,7 @@
         "descTextMapHash": 512966356,
         "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_05"
     },
-    {
+    "28040506": {
         "Id": 28040506,
         "describeId": 28040506,
         "SortOrder": 12219,
@@ -2292,7 +2292,7 @@
         "descTextMapHash": 3034079116,
         "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_06"
     },
-    {
+    "28040601": {
         "Id": 28040601,
         "describeId": 28040601,
         "SortOrder": 12220,
@@ -2301,7 +2301,7 @@
         "descTextMapHash": 1139068756,
         "modelPath": "Codex_Animal_Fishable_Maritime_Namazu_01"
     },
-    {
+    "28040602": {
         "Id": 28040602,
         "describeId": 28040602,
         "SortOrder": 12221,
@@ -2310,7 +2310,7 @@
         "descTextMapHash": 2916991412,
         "modelPath": "Codex_Animal_Fishable_Maritime_Namazu_02"
     },
-    {
+    "28040701": {
         "Id": 28040701,
         "describeId": 28040701,
         "SortOrder": 12222,
@@ -2319,7 +2319,7 @@
         "descTextMapHash": 381072868,
         "modelPath": "Codex_Animal_Fishable_Ray_Stellamarisidae_02"
     },
-    {
+    "28040702": {
         "Id": 28040702,
         "describeId": 28040702,
         "SortOrder": 12223,
@@ -2328,7 +2328,7 @@
         "descTextMapHash": 3760543388,
         "modelPath": "Codex_Animal_Fishable_Ray_Stellamarisidae_03"
     },
-    {
+    "28040801": {
         "Id": 28040801,
         "describeId": 28040801,
         "SortOrder": 12224,
@@ -2337,7 +2337,7 @@
         "descTextMapHash": 1339898548,
         "modelPath": "Codex_Animal_Fishable_Maritime_Batdiodan_01"
     },
-    {
+    "28040802": {
         "Id": 28040802,
         "describeId": 28040802,
         "SortOrder": 12225,
@@ -2346,7 +2346,7 @@
         "descTextMapHash": 2720760900,
         "modelPath": "Codex_Animal_Fishable_Maritime_Batdiodan_02"
     },
-    {
+    "28040803": {
         "Id": 28040803,
         "describeId": 28040803,
         "SortOrder": 12226,
@@ -2355,7 +2355,7 @@
         "descTextMapHash": 1306094332,
         "modelPath": "Codex_Animal_Fishable_Maritime_Batdiodan_03"
     },
-    {
+    "28040804": {
         "Id": 28040804,
         "describeId": 28040804,
         "SortOrder": 12227,
@@ -2364,7 +2364,7 @@
         "descTextMapHash": 2682831020,
         "modelPath": "Codex_Animal_Fishable_Maritime_Batdiodan_04"
     },
-    {
+    "28040901": {
         "Id": 28040901,
         "describeId": 28040901,
         "SortOrder": 12228,
@@ -2373,7 +2373,7 @@
         "descTextMapHash": 2665565348,
         "modelPath": "Codex_Animal_Fishable_Maritime_Apsva_01"
     },
-    {
+    "28040902": {
         "Id": 28040902,
         "describeId": 28040902,
         "SortOrder": 12229,
@@ -2382,7 +2382,7 @@
         "descTextMapHash": 196319756,
         "modelPath": "Codex_Animal_Fishable_Maritime_Apsva_02"
     },
-    {
+    "28050101": {
         "Id": 28050101,
         "describeId": 28050101,
         "SortOrder": 13003,
@@ -2391,7 +2391,7 @@
         "descTextMapHash": 1371898220,
         "modelPath": "Codex_Animal_Wisp_Wind"
     },
-    {
+    "28050104": {
         "Id": 28050104,
         "describeId": 28050104,
         "SortOrder": 13004,
@@ -2400,7 +2400,7 @@
         "descTextMapHash": 4188945588,
         "modelPath": "Codex_Animal_Wisp_Electric"
     },
-    {
+    "28050106": {
         "Id": 28050106,
         "describeId": 28050106,
         "SortOrder": 13005,
@@ -2409,7 +2409,7 @@
         "descTextMapHash": 1880886676,
         "modelPath": "Codex_Animal_Wisp_Grass"
     },
-    {
+    "28050103": {
         "Id": 28050103,
         "describeId": 28050103,
         "SortOrder": 13006,
@@ -2418,7 +2418,7 @@
         "descTextMapHash": 1451015284,
         "modelPath": "Codex_Animal_Wisp_Ice"
     },
-    {
+    "28050102": {
         "Id": 28050102,
         "describeId": 28050102,
         "SortOrder": 13007,
@@ -2427,7 +2427,7 @@
         "descTextMapHash": 2142925788,
         "modelPath": "Codex_Animal_Wisp_Rock"
     },
-    {
+    "28050105": {
         "Id": 28050105,
         "describeId": 28050105,
         "SortOrder": 13009,
@@ -2437,7 +2437,7 @@
         "descTextMapHash": 2668560348,
         "modelPath": "Codex_Animal_Wisp_Tokoyo"
     },
-    {
+    "28010204": {
         "Id": 28010204,
         "describeId": 28010204,
         "SortOrder": 13010,
@@ -2446,7 +2446,7 @@
         "descTextMapHash": 1731277692,
         "modelPath": "Codex_Animal_Salamander_01"
     },
-    {
+    "28010205": {
         "Id": 28010205,
         "describeId": 28010205,
         "SortOrder": 13012,
@@ -2455,7 +2455,7 @@
         "descTextMapHash": 3686681332,
         "modelPath": "Codex_Animal_Salamander_02"
     },
-    {
+    "28010206": {
         "Id": 28010206,
         "describeId": 28010206,
         "SortOrder": 13013,
@@ -2464,7 +2464,7 @@
         "descTextMapHash": 2538996404,
         "modelPath": "Codex_Animal_Salamander_03"
     },
-    {
+    "28010301": {
         "Id": 28010301,
         "describeId": 28010301,
         "SortOrder": 13014,
@@ -2473,7 +2473,7 @@
         "descTextMapHash": 3774147916,
         "modelPath": "Codex_Animal_Frog_01"
     },
-    {
+    "28010302": {
         "Id": 28010302,
         "describeId": 28010302,
         "SortOrder": 13015,
@@ -2482,7 +2482,7 @@
         "descTextMapHash": 1992168004,
         "modelPath": "Codex_Animal_Frog_02"
     },
-    {
+    "28010303": {
         "Id": 28010303,
         "describeId": 28010303,
         "SortOrder": 13016,
@@ -2491,7 +2491,7 @@
         "descTextMapHash": 3856616956,
         "modelPath": "Codex_Animal_Frog_03"
     },
-    {
+    "28010304": {
         "Id": 28010304,
         "describeId": 28010304,
         "SortOrder": 13017,
@@ -2500,7 +2500,7 @@
         "descTextMapHash": 3617732812,
         "modelPath": "Codex_Animal_Frog_04"
     },
-    {
+    "28010101": {
         "Id": 28010101,
         "describeId": 28010101,
         "SortOrder": 13018,
@@ -2509,7 +2509,7 @@
         "descTextMapHash": 3098191524,
         "modelPath": "Codex_Animal_Crab_01"
     },
-    {
+    "28010102": {
         "Id": 28010102,
         "describeId": 28010102,
         "SortOrder": 13019,
@@ -2518,7 +2518,7 @@
         "descTextMapHash": 3855411980,
         "modelPath": "Codex_Animal_Crab_02"
     },
-    {
+    "28010103": {
         "Id": 28010103,
         "describeId": 28010103,
         "SortOrder": 13020,
@@ -2527,7 +2527,7 @@
         "descTextMapHash": 1501229244,
         "modelPath": "Codex_Animal_Crab_03"
     },
-    {
+    "28010104": {
         "Id": 28010104,
         "describeId": 28010104,
         "SortOrder": 13021,
@@ -2536,7 +2536,7 @@
         "descTextMapHash": 1716680068,
         "modelPath": "Codex_Animal_Crab_04"
     },
-    {
+    "28010105": {
         "Id": 28010105,
         "describeId": 28010105,
         "SortOrder": 13022,
@@ -2545,7 +2545,7 @@
         "descTextMapHash": 2199690892,
         "modelPath": "Codex_Animal_Crab_05"
     },
-    {
+    "28010201": {
         "Id": 28010201,
         "describeId": 28010201,
         "SortOrder": 13023,
@@ -2554,7 +2554,7 @@
         "descTextMapHash": 2739906300,
         "modelPath": "Codex_Animal_Lizard_01"
     },
-    {
+    "28010202": {
         "Id": 28010202,
         "describeId": 28010202,
         "SortOrder": 13024,
@@ -2563,7 +2563,7 @@
         "descTextMapHash": 2751025748,
         "modelPath": "Codex_Animal_Lizard_02"
     },
-    {
+    "28010203": {
         "Id": 28010203,
         "describeId": 28010203,
         "SortOrder": 13025,
@@ -2572,7 +2572,7 @@
         "descTextMapHash": 1196248124,
         "modelPath": "Codex_Animal_Lizard_03"
     },
-    {
+    "28010207": {
         "Id": 28010207,
         "describeId": 28010207,
         "SortOrder": 13026,
@@ -2581,7 +2581,7 @@
         "descTextMapHash": 57133532,
         "modelPath": "Codex_Animal_Lizard_04"
     },
-    {
+    "28010208": {
         "Id": 28010208,
         "describeId": 28010208,
         "SortOrder": 13027,
@@ -2590,7 +2590,7 @@
         "descTextMapHash": 4090251284,
         "modelPath": "Codex_Animal_Lizard_05"
     },
-    {
+    "28010401": {
         "Id": 28010401,
         "describeId": 28010401,
         "SortOrder": 13028,
@@ -2599,7 +2599,7 @@
         "descTextMapHash": 2694393852,
         "modelPath": "Codex_Animal_Eel_01"
     },
-    {
+    "28010402": {
         "Id": 28010402,
         "describeId": 28010402,
         "SortOrder": 13029,
@@ -2608,7 +2608,7 @@
         "descTextMapHash": 814289124,
         "modelPath": "Codex_Animal_Eel_02"
     },
-    {
+    "28010403": {
         "Id": 28010403,
         "describeId": 28010403,
         "SortOrder": 13030,
@@ -2617,7 +2617,7 @@
         "descTextMapHash": 1921378724,
         "modelPath": "Codex_Animal_Eel_03"
     },
-    {
+    "28050301": {
         "Id": 28050301,
         "describeId": 28050301,
         "SortOrder": 13032,
@@ -2626,4 +2626,4 @@
         "descTextMapHash": 3394957204,
         "modelPath": "Codex_Animal_Boltbug_Lightbug"
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "20031": {
         "id": 20031,
         "sectionId": 1,
         "openDay": 1,
@@ -35,7 +35,7 @@
         "titleTextMapHash": 2336132966,
         "descTextMapHash": 1442022123
     },
-    {
+    "20032": {
         "id": 20032,
         "sectionId": 2,
         "openDay": 4,
@@ -72,7 +72,7 @@
         "titleTextMapHash": 58799054,
         "descTextMapHash": 2599548843
     },
-    {
+    "20033": {
         "id": 20033,
         "sectionId": 3,
         "openDay": 7,
@@ -112,7 +112,7 @@
         "titleTextMapHash": 3409675166,
         "descTextMapHash": 2251101835
     },
-    {
+    "20034": {
         "id": 20034,
         "sectionId": 4,
         "openDay": 10,
@@ -151,4 +151,4 @@
         "titleTextMapHash": 3398579406,
         "descTextMapHash": 124552123
     }
-]
+}

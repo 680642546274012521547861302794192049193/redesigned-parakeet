@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "ID": 1,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -44,7 +44,7 @@
             }
         ]
     },
-    {
+    "2": {
         "ID": 2,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -77,7 +77,7 @@
             {}
         ]
     },
-    {
+    "3": {
         "ID": 3,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -110,7 +110,7 @@
             {}
         ]
     },
-    {
+    "4": {
         "ID": 4,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -156,7 +156,7 @@
             }
         ]
     },
-    {
+    "5": {
         "ID": 5,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -202,7 +202,7 @@
             }
         ]
     },
-    {
+    "6": {
         "ID": 6,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -238,7 +238,7 @@
             {}
         ]
     },
-    {
+    "7": {
         "ID": 7,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -283,7 +283,7 @@
             }
         ]
     },
-    {
+    "8": {
         "ID": 8,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -320,7 +320,7 @@
             {}
         ]
     },
-    {
+    "9": {
         "ID": 9,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -353,7 +353,7 @@
             {}
         ]
     },
-    {
+    "10": {
         "ID": 10,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -398,7 +398,7 @@
             }
         ]
     },
-    {
+    "11": {
         "ID": 11,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -429,7 +429,7 @@
             {}
         ]
     },
-    {
+    "12": {
         "ID": 12,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -466,7 +466,7 @@
             {}
         ]
     },
-    {
+    "13": {
         "ID": 13,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -499,7 +499,7 @@
             {}
         ]
     },
-    {
+    "14": {
         "ID": 14,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -532,7 +532,7 @@
             {}
         ]
     },
-    {
+    "15": {
         "ID": 15,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -565,7 +565,7 @@
             {}
         ]
     },
-    {
+    "16": {
         "ID": 16,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -610,7 +610,7 @@
             }
         ]
     },
-    {
+    "17": {
         "ID": 17,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -655,7 +655,7 @@
             }
         ]
     },
-    {
+    "18": {
         "ID": 18,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -688,7 +688,7 @@
             {}
         ]
     },
-    {
+    "19": {
         "ID": 19,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -721,7 +721,7 @@
             {}
         ]
     },
-    {
+    "20": {
         "ID": 20,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -758,7 +758,7 @@
             {}
         ]
     },
-    {
+    "21": {
         "ID": 21,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -803,7 +803,7 @@
             }
         ]
     },
-    {
+    "22": {
         "ID": 22,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -839,7 +839,7 @@
             {}
         ]
     },
-    {
+    "23": {
         "ID": 23,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -884,7 +884,7 @@
             }
         ]
     },
-    {
+    "24": {
         "ID": 24,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -916,7 +916,7 @@
             {}
         ]
     },
-    {
+    "25": {
         "ID": 25,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -949,7 +949,7 @@
             {}
         ]
     },
-    {
+    "26": {
         "ID": 26,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -982,7 +982,7 @@
             {}
         ]
     },
-    {
+    "27": {
         "ID": 27,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1027,7 +1027,7 @@
             }
         ]
     },
-    {
+    "28": {
         "ID": 28,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -1060,7 +1060,7 @@
             {}
         ]
     },
-    {
+    "29": {
         "ID": 29,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -1091,7 +1091,7 @@
             {}
         ]
     },
-    {
+    "30": {
         "ID": 30,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -1124,7 +1124,7 @@
             {}
         ]
     },
-    {
+    "31": {
         "ID": 31,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -1157,7 +1157,7 @@
             {}
         ]
     },
-    {
+    "32": {
         "ID": 32,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -1194,7 +1194,7 @@
             {}
         ]
     },
-    {
+    "33": {
         "ID": 33,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1239,7 +1239,7 @@
             }
         ]
     },
-    {
+    "34": {
         "ID": 34,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -1272,7 +1272,7 @@
             {}
         ]
     },
-    {
+    "35": {
         "ID": 35,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -1305,7 +1305,7 @@
             {}
         ]
     },
-    {
+    "36": {
         "ID": 36,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -1338,7 +1338,7 @@
             {}
         ]
     },
-    {
+    "37": {
         "ID": 37,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -1371,7 +1371,7 @@
             {}
         ]
     },
-    {
+    "38": {
         "ID": 38,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -1404,7 +1404,7 @@
             {}
         ]
     },
-    {
+    "39": {
         "ID": 39,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -1437,7 +1437,7 @@
             {}
         ]
     },
-    {
+    "40": {
         "ID": 40,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1469,7 +1469,7 @@
             {}
         ]
     },
-    {
+    "41": {
         "ID": 41,
         "costPoints": 40,
         "OJMPEPICBBC": {
@@ -1502,7 +1502,7 @@
             {}
         ]
     },
-    {
+    "42": {
         "ID": 42,
         "costPoints": 20,
         "OJMPEPICBBC": {
@@ -1535,7 +1535,7 @@
             {}
         ]
     },
-    {
+    "43": {
         "ID": 43,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1567,7 +1567,7 @@
             {}
         ]
     },
-    {
+    "44": {
         "ID": 44,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1602,7 +1602,7 @@
             {}
         ]
     },
-    {
+    "45": {
         "ID": 45,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1634,7 +1634,7 @@
             {}
         ]
     },
-    {
+    "46": {
         "ID": 46,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1666,7 +1666,7 @@
             {}
         ]
     },
-    {
+    "47": {
         "ID": 47,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1698,7 +1698,7 @@
             {}
         ]
     },
-    {
+    "48": {
         "ID": 48,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1727,7 +1727,7 @@
             {}
         ]
     },
-    {
+    "49": {
         "ID": 49,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1755,7 +1755,7 @@
             {}
         ]
     },
-    {
+    "50": {
         "ID": 50,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1783,7 +1783,7 @@
             {}
         ]
     },
-    {
+    "51": {
         "ID": 51,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1811,7 +1811,7 @@
             {}
         ]
     },
-    {
+    "52": {
         "ID": 52,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1839,7 +1839,7 @@
             {}
         ]
     },
-    {
+    "53": {
         "ID": 53,
         "costPoints": 10,
         "OJMPEPICBBC": {
@@ -1867,4 +1867,4 @@
             {}
         ]
     }
-]
+}

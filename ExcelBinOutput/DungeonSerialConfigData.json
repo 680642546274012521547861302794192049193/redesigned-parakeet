@@ -1,31 +1,31 @@
-[
-    {
+{
+    "1001": {
         "id": 1001,
         "MaxTakeNum": 1,
         "takeCost": 60
     },
-    {
+    "1002": {
         "id": 1002,
         "MaxTakeNum": 5
     },
-    {
+    "1003": {
         "id": 1003,
         "MaxTakeNum": 1,
         "takeCost": 60
     },
-    {
+    "1004": {
         "id": 1004,
         "MaxTakeNum": 1,
         "takeCost": 60
     },
-    {
+    "1005": {
         "id": 1005,
         "MaxTakeNum": 1,
         "takeCost": 60
     },
-    {
+    "1006": {
         "id": 1006,
         "MaxTakeNum": 1,
         "takeCost": 60
     }
-]
+}

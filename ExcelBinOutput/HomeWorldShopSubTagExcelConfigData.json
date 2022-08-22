@@ -1,25 +1,25 @@
-[
-    {
+{
+    "1": {
         "subID": 1,
         "subTagTextMapHash": 2009922312
     },
-    {
+    "2": {
         "subID": 2,
         "GDJKACDJEME": true,
         "subTagTextMapHash": 3399827520
     },
-    {
+    "3": {
         "subID": 3,
         "GDJKACDJEME": true,
         "subTagTextMapHash": 2594538648
     },
-    {
+    "4": {
         "subID": 4,
         "GDJKACDJEME": true,
         "subTagTextMapHash": 3882361056
     },
-    {
+    "5": {
         "subID": 5,
         "subTagTextMapHash": 346464176
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "40100001": {
         "Id": 40100001,
         "materialId": 101001,
         "SortOrder": 1,
@@ -7,7 +7,7 @@
         "descTextMapHash": 832274041,
         "icon": ""
     },
-    {
+    "40100002": {
         "Id": 40100002,
         "materialId": 101002,
         "SortOrder": 2,
@@ -15,7 +15,7 @@
         "descTextMapHash": 721206985,
         "icon": ""
     },
-    {
+    "40100003": {
         "Id": 40100003,
         "materialId": 101003,
         "SortOrder": 3,
@@ -23,7 +23,7 @@
         "descTextMapHash": 3255464377,
         "icon": ""
     },
-    {
+    "40100004": {
         "Id": 40100004,
         "materialId": 101004,
         "SortOrder": 4,
@@ -31,7 +31,7 @@
         "descTextMapHash": 2541533137,
         "icon": ""
     },
-    {
+    "40100005": {
         "Id": 40100005,
         "materialId": 101006,
         "SortOrder": 5,
@@ -39,7 +39,7 @@
         "descTextMapHash": 3161500513,
         "icon": ""
     },
-    {
+    "40100006": {
         "Id": 40100006,
         "materialId": 101008,
         "SortOrder": 6,
@@ -47,7 +47,7 @@
         "descTextMapHash": 1802020945,
         "icon": ""
     },
-    {
+    "40101001": {
         "Id": 40101001,
         "materialId": 100001,
         "SortOrder": 101,
@@ -55,7 +55,7 @@
         "descTextMapHash": 2504517241,
         "icon": ""
     },
-    {
+    "40101002": {
         "Id": 40101002,
         "materialId": 100002,
         "SortOrder": 102,
@@ -63,7 +63,7 @@
         "descTextMapHash": 604253649,
         "icon": ""
     },
-    {
+    "40101003": {
         "Id": 40101003,
         "materialId": 100011,
         "SortOrder": 103,
@@ -71,7 +71,7 @@
         "descTextMapHash": 1363636425,
         "icon": ""
     },
-    {
+    "40101004": {
         "Id": 40101004,
         "materialId": 100012,
         "SortOrder": 104,
@@ -79,7 +79,7 @@
         "descTextMapHash": 14374137,
         "icon": ""
     },
-    {
+    "40101005": {
         "Id": 40101005,
         "materialId": 100013,
         "SortOrder": 105,
@@ -87,7 +87,7 @@
         "descTextMapHash": 2180985017,
         "icon": ""
     },
-    {
+    "40101006": {
         "Id": 40101006,
         "materialId": 100014,
         "SortOrder": 106,
@@ -95,7 +95,7 @@
         "descTextMapHash": 3401604697,
         "icon": ""
     },
-    {
+    "40101007": {
         "Id": 40101007,
         "materialId": 100015,
         "SortOrder": 107,
@@ -103,7 +103,7 @@
         "descTextMapHash": 860358225,
         "icon": ""
     },
-    {
+    "40101008": {
         "Id": 40101008,
         "materialId": 100016,
         "SortOrder": 108,
@@ -111,7 +111,7 @@
         "descTextMapHash": 2966509457,
         "icon": ""
     },
-    {
+    "40101009": {
         "Id": 40101009,
         "materialId": 100020,
         "SortOrder": 109,
@@ -119,7 +119,7 @@
         "descTextMapHash": 4106367425,
         "icon": ""
     },
-    {
+    "40101010": {
         "Id": 40101010,
         "materialId": 100051,
         "SortOrder": 110,
@@ -127,7 +127,7 @@
         "descTextMapHash": 2275326185,
         "icon": ""
     },
-    {
+    "40101011": {
         "Id": 40101011,
         "materialId": 100063,
         "SortOrder": 111,
@@ -135,7 +135,7 @@
         "descTextMapHash": 2275705113,
         "icon": ""
     },
-    {
+    "40101012": {
         "Id": 40101012,
         "materialId": 100062,
         "SortOrder": 112,
@@ -143,7 +143,7 @@
         "descTextMapHash": 3382191833,
         "icon": ""
     },
-    {
+    "40101013": {
         "Id": 40101013,
         "materialId": 101210,
         "SortOrder": 113,
@@ -151,7 +151,7 @@
         "descTextMapHash": 1464918217,
         "icon": ""
     },
-    {
+    "40101014": {
         "Id": 40101014,
         "materialId": 101211,
         "SortOrder": 114,
@@ -159,7 +159,7 @@
         "descTextMapHash": 1368286513,
         "icon": ""
     },
-    {
+    "40101015": {
         "Id": 40101015,
         "materialId": 101212,
         "SortOrder": 115,
@@ -167,7 +167,7 @@
         "descTextMapHash": 1535412601,
         "icon": ""
     },
-    {
+    "40101016": {
         "Id": 40101016,
         "materialId": 101216,
         "SortOrder": 116,
@@ -175,7 +175,7 @@
         "descTextMapHash": 2687439281,
         "icon": ""
     },
-    {
+    "40101017": {
         "Id": 40101017,
         "materialId": 101218,
         "SortOrder": 117,
@@ -183,7 +183,7 @@
         "descTextMapHash": 1303223409,
         "icon": ""
     },
-    {
+    "40101018": {
         "Id": 40101018,
         "materialId": 101219,
         "SortOrder": 118,
@@ -191,7 +191,7 @@
         "descTextMapHash": 218448313,
         "icon": ""
     },
-    {
+    "40101019": {
         "Id": 40101019,
         "materialId": 101228,
         "SortOrder": 119,
@@ -199,7 +199,7 @@
         "descTextMapHash": 4092038001,
         "icon": ""
     },
-    {
+    "40102001": {
         "Id": 40102001,
         "materialId": 100021,
         "SortOrder": 201,
@@ -207,7 +207,7 @@
         "descTextMapHash": 38137225,
         "icon": ""
     },
-    {
+    "40102002": {
         "Id": 40102002,
         "materialId": 100022,
         "SortOrder": 202,
@@ -215,7 +215,7 @@
         "descTextMapHash": 1668190153,
         "icon": ""
     },
-    {
+    "40102003": {
         "Id": 40102003,
         "materialId": 100023,
         "SortOrder": 203,
@@ -223,7 +223,7 @@
         "descTextMapHash": 2966736089,
         "icon": ""
     },
-    {
+    "40102004": {
         "Id": 40102004,
         "materialId": 100024,
         "SortOrder": 204,
@@ -231,7 +231,7 @@
         "descTextMapHash": 1331964201,
         "icon": ""
     },
-    {
+    "40102005": {
         "Id": 40102005,
         "materialId": 100025,
         "SortOrder": 205,
@@ -239,7 +239,7 @@
         "descTextMapHash": 1210636881,
         "icon": ""
     },
-    {
+    "40102006": {
         "Id": 40102006,
         "materialId": 100055,
         "SortOrder": 206,
@@ -247,7 +247,7 @@
         "descTextMapHash": 3644091545,
         "icon": ""
     },
-    {
+    "40102007": {
         "Id": 40102007,
         "materialId": 100056,
         "SortOrder": 207,
@@ -255,7 +255,7 @@
         "descTextMapHash": 1184736817,
         "icon": ""
     },
-    {
+    "40102008": {
         "Id": 40102008,
         "materialId": 100618,
         "SortOrder": 208,
@@ -265,7 +265,7 @@
         "isDisuse": true,
         "showOnlyUnlocked": true
     },
-    {
+    "40102009": {
         "Id": 40102009,
         "materialId": 100619,
         "SortOrder": 209,
@@ -274,7 +274,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40103001": {
         "Id": 40103001,
         "materialId": 100026,
         "SortOrder": 301,
@@ -282,7 +282,7 @@
         "descTextMapHash": 3880118569,
         "icon": ""
     },
-    {
+    "40103002": {
         "Id": 40103002,
         "materialId": 100027,
         "SortOrder": 302,
@@ -290,7 +290,7 @@
         "descTextMapHash": 1852295385,
         "icon": ""
     },
-    {
+    "40103003": {
         "Id": 40103003,
         "materialId": 100028,
         "SortOrder": 303,
@@ -298,7 +298,7 @@
         "descTextMapHash": 2352906601,
         "icon": ""
     },
-    {
+    "40103004": {
         "Id": 40103004,
         "materialId": 100029,
         "SortOrder": 304,
@@ -306,7 +306,7 @@
         "descTextMapHash": 538673225,
         "icon": ""
     },
-    {
+    "40103005": {
         "Id": 40103005,
         "materialId": 100030,
         "SortOrder": 305,
@@ -314,7 +314,7 @@
         "descTextMapHash": 3446614057,
         "icon": ""
     },
-    {
+    "40103006": {
         "Id": 40103006,
         "materialId": 100031,
         "SortOrder": 306,
@@ -322,7 +322,7 @@
         "descTextMapHash": 161230793,
         "icon": ""
     },
-    {
+    "40103007": {
         "Id": 40103007,
         "materialId": 100032,
         "SortOrder": 307,
@@ -330,7 +330,7 @@
         "descTextMapHash": 2978826193,
         "icon": ""
     },
-    {
+    "40103008": {
         "Id": 40103008,
         "materialId": 100033,
         "SortOrder": 308,
@@ -338,7 +338,7 @@
         "descTextMapHash": 962339801,
         "icon": ""
     },
-    {
+    "40103009": {
         "Id": 40103009,
         "materialId": 100034,
         "SortOrder": 309,
@@ -346,7 +346,7 @@
         "descTextMapHash": 2957341345,
         "icon": ""
     },
-    {
+    "40103010": {
         "Id": 40103010,
         "materialId": 100091,
         "SortOrder": 310,
@@ -354,7 +354,7 @@
         "descTextMapHash": 4294823985,
         "icon": ""
     },
-    {
+    "40104001": {
         "Id": 40104001,
         "materialId": 101202,
         "SortOrder": 401,
@@ -362,7 +362,7 @@
         "descTextMapHash": 3701390793,
         "icon": ""
     },
-    {
+    "40104002": {
         "Id": 40104002,
         "materialId": 101201,
         "SortOrder": 402,
@@ -370,7 +370,7 @@
         "descTextMapHash": 2572505353,
         "icon": ""
     },
-    {
+    "40104003": {
         "Id": 40104003,
         "materialId": 101203,
         "SortOrder": 403,
@@ -378,7 +378,7 @@
         "descTextMapHash": 30927761,
         "icon": ""
     },
-    {
+    "40104004": {
         "Id": 40104004,
         "materialId": 101206,
         "SortOrder": 404,
@@ -386,7 +386,7 @@
         "descTextMapHash": 3703047257,
         "icon": ""
     },
-    {
+    "40104005": {
         "Id": 40104005,
         "materialId": 101205,
         "SortOrder": 405,
@@ -394,7 +394,7 @@
         "descTextMapHash": 1986957481,
         "icon": ""
     },
-    {
+    "40104006": {
         "Id": 40104006,
         "materialId": 101204,
         "SortOrder": 406,
@@ -402,7 +402,7 @@
         "descTextMapHash": 1268059953,
         "icon": ""
     },
-    {
+    "40104007": {
         "Id": 40104007,
         "materialId": 101208,
         "SortOrder": 407,
@@ -410,7 +410,7 @@
         "descTextMapHash": 1433725513,
         "icon": ""
     },
-    {
+    "40104008": {
         "Id": 40104008,
         "materialId": 101207,
         "SortOrder": 408,
@@ -418,7 +418,7 @@
         "descTextMapHash": 708882969,
         "icon": ""
     },
-    {
+    "40104009": {
         "Id": 40104009,
         "materialId": 101209,
         "SortOrder": 409,
@@ -426,7 +426,7 @@
         "descTextMapHash": 1762454905,
         "icon": ""
     },
-    {
+    "40105001": {
         "Id": 40105001,
         "materialId": 101213,
         "SortOrder": 501,
@@ -434,7 +434,7 @@
         "descTextMapHash": 345690561,
         "icon": ""
     },
-    {
+    "40105002": {
         "Id": 40105002,
         "materialId": 101214,
         "SortOrder": 502,
@@ -442,7 +442,7 @@
         "descTextMapHash": 3627550297,
         "icon": ""
     },
-    {
+    "40105003": {
         "Id": 40105003,
         "materialId": 101215,
         "SortOrder": 503,
@@ -450,7 +450,7 @@
         "descTextMapHash": 2106204801,
         "icon": ""
     },
-    {
+    "40105004": {
         "Id": 40105004,
         "materialId": 101217,
         "SortOrder": 504,
@@ -458,7 +458,7 @@
         "descTextMapHash": 3278403233,
         "icon": ""
     },
-    {
+    "40109001": {
         "Id": 40109001,
         "materialId": 100052,
         "SortOrder": 1801,
@@ -466,7 +466,7 @@
         "descTextMapHash": 881375513,
         "icon": ""
     },
-    {
+    "40109002": {
         "Id": 40109002,
         "materialId": 100053,
         "SortOrder": 1802,
@@ -474,7 +474,7 @@
         "descTextMapHash": 2177147449,
         "icon": ""
     },
-    {
+    "40109003": {
         "Id": 40109003,
         "materialId": 100054,
         "SortOrder": 1803,
@@ -482,7 +482,7 @@
         "descTextMapHash": 1561650273,
         "icon": ""
     },
-    {
+    "40109004": {
         "Id": 40109004,
         "materialId": 100058,
         "SortOrder": 1804,
@@ -490,7 +490,7 @@
         "descTextMapHash": 478749641,
         "icon": ""
     },
-    {
+    "40109005": {
         "Id": 40109005,
         "materialId": 100057,
         "SortOrder": 1805,
@@ -498,7 +498,7 @@
         "descTextMapHash": 4152281425,
         "icon": ""
     },
-    {
+    "40110001": {
         "Id": 40110001,
         "materialId": 100072,
         "SortOrder": 1901,
@@ -506,7 +506,7 @@
         "descTextMapHash": 205246665,
         "icon": ""
     },
-    {
+    "40110002": {
         "Id": 40110002,
         "materialId": 100081,
         "SortOrder": 1902,
@@ -514,7 +514,7 @@
         "descTextMapHash": 2221022201,
         "icon": ""
     },
-    {
+    "40110003": {
         "Id": 40110003,
         "materialId": 100082,
         "SortOrder": 1903,
@@ -522,7 +522,7 @@
         "descTextMapHash": 2529305881,
         "icon": ""
     },
-    {
+    "40110004": {
         "Id": 40110004,
         "materialId": 100083,
         "SortOrder": 1904,
@@ -530,7 +530,7 @@
         "descTextMapHash": 680673409,
         "icon": ""
     },
-    {
+    "40110005": {
         "Id": 40110005,
         "materialId": 100085,
         "SortOrder": 1905,
@@ -538,7 +538,7 @@
         "descTextMapHash": 3840130945,
         "icon": ""
     },
-    {
+    "40110008": {
         "Id": 40110008,
         "materialId": 100090,
         "SortOrder": 1908,
@@ -546,7 +546,7 @@
         "descTextMapHash": 3689621689,
         "icon": ""
     },
-    {
+    "40200001": {
         "Id": 40200001,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108010,
@@ -555,7 +555,7 @@
         "descTextMapHash": 974922849,
         "icon": ""
     },
-    {
+    "40200002": {
         "Id": 40200002,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108014,
@@ -564,7 +564,7 @@
         "descTextMapHash": 1950313929,
         "icon": ""
     },
-    {
+    "40200003": {
         "Id": 40200003,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108018,
@@ -573,7 +573,7 @@
         "descTextMapHash": 3801647593,
         "icon": ""
     },
-    {
+    "40200004": {
         "Id": 40200004,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108040,
@@ -582,7 +582,7 @@
         "descTextMapHash": 4090562905,
         "icon": ""
     },
-    {
+    "40200005": {
         "Id": 40200005,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108044,
@@ -591,7 +591,7 @@
         "descTextMapHash": 2680249425,
         "icon": ""
     },
-    {
+    "40200006": {
         "Id": 40200006,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108048,
@@ -600,7 +600,7 @@
         "descTextMapHash": 3221332473,
         "icon": ""
     },
-    {
+    "40200007": {
         "Id": 40200007,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108058,
@@ -609,7 +609,7 @@
         "descTextMapHash": 887806817,
         "icon": ""
     },
-    {
+    "40200008": {
         "Id": 40200008,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108118,
@@ -618,7 +618,7 @@
         "descTextMapHash": 1655376545,
         "icon": ""
     },
-    {
+    "40200009": {
         "Id": 40200009,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108113,
@@ -627,7 +627,7 @@
         "descTextMapHash": 3231070313,
         "icon": ""
     },
-    {
+    "40200010": {
         "Id": 40200010,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108115,
@@ -636,7 +636,7 @@
         "descTextMapHash": 1790198713,
         "icon": ""
     },
-    {
+    "40200012": {
         "Id": 40200012,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108116,
@@ -645,7 +645,7 @@
         "descTextMapHash": 3881818865,
         "icon": ""
     },
-    {
+    "40200013": {
         "Id": 40200013,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108135,
@@ -654,7 +654,7 @@
         "descTextMapHash": 1182450641,
         "icon": ""
     },
-    {
+    "40200014": {
         "Id": 40200014,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108136,
@@ -663,7 +663,7 @@
         "descTextMapHash": 1734703145,
         "icon": ""
     },
-    {
+    "40200015": {
         "Id": 40200015,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108144,
@@ -672,7 +672,7 @@
         "descTextMapHash": 1425594433,
         "icon": ""
     },
-    {
+    "40200016": {
         "Id": 40200016,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108139,
@@ -681,7 +681,7 @@
         "descTextMapHash": 3621104033,
         "icon": ""
     },
-    {
+    "40200017": {
         "Id": 40200017,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108134,
@@ -690,7 +690,7 @@
         "descTextMapHash": 3510922769,
         "icon": ""
     },
-    {
+    "40200018": {
         "Id": 40200018,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108114,
@@ -699,7 +699,7 @@
         "descTextMapHash": 3241743353,
         "icon": ""
     },
-    {
+    "40200019": {
         "Id": 40200019,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108117,
@@ -708,7 +708,7 @@
         "descTextMapHash": 2013070585,
         "icon": ""
     },
-    {
+    "40200020": {
         "Id": 40200020,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108140,
@@ -717,7 +717,7 @@
         "descTextMapHash": 403804441,
         "icon": ""
     },
-    {
+    "40200021": {
         "Id": 40200021,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108138,
@@ -726,7 +726,7 @@
         "descTextMapHash": 3792583873,
         "icon": ""
     },
-    {
+    "40200022": {
         "Id": 40200022,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108145,
@@ -735,7 +735,7 @@
         "descTextMapHash": 916106921,
         "icon": ""
     },
-    {
+    "40200023": {
         "Id": 40200023,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108146,
@@ -744,7 +744,7 @@
         "descTextMapHash": 1986848841,
         "icon": ""
     },
-    {
+    "40210053": {
         "Id": 40210053,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108173,
@@ -753,7 +753,7 @@
         "descTextMapHash": 2861536625,
         "icon": ""
     },
-    {
+    "40210054": {
         "Id": 40210054,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108174,
@@ -762,7 +762,7 @@
         "descTextMapHash": 3490887161,
         "icon": ""
     },
-    {
+    "40210055": {
         "Id": 40210055,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108175,
@@ -771,7 +771,7 @@
         "descTextMapHash": 1783499121,
         "icon": ""
     },
-    {
+    "40200024": {
         "Id": 40200024,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108213,
@@ -780,7 +780,7 @@
         "descTextMapHash": 447916033,
         "icon": ""
     },
-    {
+    "40200025": {
         "Id": 40200025,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108214,
@@ -789,7 +789,7 @@
         "descTextMapHash": 1588252177,
         "icon": ""
     },
-    {
+    "40200011": {
         "Id": 40200011,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108137,
@@ -798,7 +798,7 @@
         "descTextMapHash": 1515804729,
         "icon": ""
     },
-    {
+    "40200026": {
         "Id": 40200026,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108200,
@@ -807,7 +807,7 @@
         "descTextMapHash": 3178070465,
         "icon": ""
     },
-    {
+    "40200027": {
         "Id": 40200027,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108234,
@@ -816,7 +816,7 @@
         "descTextMapHash": 873186689,
         "icon": ""
     },
-    {
+    "40200028": {
         "Id": 40200028,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108244,
@@ -825,7 +825,7 @@
         "descTextMapHash": 4119415417,
         "icon": ""
     },
-    {
+    "40200029": {
         "Id": 40200029,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108245,
@@ -834,7 +834,7 @@
         "descTextMapHash": 2214970273,
         "icon": ""
     },
-    {
+    "40200030": {
         "Id": 40200030,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108300,
@@ -843,7 +843,7 @@
         "descTextMapHash": 1873108777,
         "icon": ""
     },
-    {
+    "40200031": {
         "Id": 40200031,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108301,
@@ -852,7 +852,7 @@
         "descTextMapHash": 433312569,
         "icon": ""
     },
-    {
+    "40200032": {
         "Id": 40200032,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108302,
@@ -861,7 +861,7 @@
         "descTextMapHash": 2651584137,
         "icon": ""
     },
-    {
+    "40200033": {
         "Id": 40200033,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108303,
@@ -870,7 +870,7 @@
         "descTextMapHash": 1565400641,
         "icon": ""
     },
-    {
+    "40200034": {
         "Id": 40200034,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108339,
@@ -879,7 +879,7 @@
         "descTextMapHash": 2459182017,
         "icon": ""
     },
-    {
+    "40200035": {
         "Id": 40200035,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108340,
@@ -888,7 +888,7 @@
         "descTextMapHash": 2074548593,
         "icon": ""
     },
-    {
+    "40200036": {
         "Id": 40200036,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108341,
@@ -897,7 +897,7 @@
         "descTextMapHash": 832766041,
         "icon": ""
     },
-    {
+    "40200037": {
         "Id": 40200037,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108354,
@@ -906,7 +906,7 @@
         "descTextMapHash": 669855961,
         "icon": ""
     },
-    {
+    "40200038": {
         "Id": 40200038,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108364,
@@ -915,7 +915,7 @@
         "descTextMapHash": 126717345,
         "icon": ""
     },
-    {
+    "40200039": {
         "Id": 40200039,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108365,
@@ -924,7 +924,7 @@
         "descTextMapHash": 583572649,
         "icon": ""
     },
-    {
+    "40200040": {
         "Id": 40200040,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108372,
@@ -933,7 +933,7 @@
         "descTextMapHash": 1218668297,
         "icon": ""
     },
-    {
+    "40200041": {
         "Id": 40200041,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108373,
@@ -942,7 +942,7 @@
         "descTextMapHash": 4132422729,
         "icon": ""
     },
-    {
+    "40200042": {
         "Id": 40200042,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108380,
@@ -951,7 +951,7 @@
         "descTextMapHash": 3076665161,
         "icon": ""
     },
-    {
+    "40200043": {
         "Id": 40200043,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108387,
@@ -960,7 +960,7 @@
         "descTextMapHash": 1859866825,
         "icon": ""
     },
-    {
+    "40200044": {
         "Id": 40200044,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108388,
@@ -969,7 +969,7 @@
         "descTextMapHash": 1768569753,
         "icon": ""
     },
-    {
+    "40200045": {
         "Id": 40200045,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108389,
@@ -978,7 +978,7 @@
         "descTextMapHash": 4014922873,
         "icon": ""
     },
-    {
+    "40200046": {
         "Id": 40200046,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108390,
@@ -987,7 +987,7 @@
         "descTextMapHash": 844347537,
         "icon": ""
     },
-    {
+    "40200047": {
         "Id": 40200047,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108436,
@@ -996,7 +996,7 @@
         "descTextMapHash": 4154039265,
         "icon": ""
     },
-    {
+    "40200048": {
         "Id": 40200048,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108437,
@@ -1005,7 +1005,7 @@
         "descTextMapHash": 2762613961,
         "icon": ""
     },
-    {
+    "40200049": {
         "Id": 40200049,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108438,
@@ -1014,7 +1014,7 @@
         "descTextMapHash": 3583477665,
         "icon": ""
     },
-    {
+    "40210001": {
         "Id": 40210001,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108003,
@@ -1023,7 +1023,7 @@
         "descTextMapHash": 3563415905,
         "icon": ""
     },
-    {
+    "40210002": {
         "Id": 40210002,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108006,
@@ -1032,7 +1032,7 @@
         "descTextMapHash": 4270558833,
         "icon": ""
     },
-    {
+    "40210003": {
         "Id": 40210003,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108009,
@@ -1041,7 +1041,7 @@
         "descTextMapHash": 2164547745,
         "icon": ""
     },
-    {
+    "40210004": {
         "Id": 40210004,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108013,
@@ -1050,7 +1050,7 @@
         "descTextMapHash": 2841659801,
         "icon": ""
     },
-    {
+    "40210005": {
         "Id": 40210005,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108017,
@@ -1059,7 +1059,7 @@
         "descTextMapHash": 740373257,
         "icon": ""
     },
-    {
+    "40210006": {
         "Id": 40210006,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108021,
@@ -1068,7 +1068,7 @@
         "descTextMapHash": 1879410961,
         "icon": ""
     },
-    {
+    "40210007": {
         "Id": 40210007,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108024,
@@ -1077,7 +1077,7 @@
         "descTextMapHash": 2106874153,
         "icon": ""
     },
-    {
+    "40210008": {
         "Id": 40210008,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108027,
@@ -1086,7 +1086,7 @@
         "descTextMapHash": 3109895217,
         "icon": ""
     },
-    {
+    "40210009": {
         "Id": 40210009,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108030,
@@ -1095,7 +1095,7 @@
         "descTextMapHash": 1439849409,
         "icon": ""
     },
-    {
+    "40210010": {
         "Id": 40210010,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108033,
@@ -1104,7 +1104,7 @@
         "descTextMapHash": 3110847233,
         "icon": ""
     },
-    {
+    "40210011": {
         "Id": 40210011,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108036,
@@ -1113,7 +1113,7 @@
         "descTextMapHash": 97454281,
         "icon": ""
     },
-    {
+    "40210012": {
         "Id": 40210012,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108039,
@@ -1122,7 +1122,7 @@
         "descTextMapHash": 2817484593,
         "icon": ""
     },
-    {
+    "40210013": {
         "Id": 40210013,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108043,
@@ -1131,7 +1131,7 @@
         "descTextMapHash": 2615371169,
         "icon": ""
     },
-    {
+    "40210014": {
         "Id": 40210014,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108047,
@@ -1140,7 +1140,7 @@
         "descTextMapHash": 2987363585,
         "icon": ""
     },
-    {
+    "40210015": {
         "Id": 40210015,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108051,
@@ -1149,7 +1149,7 @@
         "descTextMapHash": 2532988385,
         "icon": ""
     },
-    {
+    "40210016": {
         "Id": 40210016,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108054,
@@ -1158,7 +1158,7 @@
         "descTextMapHash": 40227401,
         "icon": ""
     },
-    {
+    "40210017": {
         "Id": 40210017,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108057,
@@ -1167,7 +1167,7 @@
         "descTextMapHash": 3776352033,
         "icon": ""
     },
-    {
+    "40210018": {
         "Id": 40210018,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108061,
@@ -1176,7 +1176,7 @@
         "descTextMapHash": 3538575145,
         "icon": ""
     },
-    {
+    "40210019": {
         "Id": 40210019,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108064,
@@ -1185,7 +1185,7 @@
         "descTextMapHash": 645127257,
         "icon": ""
     },
-    {
+    "40210020": {
         "Id": 40210020,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108067,
@@ -1194,7 +1194,7 @@
         "descTextMapHash": 1311985929,
         "icon": ""
     },
-    {
+    "40210021": {
         "Id": 40210021,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108070,
@@ -1203,7 +1203,7 @@
         "descTextMapHash": 347552081,
         "icon": ""
     },
-    {
+    "40210022": {
         "Id": 40210022,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108073,
@@ -1212,7 +1212,7 @@
         "descTextMapHash": 1067854313,
         "icon": ""
     },
-    {
+    "40210023": {
         "Id": 40210023,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108076,
@@ -1221,7 +1221,7 @@
         "descTextMapHash": 2739387257,
         "icon": ""
     },
-    {
+    "40210024": {
         "Id": 40210024,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108079,
@@ -1230,7 +1230,7 @@
         "descTextMapHash": 1500059969,
         "icon": ""
     },
-    {
+    "40210025": {
         "Id": 40210025,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108082,
@@ -1239,7 +1239,7 @@
         "descTextMapHash": 606610929,
         "icon": ""
     },
-    {
+    "40210026": {
         "Id": 40210026,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108085,
@@ -1248,7 +1248,7 @@
         "descTextMapHash": 2639314969,
         "icon": ""
     },
-    {
+    "40210027": {
         "Id": 40210027,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108088,
@@ -1257,7 +1257,7 @@
         "descTextMapHash": 3315115425,
         "icon": ""
     },
-    {
+    "40210028": {
         "Id": 40210028,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108091,
@@ -1266,7 +1266,7 @@
         "descTextMapHash": 3285889049,
         "icon": ""
     },
-    {
+    "40210029": {
         "Id": 40210029,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108094,
@@ -1275,7 +1275,7 @@
         "descTextMapHash": 2509993369,
         "icon": ""
     },
-    {
+    "40210030": {
         "Id": 40210030,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108097,
@@ -1284,7 +1284,7 @@
         "descTextMapHash": 1923865857,
         "icon": ""
     },
-    {
+    "40210031": {
         "Id": 40210031,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108100,
@@ -1293,7 +1293,7 @@
         "descTextMapHash": 2018969465,
         "icon": ""
     },
-    {
+    "40210032": {
         "Id": 40210032,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108103,
@@ -1302,7 +1302,7 @@
         "descTextMapHash": 194842241,
         "icon": ""
     },
-    {
+    "40210033": {
         "Id": 40210033,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108106,
@@ -1311,7 +1311,7 @@
         "descTextMapHash": 3741642001,
         "icon": ""
     },
-    {
+    "40210034": {
         "Id": 40210034,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108109,
@@ -1320,7 +1320,7 @@
         "descTextMapHash": 2170923929,
         "icon": ""
     },
-    {
+    "40210035": {
         "Id": 40210035,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108112,
@@ -1329,7 +1329,7 @@
         "descTextMapHash": 198831753,
         "icon": ""
     },
-    {
+    "40210036": {
         "Id": 40210036,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108121,
@@ -1338,7 +1338,7 @@
         "descTextMapHash": 1788736953,
         "icon": ""
     },
-    {
+    "40210037": {
         "Id": 40210037,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108124,
@@ -1347,7 +1347,7 @@
         "descTextMapHash": 990286817,
         "icon": ""
     },
-    {
+    "40210038": {
         "Id": 40210038,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108127,
@@ -1356,7 +1356,7 @@
         "descTextMapHash": 3363762569,
         "icon": ""
     },
-    {
+    "40210039": {
         "Id": 40210039,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108130,
@@ -1365,7 +1365,7 @@
         "descTextMapHash": 764184073,
         "icon": ""
     },
-    {
+    "40210040": {
         "Id": 40210040,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108133,
@@ -1374,7 +1374,7 @@
         "descTextMapHash": 3746472129,
         "icon": ""
     },
-    {
+    "40210045": {
         "Id": 40210045,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108151,
@@ -1383,7 +1383,7 @@
         "descTextMapHash": 358226817,
         "icon": ""
     },
-    {
+    "40210068": {
         "Id": 40210068,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108143,
@@ -1392,7 +1392,7 @@
         "descTextMapHash": 2749835401,
         "icon": ""
     },
-    {
+    "40210046": {
         "Id": 40210046,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108154,
@@ -1401,7 +1401,7 @@
         "descTextMapHash": 2329356353,
         "icon": ""
     },
-    {
+    "40210047": {
         "Id": 40210047,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108157,
@@ -1410,7 +1410,7 @@
         "descTextMapHash": 3946790713,
         "icon": ""
     },
-    {
+    "40210048": {
         "Id": 40210048,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108160,
@@ -1419,7 +1419,7 @@
         "descTextMapHash": 1589603961,
         "icon": ""
     },
-    {
+    "40210049": {
         "Id": 40210049,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108163,
@@ -1428,7 +1428,7 @@
         "descTextMapHash": 1110620385,
         "icon": ""
     },
-    {
+    "40210050": {
         "Id": 40210050,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108166,
@@ -1437,7 +1437,7 @@
         "descTextMapHash": 2699233993,
         "icon": ""
     },
-    {
+    "40210051": {
         "Id": 40210051,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108169,
@@ -1446,7 +1446,7 @@
         "descTextMapHash": 2298797593,
         "icon": ""
     },
-    {
+    "40210052": {
         "Id": 40210052,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108172,
@@ -1455,7 +1455,7 @@
         "descTextMapHash": 339411049,
         "icon": ""
     },
-    {
+    "40210056": {
         "Id": 40210056,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108203,
@@ -1464,7 +1464,7 @@
         "descTextMapHash": 1561769129,
         "icon": ""
     },
-    {
+    "40210057": {
         "Id": 40210057,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108206,
@@ -1473,7 +1473,7 @@
         "descTextMapHash": 3392262985,
         "icon": ""
     },
-    {
+    "40210058": {
         "Id": 40210058,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108209,
@@ -1482,7 +1482,7 @@
         "descTextMapHash": 2600611801,
         "icon": ""
     },
-    {
+    "40210059": {
         "Id": 40210059,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108212,
@@ -1491,7 +1491,7 @@
         "descTextMapHash": 1649424561,
         "icon": ""
     },
-    {
+    "40210061": {
         "Id": 40210061,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108181,
@@ -1500,7 +1500,7 @@
         "descTextMapHash": 1059662497,
         "icon": ""
     },
-    {
+    "40210064": {
         "Id": 40210064,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108190,
@@ -1509,7 +1509,7 @@
         "descTextMapHash": 3375996289,
         "icon": ""
     },
-    {
+    "40210065": {
         "Id": 40210065,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108193,
@@ -1518,7 +1518,7 @@
         "descTextMapHash": 2555260321,
         "icon": ""
     },
-    {
+    "40210069": {
         "Id": 40210069,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108224,
@@ -1527,7 +1527,7 @@
         "descTextMapHash": 3176705049,
         "icon": ""
     },
-    {
+    "40210070": {
         "Id": 40210070,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108227,
@@ -1536,7 +1536,7 @@
         "descTextMapHash": 2858104169,
         "icon": ""
     },
-    {
+    "40210071": {
         "Id": 40210071,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108230,
@@ -1545,7 +1545,7 @@
         "descTextMapHash": 3645275105,
         "icon": ""
     },
-    {
+    "40210072": {
         "Id": 40210072,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108233,
@@ -1554,7 +1554,7 @@
         "descTextMapHash": 4113047417,
         "icon": ""
     },
-    {
+    "40210060": {
         "Id": 40210060,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108178,
@@ -1563,7 +1563,7 @@
         "descTextMapHash": 977308601,
         "icon": ""
     },
-    {
+    "40210062": {
         "Id": 40210062,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108184,
@@ -1572,7 +1572,7 @@
         "descTextMapHash": 813941217,
         "icon": ""
     },
-    {
+    "40210063": {
         "Id": 40210063,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108187,
@@ -1581,7 +1581,7 @@
         "descTextMapHash": 810735281,
         "icon": ""
     },
-    {
+    "40210066": {
         "Id": 40210066,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108196,
@@ -1590,7 +1590,7 @@
         "descTextMapHash": 1849362097,
         "icon": ""
     },
-    {
+    "40210067": {
         "Id": 40210067,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108199,
@@ -1599,7 +1599,7 @@
         "descTextMapHash": 1329836137,
         "icon": ""
     },
-    {
+    "40210073": {
         "Id": 40210073,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108248,
@@ -1608,7 +1608,7 @@
         "descTextMapHash": 1962213305,
         "icon": ""
     },
-    {
+    "40210074": {
         "Id": 40210074,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108251,
@@ -1617,7 +1617,7 @@
         "descTextMapHash": 3143200025,
         "icon": ""
     },
-    {
+    "40210075": {
         "Id": 40210075,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108254,
@@ -1626,7 +1626,7 @@
         "descTextMapHash": 1245477345,
         "icon": ""
     },
-    {
+    "40210076": {
         "Id": 40210076,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108257,
@@ -1635,7 +1635,7 @@
         "descTextMapHash": 2577901689,
         "icon": ""
     },
-    {
+    "40210077": {
         "Id": 40210077,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108260,
@@ -1644,7 +1644,7 @@
         "descTextMapHash": 2147743465,
         "icon": ""
     },
-    {
+    "40210078": {
         "Id": 40210078,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108263,
@@ -1653,7 +1653,7 @@
         "descTextMapHash": 34929337,
         "icon": ""
     },
-    {
+    "40210079": {
         "Id": 40210079,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108266,
@@ -1662,7 +1662,7 @@
         "descTextMapHash": 2798295281,
         "icon": ""
     },
-    {
+    "40210080": {
         "Id": 40210080,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108269,
@@ -1671,7 +1671,7 @@
         "descTextMapHash": 3635505601,
         "icon": ""
     },
-    {
+    "40210081": {
         "Id": 40210081,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108272,
@@ -1680,7 +1680,7 @@
         "descTextMapHash": 2740017001,
         "icon": ""
     },
-    {
+    "40210082": {
         "Id": 40210082,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108275,
@@ -1689,7 +1689,7 @@
         "descTextMapHash": 4091087705,
         "icon": ""
     },
-    {
+    "40210083": {
         "Id": 40210083,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108278,
@@ -1698,7 +1698,7 @@
         "descTextMapHash": 1836872473,
         "icon": ""
     },
-    {
+    "40210084": {
         "Id": 40210084,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108281,
@@ -1707,7 +1707,7 @@
         "descTextMapHash": 1870117745,
         "icon": ""
     },
-    {
+    "40210085": {
         "Id": 40210085,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108284,
@@ -1716,7 +1716,7 @@
         "descTextMapHash": 2603291241,
         "icon": ""
     },
-    {
+    "40210086": {
         "Id": 40210086,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108287,
@@ -1725,7 +1725,7 @@
         "descTextMapHash": 4078394153,
         "icon": ""
     },
-    {
+    "40210087": {
         "Id": 40210087,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108290,
@@ -1734,7 +1734,7 @@
         "descTextMapHash": 2679027657,
         "icon": ""
     },
-    {
+    "40210088": {
         "Id": 40210088,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108293,
@@ -1743,7 +1743,7 @@
         "descTextMapHash": 3730444289,
         "icon": ""
     },
-    {
+    "40210089": {
         "Id": 40210089,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108296,
@@ -1752,7 +1752,7 @@
         "descTextMapHash": 2545836321,
         "icon": ""
     },
-    {
+    "40210090": {
         "Id": 40210090,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108299,
@@ -1761,7 +1761,7 @@
         "descTextMapHash": 3086509849,
         "icon": ""
     },
-    {
+    "40210096": {
         "Id": 40210096,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108320,
@@ -1770,7 +1770,7 @@
         "descTextMapHash": 3876983297,
         "icon": ""
     },
-    {
+    "40210097": {
         "Id": 40210097,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108323,
@@ -1779,7 +1779,7 @@
         "descTextMapHash": 3950457361,
         "icon": ""
     },
-    {
+    "40210098": {
         "Id": 40210098,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108326,
@@ -1788,7 +1788,7 @@
         "descTextMapHash": 1157244257,
         "icon": ""
     },
-    {
+    "40210099": {
         "Id": 40210099,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108329,
@@ -1797,7 +1797,7 @@
         "descTextMapHash": 1573616569,
         "icon": ""
     },
-    {
+    "40210100": {
         "Id": 40210100,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108332,
@@ -1806,7 +1806,7 @@
         "descTextMapHash": 2689507169,
         "icon": ""
     },
-    {
+    "40210101": {
         "Id": 40210101,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108335,
@@ -1815,7 +1815,7 @@
         "descTextMapHash": 1789965153,
         "icon": ""
     },
-    {
+    "40210102": {
         "Id": 40210102,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108338,
@@ -1824,7 +1824,7 @@
         "descTextMapHash": 2377561137,
         "icon": ""
     },
-    {
+    "40210103": {
         "Id": 40210103,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108344,
@@ -1833,7 +1833,7 @@
         "descTextMapHash": 3212698153,
         "icon": ""
     },
-    {
+    "40210104": {
         "Id": 40210104,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108347,
@@ -1842,7 +1842,7 @@
         "descTextMapHash": 580178345,
         "icon": ""
     },
-    {
+    "40210105": {
         "Id": 40210105,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108350,
@@ -1851,7 +1851,7 @@
         "descTextMapHash": 2377730169,
         "icon": ""
     },
-    {
+    "40210106": {
         "Id": 40210106,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108353,
@@ -1860,7 +1860,7 @@
         "descTextMapHash": 57224401,
         "icon": ""
     },
-    {
+    "40210108": {
         "Id": 40210108,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108357,
@@ -1869,7 +1869,7 @@
         "descTextMapHash": 1840542265,
         "icon": ""
     },
-    {
+    "40210109": {
         "Id": 40210109,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108360,
@@ -1878,7 +1878,7 @@
         "descTextMapHash": 4007110705,
         "icon": ""
     },
-    {
+    "40210110": {
         "Id": 40210110,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108363,
@@ -1887,7 +1887,7 @@
         "descTextMapHash": 1953909873,
         "icon": ""
     },
-    {
+    "40210111": {
         "Id": 40210111,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108368,
@@ -1896,7 +1896,7 @@
         "descTextMapHash": 1453536489,
         "icon": ""
     },
-    {
+    "40210112": {
         "Id": 40210112,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108371,
@@ -1905,7 +1905,7 @@
         "descTextMapHash": 3836112513,
         "icon": ""
     },
-    {
+    "40210113": {
         "Id": 40210113,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108376,
@@ -1914,7 +1914,7 @@
         "descTextMapHash": 3460560169,
         "icon": ""
     },
-    {
+    "40210114": {
         "Id": 40210114,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108379,
@@ -1923,7 +1923,7 @@
         "descTextMapHash": 1158316513,
         "icon": ""
     },
-    {
+    "40210115": {
         "Id": 40210115,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108383,
@@ -1932,7 +1932,7 @@
         "descTextMapHash": 731953217,
         "icon": ""
     },
-    {
+    "40210116": {
         "Id": 40210116,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108386,
@@ -1941,7 +1941,7 @@
         "descTextMapHash": 4286832905,
         "icon": ""
     },
-    {
+    "40210117": {
         "Id": 40210117,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108393,
@@ -1950,7 +1950,7 @@
         "descTextMapHash": 2209292897,
         "icon": ""
     },
-    {
+    "40210118": {
         "Id": 40210118,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108396,
@@ -1959,7 +1959,7 @@
         "descTextMapHash": 2942878593,
         "icon": ""
     },
-    {
+    "40210119": {
         "Id": 40210119,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108399,
@@ -1968,7 +1968,7 @@
         "descTextMapHash": 2837354049,
         "icon": ""
     },
-    {
+    "40210120": {
         "Id": 40210120,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108402,
@@ -1977,7 +1977,7 @@
         "descTextMapHash": 845978353,
         "icon": ""
     },
-    {
+    "40210121": {
         "Id": 40210121,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108405,
@@ -1986,7 +1986,7 @@
         "descTextMapHash": 1752507825,
         "icon": ""
     },
-    {
+    "40210122": {
         "Id": 40210122,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108408,
@@ -1995,7 +1995,7 @@
         "descTextMapHash": 1396014785,
         "icon": ""
     },
-    {
+    "40210123": {
         "Id": 40210123,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108411,
@@ -2004,7 +2004,7 @@
         "descTextMapHash": 2343714313,
         "icon": ""
     },
-    {
+    "40210124": {
         "Id": 40210124,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108414,
@@ -2013,7 +2013,7 @@
         "descTextMapHash": 3483596361,
         "icon": ""
     },
-    {
+    "40210125": {
         "Id": 40210125,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108417,
@@ -2022,7 +2022,7 @@
         "descTextMapHash": 2745917969,
         "icon": ""
     },
-    {
+    "40210126": {
         "Id": 40210126,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108420,
@@ -2031,7 +2031,7 @@
         "descTextMapHash": 788148209,
         "icon": ""
     },
-    {
+    "40210127": {
         "Id": 40210127,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108423,
@@ -2040,7 +2040,7 @@
         "descTextMapHash": 541584217,
         "icon": ""
     },
-    {
+    "40210128": {
         "Id": 40210128,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108426,
@@ -2049,7 +2049,7 @@
         "descTextMapHash": 1960358441,
         "icon": ""
     },
-    {
+    "40210129": {
         "Id": 40210129,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108429,
@@ -2058,7 +2058,7 @@
         "descTextMapHash": 3057148153,
         "icon": ""
     },
-    {
+    "40210130": {
         "Id": 40210130,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108432,
@@ -2067,7 +2067,7 @@
         "descTextMapHash": 124631273,
         "icon": ""
     },
-    {
+    "40210131": {
         "Id": 40210131,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108435,
@@ -2076,7 +2076,7 @@
         "descTextMapHash": 3583915777,
         "icon": ""
     },
-    {
+    "40210092": {
         "Id": 40210092,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108308,
@@ -2086,7 +2086,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40210093": {
         "Id": 40210093,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108311,
@@ -2096,7 +2096,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40210094": {
         "Id": 40210094,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108314,
@@ -2106,7 +2106,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40210095": {
         "Id": 40210095,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108317,
@@ -2116,7 +2116,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40260001": {
         "Id": 40260001,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108237,
@@ -2126,7 +2126,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40260002": {
         "Id": 40260002,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108240,
@@ -2136,7 +2136,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40260003": {
         "Id": 40260003,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108243,
@@ -2146,7 +2146,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40260004": {
         "Id": 40260004,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108441,
@@ -2156,7 +2156,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40260005": {
         "Id": 40260005,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108444,
@@ -2166,7 +2166,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40260006": {
         "Id": 40260006,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108447,
@@ -2176,7 +2176,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40210041": {
         "Id": 40210041,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108147,
@@ -2185,7 +2185,7 @@
         "descTextMapHash": 4162682305,
         "icon": ""
     },
-    {
+    "40210042": {
         "Id": 40210042,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108148,
@@ -2194,7 +2194,7 @@
         "descTextMapHash": 2807697401,
         "icon": ""
     },
-    {
+    "40210043": {
         "Id": 40210043,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108149,
@@ -2203,7 +2203,7 @@
         "descTextMapHash": 686970561,
         "icon": ""
     },
-    {
+    "40210044": {
         "Id": 40210044,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108150,
@@ -2212,7 +2212,7 @@
         "descTextMapHash": 2054366345,
         "icon": ""
     },
-    {
+    "40210091": {
         "Id": 40210091,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108304,
@@ -2222,7 +2222,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40210107": {
         "Id": 40210107,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 108305,
@@ -2232,7 +2232,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40220001": {
         "Id": 40220001,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100017,
@@ -2241,7 +2241,7 @@
         "descTextMapHash": 3550705345,
         "icon": ""
     },
-    {
+    "40220002": {
         "Id": 40220002,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100018,
@@ -2250,7 +2250,7 @@
         "descTextMapHash": 3007391713,
         "icon": ""
     },
-    {
+    "40220003": {
         "Id": 40220003,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100075,
@@ -2259,7 +2259,7 @@
         "descTextMapHash": 3745413265,
         "icon": ""
     },
-    {
+    "40220004": {
         "Id": 40220004,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100076,
@@ -2268,7 +2268,7 @@
         "descTextMapHash": 3606498369,
         "icon": ""
     },
-    {
+    "40220005": {
         "Id": 40220005,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100077,
@@ -2277,7 +2277,7 @@
         "descTextMapHash": 674658137,
         "icon": ""
     },
-    {
+    "40220006": {
         "Id": 40220006,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100078,
@@ -2286,7 +2286,7 @@
         "descTextMapHash": 3218891737,
         "icon": ""
     },
-    {
+    "40220007": {
         "Id": 40220007,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100079,
@@ -2295,7 +2295,7 @@
         "descTextMapHash": 4251808369,
         "icon": ""
     },
-    {
+    "40220008": {
         "Id": 40220008,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100080,
@@ -2304,7 +2304,7 @@
         "descTextMapHash": 2569096129,
         "icon": ""
     },
-    {
+    "40220009": {
         "Id": 40220009,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100088,
@@ -2313,7 +2313,7 @@
         "descTextMapHash": 3345201153,
         "icon": ""
     },
-    {
+    "40220010": {
         "Id": 40220010,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100089,
@@ -2322,7 +2322,7 @@
         "descTextMapHash": 1714470497,
         "icon": ""
     },
-    {
+    "40220011": {
         "Id": 40220011,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100092,
@@ -2331,7 +2331,7 @@
         "descTextMapHash": 14567417,
         "icon": ""
     },
-    {
+    "40220012": {
         "Id": 40220012,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100093,
@@ -2340,7 +2340,7 @@
         "descTextMapHash": 2876725249,
         "icon": ""
     },
-    {
+    "40230001": {
         "Id": 40230001,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110001,
@@ -2349,7 +2349,7 @@
         "descTextMapHash": 2193124681,
         "icon": ""
     },
-    {
+    "40230002": {
         "Id": 40230002,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110002,
@@ -2358,7 +2358,7 @@
         "descTextMapHash": 3864583297,
         "icon": ""
     },
-    {
+    "40230003": {
         "Id": 40230003,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110003,
@@ -2367,7 +2367,7 @@
         "descTextMapHash": 1871180625,
         "icon": ""
     },
-    {
+    "40230004": {
         "Id": 40230004,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110004,
@@ -2376,7 +2376,7 @@
         "descTextMapHash": 3327555089,
         "icon": ""
     },
-    {
+    "40230005": {
         "Id": 40230005,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110005,
@@ -2385,7 +2385,7 @@
         "descTextMapHash": 2149326721,
         "icon": ""
     },
-    {
+    "40230006": {
         "Id": 40230006,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110006,
@@ -2394,7 +2394,7 @@
         "descTextMapHash": 3145878801,
         "icon": ""
     },
-    {
+    "40230007": {
         "Id": 40230007,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110008,
@@ -2403,7 +2403,7 @@
         "descTextMapHash": 3709119257,
         "icon": ""
     },
-    {
+    "40230008": {
         "Id": 40230008,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110009,
@@ -2412,7 +2412,7 @@
         "descTextMapHash": 2377241641,
         "icon": ""
     },
-    {
+    "40230009": {
         "Id": 40230009,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110010,
@@ -2421,7 +2421,7 @@
         "descTextMapHash": 2398337641,
         "icon": ""
     },
-    {
+    "40230010": {
         "Id": 40230010,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110011,
@@ -2430,7 +2430,7 @@
         "descTextMapHash": 2581423913,
         "icon": ""
     },
-    {
+    "40230013": {
         "Id": 40230013,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100074,
@@ -2439,7 +2439,7 @@
         "descTextMapHash": 3366529217,
         "icon": ""
     },
-    {
+    "40230014": {
         "Id": 40230014,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 110014,
@@ -2448,7 +2448,7 @@
         "descTextMapHash": 3727681,
         "icon": ""
     },
-    {
+    "40240001": {
         "Id": 40240001,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100061,
@@ -2457,7 +2457,7 @@
         "descTextMapHash": 953685393,
         "icon": ""
     },
-    {
+    "40240002": {
         "Id": 40240002,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100064,
@@ -2466,7 +2466,7 @@
         "descTextMapHash": 1170514393,
         "icon": ""
     },
-    {
+    "40240003": {
         "Id": 40240003,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100084,
@@ -2475,7 +2475,7 @@
         "descTextMapHash": 1420281881,
         "icon": ""
     },
-    {
+    "40240004": {
         "Id": 40240004,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100073,
@@ -2484,7 +2484,7 @@
         "descTextMapHash": 2631475153,
         "icon": ""
     },
-    {
+    "40240005": {
         "Id": 40240005,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100094,
@@ -2493,7 +2493,7 @@
         "descTextMapHash": 4124828673,
         "icon": ""
     },
-    {
+    "40240006": {
         "Id": 40240006,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 100095,
@@ -2502,7 +2502,7 @@
         "descTextMapHash": 178152241,
         "icon": ""
     },
-    {
+    "40250001": {
         "Id": 40250001,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111006,
@@ -2511,7 +2511,7 @@
         "descTextMapHash": 4210747217,
         "icon": ""
     },
-    {
+    "40250002": {
         "Id": 40250002,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111007,
@@ -2520,7 +2520,7 @@
         "descTextMapHash": 1740448265,
         "icon": ""
     },
-    {
+    "40250003": {
         "Id": 40250003,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111008,
@@ -2529,7 +2529,7 @@
         "descTextMapHash": 1705403665,
         "icon": ""
     },
-    {
+    "40250004": {
         "Id": 40250004,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111009,
@@ -2538,7 +2538,7 @@
         "descTextMapHash": 2702960433,
         "icon": ""
     },
-    {
+    "40250005": {
         "Id": 40250005,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111010,
@@ -2547,7 +2547,7 @@
         "descTextMapHash": 673839593,
         "icon": ""
     },
-    {
+    "40250006": {
         "Id": 40250006,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111011,
@@ -2556,7 +2556,7 @@
         "descTextMapHash": 1171294281,
         "icon": ""
     },
-    {
+    "40250007": {
         "Id": 40250007,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111012,
@@ -2565,7 +2565,7 @@
         "descTextMapHash": 3666481665,
         "icon": ""
     },
-    {
+    "40250008": {
         "Id": 40250008,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111013,
@@ -2574,7 +2574,7 @@
         "descTextMapHash": 2384330593,
         "icon": ""
     },
-    {
+    "40250009": {
         "Id": 40250009,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111014,
@@ -2583,7 +2583,7 @@
         "descTextMapHash": 1594937977,
         "icon": ""
     },
-    {
+    "40250010": {
         "Id": 40250010,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111015,
@@ -2592,7 +2592,7 @@
         "descTextMapHash": 1184607105,
         "icon": ""
     },
-    {
+    "40250011": {
         "Id": 40250011,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111016,
@@ -2601,7 +2601,7 @@
         "descTextMapHash": 1667767833,
         "icon": ""
     },
-    {
+    "40250012": {
         "Id": 40250012,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111017,
@@ -2610,7 +2610,7 @@
         "descTextMapHash": 3603204697,
         "icon": ""
     },
-    {
+    "40250013": {
         "Id": 40250013,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111018,
@@ -2619,7 +2619,7 @@
         "descTextMapHash": 2119852193,
         "icon": ""
     },
-    {
+    "40250014": {
         "Id": 40250014,
         "type": "CODEX_COOKING_FOOD",
         "materialId": 111019,
@@ -2628,7 +2628,7 @@
         "descTextMapHash": 3716168505,
         "icon": ""
     },
-    {
+    "40300001": {
         "Id": 40300001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113003,
@@ -2637,7 +2637,7 @@
         "descTextMapHash": 2842061945,
         "icon": ""
     },
-    {
+    "40300002": {
         "Id": 40300002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113004,
@@ -2646,7 +2646,7 @@
         "descTextMapHash": 2038239529,
         "icon": ""
     },
-    {
+    "40300003": {
         "Id": 40300003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113005,
@@ -2655,7 +2655,7 @@
         "descTextMapHash": 1923731937,
         "icon": ""
     },
-    {
+    "40300004": {
         "Id": 40300004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113006,
@@ -2664,7 +2664,7 @@
         "descTextMapHash": 4080088209,
         "icon": ""
     },
-    {
+    "40300005": {
         "Id": 40300005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113007,
@@ -2673,7 +2673,7 @@
         "descTextMapHash": 3172050825,
         "icon": ""
     },
-    {
+    "40300006": {
         "Id": 40300006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113008,
@@ -2682,7 +2682,7 @@
         "descTextMapHash": 23365329,
         "icon": ""
     },
-    {
+    "40300007": {
         "Id": 40300007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113013,
@@ -2691,7 +2691,7 @@
         "descTextMapHash": 1688961513,
         "icon": ""
     },
-    {
+    "40300008": {
         "Id": 40300008,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113014,
@@ -2700,7 +2700,7 @@
         "descTextMapHash": 658228337,
         "icon": ""
     },
-    {
+    "40300009": {
         "Id": 40300009,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113015,
@@ -2709,7 +2709,7 @@
         "descTextMapHash": 823896553,
         "icon": ""
     },
-    {
+    "40300011": {
         "Id": 40300011,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113017,
@@ -2718,7 +2718,7 @@
         "descTextMapHash": 2510144345,
         "icon": ""
     },
-    {
+    "40300012": {
         "Id": 40300012,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113018,
@@ -2727,7 +2727,7 @@
         "descTextMapHash": 2837127249,
         "icon": ""
     },
-    {
+    "40300013": {
         "Id": 40300013,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113019,
@@ -2736,7 +2736,7 @@
         "descTextMapHash": 2602072025,
         "icon": ""
     },
-    {
+    "40300014": {
         "Id": 40300014,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113025,
@@ -2745,7 +2745,7 @@
         "descTextMapHash": 525763009,
         "icon": ""
     },
-    {
+    "40300015": {
         "Id": 40300015,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113026,
@@ -2754,7 +2754,7 @@
         "descTextMapHash": 1365506025,
         "icon": ""
     },
-    {
+    "40300016": {
         "Id": 40300016,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113027,
@@ -2763,7 +2763,7 @@
         "descTextMapHash": 868845657,
         "icon": ""
     },
-    {
+    "40300017": {
         "Id": 40300017,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113032,
@@ -2772,7 +2772,7 @@
         "descTextMapHash": 3364989297,
         "icon": ""
     },
-    {
+    "40300018": {
         "Id": 40300018,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113033,
@@ -2781,7 +2781,7 @@
         "descTextMapHash": 4266492289,
         "icon": ""
     },
-    {
+    "40300019": {
         "Id": 40300019,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113034,
@@ -2790,7 +2790,7 @@
         "descTextMapHash": 1360503609,
         "icon": ""
     },
-    {
+    "40310001": {
         "Id": 40310001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113001,
@@ -2799,7 +2799,7 @@
         "descTextMapHash": 2749690513,
         "icon": ""
     },
-    {
+    "40310002": {
         "Id": 40310002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113002,
@@ -2808,7 +2808,7 @@
         "descTextMapHash": 342638425,
         "icon": ""
     },
-    {
+    "40310003": {
         "Id": 40310003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113009,
@@ -2817,7 +2817,7 @@
         "descTextMapHash": 2305182785,
         "icon": ""
     },
-    {
+    "40310004": {
         "Id": 40310004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113010,
@@ -2826,7 +2826,7 @@
         "descTextMapHash": 3215173161,
         "icon": ""
     },
-    {
+    "40310005": {
         "Id": 40310005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113011,
@@ -2835,7 +2835,7 @@
         "descTextMapHash": 3599987729,
         "icon": ""
     },
-    {
+    "40310006": {
         "Id": 40310006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113012,
@@ -2844,7 +2844,7 @@
         "descTextMapHash": 1430855297,
         "icon": ""
     },
-    {
+    "40300010": {
         "Id": 40300010,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113016,
@@ -2853,7 +2853,7 @@
         "descTextMapHash": 774878465,
         "icon": ""
     },
-    {
+    "40310007": {
         "Id": 40310007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113020,
@@ -2862,7 +2862,7 @@
         "descTextMapHash": 2264681777,
         "icon": ""
     },
-    {
+    "40310008": {
         "Id": 40310008,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113022,
@@ -2871,7 +2871,7 @@
         "descTextMapHash": 513477241,
         "icon": ""
     },
-    {
+    "40310009": {
         "Id": 40310009,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113023,
@@ -2880,7 +2880,7 @@
         "descTextMapHash": 3919320169,
         "icon": ""
     },
-    {
+    "40310010": {
         "Id": 40310010,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113024,
@@ -2889,7 +2889,7 @@
         "descTextMapHash": 1545881505,
         "icon": ""
     },
-    {
+    "40310011": {
         "Id": 40310011,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113028,
@@ -2898,7 +2898,7 @@
         "descTextMapHash": 3696488777,
         "icon": ""
     },
-    {
+    "40310012": {
         "Id": 40310012,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113029,
@@ -2907,7 +2907,7 @@
         "descTextMapHash": 1405663561,
         "icon": ""
     },
-    {
+    "40310013": {
         "Id": 40310013,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113030,
@@ -2916,7 +2916,7 @@
         "descTextMapHash": 1991099177,
         "icon": ""
     },
-    {
+    "40310014": {
         "Id": 40310014,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113031,
@@ -2925,7 +2925,7 @@
         "descTextMapHash": 415220425,
         "icon": ""
     },
-    {
+    "40310015": {
         "Id": 40310015,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113035,
@@ -2934,7 +2934,7 @@
         "descTextMapHash": 938914793,
         "icon": ""
     },
-    {
+    "40310016": {
         "Id": 40310016,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113036,
@@ -2943,7 +2943,7 @@
         "descTextMapHash": 1569061889,
         "icon": ""
     },
-    {
+    "40310017": {
         "Id": 40310017,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 113037,
@@ -2952,7 +2952,7 @@
         "descTextMapHash": 4145930897,
         "icon": ""
     },
-    {
+    "40320001": {
         "Id": 40320001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104101,
@@ -2961,7 +2961,7 @@
         "descTextMapHash": 1364040137,
         "icon": ""
     },
-    {
+    "40320002": {
         "Id": 40320002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104102,
@@ -2970,7 +2970,7 @@
         "descTextMapHash": 2790336881,
         "icon": ""
     },
-    {
+    "40320003": {
         "Id": 40320003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104103,
@@ -2979,7 +2979,7 @@
         "descTextMapHash": 3694559985,
         "icon": ""
     },
-    {
+    "40320004": {
         "Id": 40320004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104104,
@@ -2988,7 +2988,7 @@
         "descTextMapHash": 1727711305,
         "icon": ""
     },
-    {
+    "40320005": {
         "Id": 40320005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104111,
@@ -2997,7 +2997,7 @@
         "descTextMapHash": 1720621393,
         "icon": ""
     },
-    {
+    "40320006": {
         "Id": 40320006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104112,
@@ -3006,7 +3006,7 @@
         "descTextMapHash": 2915256545,
         "icon": ""
     },
-    {
+    "40320007": {
         "Id": 40320007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104113,
@@ -3015,7 +3015,7 @@
         "descTextMapHash": 1357503897,
         "icon": ""
     },
-    {
+    "40320008": {
         "Id": 40320008,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104114,
@@ -3024,7 +3024,7 @@
         "descTextMapHash": 7646313,
         "icon": ""
     },
-    {
+    "40320009": {
         "Id": 40320009,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104121,
@@ -3033,7 +3033,7 @@
         "descTextMapHash": 697068609,
         "icon": ""
     },
-    {
+    "40320010": {
         "Id": 40320010,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104122,
@@ -3042,7 +3042,7 @@
         "descTextMapHash": 583728729,
         "icon": ""
     },
-    {
+    "40320011": {
         "Id": 40320011,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104123,
@@ -3051,7 +3051,7 @@
         "descTextMapHash": 2778606609,
         "icon": ""
     },
-    {
+    "40320012": {
         "Id": 40320012,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104124,
@@ -3060,7 +3060,7 @@
         "descTextMapHash": 3270251297,
         "icon": ""
     },
-    {
+    "40320013": {
         "Id": 40320013,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104131,
@@ -3070,7 +3070,7 @@
         "icon": "",
         "isDisuse": true
     },
-    {
+    "40320014": {
         "Id": 40320014,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104132,
@@ -3080,7 +3080,7 @@
         "icon": "",
         "isDisuse": true
     },
-    {
+    "40320015": {
         "Id": 40320015,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104133,
@@ -3090,7 +3090,7 @@
         "icon": "",
         "isDisuse": true
     },
-    {
+    "40320016": {
         "Id": 40320016,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104134,
@@ -3100,7 +3100,7 @@
         "icon": "",
         "isDisuse": true
     },
-    {
+    "40320017": {
         "Id": 40320017,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104141,
@@ -3109,7 +3109,7 @@
         "descTextMapHash": 3235501881,
         "icon": ""
     },
-    {
+    "40320018": {
         "Id": 40320018,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104142,
@@ -3118,7 +3118,7 @@
         "descTextMapHash": 3824784545,
         "icon": ""
     },
-    {
+    "40320019": {
         "Id": 40320019,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104143,
@@ -3127,7 +3127,7 @@
         "descTextMapHash": 2631947657,
         "icon": ""
     },
-    {
+    "40320020": {
         "Id": 40320020,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104144,
@@ -3136,7 +3136,7 @@
         "descTextMapHash": 4257699265,
         "icon": ""
     },
-    {
+    "40320021": {
         "Id": 40320021,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104151,
@@ -3145,7 +3145,7 @@
         "descTextMapHash": 3584037257,
         "icon": ""
     },
-    {
+    "40320022": {
         "Id": 40320022,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104152,
@@ -3154,7 +3154,7 @@
         "descTextMapHash": 1116383865,
         "icon": ""
     },
-    {
+    "40320023": {
         "Id": 40320023,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104153,
@@ -3163,7 +3163,7 @@
         "descTextMapHash": 928672769,
         "icon": ""
     },
-    {
+    "40320024": {
         "Id": 40320024,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104154,
@@ -3172,7 +3172,7 @@
         "descTextMapHash": 261807649,
         "icon": ""
     },
-    {
+    "40320025": {
         "Id": 40320025,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104161,
@@ -3181,7 +3181,7 @@
         "descTextMapHash": 2445251609,
         "icon": ""
     },
-    {
+    "40320026": {
         "Id": 40320026,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104162,
@@ -3190,7 +3190,7 @@
         "descTextMapHash": 3618959673,
         "icon": ""
     },
-    {
+    "40320027": {
         "Id": 40320027,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104163,
@@ -3199,7 +3199,7 @@
         "descTextMapHash": 3214319537,
         "icon": ""
     },
-    {
+    "40320028": {
         "Id": 40320028,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104164,
@@ -3208,7 +3208,7 @@
         "descTextMapHash": 1153349153,
         "icon": ""
     },
-    {
+    "40320029": {
         "Id": 40320029,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104171,
@@ -3217,7 +3217,7 @@
         "descTextMapHash": 832663809,
         "icon": ""
     },
-    {
+    "40320030": {
         "Id": 40320030,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104172,
@@ -3226,7 +3226,7 @@
         "descTextMapHash": 2314774161,
         "icon": ""
     },
-    {
+    "40320031": {
         "Id": 40320031,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104173,
@@ -3235,7 +3235,7 @@
         "descTextMapHash": 256768361,
         "icon": ""
     },
-    {
+    "40320032": {
         "Id": 40320032,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104174,
@@ -3244,7 +3244,7 @@
         "descTextMapHash": 4193767513,
         "icon": ""
     },
-    {
+    "40320033": {
         "Id": 40320033,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104131,
@@ -3253,7 +3253,7 @@
         "descTextMapHash": 2182129321,
         "icon": ""
     },
-    {
+    "40320034": {
         "Id": 40320034,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104132,
@@ -3262,7 +3262,7 @@
         "descTextMapHash": 3911963825,
         "icon": ""
     },
-    {
+    "40320035": {
         "Id": 40320035,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104133,
@@ -3271,7 +3271,7 @@
         "descTextMapHash": 2700139105,
         "icon": ""
     },
-    {
+    "40320036": {
         "Id": 40320036,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104134,
@@ -3280,7 +3280,7 @@
         "descTextMapHash": 2397189473,
         "icon": ""
     },
-    {
+    "40330001": {
         "Id": 40330001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114001,
@@ -3289,7 +3289,7 @@
         "descTextMapHash": 3567942793,
         "icon": ""
     },
-    {
+    "40330002": {
         "Id": 40330002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114002,
@@ -3298,7 +3298,7 @@
         "descTextMapHash": 4294466465,
         "icon": ""
     },
-    {
+    "40330003": {
         "Id": 40330003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114003,
@@ -3307,7 +3307,7 @@
         "descTextMapHash": 750353297,
         "icon": ""
     },
-    {
+    "40330004": {
         "Id": 40330004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114004,
@@ -3316,7 +3316,7 @@
         "descTextMapHash": 2559308225,
         "icon": ""
     },
-    {
+    "40330005": {
         "Id": 40330005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114005,
@@ -3325,7 +3325,7 @@
         "descTextMapHash": 162068169,
         "icon": ""
     },
-    {
+    "40330006": {
         "Id": 40330006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114006,
@@ -3334,7 +3334,7 @@
         "descTextMapHash": 2316146073,
         "icon": ""
     },
-    {
+    "40330007": {
         "Id": 40330007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114007,
@@ -3343,7 +3343,7 @@
         "descTextMapHash": 1950819681,
         "icon": ""
     },
-    {
+    "40330008": {
         "Id": 40330008,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114008,
@@ -3352,7 +3352,7 @@
         "descTextMapHash": 2749504217,
         "icon": ""
     },
-    {
+    "40330009": {
         "Id": 40330009,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114009,
@@ -3361,7 +3361,7 @@
         "descTextMapHash": 3619396329,
         "icon": ""
     },
-    {
+    "40330010": {
         "Id": 40330010,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114010,
@@ -3370,7 +3370,7 @@
         "descTextMapHash": 3595365505,
         "icon": ""
     },
-    {
+    "40330011": {
         "Id": 40330011,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114011,
@@ -3379,7 +3379,7 @@
         "descTextMapHash": 2006434873,
         "icon": ""
     },
-    {
+    "40330012": {
         "Id": 40330012,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114012,
@@ -3388,7 +3388,7 @@
         "descTextMapHash": 3597370345,
         "icon": ""
     },
-    {
+    "40330013": {
         "Id": 40330013,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114013,
@@ -3397,7 +3397,7 @@
         "descTextMapHash": 2838331881,
         "icon": ""
     },
-    {
+    "40330014": {
         "Id": 40330014,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114014,
@@ -3406,7 +3406,7 @@
         "descTextMapHash": 3884418713,
         "icon": ""
     },
-    {
+    "40330015": {
         "Id": 40330015,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114015,
@@ -3415,7 +3415,7 @@
         "descTextMapHash": 1749956425,
         "icon": ""
     },
-    {
+    "40330016": {
         "Id": 40330016,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114016,
@@ -3424,7 +3424,7 @@
         "descTextMapHash": 4147245113,
         "icon": ""
     },
-    {
+    "40330017": {
         "Id": 40330017,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114017,
@@ -3433,7 +3433,7 @@
         "descTextMapHash": 383760673,
         "icon": ""
     },
-    {
+    "40330018": {
         "Id": 40330018,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114018,
@@ -3442,7 +3442,7 @@
         "descTextMapHash": 1596519369,
         "icon": ""
     },
-    {
+    "40330019": {
         "Id": 40330019,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114019,
@@ -3451,7 +3451,7 @@
         "descTextMapHash": 191260017,
         "icon": ""
     },
-    {
+    "40330020": {
         "Id": 40330020,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114020,
@@ -3460,7 +3460,7 @@
         "descTextMapHash": 3891821273,
         "icon": ""
     },
-    {
+    "40330021": {
         "Id": 40330021,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114021,
@@ -3469,7 +3469,7 @@
         "descTextMapHash": 71064497,
         "icon": ""
     },
-    {
+    "40330022": {
         "Id": 40330022,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114022,
@@ -3478,7 +3478,7 @@
         "descTextMapHash": 513817953,
         "icon": ""
     },
-    {
+    "40330023": {
         "Id": 40330023,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114023,
@@ -3487,7 +3487,7 @@
         "descTextMapHash": 3057041977,
         "icon": ""
     },
-    {
+    "40330024": {
         "Id": 40330024,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114024,
@@ -3496,7 +3496,7 @@
         "descTextMapHash": 88300369,
         "icon": ""
     },
-    {
+    "40330025": {
         "Id": 40330025,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114025,
@@ -3505,7 +3505,7 @@
         "descTextMapHash": 805068009,
         "icon": ""
     },
-    {
+    "40330026": {
         "Id": 40330026,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114026,
@@ -3514,7 +3514,7 @@
         "descTextMapHash": 811679177,
         "icon": ""
     },
-    {
+    "40330027": {
         "Id": 40330027,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114027,
@@ -3523,7 +3523,7 @@
         "descTextMapHash": 2524192897,
         "icon": ""
     },
-    {
+    "40330028": {
         "Id": 40330028,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114028,
@@ -3532,7 +3532,7 @@
         "descTextMapHash": 1999398217,
         "icon": ""
     },
-    {
+    "40330029": {
         "Id": 40330029,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114029,
@@ -3541,7 +3541,7 @@
         "descTextMapHash": 793670633,
         "icon": ""
     },
-    {
+    "40330030": {
         "Id": 40330030,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114030,
@@ -3550,7 +3550,7 @@
         "descTextMapHash": 1597104921,
         "icon": ""
     },
-    {
+    "40330031": {
         "Id": 40330031,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114031,
@@ -3559,7 +3559,7 @@
         "descTextMapHash": 977430465,
         "icon": ""
     },
-    {
+    "40330032": {
         "Id": 40330032,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114032,
@@ -3568,7 +3568,7 @@
         "descTextMapHash": 3319359513,
         "icon": ""
     },
-    {
+    "40330033": {
         "Id": 40330033,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114033,
@@ -3577,7 +3577,7 @@
         "descTextMapHash": 1208683633,
         "icon": ""
     },
-    {
+    "40330034": {
         "Id": 40330034,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114034,
@@ -3586,7 +3586,7 @@
         "descTextMapHash": 351469025,
         "icon": ""
     },
-    {
+    "40330035": {
         "Id": 40330035,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114035,
@@ -3595,7 +3595,7 @@
         "descTextMapHash": 3477540961,
         "icon": ""
     },
-    {
+    "40330036": {
         "Id": 40330036,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114036,
@@ -3604,7 +3604,7 @@
         "descTextMapHash": 3840512897,
         "icon": ""
     },
-    {
+    "40330037": {
         "Id": 40330037,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114037,
@@ -3613,7 +3613,7 @@
         "descTextMapHash": 3975059137,
         "icon": ""
     },
-    {
+    "40330038": {
         "Id": 40330038,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114038,
@@ -3622,7 +3622,7 @@
         "descTextMapHash": 335292473,
         "icon": ""
     },
-    {
+    "40330039": {
         "Id": 40330039,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114039,
@@ -3631,7 +3631,7 @@
         "descTextMapHash": 2691286801,
         "icon": ""
     },
-    {
+    "40330040": {
         "Id": 40330040,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114040,
@@ -3640,7 +3640,7 @@
         "descTextMapHash": 3385952953,
         "icon": ""
     },
-    {
+    "40330041": {
         "Id": 40330041,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114041,
@@ -3649,7 +3649,7 @@
         "descTextMapHash": 1239233601,
         "icon": ""
     },
-    {
+    "40330042": {
         "Id": 40330042,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114042,
@@ -3658,7 +3658,7 @@
         "descTextMapHash": 323077217,
         "icon": ""
     },
-    {
+    "40330043": {
         "Id": 40330043,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114043,
@@ -3667,7 +3667,7 @@
         "descTextMapHash": 1066039305,
         "icon": ""
     },
-    {
+    "40330044": {
         "Id": 40330044,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114044,
@@ -3676,7 +3676,7 @@
         "descTextMapHash": 3949040649,
         "icon": ""
     },
-    {
+    "40330045": {
         "Id": 40330045,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114045,
@@ -3685,7 +3685,7 @@
         "descTextMapHash": 1187754897,
         "icon": ""
     },
-    {
+    "40330046": {
         "Id": 40330046,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114046,
@@ -3694,7 +3694,7 @@
         "descTextMapHash": 2228702225,
         "icon": ""
     },
-    {
+    "40330047": {
         "Id": 40330047,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114047,
@@ -3703,7 +3703,7 @@
         "descTextMapHash": 956858041,
         "icon": ""
     },
-    {
+    "40330048": {
         "Id": 40330048,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 114048,
@@ -3712,7 +3712,7 @@
         "descTextMapHash": 2084556033,
         "icon": ""
     },
-    {
+    "40331001": {
         "Id": 40331001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112005,
@@ -3721,7 +3721,7 @@
         "descTextMapHash": 1801749777,
         "icon": ""
     },
-    {
+    "40331002": {
         "Id": 40331002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112006,
@@ -3730,7 +3730,7 @@
         "descTextMapHash": 1501934697,
         "icon": ""
     },
-    {
+    "40331003": {
         "Id": 40331003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112007,
@@ -3739,7 +3739,7 @@
         "descTextMapHash": 2651804897,
         "icon": ""
     },
-    {
+    "40331004": {
         "Id": 40331004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112008,
@@ -3748,7 +3748,7 @@
         "descTextMapHash": 1881662225,
         "icon": ""
     },
-    {
+    "40331005": {
         "Id": 40331005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112009,
@@ -3757,7 +3757,7 @@
         "descTextMapHash": 2952809993,
         "icon": ""
     },
-    {
+    "40331006": {
         "Id": 40331006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112010,
@@ -3766,7 +3766,7 @@
         "descTextMapHash": 1751249505,
         "icon": ""
     },
-    {
+    "40331007": {
         "Id": 40331007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112011,
@@ -3775,7 +3775,7 @@
         "descTextMapHash": 168668441,
         "icon": ""
     },
-    {
+    "40331008": {
         "Id": 40331008,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112012,
@@ -3784,7 +3784,7 @@
         "descTextMapHash": 3654504105,
         "icon": ""
     },
-    {
+    "40331009": {
         "Id": 40331009,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112013,
@@ -3793,7 +3793,7 @@
         "descTextMapHash": 3976609105,
         "icon": ""
     },
-    {
+    "40331010": {
         "Id": 40331010,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112014,
@@ -3802,7 +3802,7 @@
         "descTextMapHash": 231392081,
         "icon": ""
     },
-    {
+    "40331011": {
         "Id": 40331011,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112015,
@@ -3811,7 +3811,7 @@
         "descTextMapHash": 1543998121,
         "icon": ""
     },
-    {
+    "40331012": {
         "Id": 40331012,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112016,
@@ -3820,7 +3820,7 @@
         "descTextMapHash": 1589735209,
         "icon": ""
     },
-    {
+    "40332001": {
         "Id": 40332001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112017,
@@ -3830,7 +3830,7 @@
         "icon": "",
         "isDisuse": true
     },
-    {
+    "40332002": {
         "Id": 40332002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112018,
@@ -3840,7 +3840,7 @@
         "icon": "",
         "isDisuse": true
     },
-    {
+    "40332003": {
         "Id": 40332003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112019,
@@ -3850,7 +3850,7 @@
         "icon": "",
         "isDisuse": true
     },
-    {
+    "40332004": {
         "Id": 40332004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112020,
@@ -3859,7 +3859,7 @@
         "descTextMapHash": 705869097,
         "icon": ""
     },
-    {
+    "40332005": {
         "Id": 40332005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112021,
@@ -3868,7 +3868,7 @@
         "descTextMapHash": 3087230545,
         "icon": ""
     },
-    {
+    "40332006": {
         "Id": 40332006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112022,
@@ -3877,7 +3877,7 @@
         "descTextMapHash": 835725025,
         "icon": ""
     },
-    {
+    "40333001": {
         "Id": 40333001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112026,
@@ -3886,7 +3886,7 @@
         "descTextMapHash": 2369724649,
         "icon": ""
     },
-    {
+    "40333002": {
         "Id": 40333002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112027,
@@ -3895,7 +3895,7 @@
         "descTextMapHash": 3741765121,
         "icon": ""
     },
-    {
+    "40333003": {
         "Id": 40333003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112028,
@@ -3904,7 +3904,7 @@
         "descTextMapHash": 3513742137,
         "icon": ""
     },
-    {
+    "40333004": {
         "Id": 40333004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112029,
@@ -3913,7 +3913,7 @@
         "descTextMapHash": 1653504577,
         "icon": ""
     },
-    {
+    "40333005": {
         "Id": 40333005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112030,
@@ -3922,7 +3922,7 @@
         "descTextMapHash": 2521045209,
         "icon": ""
     },
-    {
+    "40333006": {
         "Id": 40333006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112031,
@@ -3931,7 +3931,7 @@
         "descTextMapHash": 3021231881,
         "icon": ""
     },
-    {
+    "40333007": {
         "Id": 40333007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112032,
@@ -3940,7 +3940,7 @@
         "descTextMapHash": 2724757993,
         "icon": ""
     },
-    {
+    "40333008": {
         "Id": 40333008,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112033,
@@ -3949,7 +3949,7 @@
         "descTextMapHash": 3844734177,
         "icon": ""
     },
-    {
+    "40333009": {
         "Id": 40333009,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112034,
@@ -3958,7 +3958,7 @@
         "descTextMapHash": 2997285385,
         "icon": ""
     },
-    {
+    "40334002": {
         "Id": 40334002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112002,
@@ -3967,7 +3967,7 @@
         "descTextMapHash": 3637964929,
         "icon": ""
     },
-    {
+    "40334003": {
         "Id": 40334003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112003,
@@ -3976,7 +3976,7 @@
         "descTextMapHash": 3094304153,
         "icon": ""
     },
-    {
+    "40334004": {
         "Id": 40334004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112004,
@@ -3985,7 +3985,7 @@
         "descTextMapHash": 4027542913,
         "icon": ""
     },
-    {
+    "40334005": {
         "Id": 40334005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112038,
@@ -3994,7 +3994,7 @@
         "descTextMapHash": 2574607265,
         "icon": ""
     },
-    {
+    "40334006": {
         "Id": 40334006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112039,
@@ -4003,7 +4003,7 @@
         "descTextMapHash": 1922373633,
         "icon": ""
     },
-    {
+    "40334007": {
         "Id": 40334007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112040,
@@ -4012,7 +4012,7 @@
         "descTextMapHash": 1785021105,
         "icon": ""
     },
-    {
+    "40335001": {
         "Id": 40335001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112041,
@@ -4021,7 +4021,7 @@
         "descTextMapHash": 1864010657,
         "icon": ""
     },
-    {
+    "40335002": {
         "Id": 40335002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112042,
@@ -4030,7 +4030,7 @@
         "descTextMapHash": 315331641,
         "icon": ""
     },
-    {
+    "40335003": {
         "Id": 40335003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112043,
@@ -4039,7 +4039,7 @@
         "descTextMapHash": 1250768385,
         "icon": ""
     },
-    {
+    "40336001": {
         "Id": 40336001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112035,
@@ -4048,7 +4048,7 @@
         "descTextMapHash": 1037140857,
         "icon": ""
     },
-    {
+    "40336002": {
         "Id": 40336002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112036,
@@ -4057,7 +4057,7 @@
         "descTextMapHash": 3820069681,
         "icon": ""
     },
-    {
+    "40336003": {
         "Id": 40336003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112037,
@@ -4066,7 +4066,7 @@
         "descTextMapHash": 2473413633,
         "icon": ""
     },
-    {
+    "40337001": {
         "Id": 40337001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112023,
@@ -4075,7 +4075,7 @@
         "descTextMapHash": 1285700305,
         "icon": ""
     },
-    {
+    "40337002": {
         "Id": 40337002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112024,
@@ -4084,7 +4084,7 @@
         "descTextMapHash": 1823579713,
         "icon": ""
     },
-    {
+    "40337003": {
         "Id": 40337003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112025,
@@ -4093,7 +4093,7 @@
         "descTextMapHash": 2726691553,
         "icon": ""
     },
-    {
+    "40337004": {
         "Id": 40337004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112044,
@@ -4102,7 +4102,7 @@
         "descTextMapHash": 3560950409,
         "icon": ""
     },
-    {
+    "40337005": {
         "Id": 40337005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112045,
@@ -4111,7 +4111,7 @@
         "descTextMapHash": 211904553,
         "icon": ""
     },
-    {
+    "40337006": {
         "Id": 40337006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112046,
@@ -4120,7 +4120,7 @@
         "descTextMapHash": 1561819593,
         "icon": ""
     },
-    {
+    "40337007": {
         "Id": 40337007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112047,
@@ -4129,7 +4129,7 @@
         "descTextMapHash": 1787275593,
         "icon": ""
     },
-    {
+    "40337008": {
         "Id": 40337008,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112048,
@@ -4138,7 +4138,7 @@
         "descTextMapHash": 3428983809,
         "icon": ""
     },
-    {
+    "40337009": {
         "Id": 40337009,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112049,
@@ -4147,7 +4147,7 @@
         "descTextMapHash": 2510569561,
         "icon": ""
     },
-    {
+    "40337010": {
         "Id": 40337010,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112050,
@@ -4156,7 +4156,7 @@
         "descTextMapHash": 181336729,
         "icon": ""
     },
-    {
+    "40337011": {
         "Id": 40337011,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112051,
@@ -4165,7 +4165,7 @@
         "descTextMapHash": 252446769,
         "icon": ""
     },
-    {
+    "40337012": {
         "Id": 40337012,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112052,
@@ -4174,7 +4174,7 @@
         "descTextMapHash": 3673261737,
         "icon": ""
     },
-    {
+    "40337013": {
         "Id": 40337013,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112053,
@@ -4183,7 +4183,7 @@
         "descTextMapHash": 2697937,
         "icon": ""
     },
-    {
+    "40337014": {
         "Id": 40337014,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112054,
@@ -4192,7 +4192,7 @@
         "descTextMapHash": 2211534441,
         "icon": ""
     },
-    {
+    "40337015": {
         "Id": 40337015,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112055,
@@ -4201,7 +4201,7 @@
         "descTextMapHash": 658458561,
         "icon": ""
     },
-    {
+    "40337016": {
         "Id": 40337016,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112056,
@@ -4210,7 +4210,7 @@
         "descTextMapHash": 868285481,
         "icon": ""
     },
-    {
+    "40337017": {
         "Id": 40337017,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112057,
@@ -4219,7 +4219,7 @@
         "descTextMapHash": 4078760761,
         "icon": ""
     },
-    {
+    "40337018": {
         "Id": 40337018,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112058,
@@ -4228,7 +4228,7 @@
         "descTextMapHash": 2089662073,
         "icon": ""
     },
-    {
+    "40337019": {
         "Id": 40337019,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112059,
@@ -4237,7 +4237,7 @@
         "descTextMapHash": 923185921,
         "icon": ""
     },
-    {
+    "40337020": {
         "Id": 40337020,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112060,
@@ -4246,7 +4246,7 @@
         "descTextMapHash": 4059702249,
         "icon": ""
     },
-    {
+    "40337021": {
         "Id": 40337021,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112061,
@@ -4255,7 +4255,7 @@
         "descTextMapHash": 1396852625,
         "icon": ""
     },
-    {
+    "40337022": {
         "Id": 40337022,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112017,
@@ -4264,7 +4264,7 @@
         "descTextMapHash": 2839111625,
         "icon": ""
     },
-    {
+    "40337023": {
         "Id": 40337023,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112018,
@@ -4273,7 +4273,7 @@
         "descTextMapHash": 2959163665,
         "icon": ""
     },
-    {
+    "40337024": {
         "Id": 40337024,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112019,
@@ -4282,7 +4282,7 @@
         "descTextMapHash": 1455892601,
         "icon": ""
     },
-    {
+    "40337025": {
         "Id": 40337025,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112062,
@@ -4291,7 +4291,7 @@
         "descTextMapHash": 3245143121,
         "icon": ""
     },
-    {
+    "40337026": {
         "Id": 40337026,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112063,
@@ -4300,7 +4300,7 @@
         "descTextMapHash": 1739308481,
         "icon": ""
     },
-    {
+    "40337027": {
         "Id": 40337027,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112064,
@@ -4309,7 +4309,7 @@
         "descTextMapHash": 1872276641,
         "icon": ""
     },
-    {
+    "40337028": {
         "Id": 40337028,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112065,
@@ -4318,7 +4318,7 @@
         "descTextMapHash": 2427871929,
         "icon": ""
     },
-    {
+    "40337029": {
         "Id": 40337029,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112066,
@@ -4327,7 +4327,7 @@
         "descTextMapHash": 3445293577,
         "icon": ""
     },
-    {
+    "40337030": {
         "Id": 40337030,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112067,
@@ -4336,7 +4336,7 @@
         "descTextMapHash": 3073892689,
         "icon": ""
     },
-    {
+    "40337031": {
         "Id": 40337031,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112068,
@@ -4345,7 +4345,7 @@
         "descTextMapHash": 2824504489,
         "icon": ""
     },
-    {
+    "40337032": {
         "Id": 40337032,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112069,
@@ -4354,7 +4354,7 @@
         "descTextMapHash": 2319040713,
         "icon": ""
     },
-    {
+    "40337033": {
         "Id": 40337033,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 112070,
@@ -4363,7 +4363,7 @@
         "descTextMapHash": 3637603793,
         "icon": ""
     },
-    {
+    "40340001": {
         "Id": 40340001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 100584,
@@ -4372,7 +4372,7 @@
         "descTextMapHash": 4109136233,
         "icon": ""
     },
-    {
+    "40340002": {
         "Id": 40340002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 100585,
@@ -4381,7 +4381,7 @@
         "descTextMapHash": 2747621121,
         "icon": ""
     },
-    {
+    "40340003": {
         "Id": 40340003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 100957,
@@ -4390,7 +4390,7 @@
         "descTextMapHash": 3234181817,
         "icon": ""
     },
-    {
+    "40350001": {
         "Id": 40350001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104301,
@@ -4399,7 +4399,7 @@
         "descTextMapHash": 3658613241,
         "icon": ""
     },
-    {
+    "40350002": {
         "Id": 40350002,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104302,
@@ -4408,7 +4408,7 @@
         "descTextMapHash": 2744876409,
         "icon": ""
     },
-    {
+    "40350003": {
         "Id": 40350003,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104303,
@@ -4417,7 +4417,7 @@
         "descTextMapHash": 1542232089,
         "icon": ""
     },
-    {
+    "40350004": {
         "Id": 40350004,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104304,
@@ -4426,7 +4426,7 @@
         "descTextMapHash": 1716954713,
         "icon": ""
     },
-    {
+    "40350005": {
         "Id": 40350005,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104305,
@@ -4435,7 +4435,7 @@
         "descTextMapHash": 3171776041,
         "icon": ""
     },
-    {
+    "40350006": {
         "Id": 40350006,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104306,
@@ -4444,7 +4444,7 @@
         "descTextMapHash": 614032705,
         "icon": ""
     },
-    {
+    "40350007": {
         "Id": 40350007,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104307,
@@ -4453,7 +4453,7 @@
         "descTextMapHash": 567252929,
         "icon": ""
     },
-    {
+    "40350008": {
         "Id": 40350008,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104308,
@@ -4462,7 +4462,7 @@
         "descTextMapHash": 947869961,
         "icon": ""
     },
-    {
+    "40350009": {
         "Id": 40350009,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104309,
@@ -4471,7 +4471,7 @@
         "descTextMapHash": 3060281993,
         "icon": ""
     },
-    {
+    "40350010": {
         "Id": 40350010,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104310,
@@ -4480,7 +4480,7 @@
         "descTextMapHash": 2650508313,
         "icon": ""
     },
-    {
+    "40350011": {
         "Id": 40350011,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104311,
@@ -4489,7 +4489,7 @@
         "descTextMapHash": 3027392129,
         "icon": ""
     },
-    {
+    "40350012": {
         "Id": 40350012,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104312,
@@ -4498,7 +4498,7 @@
         "descTextMapHash": 579404305,
         "icon": ""
     },
-    {
+    "40350013": {
         "Id": 40350013,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104313,
@@ -4507,7 +4507,7 @@
         "descTextMapHash": 1031611257,
         "icon": ""
     },
-    {
+    "40350014": {
         "Id": 40350014,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104314,
@@ -4516,7 +4516,7 @@
         "descTextMapHash": 3597531153,
         "icon": ""
     },
-    {
+    "40350015": {
         "Id": 40350015,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104315,
@@ -4525,7 +4525,7 @@
         "descTextMapHash": 587068025,
         "icon": ""
     },
-    {
+    "40350016": {
         "Id": 40350016,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104316,
@@ -4534,7 +4534,7 @@
         "descTextMapHash": 3923367209,
         "icon": ""
     },
-    {
+    "40350017": {
         "Id": 40350017,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104317,
@@ -4543,7 +4543,7 @@
         "descTextMapHash": 1060774705,
         "icon": ""
     },
-    {
+    "40350018": {
         "Id": 40350018,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104318,
@@ -4552,7 +4552,7 @@
         "descTextMapHash": 3674536625,
         "icon": ""
     },
-    {
+    "40350020": {
         "Id": 40350020,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104320,
@@ -4561,7 +4561,7 @@
         "descTextMapHash": 2125930537,
         "icon": ""
     },
-    {
+    "40350021": {
         "Id": 40350021,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104321,
@@ -4570,7 +4570,7 @@
         "descTextMapHash": 4217573465,
         "icon": ""
     },
-    {
+    "40350022": {
         "Id": 40350022,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104322,
@@ -4579,7 +4579,7 @@
         "descTextMapHash": 2020853065,
         "icon": ""
     },
-    {
+    "40350023": {
         "Id": 40350023,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104323,
@@ -4588,7 +4588,7 @@
         "descTextMapHash": 1706998497,
         "icon": ""
     },
-    {
+    "40350024": {
         "Id": 40350024,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104324,
@@ -4597,7 +4597,7 @@
         "descTextMapHash": 2991903449,
         "icon": ""
     },
-    {
+    "40350025": {
         "Id": 40350025,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104325,
@@ -4606,7 +4606,7 @@
         "descTextMapHash": 3819823129,
         "icon": ""
     },
-    {
+    "40350026": {
         "Id": 40350026,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104326,
@@ -4615,7 +4615,7 @@
         "descTextMapHash": 999677281,
         "icon": ""
     },
-    {
+    "40350027": {
         "Id": 40350027,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104327,
@@ -4624,7 +4624,7 @@
         "descTextMapHash": 3941195809,
         "icon": ""
     },
-    {
+    "40350028": {
         "Id": 40350028,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104328,
@@ -4633,7 +4633,7 @@
         "descTextMapHash": 1698816553,
         "icon": ""
     },
-    {
+    "40350029": {
         "Id": 40350029,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104329,
@@ -4642,7 +4642,7 @@
         "descTextMapHash": 3648955417,
         "icon": ""
     },
-    {
+    "40350030": {
         "Id": 40350030,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104330,
@@ -4651,7 +4651,7 @@
         "descTextMapHash": 3925978361,
         "icon": ""
     },
-    {
+    "40350031": {
         "Id": 40350031,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104331,
@@ -4660,7 +4660,7 @@
         "descTextMapHash": 1191183441,
         "icon": ""
     },
-    {
+    "40350032": {
         "Id": 40350032,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104332,
@@ -4669,7 +4669,7 @@
         "descTextMapHash": 3329447753,
         "icon": ""
     },
-    {
+    "40350033": {
         "Id": 40350033,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104333,
@@ -4678,7 +4678,7 @@
         "descTextMapHash": 2291925441,
         "icon": ""
     },
-    {
+    "40350034": {
         "Id": 40350034,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104334,
@@ -4687,7 +4687,7 @@
         "descTextMapHash": 1824085209,
         "icon": ""
     },
-    {
+    "40350035": {
         "Id": 40350035,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104335,
@@ -4696,7 +4696,7 @@
         "descTextMapHash": 2452199593,
         "icon": ""
     },
-    {
+    "40350036": {
         "Id": 40350036,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104336,
@@ -4705,7 +4705,7 @@
         "descTextMapHash": 3219083481,
         "icon": ""
     },
-    {
+    "40350037": {
         "Id": 40350037,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104337,
@@ -4714,7 +4714,7 @@
         "descTextMapHash": 2157246769,
         "icon": ""
     },
-    {
+    "40350019": {
         "Id": 40350019,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 104319,
@@ -4723,7 +4723,7 @@
         "descTextMapHash": 1407801401,
         "icon": ""
     },
-    {
+    "40352001": {
         "Id": 40352001,
         "type": "CODEX_WAR_TROPHIES",
         "materialId": 107010,
@@ -4733,7 +4733,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400001": {
         "Id": 40400001,
         "type": "CODEX_WIDGET",
         "materialId": 220001,
@@ -4742,7 +4742,7 @@
         "descTextMapHash": 1633211057,
         "icon": ""
     },
-    {
+    "40400002": {
         "Id": 40400002,
         "type": "CODEX_WIDGET",
         "materialId": 220002,
@@ -4751,7 +4751,7 @@
         "descTextMapHash": 3757811281,
         "icon": ""
     },
-    {
+    "40400023": {
         "Id": 40400023,
         "type": "CODEX_WIDGET",
         "materialId": 220032,
@@ -4760,7 +4760,7 @@
         "descTextMapHash": 193776577,
         "icon": ""
     },
-    {
+    "40400037": {
         "Id": 40400037,
         "type": "CODEX_WIDGET",
         "materialId": 220057,
@@ -4769,7 +4769,7 @@
         "descTextMapHash": 887929929,
         "icon": ""
     },
-    {
+    "40400009": {
         "Id": 40400009,
         "type": "CODEX_WIDGET",
         "materialId": 220009,
@@ -4778,7 +4778,7 @@
         "descTextMapHash": 2224040761,
         "icon": ""
     },
-    {
+    "40400003": {
         "Id": 40400003,
         "type": "CODEX_WIDGET",
         "materialId": 220003,
@@ -4787,7 +4787,7 @@
         "descTextMapHash": 2189089857,
         "icon": ""
     },
-    {
+    "40400025": {
         "Id": 40400025,
         "type": "CODEX_WIDGET",
         "materialId": 220034,
@@ -4796,7 +4796,7 @@
         "descTextMapHash": 903778537,
         "icon": ""
     },
-    {
+    "40400038": {
         "Id": 40400038,
         "type": "CODEX_WIDGET",
         "materialId": 220058,
@@ -4805,7 +4805,7 @@
         "descTextMapHash": 629368345,
         "icon": ""
     },
-    {
+    "40400004": {
         "Id": 40400004,
         "type": "CODEX_WIDGET",
         "materialId": 220004,
@@ -4814,7 +4814,7 @@
         "descTextMapHash": 830478369,
         "icon": ""
     },
-    {
+    "40400005": {
         "Id": 40400005,
         "type": "CODEX_WIDGET",
         "materialId": 220005,
@@ -4823,7 +4823,7 @@
         "descTextMapHash": 1846366329,
         "icon": ""
     },
-    {
+    "40400006": {
         "Id": 40400006,
         "type": "CODEX_WIDGET",
         "materialId": 220006,
@@ -4832,7 +4832,7 @@
         "descTextMapHash": 1352023297,
         "icon": ""
     },
-    {
+    "40400007": {
         "Id": 40400007,
         "type": "CODEX_WIDGET",
         "materialId": 220007,
@@ -4841,7 +4841,7 @@
         "descTextMapHash": 1550841873,
         "icon": ""
     },
-    {
+    "40400008": {
         "Id": 40400008,
         "type": "CODEX_WIDGET",
         "materialId": 220008,
@@ -4850,7 +4850,7 @@
         "descTextMapHash": 570427185,
         "icon": ""
     },
-    {
+    "40400013": {
         "Id": 40400013,
         "type": "CODEX_WIDGET",
         "materialId": 220017,
@@ -4859,7 +4859,7 @@
         "descTextMapHash": 4086031593,
         "icon": ""
     },
-    {
+    "40400015": {
         "Id": 40400015,
         "type": "CODEX_WIDGET",
         "materialId": 220021,
@@ -4868,7 +4868,7 @@
         "descTextMapHash": 2542602465,
         "icon": ""
     },
-    {
+    "40400017": {
         "Id": 40400017,
         "type": "CODEX_WIDGET",
         "materialId": 220023,
@@ -4878,7 +4878,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400018": {
         "Id": 40400018,
         "type": "CODEX_WIDGET",
         "materialId": 220024,
@@ -4888,7 +4888,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400020": {
         "Id": 40400020,
         "type": "CODEX_WIDGET",
         "materialId": 220026,
@@ -4897,7 +4897,7 @@
         "descTextMapHash": 937878385,
         "icon": ""
     },
-    {
+    "40400026": {
         "Id": 40400026,
         "type": "CODEX_WIDGET",
         "materialId": 220035,
@@ -4906,7 +4906,7 @@
         "descTextMapHash": 1887116865,
         "icon": ""
     },
-    {
+    "40400030": {
         "Id": 40400030,
         "type": "CODEX_WIDGET",
         "materialId": 220039,
@@ -4916,7 +4916,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400031": {
         "Id": 40400031,
         "type": "CODEX_WIDGET",
         "materialId": 220045,
@@ -4926,7 +4926,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400033": {
         "Id": 40400033,
         "type": "CODEX_WIDGET",
         "materialId": 220047,
@@ -4936,7 +4936,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400034": {
         "Id": 40400034,
         "type": "CODEX_WIDGET",
         "materialId": 220048,
@@ -4946,7 +4946,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400044": {
         "Id": 40400044,
         "type": "CODEX_WIDGET",
         "materialId": 120011,
@@ -4956,7 +4956,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400036": {
         "Id": 40400036,
         "type": "CODEX_WIDGET",
         "materialId": 220055,
@@ -4966,7 +4966,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400039": {
         "Id": 40400039,
         "type": "CODEX_WIDGET",
         "materialId": 220059,
@@ -4975,7 +4975,7 @@
         "descTextMapHash": 973518793,
         "icon": ""
     },
-    {
+    "40400040": {
         "Id": 40400040,
         "type": "CODEX_WIDGET",
         "materialId": 220060,
@@ -4984,7 +4984,7 @@
         "descTextMapHash": 670863537,
         "icon": ""
     },
-    {
+    "40400042": {
         "Id": 40400042,
         "type": "CODEX_WIDGET",
         "materialId": 220065,
@@ -4994,7 +4994,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400043": {
         "Id": 40400043,
         "type": "CODEX_WIDGET",
         "materialId": 220066,
@@ -5004,7 +5004,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400010": {
         "Id": 40400010,
         "type": "CODEX_WIDGET",
         "materialId": 220014,
@@ -5014,7 +5014,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400011": {
         "Id": 40400011,
         "type": "CODEX_WIDGET",
         "materialId": 220015,
@@ -5024,7 +5024,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400012": {
         "Id": 40400012,
         "type": "CODEX_WIDGET",
         "materialId": 220016,
@@ -5034,7 +5034,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400028": {
         "Id": 40400028,
         "type": "CODEX_WIDGET",
         "materialId": 220038,
@@ -5044,7 +5044,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400041": {
         "Id": 40400041,
         "type": "CODEX_WIDGET",
         "materialId": 220062,
@@ -5054,7 +5054,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400014": {
         "Id": 40400014,
         "type": "CODEX_WIDGET",
         "materialId": 220018,
@@ -5063,7 +5063,7 @@
         "descTextMapHash": 1961778201,
         "icon": ""
     },
-    {
+    "40400016": {
         "Id": 40400016,
         "type": "CODEX_WIDGET",
         "materialId": 220020,
@@ -5073,7 +5073,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400027": {
         "Id": 40400027,
         "type": "CODEX_WIDGET",
         "materialId": 220036,
@@ -5083,7 +5083,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400019": {
         "Id": 40400019,
         "type": "CODEX_WIDGET",
         "materialId": 220025,
@@ -5093,7 +5093,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400029": {
         "Id": 40400029,
         "type": "CODEX_WIDGET",
         "materialId": 220044,
@@ -5103,7 +5103,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400035": {
         "Id": 40400035,
         "type": "CODEX_WIDGET",
         "materialId": 220051,
@@ -5113,7 +5113,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400021": {
         "Id": 40400021,
         "type": "CODEX_WIDGET",
         "materialId": 220027,
@@ -5123,7 +5123,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400022": {
         "Id": 40400022,
         "type": "CODEX_WIDGET",
         "materialId": 220028,
@@ -5133,7 +5133,7 @@
         "icon": "",
         "showOnlyUnlocked": true
     },
-    {
+    "40400024": {
         "Id": 40400024,
         "type": "CODEX_WIDGET",
         "materialId": 220033,
@@ -5142,7 +5142,7 @@
         "descTextMapHash": 4162993265,
         "icon": ""
     },
-    {
+    "40400032": {
         "Id": 40400032,
         "type": "CODEX_WIDGET",
         "materialId": 220043,
@@ -5152,4 +5152,4 @@
         "icon": "",
         "showOnlyUnlocked": true
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "372501": {
         "EHHNOLBDKJH": 372501,
         "FDLCAFEJHNM": "HOME_FIELD_DRY",
         "OLKIABHIDJH": 77215014,
@@ -11,7 +11,7 @@
             77215013
         ]
     },
-    {
+    "372502": {
         "EHHNOLBDKJH": 372502,
         "FDLCAFEJHNM": "HOME_FIELD_FLOWER",
         "OLKIABHIDJH": 77215016,
@@ -23,7 +23,7 @@
             77215015
         ]
     },
-    {
+    "372503": {
         "EHHNOLBDKJH": 372503,
         "FDLCAFEJHNM": "HOME_FIELD_WATER",
         "OLKIABHIDJH": 77215018,
@@ -35,4 +35,4 @@
             77215017
         ]
     }
-]
+}

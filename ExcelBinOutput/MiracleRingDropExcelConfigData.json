@@ -1,5 +1,5 @@
-[
-    {
+{
+    "TAG_SCOIN": {
         "miracleTag": "TAG_SCOIN",
         "dropId": [
             21200100,
@@ -13,7 +13,7 @@
             0
         ]
     },
-    {
+    "TAG_AVATAR_EXP": {
         "miracleTag": "TAG_AVATAR_EXP",
         "dropId": [
             21200200,
@@ -27,7 +27,7 @@
             0
         ]
     },
-    {
+    "TAG_WEAPON_EXP": {
         "miracleTag": "TAG_WEAPON_EXP",
         "dropId": [
             21200300,
@@ -41,7 +41,7 @@
             0
         ]
     },
-    {
+    "TAG_AVATAR_PROMOTE": {
         "miracleTag": "TAG_AVATAR_PROMOTE",
         "dropId": [
             21200400,
@@ -55,7 +55,7 @@
             0
         ]
     },
-    {
+    "TAG_WEAPON_PROMOTE": {
         "miracleTag": "TAG_WEAPON_PROMOTE",
         "dropId": [
             21200500,
@@ -69,7 +69,7 @@
             0
         ]
     },
-    {
+    "TAG_SKILL_BOOK": {
         "miracleTag": "TAG_SKILL_BOOK",
         "dropId": [
             21200600,
@@ -83,4 +83,4 @@
             0
         ]
     }
-]
+}

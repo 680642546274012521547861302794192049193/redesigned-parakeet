@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10101": {
         "teamResonanceId": 10101,
         "teamResonanceGroupId": 101,
         "level": 1,
@@ -21,7 +21,7 @@
             0.0
         ]
     },
-    {
+    "10201": {
         "teamResonanceId": 10201,
         "teamResonanceGroupId": 102,
         "level": 1,
@@ -43,7 +43,7 @@
             0.0
         ]
     },
-    {
+    "10301": {
         "teamResonanceId": 10301,
         "teamResonanceGroupId": 103,
         "level": 1,
@@ -65,7 +65,7 @@
             0.0
         ]
     },
-    {
+    "10401": {
         "teamResonanceId": 10401,
         "teamResonanceGroupId": 104,
         "level": 1,
@@ -87,7 +87,7 @@
             0.0
         ]
     },
-    {
+    "10501": {
         "teamResonanceId": 10501,
         "teamResonanceGroupId": 105,
         "level": 1,
@@ -109,7 +109,7 @@
             0.0
         ]
     },
-    {
+    "10601": {
         "teamResonanceId": 10601,
         "teamResonanceGroupId": 106,
         "level": 1,
@@ -131,7 +131,7 @@
             0.0
         ]
     },
-    {
+    "10701": {
         "teamResonanceId": 10701,
         "teamResonanceGroupId": 107,
         "level": 1,
@@ -153,7 +153,7 @@
             0.0
         ]
     },
-    {
+    "10801": {
         "teamResonanceId": 10801,
         "teamResonanceGroupId": 108,
         "level": 1,
@@ -175,4 +175,4 @@
             0.0
         ]
     }
-]
+}

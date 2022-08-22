@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "cityId": 1,
         "monsterIdList": [
@@ -31,7 +31,7 @@
         "lockDescTextMapHash": 1425803254,
         "occupiedQuestIdList": []
     },
-    {
+    "2": {
         "id": 2,
         "cityId": 1,
         "monsterIdList": [
@@ -68,7 +68,7 @@
         "lockDescTextMapHash": 371397750,
         "occupiedQuestIdList": []
     },
-    {
+    "3": {
         "id": 3,
         "cityId": 1,
         "monsterIdList": [
@@ -100,7 +100,7 @@
         "lockDescTextMapHash": 4016562134,
         "occupiedQuestIdList": []
     },
-    {
+    "4": {
         "id": 4,
         "cityId": 1,
         "monsterIdList": [
@@ -136,7 +136,7 @@
         "lockDescTextMapHash": 914927254,
         "occupiedQuestIdList": []
     },
-    {
+    "5": {
         "id": 5,
         "cityId": 1,
         "monsterIdList": [
@@ -169,7 +169,7 @@
         "lockDescTextMapHash": 1462432238,
         "occupiedQuestIdList": []
     },
-    {
+    "6": {
         "id": 6,
         "cityId": 1,
         "monsterIdList": [
@@ -194,7 +194,7 @@
         "lockDescTextMapHash": 4000482334,
         "occupiedQuestIdList": []
     },
-    {
+    "7": {
         "id": 7,
         "cityId": 1,
         "monsterIdList": [
@@ -219,7 +219,7 @@
         "lockDescTextMapHash": 1756062334,
         "occupiedQuestIdList": []
     },
-    {
+    "8": {
         "id": 8,
         "cityId": 1,
         "monsterIdList": [
@@ -244,7 +244,7 @@
         "lockDescTextMapHash": 927437942,
         "occupiedQuestIdList": []
     },
-    {
+    "9": {
         "id": 9,
         "cityId": 1,
         "monsterIdList": [
@@ -277,7 +277,7 @@
             800209
         ]
     },
-    {
+    "10": {
         "id": 10,
         "cityId": 1,
         "monsterIdList": [
@@ -306,7 +306,7 @@
         "lockDescTextMapHash": 3576467670,
         "occupiedQuestIdList": []
     },
-    {
+    "11": {
         "id": 11,
         "cityId": 1,
         "monsterIdList": [
@@ -333,7 +333,7 @@
         "lockDescTextMapHash": 973997142,
         "occupiedQuestIdList": []
     },
-    {
+    "12": {
         "id": 12,
         "cityId": 1,
         "monsterIdList": [
@@ -363,7 +363,7 @@
         "lockDescTextMapHash": 3262262566,
         "occupiedQuestIdList": []
     },
-    {
+    "13": {
         "id": 13,
         "cityId": 1,
         "monsterIdList": [
@@ -388,7 +388,7 @@
         "lockDescTextMapHash": 3627861054,
         "occupiedQuestIdList": []
     },
-    {
+    "14": {
         "id": 14,
         "cityId": 1,
         "monsterIdList": [
@@ -413,7 +413,7 @@
         "lockDescTextMapHash": 2573390758,
         "occupiedQuestIdList": []
     },
-    {
+    "15": {
         "id": 15,
         "cityId": 1,
         "monsterIdList": [
@@ -438,7 +438,7 @@
         "lockDescTextMapHash": 1179122462,
         "occupiedQuestIdList": []
     },
-    {
+    "16": {
         "id": 16,
         "cityId": 1,
         "monsterIdList": [
@@ -466,7 +466,7 @@
         "lockDescTextMapHash": 3126765454,
         "occupiedQuestIdList": []
     },
-    {
+    "17": {
         "id": 17,
         "cityId": 1,
         "monsterIdList": [
@@ -500,7 +500,7 @@
         "lockDescTextMapHash": 598432798,
         "occupiedQuestIdList": []
     },
-    {
+    "18": {
         "id": 18,
         "cityId": 1,
         "monsterIdList": [
@@ -542,7 +542,7 @@
         "lockDescTextMapHash": 1600128438,
         "occupiedQuestIdList": []
     },
-    {
+    "19": {
         "id": 19,
         "cityId": 1,
         "monsterIdList": [
@@ -579,7 +579,7 @@
         "lockDescTextMapHash": 482563934,
         "occupiedQuestIdList": []
     },
-    {
+    "20": {
         "id": 20,
         "cityId": 1,
         "monsterIdList": [
@@ -631,7 +631,7 @@
         "lockDescTextMapHash": 3727808190,
         "occupiedQuestIdList": []
     },
-    {
+    "21": {
         "id": 21,
         "cityId": 1,
         "monsterIdList": [
@@ -671,7 +671,7 @@
         "lockDescTextMapHash": 2221217286,
         "occupiedQuestIdList": []
     },
-    {
+    "22": {
         "id": 22,
         "cityId": 1,
         "monsterIdList": [
@@ -694,7 +694,7 @@
         "lockDescTextMapHash": 2099514902,
         "occupiedQuestIdList": []
     },
-    {
+    "23": {
         "id": 23,
         "cityId": 1,
         "monsterIdList": [
@@ -722,7 +722,7 @@
         "lockDescTextMapHash": 3121213006,
         "occupiedQuestIdList": []
     },
-    {
+    "24": {
         "id": 24,
         "cityId": 1,
         "monsterIdList": [
@@ -754,7 +754,7 @@
         "lockDescTextMapHash": 889747054,
         "occupiedQuestIdList": []
     },
-    {
+    "25": {
         "id": 25,
         "cityId": 1,
         "monsterIdList": [
@@ -782,7 +782,7 @@
         "lockDescTextMapHash": 3493708718,
         "occupiedQuestIdList": []
     },
-    {
+    "26": {
         "id": 26,
         "cityId": 1,
         "monsterIdList": [
@@ -807,7 +807,7 @@
         "lockDescTextMapHash": 2908620662,
         "occupiedQuestIdList": []
     },
-    {
+    "27": {
         "id": 27,
         "cityId": 1,
         "monsterIdList": [
@@ -832,7 +832,7 @@
         "lockDescTextMapHash": 3865151206,
         "occupiedQuestIdList": []
     },
-    {
+    "28": {
         "id": 28,
         "cityId": 1,
         "monsterIdList": [
@@ -857,7 +857,7 @@
         "lockDescTextMapHash": 4118988294,
         "occupiedQuestIdList": []
     },
-    {
+    "29": {
         "id": 29,
         "cityId": 1,
         "monsterIdList": [
@@ -892,7 +892,7 @@
         "lockDescTextMapHash": 3335300718,
         "occupiedQuestIdList": []
     },
-    {
+    "30": {
         "id": 30,
         "cityId": 1,
         "monsterIdList": [
@@ -921,7 +921,7 @@
         "lockDescTextMapHash": 155840950,
         "occupiedQuestIdList": []
     },
-    {
+    "31": {
         "id": 31,
         "cityId": 1,
         "monsterIdList": [
@@ -951,7 +951,7 @@
         "lockDescTextMapHash": 2752709702,
         "occupiedQuestIdList": []
     },
-    {
+    "32": {
         "id": 32,
         "cityId": 1,
         "monsterIdList": [
@@ -976,7 +976,7 @@
         "lockDescTextMapHash": 837744126,
         "occupiedQuestIdList": []
     },
-    {
+    "33": {
         "id": 33,
         "cityId": 1,
         "monsterIdList": [
@@ -1019,7 +1019,7 @@
         "lockDescTextMapHash": 2015445734,
         "occupiedQuestIdList": []
     },
-    {
+    "34": {
         "id": 34,
         "cityId": 1,
         "monsterIdList": [
@@ -1052,7 +1052,7 @@
         "lockDescTextMapHash": 3493916862,
         "occupiedQuestIdList": []
     },
-    {
+    "35": {
         "id": 35,
         "cityId": 1,
         "monsterIdList": [
@@ -1084,7 +1084,7 @@
         "lockDescTextMapHash": 3323643558,
         "occupiedQuestIdList": []
     },
-    {
+    "36": {
         "id": 36,
         "cityId": 1,
         "monsterIdList": [
@@ -1109,7 +1109,7 @@
         "lockDescTextMapHash": 306795822,
         "occupiedQuestIdList": []
     },
-    {
+    "37": {
         "id": 37,
         "cityId": 1,
         "monsterIdList": [
@@ -1153,7 +1153,7 @@
         "lockDescTextMapHash": 1217983390,
         "occupiedQuestIdList": []
     },
-    {
+    "38": {
         "id": 38,
         "cityId": 1,
         "monsterIdList": [
@@ -1181,7 +1181,7 @@
         "lockDescTextMapHash": 1841625726,
         "occupiedQuestIdList": []
     },
-    {
+    "39": {
         "id": 39,
         "cityId": 1,
         "monsterIdList": [
@@ -1216,7 +1216,7 @@
         "lockDescTextMapHash": 2925273550,
         "occupiedQuestIdList": []
     },
-    {
+    "40": {
         "id": 40,
         "cityId": 1,
         "monsterIdList": [
@@ -1248,7 +1248,7 @@
         "lockDescTextMapHash": 347213606,
         "occupiedQuestIdList": []
     },
-    {
+    "41": {
         "id": 41,
         "cityId": 1,
         "monsterIdList": [
@@ -1273,7 +1273,7 @@
         "lockDescTextMapHash": 3530499686,
         "occupiedQuestIdList": []
     },
-    {
+    "42": {
         "id": 42,
         "cityId": 1,
         "monsterIdList": [
@@ -1298,7 +1298,7 @@
         "lockDescTextMapHash": 1805149974,
         "occupiedQuestIdList": []
     },
-    {
+    "43": {
         "id": 43,
         "cityId": 1,
         "monsterIdList": [
@@ -1330,7 +1330,7 @@
         "lockDescTextMapHash": 1103490398,
         "occupiedQuestIdList": []
     },
-    {
+    "44": {
         "id": 44,
         "cityId": 1,
         "monsterIdList": [
@@ -1378,7 +1378,7 @@
         "lockDescTextMapHash": 2566205262,
         "occupiedQuestIdList": []
     },
-    {
+    "45": {
         "id": 45,
         "cityId": 1,
         "monsterIdList": [
@@ -1419,4 +1419,4 @@
         "lockDescTextMapHash": 2135060918,
         "occupiedQuestIdList": []
     }
-]
+}

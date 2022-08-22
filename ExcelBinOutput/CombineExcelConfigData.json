@@ -1,5 +1,5 @@
-[
-    {
+{
+    "11001": {
         "combineId": 11001,
         "playerLevel": 1,
         "isDefaultShow": true,
@@ -24,7 +24,7 @@
         "effectDescTextMapHash": 1329597126,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11002": {
         "combineId": 11002,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -49,7 +49,7 @@
         "effectDescTextMapHash": 1828014854,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11003": {
         "combineId": 11003,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -74,7 +74,7 @@
         "effectDescTextMapHash": 3177443406,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11004": {
         "combineId": 11004,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -99,7 +99,7 @@
         "effectDescTextMapHash": 1420463894,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11005": {
         "combineId": 11005,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -124,7 +124,7 @@
         "effectDescTextMapHash": 3520437678,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11006": {
         "combineId": 11006,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -149,7 +149,7 @@
         "effectDescTextMapHash": 1773897750,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11007": {
         "combineId": 11007,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -174,7 +174,7 @@
         "effectDescTextMapHash": 1351841822,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11008": {
         "combineId": 11008,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -199,7 +199,7 @@
         "effectDescTextMapHash": 523072174,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11021": {
         "combineId": 11021,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -224,7 +224,7 @@
         "effectDescTextMapHash": 3486589798,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11022": {
         "combineId": 11022,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -249,7 +249,7 @@
         "effectDescTextMapHash": 2752505846,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11023": {
         "combineId": 11023,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -274,7 +274,7 @@
         "effectDescTextMapHash": 401461790,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11024": {
         "combineId": 11024,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -299,7 +299,7 @@
         "effectDescTextMapHash": 889219350,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11025": {
         "combineId": 11025,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -324,7 +324,7 @@
         "effectDescTextMapHash": 3108620070,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11026": {
         "combineId": 11026,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -349,7 +349,7 @@
         "effectDescTextMapHash": 3480222366,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11029": {
         "combineId": 11029,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -374,7 +374,7 @@
         "effectDescTextMapHash": 3175352870,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11030": {
         "combineId": 11030,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -399,7 +399,7 @@
         "effectDescTextMapHash": 3327860094,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11035": {
         "combineId": 11035,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -424,7 +424,7 @@
         "effectDescTextMapHash": 4261381998,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11036": {
         "combineId": 11036,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -449,7 +449,7 @@
         "effectDescTextMapHash": 2482590462,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11041": {
         "combineId": 11041,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -474,7 +474,7 @@
         "effectDescTextMapHash": 1246213854,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11042": {
         "combineId": 11042,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -499,7 +499,7 @@
         "effectDescTextMapHash": 538801174,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11045": {
         "combineId": 11045,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -524,7 +524,7 @@
         "effectDescTextMapHash": 73236678,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11046": {
         "combineId": 11046,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -549,7 +549,7 @@
         "effectDescTextMapHash": 1558024718,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11009": {
         "combineId": 11009,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -574,7 +574,7 @@
         "effectDescTextMapHash": 2641756518,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11010": {
         "combineId": 11010,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -599,7 +599,7 @@
         "effectDescTextMapHash": 316016030,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11013": {
         "combineId": 11013,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -624,7 +624,7 @@
         "effectDescTextMapHash": 2170617830,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11014": {
         "combineId": 11014,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -649,7 +649,7 @@
         "effectDescTextMapHash": 4294958846,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11015": {
         "combineId": 11015,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -674,7 +674,7 @@
         "effectDescTextMapHash": 1853061830,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11016": {
         "combineId": 11016,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -699,7 +699,7 @@
         "effectDescTextMapHash": 171926742,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11017": {
         "combineId": 11017,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -724,7 +724,7 @@
         "effectDescTextMapHash": 1762789198,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11018": {
         "combineId": 11018,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -749,7 +749,7 @@
         "effectDescTextMapHash": 3440003950,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11019": {
         "combineId": 11019,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -774,7 +774,7 @@
         "effectDescTextMapHash": 4142765958,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11020": {
         "combineId": 11020,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -799,7 +799,7 @@
         "effectDescTextMapHash": 642306134,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11027": {
         "combineId": 11027,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -824,7 +824,7 @@
         "effectDescTextMapHash": 2016097390,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11028": {
         "combineId": 11028,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -849,7 +849,7 @@
         "effectDescTextMapHash": 3817595822,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11031": {
         "combineId": 11031,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -874,7 +874,7 @@
         "effectDescTextMapHash": 1266488246,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11032": {
         "combineId": 11032,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -899,7 +899,7 @@
         "effectDescTextMapHash": 2297146270,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11033": {
         "combineId": 11033,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -924,7 +924,7 @@
         "effectDescTextMapHash": 3689400710,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11034": {
         "combineId": 11034,
         "playerLevel": 10,
         "isDefaultShow": true,
@@ -949,7 +949,7 @@
         "effectDescTextMapHash": 2787051958,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11037": {
         "combineId": 11037,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -974,7 +974,7 @@
         "effectDescTextMapHash": 1737593758,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11038": {
         "combineId": 11038,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -999,7 +999,7 @@
         "effectDescTextMapHash": 496065054,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11039": {
         "combineId": 11039,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -1024,7 +1024,7 @@
         "effectDescTextMapHash": 2659811734,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11040": {
         "combineId": 11040,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -1049,7 +1049,7 @@
         "effectDescTextMapHash": 2233212670,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11043": {
         "combineId": 11043,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -1074,7 +1074,7 @@
         "effectDescTextMapHash": 3744222158,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11044": {
         "combineId": 11044,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -1099,7 +1099,7 @@
         "effectDescTextMapHash": 3473457598,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11047": {
         "combineId": 11047,
         "playerLevel": 15,
         "isDefaultShow": true,
@@ -1124,7 +1124,7 @@
         "effectDescTextMapHash": 4224688222,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "11048": {
         "combineId": 11048,
         "playerLevel": 20,
         "isDefaultShow": true,
@@ -1149,7 +1149,7 @@
         "effectDescTextMapHash": 351586302,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12001": {
         "combineId": 12001,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1174,7 +1174,7 @@
         "effectDescTextMapHash": 2651610598,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12002": {
         "combineId": 12002,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1199,7 +1199,7 @@
         "effectDescTextMapHash": 403479278,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12003": {
         "combineId": 12003,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1224,7 +1224,7 @@
         "effectDescTextMapHash": 2260626454,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12004": {
         "combineId": 12004,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1249,7 +1249,7 @@
         "effectDescTextMapHash": 2329027430,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12005": {
         "combineId": 12005,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1274,7 +1274,7 @@
         "effectDescTextMapHash": 2995785342,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12006": {
         "combineId": 12006,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1299,7 +1299,7 @@
         "effectDescTextMapHash": 747446014,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12007": {
         "combineId": 12007,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1324,7 +1324,7 @@
         "effectDescTextMapHash": 3951291014,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12008": {
         "combineId": 12008,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1349,7 +1349,7 @@
         "effectDescTextMapHash": 3478835478,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12009": {
         "combineId": 12009,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1374,7 +1374,7 @@
         "effectDescTextMapHash": 771329718,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12010": {
         "combineId": 12010,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1399,7 +1399,7 @@
         "effectDescTextMapHash": 2909080438,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12011": {
         "combineId": 12011,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1424,7 +1424,7 @@
         "effectDescTextMapHash": 1466483694,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12012": {
         "combineId": 12012,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1449,7 +1449,7 @@
         "effectDescTextMapHash": 1341986030,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12013": {
         "combineId": 12013,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1474,7 +1474,7 @@
         "effectDescTextMapHash": 2434660814,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12014": {
         "combineId": 12014,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1499,7 +1499,7 @@
         "effectDescTextMapHash": 927163198,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12015": {
         "combineId": 12015,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1524,7 +1524,7 @@
         "effectDescTextMapHash": 2779801510,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12016": {
         "combineId": 12016,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1549,7 +1549,7 @@
         "effectDescTextMapHash": 2594773526,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12017": {
         "combineId": 12017,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1574,7 +1574,7 @@
         "effectDescTextMapHash": 3261296230,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12018": {
         "combineId": 12018,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1599,7 +1599,7 @@
         "effectDescTextMapHash": 2895350334,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12019": {
         "combineId": 12019,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1624,7 +1624,7 @@
         "effectDescTextMapHash": 1484233334,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12020": {
         "combineId": 12020,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1649,7 +1649,7 @@
         "effectDescTextMapHash": 273603894,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12021": {
         "combineId": 12021,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1674,7 +1674,7 @@
         "effectDescTextMapHash": 2220930254,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12022": {
         "combineId": 12022,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1699,7 +1699,7 @@
         "effectDescTextMapHash": 4194161894,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12023": {
         "combineId": 12023,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1724,7 +1724,7 @@
         "effectDescTextMapHash": 3844164134,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12024": {
         "combineId": 12024,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1749,7 +1749,7 @@
         "effectDescTextMapHash": 419858310,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12025": {
         "combineId": 12025,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1774,7 +1774,7 @@
         "effectDescTextMapHash": 1343507606,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12026": {
         "combineId": 12026,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1799,7 +1799,7 @@
         "effectDescTextMapHash": 2139396582,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12027": {
         "combineId": 12027,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1824,7 +1824,7 @@
         "effectDescTextMapHash": 1798456678,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12028": {
         "combineId": 12028,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1849,7 +1849,7 @@
         "effectDescTextMapHash": 2268655558,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12029": {
         "combineId": 12029,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1874,7 +1874,7 @@
         "effectDescTextMapHash": 2251969462,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12030": {
         "combineId": 12030,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1899,7 +1899,7 @@
         "effectDescTextMapHash": 3951276358,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12031": {
         "combineId": 12031,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1924,7 +1924,7 @@
         "effectDescTextMapHash": 3241798990,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12032": {
         "combineId": 12032,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -1949,7 +1949,7 @@
         "effectDescTextMapHash": 303031766,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12033": {
         "combineId": 12033,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -1974,7 +1974,7 @@
         "effectDescTextMapHash": 1497468342,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12034": {
         "combineId": 12034,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -1999,7 +1999,7 @@
         "effectDescTextMapHash": 680900142,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12035": {
         "combineId": 12035,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -2024,7 +2024,7 @@
         "effectDescTextMapHash": 4283598126,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "12036": {
         "combineId": 12036,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -2049,7 +2049,7 @@
         "effectDescTextMapHash": 2157876638,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13001": {
         "combineId": 13001,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2074,7 +2074,7 @@
         "effectDescTextMapHash": 3417974494,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13002": {
         "combineId": 13002,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2099,7 +2099,7 @@
         "effectDescTextMapHash": 2551102798,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13003": {
         "combineId": 13003,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2124,7 +2124,7 @@
         "effectDescTextMapHash": 3054984326,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13004": {
         "combineId": 13004,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2149,7 +2149,7 @@
         "effectDescTextMapHash": 3611636350,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13005": {
         "combineId": 13005,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2174,7 +2174,7 @@
         "effectDescTextMapHash": 3706082558,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13006": {
         "combineId": 13006,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2199,7 +2199,7 @@
         "effectDescTextMapHash": 266410710,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13007": {
         "combineId": 13007,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2224,7 +2224,7 @@
         "effectDescTextMapHash": 2472596486,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13008": {
         "combineId": 13008,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2249,7 +2249,7 @@
         "effectDescTextMapHash": 802548054,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13009": {
         "combineId": 13009,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2274,7 +2274,7 @@
         "effectDescTextMapHash": 2691955750,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13010": {
         "combineId": 13010,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2299,7 +2299,7 @@
         "effectDescTextMapHash": 2443908542,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13011": {
         "combineId": 13011,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2324,7 +2324,7 @@
         "effectDescTextMapHash": 3070043686,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13012": {
         "combineId": 13012,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2349,7 +2349,7 @@
         "effectDescTextMapHash": 3609653678,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13013": {
         "combineId": 13013,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2374,7 +2374,7 @@
         "effectDescTextMapHash": 3422213998,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13014": {
         "combineId": 13014,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2399,7 +2399,7 @@
         "effectDescTextMapHash": 2348578670,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13015": {
         "combineId": 13015,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2424,7 +2424,7 @@
         "effectDescTextMapHash": 1926742022,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13016": {
         "combineId": 13016,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2449,7 +2449,7 @@
         "effectDescTextMapHash": 1316056470,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13017": {
         "combineId": 13017,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2474,7 +2474,7 @@
         "effectDescTextMapHash": 3796214798,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13018": {
         "combineId": 13018,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2499,7 +2499,7 @@
         "effectDescTextMapHash": 2644350774,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13019": {
         "combineId": 13019,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2524,7 +2524,7 @@
         "effectDescTextMapHash": 3562478726,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13020": {
         "combineId": 13020,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2549,7 +2549,7 @@
         "effectDescTextMapHash": 2115505622,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13021": {
         "combineId": 13021,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2574,7 +2574,7 @@
         "effectDescTextMapHash": 488656118,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13022": {
         "combineId": 13022,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2599,7 +2599,7 @@
         "effectDescTextMapHash": 3864360094,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13023": {
         "combineId": 13023,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -2624,7 +2624,7 @@
         "effectDescTextMapHash": 1087535590,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "13024": {
         "combineId": 13024,
         "playerLevel": 40,
         "isDefaultShow": true,
@@ -2649,7 +2649,7 @@
         "effectDescTextMapHash": 2951034422,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14001": {
         "combineId": 14001,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2675,7 +2675,7 @@
         "effectDescTextMapHash": 2591474998,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14002": {
         "combineId": 14002,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2701,7 +2701,7 @@
         "effectDescTextMapHash": 486996030,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14003": {
         "combineId": 14003,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2727,7 +2727,7 @@
         "effectDescTextMapHash": 109232974,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14004": {
         "combineId": 14004,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2753,7 +2753,7 @@
         "effectDescTextMapHash": 2655203190,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14005": {
         "combineId": 14005,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2779,7 +2779,7 @@
         "effectDescTextMapHash": 3885553262,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14006": {
         "combineId": 14006,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2805,7 +2805,7 @@
         "effectDescTextMapHash": 2335632110,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14007": {
         "combineId": 14007,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2831,7 +2831,7 @@
         "effectDescTextMapHash": 1389819278,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14008": {
         "combineId": 14008,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2857,7 +2857,7 @@
         "effectDescTextMapHash": 3994443734,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14009": {
         "combineId": 14009,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2883,7 +2883,7 @@
         "effectDescTextMapHash": 993141678,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14010": {
         "combineId": 14010,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2909,7 +2909,7 @@
         "effectDescTextMapHash": 4244326390,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14011": {
         "combineId": 14011,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2935,7 +2935,7 @@
         "effectDescTextMapHash": 1382868598,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14012": {
         "combineId": 14012,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2961,7 +2961,7 @@
         "effectDescTextMapHash": 1796918390,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14013": {
         "combineId": 14013,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -2987,7 +2987,7 @@
         "effectDescTextMapHash": 2474011518,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "14014": {
         "combineId": 14014,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -3013,7 +3013,7 @@
         "effectDescTextMapHash": 1226471398,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15001": {
         "combineId": 15001,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -3036,7 +3036,7 @@
         "effectDescTextMapHash": 969838134,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15002": {
         "combineId": 15002,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -3059,7 +3059,7 @@
         "effectDescTextMapHash": 439431990,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15003": {
         "combineId": 15003,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -3082,7 +3082,7 @@
         "effectDescTextMapHash": 827014342,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15004": {
         "combineId": 15004,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -3105,7 +3105,7 @@
         "effectDescTextMapHash": 985089150,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15005": {
         "combineId": 15005,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -3128,7 +3128,7 @@
         "effectDescTextMapHash": 1375946966,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15006": {
         "combineId": 15006,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -3151,7 +3151,7 @@
         "effectDescTextMapHash": 3623939486,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15007": {
         "combineId": 15007,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -3174,7 +3174,7 @@
         "effectDescTextMapHash": 3460329206,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15008": {
         "combineId": 15008,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -3197,7 +3197,7 @@
         "effectDescTextMapHash": 1478577862,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15009": {
         "combineId": 15009,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -3220,7 +3220,7 @@
         "effectDescTextMapHash": 3928006566,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15010": {
         "combineId": 15010,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -3243,7 +3243,7 @@
         "effectDescTextMapHash": 714537582,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15011": {
         "combineId": 15011,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -3266,7 +3266,7 @@
         "effectDescTextMapHash": 3043838430,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15012": {
         "combineId": 15012,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -3289,7 +3289,7 @@
         "effectDescTextMapHash": 254418566,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15013": {
         "combineId": 15013,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -3312,7 +3312,7 @@
         "effectDescTextMapHash": 1864851190,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15014": {
         "combineId": 15014,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -3335,7 +3335,7 @@
         "effectDescTextMapHash": 3484055638,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15015": {
         "combineId": 15015,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -3358,7 +3358,7 @@
         "effectDescTextMapHash": 56549918,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15016": {
         "combineId": 15016,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -3381,7 +3381,7 @@
         "effectDescTextMapHash": 3041544262,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15017": {
         "combineId": 15017,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -3404,7 +3404,7 @@
         "effectDescTextMapHash": 2246972942,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15018": {
         "combineId": 15018,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -3427,7 +3427,7 @@
         "effectDescTextMapHash": 1231409150,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15019": {
         "combineId": 15019,
         "playerLevel": 25,
         "isDefaultShow": true,
@@ -3450,7 +3450,7 @@
         "effectDescTextMapHash": 1789214542,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15020": {
         "combineId": 15020,
         "playerLevel": 35,
         "isDefaultShow": true,
@@ -3473,7 +3473,7 @@
         "effectDescTextMapHash": 3947090006,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "15021": {
         "combineId": 15021,
         "playerLevel": 45,
         "isDefaultShow": true,
@@ -3496,7 +3496,7 @@
         "effectDescTextMapHash": 68505830,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "200004": {
         "combineId": 200004,
         "playerLevel": 23,
         "combineType": 99,
@@ -3524,7 +3524,7 @@
         "effectDescTextMapHash": 2433178366,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "220029": {
         "combineId": 220029,
         "playerLevel": 21,
         "combineType": 99,
@@ -3548,7 +3548,7 @@
         "effectDescTextMapHash": 588175614,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "220030": {
         "combineId": 220030,
         "playerLevel": 21,
         "combineType": 99,
@@ -3572,7 +3572,7 @@
         "effectDescTextMapHash": 595134910,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "220031": {
         "combineId": 220031,
         "playerLevel": 21,
         "combineType": 99,
@@ -3596,7 +3596,7 @@
         "effectDescTextMapHash": 2273921126,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "16003": {
         "combineId": 16003,
         "playerLevel": 1,
         "combineType": 99,
@@ -3617,7 +3617,7 @@
         "effectDescTextMapHash": 3673190870,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "16004": {
         "combineId": 16004,
         "playerLevel": 1,
         "combineType": 99,
@@ -3638,7 +3638,7 @@
         "effectDescTextMapHash": 3775252070,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "16005": {
         "combineId": 16005,
         "playerLevel": 1,
         "combineType": 99,
@@ -3659,7 +3659,7 @@
         "effectDescTextMapHash": 3608614078,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "16006": {
         "combineId": 16006,
         "playerLevel": 1,
         "combineType": 99,
@@ -3680,7 +3680,7 @@
         "effectDescTextMapHash": 1459761910,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "16007": {
         "combineId": 16007,
         "playerLevel": 1,
         "combineType": 99,
@@ -3704,7 +3704,7 @@
         "effectDescTextMapHash": 3371531358,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22007": {
         "combineId": 22007,
         "playerLevel": 10,
         "combineType": 6,
@@ -3729,7 +3729,7 @@
         "effectDescTextMapHash": 2105187686,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22005": {
         "combineId": 22005,
         "playerLevel": 10,
         "combineType": 6,
@@ -3757,7 +3757,7 @@
         "effectDescTextMapHash": 3332182334,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22001": {
         "combineId": 22001,
         "playerLevel": 10,
         "combineType": 6,
@@ -3785,7 +3785,7 @@
         "effectDescTextMapHash": 1680693934,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22002": {
         "combineId": 22002,
         "playerLevel": 10,
         "combineType": 6,
@@ -3813,7 +3813,7 @@
         "effectDescTextMapHash": 1753725678,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22032": {
         "combineId": 22032,
         "playerLevel": 10,
         "combineType": 6,
@@ -3841,7 +3841,7 @@
         "effectDescTextMapHash": 354745222,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22057": {
         "combineId": 22057,
         "playerLevel": 10,
         "combineType": 6,
@@ -3869,7 +3869,7 @@
         "effectDescTextMapHash": 1107188022,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22033": {
         "combineId": 22033,
         "playerLevel": 28,
         "combineType": 10,
@@ -3893,7 +3893,7 @@
         "effectDescTextMapHash": 1897286718,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22034": {
         "combineId": 22034,
         "playerLevel": 28,
         "combineType": 10,
@@ -3917,7 +3917,7 @@
         "effectDescTextMapHash": 674451934,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22035": {
         "combineId": 22035,
         "playerLevel": 28,
         "combineType": 10,
@@ -3941,7 +3941,7 @@
         "effectDescTextMapHash": 3560519726,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22036": {
         "combineId": 22036,
         "playerLevel": 28,
         "combineType": 10,
@@ -3965,7 +3965,7 @@
         "effectDescTextMapHash": 536588662,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "22037": {
         "combineId": 22037,
         "playerLevel": 28,
         "combineType": 10,
@@ -3989,7 +3989,7 @@
         "effectDescTextMapHash": 2960699854,
         "recipeType": "RECIPE_TYPE_COMBINE"
     },
-    {
+    "50001": {
         "combineId": 50001,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4011,7 +4011,7 @@
         "effectDescTextMapHash": 3463538362,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50002": {
         "combineId": 50002,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4033,7 +4033,7 @@
         "effectDescTextMapHash": 3712109058,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50003": {
         "combineId": 50003,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4055,7 +4055,7 @@
         "effectDescTextMapHash": 1404848898,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50004": {
         "combineId": 50004,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4077,7 +4077,7 @@
         "effectDescTextMapHash": 2792012978,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50005": {
         "combineId": 50005,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4099,7 +4099,7 @@
         "effectDescTextMapHash": 2584915874,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50006": {
         "combineId": 50006,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4121,7 +4121,7 @@
         "effectDescTextMapHash": 3872827266,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50007": {
         "combineId": 50007,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4143,7 +4143,7 @@
         "effectDescTextMapHash": 4151675138,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50008": {
         "combineId": 50008,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4165,7 +4165,7 @@
         "effectDescTextMapHash": 2333903146,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50009": {
         "combineId": 50009,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4187,7 +4187,7 @@
         "effectDescTextMapHash": 3706273554,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50010": {
         "combineId": 50010,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4209,7 +4209,7 @@
         "effectDescTextMapHash": 1696894314,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50011": {
         "combineId": 50011,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4231,7 +4231,7 @@
         "effectDescTextMapHash": 3600749218,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50012": {
         "combineId": 50012,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4253,7 +4253,7 @@
         "effectDescTextMapHash": 1725169666,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50013": {
         "combineId": 50013,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4275,7 +4275,7 @@
         "effectDescTextMapHash": 3007141970,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50014": {
         "combineId": 50014,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4297,7 +4297,7 @@
         "effectDescTextMapHash": 2853138162,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50015": {
         "combineId": 50015,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4319,7 +4319,7 @@
         "effectDescTextMapHash": 2607841266,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50016": {
         "combineId": 50016,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4341,7 +4341,7 @@
         "effectDescTextMapHash": 4139341146,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50017": {
         "combineId": 50017,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4363,7 +4363,7 @@
         "effectDescTextMapHash": 3593706442,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50018": {
         "combineId": 50018,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4385,7 +4385,7 @@
         "effectDescTextMapHash": 2191854042,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50019": {
         "combineId": 50019,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4407,7 +4407,7 @@
         "effectDescTextMapHash": 2814584530,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50020": {
         "combineId": 50020,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4429,7 +4429,7 @@
         "effectDescTextMapHash": 3451674914,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50021": {
         "combineId": 50021,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4451,7 +4451,7 @@
         "effectDescTextMapHash": 1251365034,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50022": {
         "combineId": 50022,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4473,7 +4473,7 @@
         "effectDescTextMapHash": 2996170946,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50023": {
         "combineId": 50023,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4495,7 +4495,7 @@
         "effectDescTextMapHash": 3239391498,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50024": {
         "combineId": 50024,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4517,7 +4517,7 @@
         "effectDescTextMapHash": 2206207274,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50025": {
         "combineId": 50025,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4539,7 +4539,7 @@
         "effectDescTextMapHash": 4200215610,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50026": {
         "combineId": 50026,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4561,7 +4561,7 @@
         "effectDescTextMapHash": 3412425274,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50027": {
         "combineId": 50027,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4583,7 +4583,7 @@
         "effectDescTextMapHash": 3339015802,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50028": {
         "combineId": 50028,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4605,7 +4605,7 @@
         "effectDescTextMapHash": 2372305746,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50029": {
         "combineId": 50029,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4627,7 +4627,7 @@
         "effectDescTextMapHash": 2800208378,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50030": {
         "combineId": 50030,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4649,7 +4649,7 @@
         "effectDescTextMapHash": 2803352458,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50031": {
         "combineId": 50031,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4671,7 +4671,7 @@
         "effectDescTextMapHash": 3513761322,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50032": {
         "combineId": 50032,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4693,7 +4693,7 @@
         "effectDescTextMapHash": 2166690498,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50033": {
         "combineId": 50033,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4715,7 +4715,7 @@
         "effectDescTextMapHash": 3038979530,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50034": {
         "combineId": 50034,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4737,7 +4737,7 @@
         "effectDescTextMapHash": 1842341610,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50035": {
         "combineId": 50035,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4759,7 +4759,7 @@
         "effectDescTextMapHash": 744595050,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50036": {
         "combineId": 50036,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4781,7 +4781,7 @@
         "effectDescTextMapHash": 1809775298,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50037": {
         "combineId": 50037,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4803,7 +4803,7 @@
         "effectDescTextMapHash": 1401531954,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50038": {
         "combineId": 50038,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4825,7 +4825,7 @@
         "effectDescTextMapHash": 2173004762,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50039": {
         "combineId": 50039,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4847,7 +4847,7 @@
         "effectDescTextMapHash": 153934658,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50040": {
         "combineId": 50040,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4869,7 +4869,7 @@
         "effectDescTextMapHash": 1363386874,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50041": {
         "combineId": 50041,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4891,7 +4891,7 @@
         "effectDescTextMapHash": 4198693402,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50042": {
         "combineId": 50042,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4913,7 +4913,7 @@
         "effectDescTextMapHash": 1607771162,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50043": {
         "combineId": 50043,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4935,7 +4935,7 @@
         "effectDescTextMapHash": 4031223170,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50044": {
         "combineId": 50044,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4957,7 +4957,7 @@
         "effectDescTextMapHash": 20733282,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50045": {
         "combineId": 50045,
         "isDefaultShow": true,
         "combineType": 5,
@@ -4979,7 +4979,7 @@
         "effectDescTextMapHash": 1412510650,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50046": {
         "combineId": 50046,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5001,7 +5001,7 @@
         "effectDescTextMapHash": 1650043930,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50047": {
         "combineId": 50047,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5023,7 +5023,7 @@
         "effectDescTextMapHash": 1857842586,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50048": {
         "combineId": 50048,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5045,7 +5045,7 @@
         "effectDescTextMapHash": 3972865442,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50049": {
         "combineId": 50049,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5067,7 +5067,7 @@
         "effectDescTextMapHash": 3028886666,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50050": {
         "combineId": 50050,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5089,7 +5089,7 @@
         "effectDescTextMapHash": 3816531058,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50051": {
         "combineId": 50051,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5111,7 +5111,7 @@
         "effectDescTextMapHash": 814769242,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50052": {
         "combineId": 50052,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5133,7 +5133,7 @@
         "effectDescTextMapHash": 2904012682,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50053": {
         "combineId": 50053,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5155,7 +5155,7 @@
         "effectDescTextMapHash": 424980730,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50054": {
         "combineId": 50054,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5177,7 +5177,7 @@
         "effectDescTextMapHash": 3125244938,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50055": {
         "combineId": 50055,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5199,7 +5199,7 @@
         "effectDescTextMapHash": 1462792018,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50056": {
         "combineId": 50056,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5221,7 +5221,7 @@
         "effectDescTextMapHash": 2419533762,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50057": {
         "combineId": 50057,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5243,7 +5243,7 @@
         "effectDescTextMapHash": 2737401818,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50058": {
         "combineId": 50058,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5265,7 +5265,7 @@
         "effectDescTextMapHash": 731117930,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50059": {
         "combineId": 50059,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5287,7 +5287,7 @@
         "effectDescTextMapHash": 1630643770,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50060": {
         "combineId": 50060,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5309,7 +5309,7 @@
         "effectDescTextMapHash": 3180665330,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50061": {
         "combineId": 50061,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5331,7 +5331,7 @@
         "effectDescTextMapHash": 2340769530,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50062": {
         "combineId": 50062,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5353,7 +5353,7 @@
         "effectDescTextMapHash": 3543672994,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50063": {
         "combineId": 50063,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5375,7 +5375,7 @@
         "effectDescTextMapHash": 288023954,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50064": {
         "combineId": 50064,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5397,7 +5397,7 @@
         "effectDescTextMapHash": 1589752378,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50065": {
         "combineId": 50065,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5419,7 +5419,7 @@
         "effectDescTextMapHash": 2262183170,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50066": {
         "combineId": 50066,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5441,7 +5441,7 @@
         "effectDescTextMapHash": 1813729450,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50067": {
         "combineId": 50067,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5463,7 +5463,7 @@
         "effectDescTextMapHash": 1961622074,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50068": {
         "combineId": 50068,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5485,7 +5485,7 @@
         "effectDescTextMapHash": 3042902578,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50069": {
         "combineId": 50069,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5507,7 +5507,7 @@
         "effectDescTextMapHash": 416169410,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50070": {
         "combineId": 50070,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5529,7 +5529,7 @@
         "effectDescTextMapHash": 2644213818,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50071": {
         "combineId": 50071,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5551,7 +5551,7 @@
         "effectDescTextMapHash": 2044917522,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50072": {
         "combineId": 50072,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5573,7 +5573,7 @@
         "effectDescTextMapHash": 4256371170,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50073": {
         "combineId": 50073,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5595,7 +5595,7 @@
         "effectDescTextMapHash": 1585139002,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50074": {
         "combineId": 50074,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5617,7 +5617,7 @@
         "effectDescTextMapHash": 2769494962,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50075": {
         "combineId": 50075,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5639,7 +5639,7 @@
         "effectDescTextMapHash": 4188803578,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50076": {
         "combineId": 50076,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5661,7 +5661,7 @@
         "effectDescTextMapHash": 186734714,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50077": {
         "combineId": 50077,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5683,7 +5683,7 @@
         "effectDescTextMapHash": 308567426,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50078": {
         "combineId": 50078,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5705,7 +5705,7 @@
         "effectDescTextMapHash": 1238314634,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50079": {
         "combineId": 50079,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5727,7 +5727,7 @@
         "effectDescTextMapHash": 2243441706,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50080": {
         "combineId": 50080,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5749,7 +5749,7 @@
         "effectDescTextMapHash": 4190173738,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50081": {
         "combineId": 50081,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5771,7 +5771,7 @@
         "effectDescTextMapHash": 74557666,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50082": {
         "combineId": 50082,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5793,7 +5793,7 @@
         "effectDescTextMapHash": 1922516906,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50083": {
         "combineId": 50083,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5815,7 +5815,7 @@
         "effectDescTextMapHash": 715246490,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50084": {
         "combineId": 50084,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5837,7 +5837,7 @@
         "effectDescTextMapHash": 2195291426,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50085": {
         "combineId": 50085,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5859,7 +5859,7 @@
         "effectDescTextMapHash": 500029042,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50086": {
         "combineId": 50086,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5881,7 +5881,7 @@
         "effectDescTextMapHash": 1456934226,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50087": {
         "combineId": 50087,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5903,7 +5903,7 @@
         "effectDescTextMapHash": 1206211402,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50088": {
         "combineId": 50088,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5925,7 +5925,7 @@
         "effectDescTextMapHash": 1895465426,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50089": {
         "combineId": 50089,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5947,7 +5947,7 @@
         "effectDescTextMapHash": 1036934098,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50090": {
         "combineId": 50090,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5969,7 +5969,7 @@
         "effectDescTextMapHash": 2285812722,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50091": {
         "combineId": 50091,
         "isDefaultShow": true,
         "combineType": 5,
@@ -5991,7 +5991,7 @@
         "effectDescTextMapHash": 3354192346,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50092": {
         "combineId": 50092,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6013,7 +6013,7 @@
         "effectDescTextMapHash": 3403918370,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50093": {
         "combineId": 50093,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6035,7 +6035,7 @@
         "effectDescTextMapHash": 899959266,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50094": {
         "combineId": 50094,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6057,7 +6057,7 @@
         "effectDescTextMapHash": 2513943050,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50095": {
         "combineId": 50095,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6079,7 +6079,7 @@
         "effectDescTextMapHash": 2374685994,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50096": {
         "combineId": 50096,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6101,7 +6101,7 @@
         "effectDescTextMapHash": 853666306,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50097": {
         "combineId": 50097,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6123,7 +6123,7 @@
         "effectDescTextMapHash": 3386210634,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50098": {
         "combineId": 50098,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6145,7 +6145,7 @@
         "effectDescTextMapHash": 3277916210,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50099": {
         "combineId": 50099,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6167,7 +6167,7 @@
         "effectDescTextMapHash": 3779199146,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50100": {
         "combineId": 50100,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6189,7 +6189,7 @@
         "effectDescTextMapHash": 2239171762,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50101": {
         "combineId": 50101,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6211,7 +6211,7 @@
         "effectDescTextMapHash": 3669815882,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50102": {
         "combineId": 50102,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6233,7 +6233,7 @@
         "effectDescTextMapHash": 2033278122,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50103": {
         "combineId": 50103,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6255,7 +6255,7 @@
         "effectDescTextMapHash": 3099993226,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50104": {
         "combineId": 50104,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6277,7 +6277,7 @@
         "effectDescTextMapHash": 941045890,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50105": {
         "combineId": 50105,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6299,7 +6299,7 @@
         "effectDescTextMapHash": 653355538,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50106": {
         "combineId": 50106,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6321,7 +6321,7 @@
         "effectDescTextMapHash": 839577386,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50107": {
         "combineId": 50107,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6343,7 +6343,7 @@
         "effectDescTextMapHash": 365765418,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50108": {
         "combineId": 50108,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6365,7 +6365,7 @@
         "effectDescTextMapHash": 3052151762,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50109": {
         "combineId": 50109,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6387,7 +6387,7 @@
         "effectDescTextMapHash": 1638326626,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50110": {
         "combineId": 50110,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6409,7 +6409,7 @@
         "effectDescTextMapHash": 1564115842,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50111": {
         "combineId": 50111,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6431,7 +6431,7 @@
         "effectDescTextMapHash": 1169138746,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50112": {
         "combineId": 50112,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6453,7 +6453,7 @@
         "effectDescTextMapHash": 3376099002,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50113": {
         "combineId": 50113,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6475,7 +6475,7 @@
         "effectDescTextMapHash": 4088575706,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50114": {
         "combineId": 50114,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6497,7 +6497,7 @@
         "effectDescTextMapHash": 534083930,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50115": {
         "combineId": 50115,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6519,7 +6519,7 @@
         "effectDescTextMapHash": 2569280202,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50116": {
         "combineId": 50116,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6541,7 +6541,7 @@
         "effectDescTextMapHash": 4189732162,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50117": {
         "combineId": 50117,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6563,7 +6563,7 @@
         "effectDescTextMapHash": 3614041186,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50118": {
         "combineId": 50118,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6585,7 +6585,7 @@
         "effectDescTextMapHash": 1494139762,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50119": {
         "combineId": 50119,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6607,7 +6607,7 @@
         "effectDescTextMapHash": 1564012890,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50120": {
         "combineId": 50120,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6629,7 +6629,7 @@
         "effectDescTextMapHash": 3307872250,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50121": {
         "combineId": 50121,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6651,7 +6651,7 @@
         "effectDescTextMapHash": 1506189474,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50122": {
         "combineId": 50122,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6673,7 +6673,7 @@
         "effectDescTextMapHash": 4109363274,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50123": {
         "combineId": 50123,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6695,7 +6695,7 @@
         "effectDescTextMapHash": 2619992626,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50124": {
         "combineId": 50124,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6717,7 +6717,7 @@
         "effectDescTextMapHash": 2334487786,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50125": {
         "combineId": 50125,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6739,7 +6739,7 @@
         "effectDescTextMapHash": 2629567674,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50126": {
         "combineId": 50126,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6761,7 +6761,7 @@
         "effectDescTextMapHash": 2050998114,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50127": {
         "combineId": 50127,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6783,7 +6783,7 @@
         "effectDescTextMapHash": 475950586,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50128": {
         "combineId": 50128,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6805,7 +6805,7 @@
         "effectDescTextMapHash": 3154265690,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50129": {
         "combineId": 50129,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6827,7 +6827,7 @@
         "effectDescTextMapHash": 3837634034,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50130": {
         "combineId": 50130,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6849,7 +6849,7 @@
         "effectDescTextMapHash": 3883054706,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50131": {
         "combineId": 50131,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6871,7 +6871,7 @@
         "effectDescTextMapHash": 2606107570,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50132": {
         "combineId": 50132,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6893,7 +6893,7 @@
         "effectDescTextMapHash": 3066269994,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50133": {
         "combineId": 50133,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6915,7 +6915,7 @@
         "effectDescTextMapHash": 2589499306,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50134": {
         "combineId": 50134,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6937,7 +6937,7 @@
         "effectDescTextMapHash": 2656350730,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50135": {
         "combineId": 50135,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6959,7 +6959,7 @@
         "effectDescTextMapHash": 4159529010,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50136": {
         "combineId": 50136,
         "isDefaultShow": true,
         "combineType": 5,
@@ -6981,7 +6981,7 @@
         "effectDescTextMapHash": 244968618,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50137": {
         "combineId": 50137,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7003,7 +7003,7 @@
         "effectDescTextMapHash": 2581099026,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50138": {
         "combineId": 50138,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7025,7 +7025,7 @@
         "effectDescTextMapHash": 2651033938,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50139": {
         "combineId": 50139,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7047,7 +7047,7 @@
         "effectDescTextMapHash": 1404959330,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50140": {
         "combineId": 50140,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7069,7 +7069,7 @@
         "effectDescTextMapHash": 1194534866,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50141": {
         "combineId": 50141,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7091,7 +7091,7 @@
         "effectDescTextMapHash": 4245322586,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50142": {
         "combineId": 50142,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7113,7 +7113,7 @@
         "effectDescTextMapHash": 4203280226,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50143": {
         "combineId": 50143,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7135,7 +7135,7 @@
         "effectDescTextMapHash": 2078552986,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50144": {
         "combineId": 50144,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7157,7 +7157,7 @@
         "effectDescTextMapHash": 123950642,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50145": {
         "combineId": 50145,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7179,7 +7179,7 @@
         "effectDescTextMapHash": 2988301714,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50146": {
         "combineId": 50146,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7201,7 +7201,7 @@
         "effectDescTextMapHash": 2124919402,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50147": {
         "combineId": 50147,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7223,7 +7223,7 @@
         "effectDescTextMapHash": 140391554,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50148": {
         "combineId": 50148,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7245,7 +7245,7 @@
         "effectDescTextMapHash": 3340134090,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50149": {
         "combineId": 50149,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7267,7 +7267,7 @@
         "effectDescTextMapHash": 2482242330,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50150": {
         "combineId": 50150,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7289,7 +7289,7 @@
         "effectDescTextMapHash": 2419347066,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50151": {
         "combineId": 50151,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7311,7 +7311,7 @@
         "effectDescTextMapHash": 3174521818,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50152": {
         "combineId": 50152,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7333,7 +7333,7 @@
         "effectDescTextMapHash": 3673566250,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50153": {
         "combineId": 50153,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7355,7 +7355,7 @@
         "effectDescTextMapHash": 3055511762,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50154": {
         "combineId": 50154,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7377,7 +7377,7 @@
         "effectDescTextMapHash": 4021698346,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50155": {
         "combineId": 50155,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7399,7 +7399,7 @@
         "effectDescTextMapHash": 2798107290,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50156": {
         "combineId": 50156,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7421,7 +7421,7 @@
         "effectDescTextMapHash": 414421538,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50157": {
         "combineId": 50157,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7443,7 +7443,7 @@
         "effectDescTextMapHash": 229798170,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50158": {
         "combineId": 50158,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7465,7 +7465,7 @@
         "effectDescTextMapHash": 3030766130,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50159": {
         "combineId": 50159,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7487,7 +7487,7 @@
         "effectDescTextMapHash": 2719236058,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50160": {
         "combineId": 50160,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7509,7 +7509,7 @@
         "effectDescTextMapHash": 2612611802,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50161": {
         "combineId": 50161,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7531,7 +7531,7 @@
         "effectDescTextMapHash": 3616102634,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50162": {
         "combineId": 50162,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7553,7 +7553,7 @@
         "effectDescTextMapHash": 1416493114,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50163": {
         "combineId": 50163,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7575,7 +7575,7 @@
         "effectDescTextMapHash": 3765248786,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50164": {
         "combineId": 50164,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7597,7 +7597,7 @@
         "effectDescTextMapHash": 4291765282,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50165": {
         "combineId": 50165,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7619,7 +7619,7 @@
         "effectDescTextMapHash": 272341778,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50166": {
         "combineId": 50166,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7641,7 +7641,7 @@
         "effectDescTextMapHash": 1279494514,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50167": {
         "combineId": 50167,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7663,7 +7663,7 @@
         "effectDescTextMapHash": 2267294498,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "50168": {
         "combineId": 50168,
         "isDefaultShow": true,
         "combineType": 5,
@@ -7685,7 +7685,7 @@
         "effectDescTextMapHash": 2353953690,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60001": {
         "combineId": 60001,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7707,7 +7707,7 @@
         "effectDescTextMapHash": 1260203786,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60002": {
         "combineId": 60002,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7729,7 +7729,7 @@
         "effectDescTextMapHash": 1046687058,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60003": {
         "combineId": 60003,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7751,7 +7751,7 @@
         "effectDescTextMapHash": 3137682722,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60004": {
         "combineId": 60004,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7773,7 +7773,7 @@
         "effectDescTextMapHash": 359967178,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60005": {
         "combineId": 60005,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7795,7 +7795,7 @@
         "effectDescTextMapHash": 156755202,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60006": {
         "combineId": 60006,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7817,7 +7817,7 @@
         "effectDescTextMapHash": 3394744642,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60101": {
         "combineId": 60101,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7839,7 +7839,7 @@
         "effectDescTextMapHash": 3458562146,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60102": {
         "combineId": 60102,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7861,7 +7861,7 @@
         "effectDescTextMapHash": 1613782522,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60103": {
         "combineId": 60103,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7883,7 +7883,7 @@
         "effectDescTextMapHash": 2235037002,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60104": {
         "combineId": 60104,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7905,7 +7905,7 @@
         "effectDescTextMapHash": 3636617026,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60105": {
         "combineId": 60105,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7927,7 +7927,7 @@
         "effectDescTextMapHash": 742992426,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60106": {
         "combineId": 60106,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7949,7 +7949,7 @@
         "effectDescTextMapHash": 834225194,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60201": {
         "combineId": 60201,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7971,7 +7971,7 @@
         "effectDescTextMapHash": 275826578,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60202": {
         "combineId": 60202,
         "isDefaultShow": true,
         "combineType": 9,
@@ -7993,7 +7993,7 @@
         "effectDescTextMapHash": 3529311690,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60203": {
         "combineId": 60203,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8015,7 +8015,7 @@
         "effectDescTextMapHash": 2914453298,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60204": {
         "combineId": 60204,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8037,7 +8037,7 @@
         "effectDescTextMapHash": 3040671682,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60205": {
         "combineId": 60205,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8059,7 +8059,7 @@
         "effectDescTextMapHash": 772431418,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60206": {
         "combineId": 60206,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8081,7 +8081,7 @@
         "effectDescTextMapHash": 1495550666,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60301": {
         "combineId": 60301,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8103,7 +8103,7 @@
         "effectDescTextMapHash": 2355116010,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60302": {
         "combineId": 60302,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8125,7 +8125,7 @@
         "effectDescTextMapHash": 22564474,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60303": {
         "combineId": 60303,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8147,7 +8147,7 @@
         "effectDescTextMapHash": 3738428738,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60304": {
         "combineId": 60304,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8169,7 +8169,7 @@
         "effectDescTextMapHash": 4156945722,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60305": {
         "combineId": 60305,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8191,7 +8191,7 @@
         "effectDescTextMapHash": 1694196242,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60306": {
         "combineId": 60306,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8213,7 +8213,7 @@
         "effectDescTextMapHash": 1419213858,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60401": {
         "combineId": 60401,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8235,7 +8235,7 @@
         "effectDescTextMapHash": 4132844170,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60402": {
         "combineId": 60402,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8257,7 +8257,7 @@
         "effectDescTextMapHash": 2347803554,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60403": {
         "combineId": 60403,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8279,7 +8279,7 @@
         "effectDescTextMapHash": 852926018,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60404": {
         "combineId": 60404,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8301,7 +8301,7 @@
         "effectDescTextMapHash": 1562768298,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60405": {
         "combineId": 60405,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8323,7 +8323,7 @@
         "effectDescTextMapHash": 2286520154,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60406": {
         "combineId": 60406,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8345,7 +8345,7 @@
         "effectDescTextMapHash": 3935122554,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60501": {
         "combineId": 60501,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8367,7 +8367,7 @@
         "effectDescTextMapHash": 685977978,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60502": {
         "combineId": 60502,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8389,7 +8389,7 @@
         "effectDescTextMapHash": 2957673562,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60503": {
         "combineId": 60503,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8411,7 +8411,7 @@
         "effectDescTextMapHash": 4156934770,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60504": {
         "combineId": 60504,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8433,7 +8433,7 @@
         "effectDescTextMapHash": 224222642,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60505": {
         "combineId": 60505,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8455,7 +8455,7 @@
         "effectDescTextMapHash": 3598145106,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "60506": {
         "combineId": 60506,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8477,7 +8477,7 @@
         "effectDescTextMapHash": 1913839826,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70101": {
         "combineId": 70101,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8499,7 +8499,7 @@
         "effectDescTextMapHash": 2451498994,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70201": {
         "combineId": 70201,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8521,7 +8521,7 @@
         "effectDescTextMapHash": 2488730714,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70301": {
         "combineId": 70301,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8543,7 +8543,7 @@
         "effectDescTextMapHash": 3626393578,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70401": {
         "combineId": 70401,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8565,7 +8565,7 @@
         "effectDescTextMapHash": 1009686426,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70501": {
         "combineId": 70501,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8587,7 +8587,7 @@
         "effectDescTextMapHash": 2412044242,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70601": {
         "combineId": 70601,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8609,7 +8609,7 @@
         "effectDescTextMapHash": 3738979154,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70701": {
         "combineId": 70701,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8631,7 +8631,7 @@
         "effectDescTextMapHash": 3934428786,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70801": {
         "combineId": 70801,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8653,7 +8653,7 @@
         "effectDescTextMapHash": 3957372850,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "70901": {
         "combineId": 70901,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8675,7 +8675,7 @@
         "effectDescTextMapHash": 2802622402,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "71001": {
         "combineId": 71001,
         "isDefaultShow": true,
         "combineType": 9,
@@ -8697,7 +8697,7 @@
         "effectDescTextMapHash": 2768404226,
         "recipeType": "RECIPE_TYPE_CONVERT"
     },
-    {
+    "30001": {
         "combineId": 30001,
         "playerLevel": 28,
         "isDefaultShow": true,
@@ -8717,7 +8717,7 @@
         "effectDescTextMapHash": 3449405061,
         "recipeType": "RECIPE_TYPE_COMBINE_HOMEWORLD"
     },
-    {
+    "30002": {
         "combineId": 30002,
         "playerLevel": 28,
         "isDefaultShow": true,
@@ -8737,7 +8737,7 @@
         "effectDescTextMapHash": 1396826133,
         "recipeType": "RECIPE_TYPE_COMBINE_HOMEWORLD"
     },
-    {
+    "30003": {
         "combineId": 30003,
         "playerLevel": 28,
         "isDefaultShow": true,
@@ -8757,7 +8757,7 @@
         "effectDescTextMapHash": 1145493397,
         "recipeType": "RECIPE_TYPE_COMBINE_HOMEWORLD"
     },
-    {
+    "30004": {
         "combineId": 30004,
         "playerLevel": 28,
         "isDefaultShow": true,
@@ -8777,7 +8777,7 @@
         "effectDescTextMapHash": 1250116229,
         "recipeType": "RECIPE_TYPE_COMBINE_HOMEWORLD"
     },
-    {
+    "30005": {
         "combineId": 30005,
         "playerLevel": 28,
         "isDefaultShow": true,
@@ -8797,7 +8797,7 @@
         "effectDescTextMapHash": 3248396349,
         "recipeType": "RECIPE_TYPE_COMBINE_HOMEWORLD"
     },
-    {
+    "30006": {
         "combineId": 30006,
         "playerLevel": 28,
         "isDefaultShow": true,
@@ -8817,7 +8817,7 @@
         "effectDescTextMapHash": 4095714549,
         "recipeType": "RECIPE_TYPE_COMBINE_HOMEWORLD"
     },
-    {
+    "30007": {
         "combineId": 30007,
         "playerLevel": 28,
         "isDefaultShow": true,
@@ -8837,7 +8837,7 @@
         "effectDescTextMapHash": 4038981061,
         "recipeType": "RECIPE_TYPE_COMBINE_HOMEWORLD"
     },
-    {
+    "30008": {
         "combineId": 30008,
         "playerLevel": 28,
         "isDefaultShow": true,
@@ -8857,4 +8857,4 @@
         "effectDescTextMapHash": 286591893,
         "recipeType": "RECIPE_TYPE_COMBINE_HOMEWORLD"
     }
-]
+}

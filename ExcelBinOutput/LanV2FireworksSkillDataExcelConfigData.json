@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "FODIEPJEBJN": 1,
         "LPDFGMHGIGM": "FIREWORKS_REFORM_SKILL_GENERAL",
         "KOOKHHFOFAI": 10,
@@ -22,7 +22,7 @@
             0
         ]
     },
-    {
+    "2": {
         "FODIEPJEBJN": 2,
         "LPDFGMHGIGM": "FIREWORKS_REFORM_SKILL_GENERAL",
         "KOOKHHFOFAI": 14,
@@ -45,7 +45,7 @@
             0
         ]
     },
-    {
+    "3": {
         "FODIEPJEBJN": 3,
         "LPDFGMHGIGM": "FIREWORKS_REFORM_SKILL_GENERAL",
         "KOOKHHFOFAI": 18,
@@ -69,7 +69,7 @@
             0
         ]
     },
-    {
+    "4": {
         "FODIEPJEBJN": 4,
         "LPDFGMHGIGM": "FIREWORKS_REFORM_SKILL_ADJACENT",
         "KOOKHHFOFAI": 26,
@@ -92,7 +92,7 @@
             0
         ]
     },
-    {
+    "5": {
         "FODIEPJEBJN": 5,
         "LPDFGMHGIGM": "FIREWORKS_REFORM_SKILL_INSTABLE",
         "KOOKHHFOFAI": 22,
@@ -115,7 +115,7 @@
             0
         ]
     },
-    {
+    "6": {
         "FODIEPJEBJN": 6,
         "LPDFGMHGIGM": "FIREWORKS_REFORM_SKILL_GENERAL",
         "KOOKHHFOFAI": 4,
@@ -136,7 +136,7 @@
             0
         ]
     },
-    {
+    "7": {
         "FODIEPJEBJN": 7,
         "LPDFGMHGIGM": "FIREWORKS_REFORM_SKILL_GENERAL",
         "KOOKHHFOFAI": 4,
@@ -157,7 +157,7 @@
             0
         ]
     },
-    {
+    "8": {
         "FODIEPJEBJN": 8,
         "LPDFGMHGIGM": "FIREWORKS_REFORM_SKILL_GENERAL",
         "KOOKHHFOFAI": 15,
@@ -181,4 +181,4 @@
             0
         ]
     }
-]
+}

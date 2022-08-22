@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
         "saleParam": [
@@ -8,7 +8,7 @@
         ],
         "bufftipsTextMapHash": 1009858160
     },
-    {
+    "2": {
         "id": 2,
         "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
         "saleParam": [
@@ -17,7 +17,7 @@
         ],
         "bufftipsTextMapHash": 126576328
     },
-    {
+    "3": {
         "id": 3,
         "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
         "saleParam": [
@@ -26,7 +26,7 @@
         ],
         "bufftipsTextMapHash": 2199438672
     },
-    {
+    "4": {
         "id": 4,
         "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
         "saleParam": [
@@ -35,7 +35,7 @@
         ],
         "bufftipsTextMapHash": 56460992
     },
-    {
+    "5": {
         "id": 5,
         "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
         "saleParam": [
@@ -44,7 +44,7 @@
         ],
         "bufftipsTextMapHash": 3147016560
     },
-    {
+    "6": {
         "id": 6,
         "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
         "saleParam": [
@@ -53,7 +53,7 @@
         ],
         "bufftipsTextMapHash": 3599158864
     },
-    {
+    "7": {
         "id": 7,
         "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
         "saleParam": [
@@ -62,4 +62,4 @@
         ],
         "bufftipsTextMapHash": 1846378600
     }
-]
+}

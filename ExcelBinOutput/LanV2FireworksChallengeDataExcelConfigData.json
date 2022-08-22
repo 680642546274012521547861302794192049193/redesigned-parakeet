@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "challengeId": 1001,
         "titleTextMapHash": 1073279233,
         "icon": "223001",
@@ -19,7 +19,7 @@
         ],
         "BCFNHMAOBBH": 10
     },
-    {
+    "1002": {
         "challengeId": 1002,
         "titleTextMapHash": 1006197233,
         "icon": "223002",
@@ -39,7 +39,7 @@
         ],
         "BCFNHMAOBBH": 10
     },
-    {
+    "1003": {
         "challengeId": 1003,
         "titleTextMapHash": 2707384737,
         "icon": "223003",
@@ -60,7 +60,7 @@
         ],
         "BCFNHMAOBBH": 10
     },
-    {
+    "1004": {
         "challengeId": 1004,
         "titleTextMapHash": 4038017649,
         "icon": "223004",
@@ -81,7 +81,7 @@
         ],
         "BCFNHMAOBBH": 10
     },
-    {
+    "1005": {
         "challengeId": 1005,
         "titleTextMapHash": 3910695769,
         "icon": "223005",
@@ -103,7 +103,7 @@
         ],
         "BCFNHMAOBBH": 20
     },
-    {
+    "1006": {
         "challengeId": 1006,
         "titleTextMapHash": 2824132353,
         "icon": "223006",
@@ -125,4 +125,4 @@
         ],
         "BCFNHMAOBBH": 20
     }
-]
+}

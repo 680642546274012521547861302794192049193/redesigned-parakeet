@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5011": {
         "id": 1,
         "activityId": 5011,
         "previewRewardId": 30500,
@@ -25,7 +25,7 @@
         "detectorMaterialId": 220013,
         "guideChildQuestId": 7065201
     },
-    {
+    "5035": {
         "id": 2,
         "activityId": 5035,
         "previewRewardId": 30500,
@@ -52,4 +52,4 @@
         "guideChildQuestId": 7265102,
         "JGMLGBCPKPA": 201310
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "MPEPDJBHOKK": "LUNA_RITE_REGION_TYPE_LIYUE",
         "openDay": 1,
@@ -23,7 +23,7 @@
         "AMMMILCNNHB": 10,
         "JPJGDHHCEGL": 5
     },
-    {
+    "2": {
         "Id": 2,
         "MPEPDJBHOKK": "LUNA_RITE_REGION_TYPE_MENGDE",
         "openDay": 5,
@@ -47,7 +47,7 @@
         "AMMMILCNNHB": 10,
         "JPJGDHHCEGL": 5
     },
-    {
+    "3": {
         "Id": 3,
         "MPEPDJBHOKK": "LUNA_RITE_REGION_TYPE_DRAGONSPINE",
         "openDay": 9,
@@ -71,4 +71,4 @@
         "AMMMILCNNHB": 10,
         "JPJGDHHCEGL": 5
     }
-]
+}

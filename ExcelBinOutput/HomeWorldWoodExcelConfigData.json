@@ -1,5 +1,5 @@
-[
-    {
+{
+    "101301": {
         "KJIGJJCPHGN": 101301,
         "CBFLAHPJCDI": 10,
         "FCCGPFCODOL": [
@@ -30,7 +30,7 @@
             ]
         ]
     },
-    {
+    "101302": {
         "KJIGJJCPHGN": 101302,
         "CBFLAHPJCDI": 20,
         "FCCGPFCODOL": [
@@ -61,7 +61,7 @@
             ]
         ]
     },
-    {
+    "101303": {
         "KJIGJJCPHGN": 101303,
         "CBFLAHPJCDI": 30,
         "FCCGPFCODOL": [
@@ -92,7 +92,7 @@
             ]
         ]
     },
-    {
+    "101304": {
         "KJIGJJCPHGN": 101304,
         "CBFLAHPJCDI": 40,
         "FCCGPFCODOL": [
@@ -123,7 +123,7 @@
             ]
         ]
     },
-    {
+    "101305": {
         "KJIGJJCPHGN": 101305,
         "CBFLAHPJCDI": 50,
         "FCCGPFCODOL": [
@@ -154,7 +154,7 @@
             ]
         ]
     },
-    {
+    "101307": {
         "KJIGJJCPHGN": 101307,
         "CBFLAHPJCDI": 60,
         "FCCGPFCODOL": [
@@ -185,7 +185,7 @@
             ]
         ]
     },
-    {
+    "101308": {
         "KJIGJJCPHGN": 101308,
         "CBFLAHPJCDI": 70,
         "FCCGPFCODOL": [
@@ -216,7 +216,7 @@
             ]
         ]
     },
-    {
+    "101309": {
         "KJIGJJCPHGN": 101309,
         "CBFLAHPJCDI": 80,
         "FCCGPFCODOL": [
@@ -247,7 +247,7 @@
             ]
         ]
     },
-    {
+    "101310": {
         "KJIGJJCPHGN": 101310,
         "CBFLAHPJCDI": 90,
         "FCCGPFCODOL": [
@@ -278,7 +278,7 @@
             ]
         ]
     },
-    {
+    "101311": {
         "KJIGJJCPHGN": 101311,
         "CBFLAHPJCDI": 100,
         "FCCGPFCODOL": [
@@ -309,7 +309,7 @@
             ]
         ]
     },
-    {
+    "101312": {
         "KJIGJJCPHGN": 101312,
         "CBFLAHPJCDI": 110,
         "FCCGPFCODOL": [
@@ -340,7 +340,7 @@
             ]
         ]
     },
-    {
+    "101313": {
         "KJIGJJCPHGN": 101313,
         "CBFLAHPJCDI": 120,
         "FCCGPFCODOL": [
@@ -371,7 +371,7 @@
             ]
         ]
     },
-    {
+    "101314": {
         "KJIGJJCPHGN": 101314,
         "CBFLAHPJCDI": 130,
         "FCCGPFCODOL": [
@@ -402,7 +402,7 @@
             ]
         ]
     },
-    {
+    "101315": {
         "KJIGJJCPHGN": 101315,
         "CBFLAHPJCDI": 140,
         "FCCGPFCODOL": [
@@ -433,4 +433,4 @@
             ]
         ]
     }
-]
+}

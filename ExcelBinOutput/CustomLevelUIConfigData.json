@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "configId": 1,
         "openDay": 1,
         "watcherIdList": [
@@ -13,7 +13,7 @@
             600
         ]
     },
-    {
+    "2": {
         "configId": 2,
         "openDay": 2,
         "watcherIdList": [
@@ -27,7 +27,7 @@
             600
         ]
     },
-    {
+    "3": {
         "configId": 3,
         "openDay": 3,
         "watcherIdList": [
@@ -41,7 +41,7 @@
             600
         ]
     },
-    {
+    "4": {
         "configId": 4,
         "openDay": 4,
         "watcherIdList": [
@@ -55,7 +55,7 @@
             600
         ]
     },
-    {
+    "5": {
         "configId": 5,
         "openDay": 5,
         "watcherIdList": [
@@ -69,7 +69,7 @@
             600
         ]
     },
-    {
+    "6": {
         "configId": 6,
         "watcherIdList": [
             15065016,
@@ -78,4 +78,4 @@
         ],
         "JNJDMKJPJDJ": []
     }
-]
+}

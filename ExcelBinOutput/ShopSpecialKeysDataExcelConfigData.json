@@ -1,18 +1,18 @@
-[
-    {
+{
+    "201013": {
         "goodsId": 201013,
         "EJFOIIJHJPJ": 300
     },
-    {
+    "301016": {
         "goodsId": 301016,
         "EJFOIIJHJPJ": 300
     },
-    {
+    "405015": {
         "goodsId": 405015,
         "EJFOIIJHJPJ": 300
     },
-    {
+    "102506": {
         "goodsId": 102506,
         "EJFOIIJHJPJ": 100
     }
-]
+}

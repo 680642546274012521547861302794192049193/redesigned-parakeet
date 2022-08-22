@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "activityId": 5066,
         "scheduleId": 5066001,
@@ -27,4 +27,4 @@
         "LHHNAHGGFGA": 5,
         "MKNHBMKFIGD": 71655
     }
-]
+}

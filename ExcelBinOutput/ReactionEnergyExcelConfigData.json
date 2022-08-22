@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Burning": {
         "type": "Burning",
         "minDurability": 100.0,
         "maxDurability": 150.0,
@@ -12,7 +12,7 @@
         "costPeriod": 3.0,
         "dropProb": 63
     },
-    {
+    "Freeze": {
         "type": "Freeze",
         "minDurability": 80.0,
         "maxDurability": 120.0,
@@ -23,4 +23,4 @@
         "poolReviveEnergy": 4.0,
         "dropProb": 50
     }
-]
+}

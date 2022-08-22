@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10001": {
         "setId": 10001,
         "setIcon": "UI_RelicIcon_10001_4",
         "setNeedNum": [
@@ -21,7 +21,7 @@
             3930680251
         ]
     },
-    {
+    "10002": {
         "setId": 10002,
         "setIcon": "UI_RelicIcon_10002_4",
         "setNeedNum": [
@@ -43,7 +43,7 @@
             2520149811
         ]
     },
-    {
+    "10003": {
         "setId": 10003,
         "setIcon": "UI_RelicIcon_10003_4",
         "setNeedNum": [
@@ -65,7 +65,7 @@
             594914603
         ]
     },
-    {
+    "10004": {
         "setId": 10004,
         "setIcon": "UI_RelicIcon_10004_4",
         "setNeedNum": [
@@ -87,7 +87,7 @@
             1164604419
         ]
     },
-    {
+    "10005": {
         "setId": 10005,
         "setIcon": "UI_RelicIcon_10005_4",
         "setNeedNum": [
@@ -109,7 +109,7 @@
             3934658059
         ]
     },
-    {
+    "10006": {
         "setId": 10006,
         "setIcon": "UI_RelicIcon_10006_4",
         "setNeedNum": [
@@ -131,7 +131,7 @@
             1744056099
         ]
     },
-    {
+    "10007": {
         "setId": 10007,
         "setIcon": "UI_RelicIcon_10007_4",
         "setNeedNum": [
@@ -153,7 +153,7 @@
             1666101139
         ]
     },
-    {
+    "10008": {
         "setId": 10008,
         "setIcon": "UI_RelicIcon_10008_4",
         "setNeedNum": [
@@ -175,7 +175,7 @@
             3500507723
         ]
     },
-    {
+    "10009": {
         "setId": 10009,
         "setIcon": "UI_RelicIcon_10009_4",
         "setNeedNum": [
@@ -197,7 +197,7 @@
             3039984011
         ]
     },
-    {
+    "10010": {
         "setId": 10010,
         "setIcon": "UI_RelicIcon_10010_4",
         "setNeedNum": [
@@ -219,7 +219,7 @@
             575390611
         ]
     },
-    {
+    "10011": {
         "setId": 10011,
         "setIcon": "UI_RelicIcon_10011_4",
         "setNeedNum": [
@@ -241,7 +241,7 @@
             1065267667
         ]
     },
-    {
+    "10012": {
         "setId": 10012,
         "setIcon": "UI_RelicIcon_10012_4",
         "setNeedNum": [
@@ -263,7 +263,7 @@
             1160154787
         ]
     },
-    {
+    "10013": {
         "setId": 10013,
         "setIcon": "UI_RelicIcon_10013_4",
         "setNeedNum": [
@@ -285,7 +285,7 @@
             3607087251
         ]
     },
-    {
+    "14001": {
         "setId": 14001,
         "setIcon": "UI_RelicIcon_14001_4",
         "setNeedNum": [
@@ -310,7 +310,7 @@
             3455611563
         ]
     },
-    {
+    "14002": {
         "setId": 14002,
         "setIcon": "UI_RelicIcon_14002_4",
         "setNeedNum": [
@@ -335,7 +335,7 @@
             1968896091
         ]
     },
-    {
+    "14003": {
         "setId": 14003,
         "setIcon": "UI_RelicIcon_14003_4",
         "setNeedNum": [
@@ -360,7 +360,7 @@
             2828057235
         ]
     },
-    {
+    "14004": {
         "setId": 14004,
         "setIcon": "UI_RelicIcon_14004_4",
         "setNeedNum": [
@@ -385,7 +385,7 @@
             150564555
         ]
     },
-    {
+    "15001": {
         "setId": 15001,
         "setIcon": "UI_RelicIcon_15001_4",
         "setNeedNum": [
@@ -407,7 +407,7 @@
             522318403
         ]
     },
-    {
+    "15002": {
         "setId": 15002,
         "setIcon": "UI_RelicIcon_15002_4",
         "setNeedNum": [
@@ -432,7 +432,7 @@
             3906211907
         ]
     },
-    {
+    "15003": {
         "setId": 15003,
         "setIcon": "UI_RelicIcon_15003_4",
         "setNeedNum": [
@@ -454,7 +454,7 @@
             205455459
         ]
     },
-    {
+    "15004": {
         "setId": 15004,
         "setIcon": "UI_RelicIcon_15004_4",
         "setNeedNum": [
@@ -476,7 +476,7 @@
             3239325019
         ]
     },
-    {
+    "15005": {
         "setId": 15005,
         "setIcon": "UI_RelicIcon_15005_4",
         "setNeedNum": [
@@ -501,7 +501,7 @@
             580927259
         ]
     },
-    {
+    "15006": {
         "setId": 15006,
         "setIcon": "UI_RelicIcon_15006_4",
         "setNeedNum": [
@@ -526,7 +526,7 @@
             731621371
         ]
     },
-    {
+    "15007": {
         "setId": 15007,
         "setIcon": "UI_RelicIcon_15007_4",
         "setNeedNum": [
@@ -551,7 +551,7 @@
             2003140467
         ]
     },
-    {
+    "15008": {
         "setId": 15008,
         "setIcon": "UI_RelicIcon_15008_4",
         "setNeedNum": [
@@ -576,7 +576,7 @@
             2723354699
         ]
     },
-    {
+    "15009": {
         "setId": 15009,
         "setIcon": "UI_RelicIcon_15009_3",
         "setNeedNum": [
@@ -593,7 +593,7 @@
             1178752179
         ]
     },
-    {
+    "15010": {
         "setId": 15010,
         "setIcon": "UI_RelicIcon_15010_3",
         "setNeedNum": [
@@ -610,7 +610,7 @@
             2961475019
         ]
     },
-    {
+    "15011": {
         "setId": 15011,
         "setIcon": "UI_RelicIcon_15011_3",
         "setNeedNum": [
@@ -627,7 +627,7 @@
             1198100419
         ]
     },
-    {
+    "15012": {
         "setId": 15012,
         "setIcon": "UI_RelicIcon_15012_3",
         "setNeedNum": [
@@ -644,7 +644,7 @@
             2520461163
         ]
     },
-    {
+    "15013": {
         "setId": 15013,
         "setIcon": "UI_RelicIcon_15013_3",
         "setNeedNum": [
@@ -661,7 +661,7 @@
             3773807931
         ]
     },
-    {
+    "15014": {
         "setId": 15014,
         "setIcon": "UI_RelicIcon_15014_4",
         "setNeedNum": [
@@ -686,7 +686,7 @@
             592694043
         ]
     },
-    {
+    "15015": {
         "setId": 15015,
         "setIcon": "UI_RelicIcon_15015_4",
         "setNeedNum": [
@@ -711,7 +711,7 @@
             3824293219
         ]
     },
-    {
+    "15016": {
         "setId": 15016,
         "setIcon": "UI_RelicIcon_15016_4",
         "setNeedNum": [
@@ -736,7 +736,7 @@
             2102945267
         ]
     },
-    {
+    "15017": {
         "setId": 15017,
         "setIcon": "UI_RelicIcon_15017_4",
         "setNeedNum": [
@@ -761,7 +761,7 @@
             1301524275
         ]
     },
-    {
+    "15018": {
         "setId": 15018,
         "setIcon": "UI_RelicIcon_15018_4",
         "setNeedNum": [
@@ -786,7 +786,7 @@
             220839051
         ]
     },
-    {
+    "15019": {
         "setId": 15019,
         "setIcon": "UI_RelicIcon_15019_4",
         "setNeedNum": [
@@ -811,7 +811,7 @@
             1909146235
         ]
     },
-    {
+    "15020": {
         "setId": 15020,
         "setIcon": "UI_RelicIcon_15020_4",
         "setNeedNum": [
@@ -836,7 +836,7 @@
             3063165291
         ]
     },
-    {
+    "15021": {
         "setId": 15021,
         "setIcon": "UI_RelicIcon_15021_4",
         "setNeedNum": [
@@ -861,7 +861,7 @@
             3712988195
         ]
     },
-    {
+    "15022": {
         "setId": 15022,
         "setIcon": "UI_RelicIcon_15022_4",
         "setNeedNum": [
@@ -886,7 +886,7 @@
             3326279315
         ]
     },
-    {
+    "15023": {
         "setId": 15023,
         "setIcon": "UI_RelicIcon_15023_4",
         "setNeedNum": [
@@ -911,7 +911,7 @@
             160031931
         ]
     },
-    {
+    "15024": {
         "setId": 15024,
         "setIcon": "UI_RelicIcon_15024_4",
         "setNeedNum": [
@@ -936,7 +936,7 @@
             2264156139
         ]
     },
-    {
+    "15025": {
         "setId": 15025,
         "setIcon": "UI_RelicIcon_15025_4",
         "setNeedNum": [
@@ -961,7 +961,7 @@
             2351156307
         ]
     },
-    {
+    "15026": {
         "setId": 15026,
         "setIcon": "UI_RelicIcon_15026_4",
         "setNeedNum": [
@@ -986,7 +986,7 @@
             2786980939
         ]
     },
-    {
+    "15000": {
         "setId": 15000,
         "setIcon": "",
         "setNeedNum": [
@@ -1007,4 +1007,4 @@
             3191443955
         ]
     }
-]
+}

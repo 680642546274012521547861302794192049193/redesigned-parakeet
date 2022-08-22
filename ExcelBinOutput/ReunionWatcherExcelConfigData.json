@@ -1,5 +1,5 @@
-[
-    {
+{
+    "52001": {
         "watcherGroupId": 1001,
         "descTextMapHash": 730521825,
         "activateLevelRange": "10,61",
@@ -15,7 +15,7 @@
         },
         "progress": 1
     },
-    {
+    "52002": {
         "watcherGroupId": 1001,
         "descTextMapHash": 4028225945,
         "activateLevelRange": "10,61",
@@ -31,7 +31,7 @@
         },
         "progress": 4
     },
-    {
+    "52003": {
         "watcherGroupId": 1001,
         "descTextMapHash": 1009223673,
         "activateLevelRange": "10,61",
@@ -47,7 +47,7 @@
         },
         "progress": 100
     },
-    {
+    "52004": {
         "watcherGroupId": 1001,
         "descTextMapHash": 4083483937,
         "activateLevelRange": "10,61",
@@ -63,7 +63,7 @@
         },
         "progress": 3
     },
-    {
+    "52005": {
         "watcherGroupId": 1001,
         "descTextMapHash": 582186409,
         "activateLevelRange": "10,61",
@@ -79,7 +79,7 @@
         },
         "progress": 3
     },
-    {
+    "52006": {
         "watcherGroupId": 1001,
         "descTextMapHash": 2456226193,
         "activateLevelRange": "10,30",
@@ -90,12 +90,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52007": {
         "watcherGroupId": 1001,
         "descTextMapHash": 2089129169,
         "activateLevelRange": "30,40",
@@ -106,12 +106,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52008": {
         "watcherGroupId": 1001,
         "descTextMapHash": 4006022537,
         "activateLevelRange": "40,50",
@@ -122,12 +122,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52009": {
         "watcherGroupId": 1001,
         "descTextMapHash": 887325097,
         "activateLevelRange": "50,61",
@@ -138,12 +138,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52010": {
         "watcherGroupId": 1001,
         "descTextMapHash": 465367657,
         "activateLevelRange": "10,30",
@@ -154,12 +154,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "24010101;23030101;23010501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52011": {
         "watcherGroupId": 1001,
         "descTextMapHash": 1718836473,
         "activateLevelRange": "30,40",
@@ -170,12 +170,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "24010101;23030101;23010501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52012": {
         "watcherGroupId": 1001,
         "descTextMapHash": 683247257,
         "activateLevelRange": "40,50",
@@ -186,12 +186,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "24010101;23030101;23010501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52013": {
         "watcherGroupId": 1001,
         "descTextMapHash": 4079623457,
         "activateLevelRange": "50,61",
@@ -202,12 +202,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "24010101;23030101;23010501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52014": {
         "watcherGroupId": 1002,
         "descTextMapHash": 480976257,
         "activateLevelRange": "10,61",
@@ -223,7 +223,7 @@
         },
         "progress": 1
     },
-    {
+    "52015": {
         "watcherGroupId": 1002,
         "descTextMapHash": 2200871969,
         "activateLevelRange": "10,61",
@@ -239,7 +239,7 @@
         },
         "progress": 4
     },
-    {
+    "52016": {
         "watcherGroupId": 1002,
         "descTextMapHash": 637311593,
         "activateLevelRange": "10,61",
@@ -255,7 +255,7 @@
         },
         "progress": 1
     },
-    {
+    "52017": {
         "watcherGroupId": 1002,
         "descTextMapHash": 2815844401,
         "activateLevelRange": "10,61",
@@ -271,7 +271,7 @@
         },
         "progress": 1
     },
-    {
+    "52018": {
         "watcherGroupId": 1002,
         "descTextMapHash": 4252317929,
         "activateLevelRange": "10,61",
@@ -287,7 +287,7 @@
         },
         "progress": 1
     },
-    {
+    "52019": {
         "watcherGroupId": 1002,
         "descTextMapHash": 1075361137,
         "activateLevelRange": "10,61",
@@ -303,7 +303,7 @@
         },
         "progress": 3
     },
-    {
+    "52020": {
         "watcherGroupId": 1002,
         "descTextMapHash": 3263834633,
         "activateLevelRange": "10,30",
@@ -319,7 +319,7 @@
         },
         "progress": 40
     },
-    {
+    "52021": {
         "watcherGroupId": 1002,
         "descTextMapHash": 3794531057,
         "activateLevelRange": "30,40",
@@ -335,7 +335,7 @@
         },
         "progress": 60
     },
-    {
+    "52022": {
         "watcherGroupId": 1002,
         "descTextMapHash": 3393185641,
         "activateLevelRange": "40,50",
@@ -351,7 +351,7 @@
         },
         "progress": 80
     },
-    {
+    "52023": {
         "watcherGroupId": 1002,
         "descTextMapHash": 1817991577,
         "activateLevelRange": "50,61",
@@ -367,7 +367,7 @@
         },
         "progress": 100
     },
-    {
+    "52024": {
         "watcherGroupId": 1002,
         "descTextMapHash": 2736982673,
         "activateLevelRange": "10,30",
@@ -378,12 +378,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "24010101;23030101;23010501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52025": {
         "watcherGroupId": 1002,
         "descTextMapHash": 937968401,
         "activateLevelRange": "30,40",
@@ -394,12 +394,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "24010101;23030101;23010501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52026": {
         "watcherGroupId": 1002,
         "descTextMapHash": 1554114161,
         "activateLevelRange": "40,50",
@@ -410,12 +410,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "24010101;23030101;23010501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52027": {
         "watcherGroupId": 1002,
         "descTextMapHash": 2430387745,
         "activateLevelRange": "50,61",
@@ -426,12 +426,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "24010101;23030101;23010501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52028": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1761006009,
         "activateLevelRange": "10,61",
@@ -447,7 +447,7 @@
         },
         "progress": 1
     },
-    {
+    "52029": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2687212961,
         "activateLevelRange": "10,61",
@@ -463,7 +463,7 @@
         },
         "progress": 4
     },
-    {
+    "52030": {
         "watcherGroupId": 1003,
         "descTextMapHash": 254295945,
         "activateLevelRange": "28,61",
@@ -479,7 +479,7 @@
         },
         "progress": 1
     },
-    {
+    "52031": {
         "watcherGroupId": 1003,
         "descTextMapHash": 985134497,
         "activateLevelRange": "10,61",
@@ -495,7 +495,7 @@
         },
         "progress": 1
     },
-    {
+    "52033": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2876410161,
         "activateLevelRange": "10,30",
@@ -506,12 +506,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "21010101;21010201;21010301;21010401;21010501;21010601;21010701;21010901;21011201;21011301;21011401;21011501;21011601;21030101;21030201;21030301;21030401;21030501;21030601;20010101;20010201;20010301;20010401;20010501;20010601;20010701;20010801;20010901;20011001;20011101;20011201;20011202;20011301;20011401;20011501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 8
     },
-    {
+    "52034": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3876553249,
         "activateLevelRange": "30,40",
@@ -522,12 +522,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "21010101;21010201;21010301;21010401;21010501;21010601;21010701;21010901;21011201;21011301;21011401;21011501;21011601;21030101;21030201;21030301;21030401;21030501;21030601;20010101;20010201;20010301;20010401;20010501;20010601;20010701;20010801;20010901;20011001;20011101;20011201;20011202;20011301;20011401;20011501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 10
     },
-    {
+    "52035": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2839108065,
         "activateLevelRange": "40,50",
@@ -538,12 +538,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "21010101;21010201;21010301;21010401;21010501;21010601;21010701;21010901;21011201;21011301;21011401;21011501;21011601;21030101;21030201;21030301;21030401;21030501;21030601;20010101;20010201;20010301;20010401;20010501;20010601;20010701;20010801;20010901;20011001;20011101;20011201;20011202;20011301;20011401;20011501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 12
     },
-    {
+    "52036": {
         "watcherGroupId": 1003,
         "descTextMapHash": 749764705,
         "activateLevelRange": "50,61",
@@ -554,12 +554,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "21010101;21010201;21010301;21010401;21010501;21010601;21010701;21010901;21011201;21011301;21011401;21011501;21011601;21030101;21030201;21030301;21030401;21030501;21030601;20010101;20010201;20010301;20010401;20010501;20010601;20010701;20010801;20010901;20011001;20011101;20011201;20011202;20011301;20011401;20011501",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 14
     },
-    {
+    "52037": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1223674161,
         "activateLevelRange": "10,30",
@@ -575,7 +575,7 @@
         },
         "progress": 60
     },
-    {
+    "52038": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2599152033,
         "activateLevelRange": "30,40",
@@ -591,7 +591,7 @@
         },
         "progress": 80
     },
-    {
+    "52039": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2756186041,
         "activateLevelRange": "40,50",
@@ -607,7 +607,7 @@
         },
         "progress": 100
     },
-    {
+    "52040": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3360027537,
         "activateLevelRange": "50,61",
@@ -623,7 +623,7 @@
         },
         "progress": 120
     },
-    {
+    "52041": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1799224889,
         "activateLevelRange": "10,61",
@@ -640,7 +640,7 @@
         },
         "progress": 2
     },
-    {
+    "52042": {
         "watcherGroupId": 1003,
         "descTextMapHash": 615781033,
         "activateLevelRange": "10,61",
@@ -657,7 +657,7 @@
         },
         "progress": 8
     },
-    {
+    "52043": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1993138849,
         "activateLevelRange": "28,61",
@@ -674,7 +674,7 @@
         },
         "progress": 1
     },
-    {
+    "52044": {
         "watcherGroupId": 1003,
         "descTextMapHash": 981926313,
         "activateLevelRange": "10,61",
@@ -691,7 +691,7 @@
         },
         "progress": 1
     },
-    {
+    "52045": {
         "watcherGroupId": 1003,
         "descTextMapHash": 4096028873,
         "activateLevelRange": "10,61",
@@ -708,7 +708,7 @@
         },
         "progress": 1
     },
-    {
+    "52046": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3160397777,
         "activateLevelRange": "10,30",
@@ -720,12 +720,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "22010101;22010201;22010301;22010401;24010101;24010201;24010301;24020101;24020201;24020301;24020401;21020101;21020201;21020301;21020601;21020701",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 3
     },
-    {
+    "52047": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1447627633,
         "activateLevelRange": "30,40",
@@ -737,12 +737,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "22010101;22010201;22010301;22010401;24010101;24010201;24010301;24020101;24020201;24020301;24020401;21020101;21020201;21020301;21020601;21020701",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 4
     },
-    {
+    "52048": {
         "watcherGroupId": 1003,
         "descTextMapHash": 4001493465,
         "activateLevelRange": "40,50",
@@ -754,12 +754,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "22010101;22010201;22010301;22010401;24010101;24010201;24010301;24020101;24020201;24020301;24020401;21020101;21020201;21020301;21020601;21020701",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 5
     },
-    {
+    "52049": {
         "watcherGroupId": 1003,
         "descTextMapHash": 509188577,
         "activateLevelRange": "50,61",
@@ -771,12 +771,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "22010101;22010201;22010301;22010401;24010101;24010201;24010301;24020101;24020201;24020301;24020401;21020101;21020201;21020301;21020601;21020701",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 6
     },
-    {
+    "52050": {
         "watcherGroupId": 1003,
         "descTextMapHash": 557796329,
         "activateLevelRange": "10,30",
@@ -793,7 +793,7 @@
         },
         "progress": 120
     },
-    {
+    "52051": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3291041745,
         "activateLevelRange": "30,40",
@@ -810,7 +810,7 @@
         },
         "progress": 160
     },
-    {
+    "52052": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2614788401,
         "activateLevelRange": "40,50",
@@ -827,7 +827,7 @@
         },
         "progress": 200
     },
-    {
+    "52053": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1722352817,
         "activateLevelRange": "50,61",
@@ -844,7 +844,7 @@
         },
         "progress": 240
     },
-    {
+    "52054": {
         "watcherGroupId": 1003,
         "descTextMapHash": 4175660393,
         "activateLevelRange": "10,61",
@@ -861,7 +861,7 @@
         },
         "progress": 3
     },
-    {
+    "52055": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3370562817,
         "activateLevelRange": "10,61",
@@ -878,7 +878,7 @@
         },
         "progress": 12
     },
-    {
+    "52056": {
         "watcherGroupId": 1003,
         "descTextMapHash": 4190556945,
         "activateLevelRange": "31,61",
@@ -895,7 +895,7 @@
         },
         "progress": 1
     },
-    {
+    "52057": {
         "watcherGroupId": 1003,
         "descTextMapHash": 443221121,
         "activateLevelRange": "10,61",
@@ -912,7 +912,7 @@
         },
         "progress": 1
     },
-    {
+    "52058": {
         "watcherGroupId": 1003,
         "descTextMapHash": 37302049,
         "activateLevelRange": "10,61",
@@ -929,7 +929,7 @@
         },
         "progress": 1
     },
-    {
+    "52059": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3741743945,
         "activateLevelRange": "10,30",
@@ -941,12 +941,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401;20040501;25090101;20040601;24021101;20040401;20070101;22060101;26050701;24010401;26110101;26020301",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52060": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2660796553,
         "activateLevelRange": "30,40",
@@ -958,12 +958,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401;20040501;25090101;20040601;24021101;20040401;20070101;22060101;26050701;24010401;26110101;26020301",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52061": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3980589905,
         "activateLevelRange": "40,50",
@@ -975,12 +975,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401;20040501;25090101;20040601;24021101;20040401;20070101;22060101;26050701;24010401;26110101;26020301",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 2
     },
-    {
+    "52062": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2358571017,
         "activateLevelRange": "50,61",
@@ -992,12 +992,12 @@
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
                 "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401;20040501;25090101;20040601;24021101;20040401;20070101;22060101;26050701;24010401;26110101;26020301",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 2
     },
-    {
+    "52063": {
         "watcherGroupId": 1003,
         "descTextMapHash": 207400921,
         "activateLevelRange": "10,30",
@@ -1014,7 +1014,7 @@
         },
         "progress": 180
     },
-    {
+    "52064": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1651185473,
         "activateLevelRange": "30,40",
@@ -1031,7 +1031,7 @@
         },
         "progress": 240
     },
-    {
+    "52065": {
         "watcherGroupId": 1003,
         "descTextMapHash": 4218416769,
         "activateLevelRange": "40,50",
@@ -1048,7 +1048,7 @@
         },
         "progress": 300
     },
-    {
+    "52066": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2375253953,
         "activateLevelRange": "50,61",
@@ -1065,7 +1065,7 @@
         },
         "progress": 360
     },
-    {
+    "52067": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3572751193,
         "activateLevelRange": "10,61",
@@ -1082,7 +1082,7 @@
         },
         "progress": 4
     },
-    {
+    "52072": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2109616209,
         "activateLevelRange": "10,61",
@@ -1099,7 +1099,7 @@
         },
         "progress": 3
     },
-    {
+    "52073": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1927703193,
         "activateLevelRange": "10,61",
@@ -1116,7 +1116,7 @@
         },
         "progress": 16
     },
-    {
+    "52074": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1661756473,
         "activateLevelRange": "10,61",
@@ -1133,7 +1133,7 @@
         },
         "progress": 15
     },
-    {
+    "52075": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1838856529,
         "activateLevelRange": "10,30",
@@ -1150,7 +1150,7 @@
         },
         "progress": 360
     },
-    {
+    "52076": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2897084057,
         "activateLevelRange": "30,40",
@@ -1167,7 +1167,7 @@
         },
         "progress": 480
     },
-    {
+    "52077": {
         "watcherGroupId": 1003,
         "descTextMapHash": 532585673,
         "activateLevelRange": "40,50",
@@ -1184,7 +1184,7 @@
         },
         "progress": 660
     },
-    {
+    "52078": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2926574889,
         "activateLevelRange": "50,61",
@@ -1201,7 +1201,7 @@
         },
         "progress": 720
     },
-    {
+    "52079": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2998411841,
         "activateLevelRange": "10,61",
@@ -1218,7 +1218,7 @@
         },
         "progress": 10
     },
-    {
+    "52080": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3552064841,
         "activateLevelRange": "10,61",
@@ -1234,7 +1234,7 @@
         },
         "progress": 10
     },
-    {
+    "52081": {
         "watcherGroupId": 1003,
         "descTextMapHash": 2943601545,
         "activateLevelRange": "10,30",
@@ -1246,12 +1246,12 @@
             "triggerType": "TRIGGER_WEEKLY_BOSS_KILL",
             "paramList": [
                 "133002259:954",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 1
     },
-    {
+    "52082": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1110055137,
         "activateLevelRange": "30,40",
@@ -1263,12 +1263,12 @@
             "triggerType": "TRIGGER_WEEKLY_BOSS_KILL",
             "paramList": [
                 "133002259:954",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 2
     },
-    {
+    "52083": {
         "watcherGroupId": 1003,
         "descTextMapHash": 1586680993,
         "activateLevelRange": "40,50",
@@ -1280,12 +1280,12 @@
             "triggerType": "TRIGGER_WEEKLY_BOSS_KILL",
             "paramList": [
                 "133002259:954",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 3
     },
-    {
+    "52084": {
         "watcherGroupId": 1003,
         "descTextMapHash": 3406013721,
         "activateLevelRange": "50,61",
@@ -1297,9 +1297,9 @@
             "triggerType": "TRIGGER_WEEKLY_BOSS_KILL",
             "paramList": [
                 "133002259:954",
-                "\u53ef\u8054\u673a"
+                "可联机"
             ]
         },
         "progress": 4
     }
-]
+}

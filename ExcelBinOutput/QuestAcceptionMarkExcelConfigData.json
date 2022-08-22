@@ -1,5 +1,5 @@
-[
-    {
+{
+    "507101": {
         "configId": 507101,
         "KJFOKBINFFC": 7104405,
         "npcId": 2061,
@@ -14,7 +14,7 @@
         "descTextMapHash": 2699266440,
         "PDLHHCDDHIP": 3337136618
     },
-    {
+    "201301": {
         "configId": 201301,
         "KJFOKBINFFC": 7104201,
         "npcId": 2616,
@@ -29,7 +29,7 @@
         "descTextMapHash": 2331052560,
         "PDLHHCDDHIP": 831653426
     },
-    {
+    "7012301": {
         "configId": 7012301,
         "KJFOKBINFFC": 7012302,
         "npcId": 1668,
@@ -44,7 +44,7 @@
         "descTextMapHash": 818477736,
         "PDLHHCDDHIP": 3631395690
     },
-    {
+    "7214301": {
         "configId": 7214301,
         "KJFOKBINFFC": 7214501,
         "npcId": 3193,
@@ -59,7 +59,7 @@
         "descTextMapHash": 756584624,
         "PDLHHCDDHIP": 2103922858
     },
-    {
+    "201501": {
         "configId": 201501,
         "KJFOKBINFFC": 7302406,
         "npcId": 4198,
@@ -72,7 +72,7 @@
         "descTextMapHash": 124675480,
         "PDLHHCDDHIP": 4092063778
     },
-    {
+    "7300001": {
         "configId": 7300001,
         "KJFOKBINFFC": 7300002,
         "sceneId": 3,
@@ -84,7 +84,7 @@
         "descTextMapHash": 1402255320,
         "PDLHHCDDHIP": 429501098
     },
-    {
+    "7301301": {
         "configId": 7301301,
         "KJFOKBINFFC": 7301302,
         "sceneId": 3,
@@ -96,7 +96,7 @@
         "descTextMapHash": 4065429304,
         "PDLHHCDDHIP": 1337282322
     },
-    {
+    "7308101": {
         "configId": 7308101,
         "KJFOKBINFFC": 7308103,
         "sceneId": 3,
@@ -109,7 +109,7 @@
         "descTextMapHash": 2017129808,
         "PDLHHCDDHIP": 2040515994
     },
-    {
+    "7301401": {
         "configId": 7301401,
         "KJFOKBINFFC": 7301402,
         "sceneId": 3,
@@ -121,7 +121,7 @@
         "descTextMapHash": 1280031512,
         "PDLHHCDDHIP": 285916690
     },
-    {
+    "7306101": {
         "configId": 7306101,
         "KJFOKBINFFC": 7306133,
         "sceneId": 3,
@@ -133,4 +133,4 @@
         "descTextMapHash": 2131269080,
         "PDLHHCDDHIP": 869088730
     }
-]
+}

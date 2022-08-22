@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "PIFIIFPNJIL": 1,
         "gadgetId": 70350413,
         "LMPJGIFEPNC": 1,
@@ -13,7 +13,7 @@
         "attackSpeed": 4,
         "attackRange": -1
     },
-    {
+    "2": {
         "PIFIIFPNJIL": 2,
         "gadgetId": 70350414,
         "LMPJGIFEPNC": 1,
@@ -27,7 +27,7 @@
         "attackSpeed": 5,
         "attackRange": -1
     },
-    {
+    "3": {
         "PIFIIFPNJIL": 3,
         "gadgetId": 70350417,
         "LMPJGIFEPNC": 1,
@@ -41,7 +41,7 @@
         "attackSpeed": 4,
         "attackRange": -1
     },
-    {
+    "4": {
         "PIFIIFPNJIL": 4,
         "gadgetId": 70350416,
         "isEnableRotate": true,
@@ -56,7 +56,7 @@
         "attackSpeed": 4,
         "attackRange": -1
     },
-    {
+    "5": {
         "PIFIIFPNJIL": 5,
         "gadgetId": 70350415,
         "LMPJGIFEPNC": 1,
@@ -70,7 +70,7 @@
         "attackSpeed": 3,
         "attackRange": -1
     },
-    {
+    "6": {
         "PIFIIFPNJIL": 6,
         "gadgetId": 70350397,
         "LMPJGIFEPNC": 1,
@@ -84,7 +84,7 @@
         "attackSpeed": 2,
         "attackRange": -1
     },
-    {
+    "7": {
         "PIFIIFPNJIL": 7,
         "gadgetId": 70350412,
         "LMPJGIFEPNC": 1,
@@ -99,7 +99,7 @@
         "attackSpeed": -1,
         "attackRange": 4
     },
-    {
+    "10": {
         "PIFIIFPNJIL": 10,
         "gadgetId": 70350418,
         "LMPJGIFEPNC": 1,
@@ -114,7 +114,7 @@
         "attackSpeed": -1,
         "attackRange": 4
     },
-    {
+    "11": {
         "PIFIIFPNJIL": 11,
         "gadgetId": 70350419,
         "isEnableRotate": true,
@@ -130,4 +130,4 @@
         "attackSpeed": -1,
         "attackRange": 2
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "2010001": {
         "scheduleId": 2010001,
         "DIELFKCNCNP": 100,
         "ENLDLBPMNPE": [
@@ -28,4 +28,4 @@
         "FEGLAAAKNIM": 96.0,
         "pushTipsId": 6040
     }
-]
+}

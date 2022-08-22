@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "openDay": 1,
         "titleTextMapHash": 4137993845,
@@ -32,7 +32,7 @@
         ],
         "firstPassRewardId": 3015201
     },
-    {
+    "2": {
         "id": 2,
         "openDay": 4,
         "titleTextMapHash": 1167908237,
@@ -73,7 +73,7 @@
         ],
         "firstPassRewardId": 3015202
     },
-    {
+    "3": {
         "id": 3,
         "openDay": 7,
         "titleTextMapHash": 3848684877,
@@ -107,7 +107,7 @@
         ],
         "firstPassRewardId": 3015203
     },
-    {
+    "4": {
         "id": 4,
         "openDay": 10,
         "titleTextMapHash": 1174397405,
@@ -145,7 +145,7 @@
         ],
         "firstPassRewardId": 3015204
     },
-    {
+    "5": {
         "id": 5,
         "openDay": 1,
         "titleTextMapHash": 883537597,
@@ -183,7 +183,7 @@
         ],
         "firstPassRewardId": 3031012
     },
-    {
+    "6": {
         "id": 6,
         "openDay": 3,
         "titleTextMapHash": 1393522661,
@@ -216,7 +216,7 @@
         ],
         "firstPassRewardId": 3031013
     },
-    {
+    "7": {
         "id": 7,
         "openDay": 5,
         "titleTextMapHash": 218893437,
@@ -246,4 +246,4 @@
         ],
         "firstPassRewardId": 3031014
     }
-]
+}

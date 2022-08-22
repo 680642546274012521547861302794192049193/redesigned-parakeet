@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "levelNameTextMapHash": 224439824,
         "NCKDBCPIADH": 4,
@@ -32,7 +32,7 @@
         ],
         "ADCEOMHOOPJ": 2315252499
     },
-    {
+    "2": {
         "id": 2,
         "levelNameTextMapHash": 1120699320,
         "NCKDBCPIADH": 4,
@@ -68,7 +68,7 @@
         ],
         "ADCEOMHOOPJ": 1819619819
     },
-    {
+    "3": {
         "id": 3,
         "levelNameTextMapHash": 1265087192,
         "NCKDBCPIADH": 5,
@@ -105,7 +105,7 @@
         ],
         "ADCEOMHOOPJ": 2598570963
     },
-    {
+    "4": {
         "id": 4,
         "levelNameTextMapHash": 1644740232,
         "NCKDBCPIADH": 5,
@@ -142,4 +142,4 @@
         ],
         "ADCEOMHOOPJ": 1088395411
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "default": {
         "GFEDJACNCAM": "default",
         "LEGIDDKCCGA": 2.5,
         "ABPJAKFJHKK": [
@@ -62,7 +62,7 @@
             1.0
         ]
     },
-    {
+    "Ambor": {
         "GFEDJACNCAM": "Ambor",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -125,7 +125,7 @@
             1.0
         ]
     },
-    {
+    "Venti": {
         "GFEDJACNCAM": "Venti",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -188,7 +188,7 @@
             1.0
         ]
     },
-    {
+    "Fischl": {
         "GFEDJACNCAM": "Fischl",
         "LEGIDDKCCGA": 5.0,
         "ABPJAKFJHKK": [
@@ -259,7 +259,7 @@
             1.0
         ]
     },
-    {
+    "Diluc": {
         "GFEDJACNCAM": "Diluc",
         "LEGIDDKCCGA": 5.0,
         "ABPJAKFJHKK": [
@@ -328,7 +328,7 @@
             1.0
         ]
     },
-    {
+    "Hutao_ExtraAttack": {
         "GFEDJACNCAM": "Hutao_ExtraAttack",
         "LEGIDDKCCGA": 0.800000011920929,
         "ABPJAKFJHKK": [
@@ -391,7 +391,7 @@
             0.0
         ]
     },
-    {
+    "Skirmisher_Fat_SprayGun_Ice": {
         "GFEDJACNCAM": "Skirmisher_Fat_SprayGun_Ice",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -419,7 +419,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Mimik_Common": {
         "GFEDJACNCAM": "Mimik_Common",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -447,7 +447,7 @@
             0.0
         ]
     },
-    {
+    "Regisvine_Common": {
         "GFEDJACNCAM": "Regisvine_Common",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -475,7 +475,7 @@
             0.0
         ]
     },
-    {
+    "ElementReaction_Damage_Attenuation_1": {
         "GFEDJACNCAM": "ElementReaction_Damage_Attenuation_1",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -515,7 +515,7 @@
             0.0
         ]
     },
-    {
+    "ElementReaction_Damage_Attenuation_2": {
         "GFEDJACNCAM": "ElementReaction_Damage_Attenuation_2",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -555,7 +555,7 @@
             0.0
         ]
     },
-    {
+    "Oceanid_Crab_WaterStream": {
         "GFEDJACNCAM": "Oceanid_Crab_WaterStream",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -583,7 +583,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Animal_Boar_03_RushAttack": {
         "GFEDJACNCAM": "Animal_Boar_03_RushAttack",
         "LEGIDDKCCGA": 2.0,
         "ABPJAKFJHKK": [
@@ -611,7 +611,7 @@
             0.0
         ]
     },
-    {
+    "Abyss_Fire_FireEnergy_Attenuation": {
         "GFEDJACNCAM": "Abyss_Fire_FireEnergy_Attenuation",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -639,7 +639,7 @@
             0.0
         ]
     },
-    {
+    "Avatar_Pole_ExtraAttack": {
         "GFEDJACNCAM": "Avatar_Pole_ExtraAttack",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -702,7 +702,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Tartaglia_Attenuation_1": {
         "GFEDJACNCAM": "Monster_Tartaglia_Attenuation_1",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -730,7 +730,7 @@
             0.0
         ]
     },
-    {
+    "Ayaka_ExtraAttack": {
         "GFEDJACNCAM": "Ayaka_ExtraAttack",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -822,7 +822,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Konungmathr_Attenuation_1": {
         "GFEDJACNCAM": "Monster_Konungmathr_Attenuation_1",
         "LEGIDDKCCGA": 0.4000000059604645,
         "ABPJAKFJHKK": [
@@ -850,7 +850,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Konungmathr_Attenuation_2": {
         "GFEDJACNCAM": "Monster_Konungmathr_Attenuation_2",
         "LEGIDDKCCGA": 0.4000000059604645,
         "ABPJAKFJHKK": [
@@ -878,7 +878,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Effigy_Elite_Rock_StoneBall": {
         "GFEDJACNCAM": "Monster_Effigy_Elite_Rock_StoneBall",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -915,7 +915,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Xiao_DevilDash": {
         "GFEDJACNCAM": "Xiao_DevilDash",
         "LEGIDDKCCGA": 0.10000000149011612,
         "ABPJAKFJHKK": [
@@ -946,7 +946,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Primo_Attenuation_Breathe": {
         "GFEDJACNCAM": "Monster_Primo_Attenuation_Breathe",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -974,7 +974,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Primo_Attenuation_ScaleGadget": {
         "GFEDJACNCAM": "Monster_Primo_Attenuation_ScaleGadget",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1002,7 +1002,7 @@
             0.0
         ]
     },
-    {
+    "MonsterAffix_GeneralSkill_IceDamage_Prison": {
         "GFEDJACNCAM": "MonsterAffix_GeneralSkill_IceDamage_Prison",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1030,7 +1030,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Invoker_Deacon_Attenuation_1": {
         "GFEDJACNCAM": "Monster_Invoker_Deacon_Attenuation_1",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1058,7 +1058,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Invoker_Deacon_Attenuation_2": {
         "GFEDJACNCAM": "Monster_Invoker_Deacon_Attenuation_2",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1086,7 +1086,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Invoker_Herald_Attenuation_1": {
         "GFEDJACNCAM": "Monster_Invoker_Herald_Attenuation_1",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1114,7 +1114,7 @@
             0.25
         ]
     },
-    {
+    "Effigy_Ice_Attenuation_1": {
         "GFEDJACNCAM": "Effigy_Ice_Attenuation_1",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1142,7 +1142,7 @@
             0.0
         ]
     },
-    {
+    "Effigy_Ice_Attenuation_2": {
         "GFEDJACNCAM": "Effigy_Ice_Attenuation_2",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1170,7 +1170,7 @@
             0.0
         ]
     },
-    {
+    "Effigy_Fire_DiveCrush": {
         "GFEDJACNCAM": "Effigy_Fire_DiveCrush",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1198,7 +1198,7 @@
             0.0
         ]
     },
-    {
+    "Effigy_Fire_MultiFire": {
         "GFEDJACNCAM": "Effigy_Fire_MultiFire",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1226,7 +1226,7 @@
             0.0
         ]
     },
-    {
+    "Effigy_Fire_RollingCharge": {
         "GFEDJACNCAM": "Effigy_Fire_RollingCharge",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1254,7 +1254,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Dahaka_Breath": {
         "GFEDJACNCAM": "Monster_Dahaka_Breath",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1279,7 +1279,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Monster_Brute_Electric_None": {
         "GFEDJACNCAM": "Monster_Brute_Electric_None",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1310,7 +1310,7 @@
             0.0
         ]
     },
-    {
+    "SceneObj_ThunderFloor": {
         "GFEDJACNCAM": "SceneObj_ThunderFloor",
         "LEGIDDKCCGA": 5.0,
         "ABPJAKFJHKK": [
@@ -1346,7 +1346,7 @@
             1.0
         ]
     },
-    {
+    "Monster_Shougun_ElectricEye": {
         "GFEDJACNCAM": "Monster_Shougun_ElectricEye",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1365,7 +1365,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Monster_Abyss_Electric_ElectricCircle": {
         "GFEDJACNCAM": "Monster_Abyss_Electric_ElectricCircle",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1405,7 +1405,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Effigy_Water_SurgeStrike": {
         "GFEDJACNCAM": "Monster_Effigy_Water_SurgeStrike",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1427,7 +1427,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Monster_LaSignora_Attenuation_Impulse": {
         "GFEDJACNCAM": "Monster_LaSignora_Attenuation_Impulse",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -1455,7 +1455,7 @@
             0.0
         ]
     },
-    {
+    "Shenhe_ElementalArt_L_Bullet": {
         "GFEDJACNCAM": "Shenhe_ElementalArt_L_Bullet",
         "LEGIDDKCCGA": 0.10000000149011612,
         "ABPJAKFJHKK": [
@@ -1486,7 +1486,7 @@
             0.0
         ]
     },
-    {
+    "Monster_ForlornVessel_Lance_ChargeAtk": {
         "GFEDJACNCAM": "Monster_ForlornVessel_Lance_ChargeAtk",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1523,7 +1523,7 @@
             0.0
         ]
     },
-    {
+    "Yae_ExtraAttack": {
         "GFEDJACNCAM": "Yae_ExtraAttack",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1554,7 +1554,7 @@
             0.0
         ]
     },
-    {
+    "Monster_ForlornVessel_Warbanner_NormalAtk": {
         "GFEDJACNCAM": "Monster_ForlornVessel_Warbanner_NormalAtk",
         "LEGIDDKCCGA": 0.10000000149011612,
         "ABPJAKFJHKK": [
@@ -1582,7 +1582,7 @@
             0.0
         ]
     },
-    {
+    "Monster_ForlornVessel_Chargebow_NormalAtk": {
         "GFEDJACNCAM": "Monster_ForlornVessel_Chargebow_NormalAtk",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1610,7 +1610,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Darkwraith_Strong_Wind_ChainAtk02": {
         "GFEDJACNCAM": "Monster_Darkwraith_Strong_Wind_ChainAtk02",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1638,7 +1638,7 @@
             0.0
         ]
     },
-    {
+    "Yelan_ExtraAttack": {
         "GFEDJACNCAM": "Yelan_ExtraAttack",
         "LEGIDDKCCGA": 0.30000001192092896,
         "ABPJAKFJHKK": [
@@ -1660,7 +1660,7 @@
             0.0
         ]
     },
-    {
+    "Yelan_ElementalBurst": {
         "GFEDJACNCAM": "Yelan_ElementalBurst",
         "LEGIDDKCCGA": 2.0,
         "ABPJAKFJHKK": [
@@ -1723,7 +1723,7 @@
             1.0
         ]
     },
-    {
+    "Gargoyle_Airborne_Normalatk": {
         "GFEDJACNCAM": "Gargoyle_Airborne_Normalatk",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1751,7 +1751,7 @@
             0.0
         ]
     },
-    {
+    "Gargoyle_Ground_ChargeAtk": {
         "GFEDJACNCAM": "Gargoyle_Ground_ChargeAtk",
         "LEGIDDKCCGA": 0.30000001192092896,
         "ABPJAKFJHKK": [
@@ -1773,7 +1773,7 @@
             0.0
         ]
     },
-    {
+    "Gargoyle_ElementAtk": {
         "GFEDJACNCAM": "Gargoyle_ElementAtk",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -1804,7 +1804,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Airborne_ChestAtk": {
         "GFEDJACNCAM": "Airborne_ChestAtk",
         "LEGIDDKCCGA": 0.30000001192092896,
         "ABPJAKFJHKK": [
@@ -1835,7 +1835,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Collei_Boomerang_Go": {
         "GFEDJACNCAM": "Collei_Boomerang_Go",
         "LEGIDDKCCGA": 5.0,
         "ABPJAKFJHKK": [
@@ -1878,7 +1878,7 @@
             0.0
         ]
     },
-    {
+    "Collei_Boomerang_Back": {
         "GFEDJACNCAM": "Collei_Boomerang_Back",
         "LEGIDDKCCGA": 5.0,
         "ABPJAKFJHKK": [
@@ -1921,7 +1921,7 @@
             0.0
         ]
     },
-    {
+    "DendroTornado_Atk": {
         "GFEDJACNCAM": "DendroTornado_Atk",
         "LEGIDDKCCGA": 2.0,
         "ABPJAKFJHKK": [
@@ -1964,7 +1964,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Tighnari": {
         "GFEDJACNCAM": "Tighnari",
         "LEGIDDKCCGA": 2.5,
         "ABPJAKFJHKK": [
@@ -2011,7 +2011,7 @@
             1.0
         ]
     },
-    {
+    "Collei_Elemental_Burst": {
         "GFEDJACNCAM": "Collei_Elemental_Burst",
         "LEGIDDKCCGA": 3.0,
         "ABPJAKFJHKK": [
@@ -2058,7 +2058,7 @@
             1.0
         ]
     },
-    {
+    "Dori_Elemental_Burst": {
         "GFEDJACNCAM": "Dori_Elemental_Burst",
         "LEGIDDKCCGA": 3.0,
         "ABPJAKFJHKK": [
@@ -2104,7 +2104,7 @@
             1.0
         ]
     },
-    {
+    "Fungus_Amanita_Du_Anudatta_ShootBullet": {
         "GFEDJACNCAM": "Fungus_Amanita_Du_Anudatta_ShootBullet",
         "LEGIDDKCCGA": 3.0,
         "ABPJAKFJHKK": [
@@ -2135,7 +2135,7 @@
             0.0
         ]
     },
-    {
+    "ElementReaction_Burning_Attenuation": {
         "GFEDJACNCAM": "ElementReaction_Burning_Attenuation",
         "LEGIDDKCCGA": 2.0,
         "ABPJAKFJHKK": [
@@ -2179,7 +2179,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Fungus_Raptor_ChargeAttack": {
         "GFEDJACNCAM": "Monster_Fungus_Raptor_ChargeAttack",
         "LEGIDDKCCGA": 3.0,
         "ABPJAKFJHKK": [
@@ -2213,7 +2213,7 @@
             0.0
         ]
     },
-    {
+    "Monster_Fungus_Raptor_ShootAttack": {
         "GFEDJACNCAM": "Monster_Fungus_Raptor_ShootAttack",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -2239,7 +2239,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "Monster_Fungus_Raptor_PowerAttack": {
         "GFEDJACNCAM": "Monster_Fungus_Raptor_PowerAttack",
         "LEGIDDKCCGA": 1.0,
         "ABPJAKFJHKK": [
@@ -2279,7 +2279,7 @@
             0.009999999776482582
         ]
     },
-    {
+    "Monster_Fungus_Raptor_ConfuseMeleeAttack": {
         "GFEDJACNCAM": "Monster_Fungus_Raptor_ConfuseMeleeAttack",
         "LEGIDDKCCGA": 6.0,
         "ABPJAKFJHKK": [
@@ -2301,7 +2301,7 @@
             0.5
         ]
     },
-    {
+    "Monster_Gadget_Attenuation_01": {
         "GFEDJACNCAM": "Monster_Gadget_Attenuation_01",
         "LEGIDDKCCGA": 0.5,
         "ABPJAKFJHKK": [
@@ -2362,4 +2362,4 @@
             0.0
         ]
     }
-]
+}

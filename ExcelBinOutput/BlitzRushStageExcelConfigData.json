@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "openDay": 1,
         "watcherIdList": [],
@@ -9,7 +9,7 @@
         "HBLPGAMBMGO": 7265203,
         "pushTipsId": 6021
     },
-    {
+    "2": {
         "id": 2,
         "openDay": 3,
         "watcherIdList": [
@@ -27,7 +27,7 @@
         "HBLPGAMBMGO": 7265302,
         "pushTipsId": 6022
     },
-    {
+    "3": {
         "id": 3,
         "openDay": 6,
         "watcherIdList": [
@@ -45,7 +45,7 @@
         "HBLPGAMBMGO": 7265402,
         "pushTipsId": 6023
     },
-    {
+    "4": {
         "id": 4,
         "openDay": 9,
         "watcherIdList": [],
@@ -55,4 +55,4 @@
         "HBLPGAMBMGO": 7265504,
         "pushTipsId": 6024
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "chapterId": 1,
         "descTextMapHash": 683474864,
@@ -15,7 +15,7 @@
             6
         ]
     },
-    {
+    "2": {
         "id": 2,
         "chapterId": 2,
         "descTextMapHash": 1251275024,
@@ -34,7 +34,7 @@
         ],
         "rewardPreviewId": 30301
     },
-    {
+    "3": {
         "id": 3,
         "chapterId": 3,
         "descTextMapHash": 922812496,
@@ -54,7 +54,7 @@
         ],
         "rewardPreviewId": 30302
     },
-    {
+    "4": {
         "id": 4,
         "chapterId": 4,
         "descTextMapHash": 3198727024,
@@ -75,4 +75,4 @@
         ],
         "rewardPreviewId": 30303
     }
-]
+}

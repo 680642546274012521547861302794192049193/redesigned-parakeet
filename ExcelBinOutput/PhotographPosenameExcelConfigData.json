@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3844864745,
@@ -13,7 +13,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "10302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -28,7 +28,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "10303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -43,7 +43,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "3301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3423816857,
@@ -57,7 +57,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "3302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -72,7 +72,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "3303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -87,7 +87,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "4301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3919972993,
@@ -101,7 +101,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "4302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -116,7 +116,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "4303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -131,7 +131,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "1301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3167224609,
@@ -145,7 +145,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "1302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -160,7 +160,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "1303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -175,7 +175,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "5301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2904578369,
@@ -189,7 +189,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "5302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -204,7 +204,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "5303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -219,7 +219,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "2301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1050057769,
@@ -233,7 +233,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "2302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -248,7 +248,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "2303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -263,7 +263,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "6301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1242136033,
@@ -277,7 +277,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "6302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -292,7 +292,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "6303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -307,7 +307,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "7301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3792238889,
@@ -321,7 +321,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "7302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -336,7 +336,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "7303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -351,7 +351,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "8301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2765154929,
@@ -365,7 +365,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "8302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -380,7 +380,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "8303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -395,7 +395,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "9301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1595610513,
@@ -409,7 +409,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "9302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -424,7 +424,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "9303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -439,7 +439,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "11301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3698113049,
@@ -453,7 +453,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "11302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -468,7 +468,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "11303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -483,7 +483,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "12301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2150474921,
@@ -497,7 +497,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "12302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -512,7 +512,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "12303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -527,7 +527,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "14301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2978942721,
@@ -541,7 +541,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "14302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -556,7 +556,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "14303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -571,7 +571,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "13301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2310599025,
@@ -585,7 +585,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "13302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -600,7 +600,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "13303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -615,7 +615,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "16301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 798184913,
@@ -629,7 +629,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "16302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -644,7 +644,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "16303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -659,7 +659,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "15301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2567341641,
@@ -673,7 +673,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "15302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -688,7 +688,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "15303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -703,7 +703,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "18301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3160033793,
@@ -717,7 +717,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "18302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -732,7 +732,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "18303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -747,7 +747,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "17301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 271132129,
@@ -761,7 +761,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "17302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -776,7 +776,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "17303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -791,7 +791,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "19301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 669393233,
@@ -805,7 +805,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "19302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -820,7 +820,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "19303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -835,7 +835,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "20301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1545563321,
@@ -849,7 +849,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "20302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -864,7 +864,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "20303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -879,7 +879,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "23301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3168637361,
@@ -893,7 +893,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "23302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -908,7 +908,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "23303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -923,7 +923,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "21301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3590348377,
@@ -937,7 +937,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "21302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -952,7 +952,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "21303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -967,7 +967,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "24301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3684642361,
@@ -981,7 +981,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "24302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -996,7 +996,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "24303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1011,7 +1011,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "22301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1397563137,
@@ -1025,7 +1025,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "22302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1040,7 +1040,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "22303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1055,7 +1055,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "25301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3846103713,
@@ -1069,7 +1069,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "25302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1084,7 +1084,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "25303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1099,7 +1099,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "35301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3291642513,
@@ -1113,7 +1113,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "35302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1128,7 +1128,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "35303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1143,7 +1143,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "34301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 762131825,
@@ -1157,7 +1157,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "34302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1172,7 +1172,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "34303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1187,7 +1187,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "30301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 846691169,
@@ -1201,7 +1201,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "30302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1216,7 +1216,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "30303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1231,7 +1231,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "32301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2089148929,
@@ -1245,7 +1245,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "32302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1260,7 +1260,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "32303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1275,7 +1275,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "31301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2881127553,
@@ -1289,7 +1289,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "31302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1304,7 +1304,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "31303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1319,7 +1319,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "33301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 4011043401,
@@ -1333,7 +1333,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "33302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1348,7 +1348,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "33303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1363,7 +1363,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "36301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1744092793,
@@ -1377,7 +1377,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "36302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1392,7 +1392,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "36303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1407,7 +1407,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "37301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3593513577,
@@ -1421,7 +1421,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "37302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1436,7 +1436,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "37303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1451,7 +1451,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "38301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3020546121,
@@ -1465,7 +1465,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "38302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1480,7 +1480,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "38303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1495,7 +1495,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "39301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 875046529,
@@ -1509,7 +1509,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "39302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1524,7 +1524,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "39303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1539,7 +1539,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "47301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3581733945,
@@ -1553,7 +1553,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "47302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1568,7 +1568,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "47303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1583,7 +1583,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "49301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2655456113,
@@ -1597,7 +1597,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "49302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1612,7 +1612,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "49303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1627,7 +1627,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "53301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1862936089,
@@ -1641,7 +1641,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "53302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1656,7 +1656,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "53303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1671,7 +1671,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "52301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 231971713,
@@ -1685,7 +1685,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "52302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1700,7 +1700,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "52303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1715,7 +1715,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "54301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1022834953,
@@ -1729,7 +1729,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "54302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1744,7 +1744,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "54303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1759,7 +1759,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "56301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1278510977,
@@ -1773,7 +1773,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "56302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1788,7 +1788,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "56303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1803,7 +1803,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "62301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3194783953,
@@ -1817,7 +1817,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "62302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1832,7 +1832,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "62303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1847,7 +1847,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "50301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2644511721,
@@ -1861,7 +1861,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "50302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1876,7 +1876,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "50303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1891,7 +1891,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "55301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2461122441,
@@ -1905,7 +1905,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "55302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1920,7 +1920,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "55303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1935,7 +1935,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "57301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 3800152673,
@@ -1949,7 +1949,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "57302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -1964,7 +1964,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "57303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -1979,7 +1979,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "63301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2630314209,
@@ -1993,7 +1993,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "63302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2008,7 +2008,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "63303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2023,7 +2023,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "64301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 302685633,
@@ -2037,7 +2037,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "64302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2052,7 +2052,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "64303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2067,7 +2067,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "58301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 47342601,
@@ -2081,7 +2081,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "58302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2096,7 +2096,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "58303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2111,7 +2111,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "66301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 1356893153,
@@ -2125,7 +2125,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "66302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2140,7 +2140,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "66303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2155,7 +2155,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "60301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2772806081,
@@ -2169,7 +2169,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "60302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2184,7 +2184,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "60303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2199,7 +2199,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "65301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 574867337,
@@ -2213,7 +2213,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "65302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2228,7 +2228,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "65303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2243,7 +2243,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "59301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2616025929,
@@ -2257,7 +2257,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "59302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2272,7 +2272,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "59303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2287,7 +2287,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "67301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2220162313,
@@ -2301,7 +2301,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "67302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2316,7 +2316,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "67303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2331,7 +2331,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "68301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2392834505,
@@ -2345,7 +2345,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "68302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2360,7 +2360,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "68303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2375,7 +2375,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "69301": {
         "poseFile": "Standby",
         "poseIcon": "UI_PoseIcon_Default",
         "poseNameTextMapHash": 2106118993,
@@ -2389,7 +2389,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "69302": {
         "poseFile": "Think01",
         "animatorstateId": 20101,
         "poseIcon": "UI_PoseIcon_Thinking",
@@ -2404,7 +2404,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "69303": {
         "poseFile": "Akimbo02",
         "animatorstateId": 20111,
         "poseIcon": "UI_PoseIcon_Akimbo",
@@ -2419,4 +2419,4 @@
         ],
         "KPAGBEMIDFF": []
     }
-]
+}

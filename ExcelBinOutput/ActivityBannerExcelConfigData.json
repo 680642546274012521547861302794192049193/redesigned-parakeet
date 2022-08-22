@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5042": {
         "activityId": 5042,
         "HINECFCFFLE": "ACTIVITY_BANNER_MONSTER",
         "rewardPreviewId": 15174,
@@ -7,7 +7,7 @@
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_EffigyWater",
         "descTextMapHash": 1331077578
     },
-    {
+    "5043": {
         "activityId": 5043,
         "HINECFCFFLE": "ACTIVITY_BANNER_MONSTER",
         "rewardPreviewId": 15175,
@@ -15,7 +15,7 @@
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_Raijin",
         "descTextMapHash": 2110025370
     },
-    {
+    "5060": {
         "activityId": 5060,
         "HINECFCFFLE": "ACTIVITY_BANNER_MONSTER",
         "rewardPreviewId": 15176,
@@ -23,7 +23,7 @@
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_Hound",
         "descTextMapHash": 1365582098
     },
-    {
+    "5061": {
         "activityId": 5061,
         "HINECFCFFLE": "ACTIVITY_BANNER_MONSTER",
         "rewardPreviewId": 15177,
@@ -32,19 +32,19 @@
         "OKCLIELCELL": true,
         "descTextMapHash": 458552746
     },
-    {
+    "5063": {
         "activityId": 5063,
         "DHBNNPIMHNN": "ConfigShenhe",
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_Shenhe",
         "descTextMapHash": 1118890858
     },
-    {
+    "5064": {
         "activityId": 5064,
         "DHBNNPIMHNN": "ConfigMichiae",
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_Michiae",
         "descTextMapHash": 1849278290
     },
-    {
+    "5071": {
         "activityId": 5071,
         "HINECFCFFLE": "ACTIVITY_BANNER_MONSTER",
         "rewardPreviewId": 15178,
@@ -53,20 +53,20 @@
         "OKCLIELCELL": true,
         "descTextMapHash": 3851306674
     },
-    {
+    "5075": {
         "activityId": 5075,
         "DHBNNPIMHNN": "ConfigTheChasm",
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_TheChasm",
         "OKCLIELCELL": true,
         "descTextMapHash": 524978850
     },
-    {
+    "5077": {
         "activityId": 5077,
         "DHBNNPIMHNN": "ConfigAQTheChasm",
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_AQ_TheChasm",
         "descTextMapHash": 547111794
     },
-    {
+    "5086": {
         "activityId": 5086,
         "HINECFCFFLE": "ACTIVITY_BANNER_MONSTER",
         "rewardPreviewId": 15179,
@@ -74,7 +74,7 @@
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_Mushroom",
         "descTextMapHash": 3077608586
     },
-    {
+    "5089": {
         "activityId": 5089,
         "HINECFCFFLE": "ACTIVITY_BANNER_MONSTER",
         "rewardPreviewId": 15180,
@@ -82,10 +82,10 @@
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_Regisvine_Electric",
         "descTextMapHash": 2273100842
     },
-    {
+    "5093": {
         "activityId": 5093,
         "DHBNNPIMHNN": "ConfigTheSumeru",
         "prefabPath": "ART/UI/Menus/Widget/Activity/Activity_Sumeru",
         "descTextMapHash": 2378720362
     }
-]
+}

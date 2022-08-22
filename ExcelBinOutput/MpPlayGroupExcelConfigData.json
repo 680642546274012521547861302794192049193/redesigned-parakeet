@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "EntryId": 1,
         "playId": 1,
         "serverLuaCallGroupList": [],
@@ -78,7 +78,7 @@
         "limitRegion": "BigWorld_CrucibleArea_001",
         "abilityGroupList": []
     },
-    {
+    "2": {
         "EntryId": 2,
         "playId": 2,
         "serverLuaCallGroupList": [
@@ -162,7 +162,7 @@
         "limitRegion": "BigWorld_AsterArea_001",
         "abilityGroupList": []
     },
-    {
+    "3": {
         "EntryId": 3,
         "playId": 3,
         "serverLuaCallGroupList": [
@@ -243,7 +243,7 @@
         "abilityGroupList": [],
         "CCAAABIHCOO": true
     },
-    {
+    "4": {
         "EntryId": 4,
         "playId": 4,
         "serverLuaCallGroupList": [
@@ -341,7 +341,7 @@
             9
         ]
     },
-    {
+    "5": {
         "EntryId": 5,
         "playId": 5,
         "serverLuaCallGroupList": [
@@ -425,4 +425,4 @@
             10
         ]
     }
-]
+}

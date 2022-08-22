@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "JIBPCHELNGC": 1,
         "LCELDBBHCND": 2010402,
@@ -21,7 +21,7 @@
             2
         ]
     },
-    {
+    "2": {
         "stageId": 2,
         "JIBPCHELNGC": 3,
         "LCELDBBHCND": 2010403,
@@ -46,7 +46,7 @@
             4
         ]
     },
-    {
+    "3": {
         "stageId": 3,
         "JIBPCHELNGC": 7,
         "LCELDBBHCND": 2010404,
@@ -57,4 +57,4 @@
             5
         ]
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "90001": {
         "rewardTokens": 60,
         "descTextMapHash": 174706531,
         "id": 90001,
@@ -13,7 +13,7 @@
         },
         "progress": 1
     },
-    {
+    "90002": {
         "rewardTokens": 30,
         "descTextMapHash": 2639283499,
         "id": 90002,
@@ -27,7 +27,7 @@
         },
         "progress": 1
     },
-    {
+    "90003": {
         "rewardTokens": 10,
         "descTextMapHash": 2354844723,
         "id": 90003,
@@ -42,7 +42,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90005": {
         "rewardTokens": 60,
         "descTextMapHash": 1415930891,
         "id": 90005,
@@ -56,7 +56,7 @@
         },
         "progress": 1
     },
-    {
+    "90006": {
         "rewardTokens": 5,
         "descTextMapHash": 3293030195,
         "id": 90006,
@@ -71,7 +71,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90007": {
         "rewardTokens": 10,
         "descTextMapHash": 800387467,
         "id": 90007,
@@ -86,7 +86,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90008": {
         "rewardTokens": 15,
         "descTextMapHash": 2788018771,
         "id": 90008,
@@ -101,7 +101,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90009": {
         "rewardTokens": 5,
         "descTextMapHash": 4273363155,
         "id": 90009,
@@ -116,7 +116,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90010": {
         "rewardTokens": 10,
         "descTextMapHash": 4130715195,
         "id": 90010,
@@ -131,7 +131,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90011": {
         "rewardTokens": 20,
         "descTextMapHash": 3209284891,
         "id": 90011,
@@ -145,7 +145,7 @@
         },
         "progress": 1
     },
-    {
+    "90012": {
         "rewardTokens": 10,
         "descTextMapHash": 2143619395,
         "id": 90012,
@@ -160,7 +160,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90013": {
         "rewardTokens": 20,
         "descTextMapHash": 2373909795,
         "id": 90013,
@@ -174,7 +174,7 @@
         },
         "progress": 1
     },
-    {
+    "90016": {
         "rewardTokens": 20,
         "descTextMapHash": 2532343139,
         "id": 90016,
@@ -188,7 +188,7 @@
         },
         "progress": 1
     },
-    {
+    "90019": {
         "rewardTokens": 20,
         "descTextMapHash": 1613947403,
         "id": 90019,
@@ -202,7 +202,7 @@
         },
         "progress": 1
     },
-    {
+    "90022": {
         "rewardTokens": 20,
         "descTextMapHash": 3876171107,
         "id": 90022,
@@ -216,7 +216,7 @@
         },
         "progress": 1
     },
-    {
+    "90025": {
         "rewardTokens": 20,
         "descTextMapHash": 3015058475,
         "id": 90025,
@@ -230,7 +230,7 @@
         },
         "progress": 1
     },
-    {
+    "90028": {
         "rewardTokens": 20,
         "descTextMapHash": 1344108971,
         "id": 90028,
@@ -244,7 +244,7 @@
         },
         "progress": 1
     },
-    {
+    "90031": {
         "rewardTokens": 20,
         "descTextMapHash": 2643912459,
         "id": 90031,
@@ -258,7 +258,7 @@
         },
         "progress": 1
     },
-    {
+    "90032": {
         "rewardTokens": 10,
         "descTextMapHash": 3975504859,
         "id": 90032,
@@ -273,7 +273,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90033": {
         "rewardTokens": 15,
         "descTextMapHash": 2640153411,
         "id": 90033,
@@ -288,7 +288,7 @@
         "progress": 1,
         "isDisuse": true
     },
-    {
+    "90034": {
         "rewardTokens": 30,
         "descTextMapHash": 651775947,
         "id": 90034,
@@ -302,7 +302,7 @@
         },
         "progress": 1
     },
-    {
+    "90035": {
         "rewardTokens": 30,
         "descTextMapHash": 2469289419,
         "id": 90035,
@@ -316,7 +316,7 @@
         },
         "progress": 1
     },
-    {
+    "90036": {
         "rewardTokens": 30,
         "descTextMapHash": 4259949347,
         "id": 90036,
@@ -330,7 +330,7 @@
         },
         "progress": 1
     },
-    {
+    "90043": {
         "rewardTokens": 30,
         "descTextMapHash": 2708263355,
         "id": 90043,
@@ -344,7 +344,7 @@
         },
         "progress": 1
     },
-    {
+    "90042": {
         "rewardTokens": 30,
         "descTextMapHash": 1171247875,
         "id": 90042,
@@ -358,7 +358,7 @@
         },
         "progress": 1
     },
-    {
+    "90037": {
         "rewardTokens": 30,
         "descTextMapHash": 316155435,
         "id": 90037,
@@ -372,7 +372,7 @@
         },
         "progress": 1
     },
-    {
+    "90044": {
         "rewardTokens": 30,
         "descTextMapHash": 2061186171,
         "id": 90044,
@@ -386,7 +386,7 @@
         },
         "progress": 1
     },
-    {
+    "90039": {
         "rewardTokens": 30,
         "descTextMapHash": 2719998155,
         "id": 90039,
@@ -400,7 +400,7 @@
         },
         "progress": 1
     },
-    {
+    "90041": {
         "rewardTokens": 20,
         "descTextMapHash": 2114504811,
         "id": 90041,
@@ -414,7 +414,7 @@
         },
         "progress": 1
     },
-    {
+    "90045": {
         "rewardTokens": 20,
         "descTextMapHash": 2449886611,
         "id": 90045,
@@ -428,7 +428,7 @@
         },
         "progress": 1
     },
-    {
+    "90046": {
         "rewardTokens": 20,
         "descTextMapHash": 1892867075,
         "id": 90046,
@@ -442,4 +442,4 @@
         },
         "progress": 1
     }
-]
+}

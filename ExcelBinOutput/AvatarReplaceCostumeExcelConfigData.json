@@ -1,18 +1,18 @@
-[
-    {
+{
+    "10000003": {
         "avatarId": 10000003,
         "AJJPPPBBLCB": 200302
     },
-    {
+    "10000021": {
         "avatarId": 10000021,
         "AJJPPPBBLCB": 202101
     },
-    {
+    "10000041": {
         "avatarId": 10000041,
         "AJJPPPBBLCB": 204101
     },
-    {
+    "10000045": {
         "avatarId": 10000045,
         "AJJPPPBBLCB": 204501
     }
-]
+}

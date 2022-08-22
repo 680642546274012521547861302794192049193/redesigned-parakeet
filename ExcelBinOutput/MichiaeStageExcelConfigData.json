@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "openDay": 1,
         "watcherList": [
@@ -14,7 +14,7 @@
         "JEOJODIHGOA": 99999,
         "tabNameTextMapHash": 804094128
     },
-    {
+    "2": {
         "stageId": 2,
         "openDay": 1,
         "watcherList": [
@@ -29,7 +29,7 @@
         "JEOJODIHGOA": 99999,
         "tabNameTextMapHash": 1521314112
     },
-    {
+    "3": {
         "stageId": 3,
         "openDay": 1,
         "watcherList": [
@@ -44,4 +44,4 @@
         "JEOJODIHGOA": 99999,
         "tabNameTextMapHash": 3519544992
     }
-]
+}

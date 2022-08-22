@@ -1,14 +1,14 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "HBCABHDLHHJ": "<color=#00E1FFFF>{0}</color>"
     },
-    {
+    "2": {
         "id": 2,
         "HBCABHDLHHJ": "<color=#37FFFF>{0}</color>"
     },
-    {
+    "3": {
         "id": 3,
         "HBCABHDLHHJ": "<color=#FFCC33FF>{0}</color>"
     }
-]
+}

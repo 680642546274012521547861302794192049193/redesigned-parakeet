@@ -1,5 +1,5 @@
-[
-    {
+{
+    "48": {
         "entranceId": 48,
         "cityId": 1,
         "dungeonIdList": [
@@ -9,7 +9,7 @@
             4103
         ]
     },
-    {
+    "44": {
         "entranceId": 44,
         "cityId": 1,
         "dungeonIdList": [
@@ -19,7 +19,7 @@
             4203
         ]
     },
-    {
+    "50": {
         "entranceId": 50,
         "cityId": 1,
         "dungeonIdList": [
@@ -29,7 +29,7 @@
             4303
         ]
     },
-    {
+    "40": {
         "entranceId": 40,
         "cityId": 1,
         "dungeonIdList": [
@@ -43,7 +43,7 @@
             4407
         ]
     },
-    {
+    "45": {
         "entranceId": 45,
         "cityId": 1,
         "dungeonIdList": [
@@ -56,4 +56,4 @@
             4720
         ]
     }
-]
+}

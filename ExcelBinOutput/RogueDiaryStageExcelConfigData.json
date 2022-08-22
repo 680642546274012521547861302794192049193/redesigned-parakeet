@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "condId": 2013002,
         "PLFOFOBNMMF": [
@@ -42,7 +42,7 @@
         "COFJGIKBKPN": 2471607916,
         "PLPGHMJHFEG": 1308988088
     },
-    {
+    "2": {
         "id": 2,
         "condId": 2013004,
         "PLFOFOBNMMF": [
@@ -85,7 +85,7 @@
         "COFJGIKBKPN": 2614073540,
         "PLPGHMJHFEG": 1819489168
     },
-    {
+    "3": {
         "id": 3,
         "condId": 2013006,
         "PLFOFOBNMMF": [
@@ -128,7 +128,7 @@
         "COFJGIKBKPN": 1506231244,
         "PLPGHMJHFEG": 437527624
     },
-    {
+    "4": {
         "id": 4,
         "condId": 2013007,
         "PLFOFOBNMMF": [
@@ -181,4 +181,4 @@
         "COFJGIKBKPN": 1723441788,
         "PLPGHMJHFEG": 909296776
     }
-]
+}

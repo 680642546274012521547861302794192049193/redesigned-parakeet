@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "activityID": 5049,
         "duration": 10,
@@ -11,4 +11,4 @@
         "DBDMAJNLHEK": 50490502,
         "OMIINBOADDL": 70029
     }
-]
+}

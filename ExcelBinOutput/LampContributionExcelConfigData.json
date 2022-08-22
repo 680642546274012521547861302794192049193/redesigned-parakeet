@@ -1,22 +1,22 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "contribution": 800
     },
-    {
+    "2": {
         "id": 2,
         "contribution": 2400
     },
-    {
+    "3": {
         "id": 3,
         "contribution": 4800
     },
-    {
+    "4": {
         "id": 4,
         "contribution": 8000
     },
-    {
+    "5": {
         "id": 5,
         "contribution": 12000
     }
-]
+}

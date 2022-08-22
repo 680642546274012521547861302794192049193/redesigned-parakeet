@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "EJDBCFGNMJD": 1,
         "JFNJBNDHCHH": "QTE_TYPE_NEVER_FAIL",
@@ -56,7 +56,7 @@
             }
         ]
     },
-    {
+    "2": {
         "id": 2,
         "EJDBCFGNMJD": 2,
         "JFNJBNDHCHH": "QTE_TYPE_NEVER_FAIL",
@@ -113,7 +113,7 @@
             }
         ]
     },
-    {
+    "3": {
         "id": 3,
         "EJDBCFGNMJD": 3,
         "JFNJBNDHCHH": "QTE_TYPE_NEVER_FAIL",
@@ -169,7 +169,7 @@
             }
         ]
     },
-    {
+    "4": {
         "id": 4,
         "EJDBCFGNMJD": 4,
         "JFNJBNDHCHH": "QTE_TYPE_NEVER_FAIL",
@@ -225,7 +225,7 @@
             }
         ]
     },
-    {
+    "5": {
         "id": 5,
         "EJDBCFGNMJD": 5,
         "JFNJBNDHCHH": "QTE_TYPE_NEVER_FAIL",
@@ -281,7 +281,7 @@
             }
         ]
     },
-    {
+    "6": {
         "id": 6,
         "EJDBCFGNMJD": 6,
         "JFNJBNDHCHH": "QTE_TYPE_NEVER_FAIL",
@@ -337,4 +337,4 @@
             }
         ]
     }
-]
+}

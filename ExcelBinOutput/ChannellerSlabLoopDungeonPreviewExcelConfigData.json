@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "activityId": 2004,
         "titleTextMapHash": 3097554384,
@@ -8,7 +8,7 @@
         "openDay": 7,
         "pointID": 280
     },
-    {
+    "2": {
         "id": 2,
         "activityId": 5053,
         "titleTextMapHash": 3389665600,
@@ -17,4 +17,4 @@
         "openDay": 5,
         "pointID": 436
     }
-]
+}

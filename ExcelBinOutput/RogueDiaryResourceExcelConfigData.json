@@ -1,17 +1,17 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "type": "ROGUE_DIARY_USE_REROLL",
         "value": 100
     },
-    {
+    "2": {
         "id": 2,
         "type": "ROGUE_DIARY_GET_BUYCARD",
         "value": 200
     },
-    {
+    "3": {
         "id": 3,
         "type": "ROGUE_DIARY_GET_REVIVE",
         "value": 150
     }
-]
+}

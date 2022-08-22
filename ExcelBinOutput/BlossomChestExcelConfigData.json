@@ -1,40 +1,40 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "chestGadgetId": 70210109,
         "worldResin": 1,
         "resin": 20,
         "refreshType": "BLOSSOM_REFRESH_SCOIN"
     },
-    {
+    "2": {
         "id": 2,
         "chestGadgetId": 70210110,
         "worldResin": 1,
         "resin": 20,
         "refreshType": "BLOSSOM_REFRESH_EXP"
     },
-    {
+    "3": {
         "id": 3,
         "chestGadgetId": 70210113,
         "refreshType": "BLOSSOM_REFRESH_DRAGON_SPINE_A",
         "clientShowType": "BLOSSOM_CHEST_SHOWTYPE_NO_RESIN"
     },
-    {
+    "4": {
         "id": 4,
         "chestGadgetId": 70210113,
         "refreshType": "BLOSSOM_REFRESH_DRAGON_SPINE_B",
         "clientShowType": "BLOSSOM_CHEST_SHOWTYPE_NO_RESIN"
     },
-    {
+    "5": {
         "id": 5,
         "chestGadgetId": 70210113,
         "refreshType": "BLOSSOM_REFRESH_BLITZ_RUSH_A",
         "clientShowType": "BLOSSOM_CHEST_SHOWTYPE_NO_RESIN"
     },
-    {
+    "6": {
         "id": 6,
         "chestGadgetId": 70210113,
         "refreshType": "BLOSSOM_REFRESH_BLITZ_RUSH_B",
         "clientShowType": "BLOSSOM_CHEST_SHOWTYPE_NO_RESIN"
     }
-]
+}

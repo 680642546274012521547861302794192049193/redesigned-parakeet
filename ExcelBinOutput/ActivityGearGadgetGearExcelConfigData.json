@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "gadgetID": 70290396,
         "HMMGGCDHCOL": [
@@ -13,7 +13,7 @@
         "ILABEBFPJEI": "Eff_Property_Prop_GearPillar_01_Put",
         "ALBFGHOCCGL": "Eff_Property_Prop_GearPillar_01_Cover"
     },
-    {
+    "2": {
         "id": 2,
         "gadgetID": 70290397,
         "HMMGGCDHCOL": [
@@ -27,7 +27,7 @@
         "ILABEBFPJEI": "Eff_Property_Prop_GearPillar_02_Put",
         "ALBFGHOCCGL": "Eff_Property_Prop_GearPillar_02_Cover"
     },
-    {
+    "3": {
         "id": 3,
         "gadgetID": 70290398,
         "HMMGGCDHCOL": [
@@ -41,7 +41,7 @@
         "ILABEBFPJEI": "",
         "ALBFGHOCCGL": ""
     },
-    {
+    "4": {
         "id": 4,
         "gadgetID": 70290399,
         "HMMGGCDHCOL": [
@@ -55,7 +55,7 @@
         "ILABEBFPJEI": "Eff_Property_Prop_GearPillar_03_Put",
         "ALBFGHOCCGL": "Eff_Property_Prop_GearPillar_03_Cover"
     },
-    {
+    "5": {
         "id": 5,
         "gadgetID": 70290400,
         "HMMGGCDHCOL": [
@@ -71,7 +71,7 @@
         "ILABEBFPJEI": "Eff_Property_Prop_GearPillar_02_Put",
         "ALBFGHOCCGL": "Eff_Property_Prop_GearPillar_02_Cover"
     },
-    {
+    "6": {
         "id": 6,
         "gadgetID": 70290401,
         "HMMGGCDHCOL": [
@@ -87,7 +87,7 @@
         "ILABEBFPJEI": "Eff_Property_Prop_GearPillar_03_Put",
         "ALBFGHOCCGL": "Eff_Property_Prop_GearPillar_03_Cover"
     },
-    {
+    "7": {
         "id": 7,
         "gadgetID": 70290427,
         "HMMGGCDHCOL": [
@@ -101,4 +101,4 @@
         "ILABEBFPJEI": "",
         "ALBFGHOCCGL": ""
     }
-]
+}

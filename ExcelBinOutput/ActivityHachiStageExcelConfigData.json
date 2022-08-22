@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "stageId": 1,
         "questId": [
@@ -42,7 +42,7 @@
         "MFCPLNEPBIG": 90,
         "FDELLLLGCJI": 40
     },
-    {
+    "2": {
         "Id": 2,
         "stageId": 2,
         "questId": [
@@ -86,7 +86,7 @@
         "MFCPLNEPBIG": 70,
         "FDELLLLGCJI": 40
     },
-    {
+    "3": {
         "Id": 3,
         "stageId": 3,
         "questId": [
@@ -130,4 +130,4 @@
         "MFCPLNEPBIG": 60,
         "FDELLLLGCJI": 40
     }
-]
+}

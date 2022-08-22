@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10001": {
         "id": 10001,
         "nameTextMapHash": 4051912989,
         "abilityName": "",
@@ -18,7 +18,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10002": {
         "id": 10002,
         "nameTextMapHash": 2797477245,
         "abilityName": "",
@@ -37,7 +37,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10003": {
         "id": 10003,
         "nameTextMapHash": 2648689197,
         "abilityName": "",
@@ -56,7 +56,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10004": {
         "id": 10004,
         "nameTextMapHash": 3242239485,
         "abilityName": "",
@@ -75,7 +75,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10006": {
         "id": 10006,
         "nameTextMapHash": 1336754621,
         "abilityName": "",
@@ -94,7 +94,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10011": {
         "id": 10011,
         "nameTextMapHash": 2749847941,
         "abilityName": "",
@@ -113,7 +113,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10101": {
         "id": 10101,
         "nameTextMapHash": 2767867797,
         "abilityName": "",
@@ -132,7 +132,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10102": {
         "id": 10102,
         "nameTextMapHash": 35476733,
         "abilityName": "",
@@ -151,7 +151,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10111": {
         "id": 10111,
         "nameTextMapHash": 1707104125,
         "abilityName": "",
@@ -171,7 +171,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10012": {
         "id": 10012,
         "nameTextMapHash": 3276358165,
         "abilityName": "",
@@ -191,7 +191,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10013": {
         "id": 10013,
         "nameTextMapHash": 2687935733,
         "abilityName": "",
@@ -214,7 +214,7 @@
         "globalValueKey": "",
         "forceCanDoSkill": true
     },
-    {
+    "10014": {
         "id": 10014,
         "nameTextMapHash": 3173933501,
         "abilityName": "",
@@ -236,7 +236,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10015": {
         "id": 10015,
         "nameTextMapHash": 3857388709,
         "abilityName": "",
@@ -256,7 +256,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10016": {
         "id": 10016,
         "nameTextMapHash": 4018326997,
         "abilityName": "",
@@ -275,7 +275,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10017": {
         "id": 10017,
         "nameTextMapHash": 4246808797,
         "abilityName": "",
@@ -298,7 +298,7 @@
         "proudSkillGroupId": 2139,
         "globalValueKey": ""
     },
-    {
+    "10018": {
         "id": 10018,
         "nameTextMapHash": 682887613,
         "abilityName": "",
@@ -319,7 +319,7 @@
         "proudSkillGroupId": 232,
         "globalValueKey": ""
     },
-    {
+    "10019": {
         "id": 10019,
         "nameTextMapHash": 81399925,
         "abilityName": "",
@@ -342,7 +342,7 @@
         "proudSkillGroupId": 239,
         "globalValueKey": ""
     },
-    {
+    "10020": {
         "id": 10020,
         "nameTextMapHash": 328228597,
         "abilityName": "",
@@ -362,7 +362,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10021": {
         "id": 10021,
         "nameTextMapHash": 1098937701,
         "abilityName": "",
@@ -384,7 +384,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10022": {
         "id": 10022,
         "nameTextMapHash": 2000442733,
         "abilityName": "Test_CreateSharkTorpedo",
@@ -403,7 +403,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10023": {
         "id": 10023,
         "nameTextMapHash": 1555859989,
         "abilityName": "Test_CreateSteamBang",
@@ -422,7 +422,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10024": {
         "id": 10024,
         "nameTextMapHash": 813430205,
         "abilityName": "Avatar_Ayaka_ExtraAttack",
@@ -441,7 +441,7 @@
         "proudSkillGroupId": 231,
         "globalValueKey": ""
     },
-    {
+    "10031": {
         "id": 10031,
         "nameTextMapHash": 3128535397,
         "abilityName": "Avatar_Qin_ExtraAttack",
@@ -460,7 +460,7 @@
         "proudSkillGroupId": 331,
         "globalValueKey": ""
     },
-    {
+    "10032": {
         "id": 10032,
         "nameTextMapHash": 3667697773,
         "abilityName": "",
@@ -483,7 +483,7 @@
         "proudSkillGroupId": 2132,
         "globalValueKey": ""
     },
-    {
+    "10033": {
         "id": 10033,
         "nameTextMapHash": 1433276421,
         "abilityName": "Avatar_Qin_VortexSmash",
@@ -505,7 +505,7 @@
         "proudSkillGroupId": 332,
         "globalValueKey": ""
     },
-    {
+    "10034": {
         "id": 10034,
         "nameTextMapHash": 1586562613,
         "abilityName": "Avatar_Qin_DandelionWind",
@@ -528,7 +528,7 @@
         "proudSkillGroupId": 339,
         "globalValueKey": ""
     },
-    {
+    "10035": {
         "id": 10035,
         "nameTextMapHash": 583200773,
         "abilityName": "",
@@ -551,7 +551,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10036": {
         "id": 10036,
         "nameTextMapHash": 3749906165,
         "abilityName": "Avatar_Qin_EnterSkill",
@@ -569,7 +569,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10037": {
         "id": 10037,
         "nameTextMapHash": 4139817517,
         "abilityName": "Avatar_Player_FlyingBomber",
@@ -591,7 +591,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10038": {
         "id": 10038,
         "nameTextMapHash": 4076045861,
         "abilityName": "",
@@ -614,7 +614,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10041": {
         "id": 10041,
         "nameTextMapHash": 1422444957,
         "abilityName": "Avatar_Ambor_PressShoot",
@@ -634,7 +634,7 @@
         "proudSkillGroupId": 2131,
         "globalValueKey": ""
     },
-    {
+    "10042": {
         "id": 10042,
         "nameTextMapHash": 1423809501,
         "abilityName": "Avatar_Ambor_AimPressShoot",
@@ -653,7 +653,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10043": {
         "id": 10043,
         "nameTextMapHash": 3408079909,
         "abilityName": "",
@@ -673,7 +673,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10044": {
         "id": 10044,
         "nameTextMapHash": 2920773085,
         "abilityName": "Avatar_GateOfAmbor_TriggerBullet",
@@ -692,7 +692,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10051": {
         "id": 10051,
         "nameTextMapHash": 355609901,
         "abilityName": "",
@@ -712,7 +712,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10052": {
         "id": 10052,
         "nameTextMapHash": 1337443333,
         "abilityName": "",
@@ -731,7 +731,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10053": {
         "id": 10053,
         "nameTextMapHash": 4264864229,
         "abilityName": "Avatar_Ayaka_EndLiquidStrike",
@@ -749,7 +749,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10054": {
         "id": 10054,
         "nameTextMapHash": 3282423005,
         "abilityName": "Avatar_PlayerBoy_ExtraAttack",
@@ -767,7 +767,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10055": {
         "id": 10055,
         "nameTextMapHash": 2474303229,
         "abilityName": "Avatar_PlayerGirl_ExtraAttack",
@@ -785,7 +785,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10056": {
         "id": 10056,
         "nameTextMapHash": 4043949413,
         "abilityName": "Avatar_Player_ExtraAttack",
@@ -803,7 +803,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10057": {
         "id": 10057,
         "nameTextMapHash": 2359717149,
         "abilityName": "Avatar_Player_ExtraAttack",
@@ -821,7 +821,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10058": {
         "id": 10058,
         "nameTextMapHash": 4157484933,
         "abilityName": "Avatar_Player_ExtraAttack",
@@ -839,7 +839,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10059": {
         "id": 10059,
         "nameTextMapHash": 2060938949,
         "abilityName": "Avatar_Player_ExtraAttack",
@@ -857,7 +857,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10060": {
         "id": 10060,
         "nameTextMapHash": 2499144501,
         "abilityName": "Avatar_Lisa_ExtraAttack",
@@ -876,7 +876,7 @@
         "proudSkillGroupId": 431,
         "globalValueKey": ""
     },
-    {
+    "10061": {
         "id": 10061,
         "nameTextMapHash": 3342928733,
         "abilityName": "",
@@ -899,7 +899,7 @@
         "proudSkillGroupId": 432,
         "globalValueKey": ""
     },
-    {
+    "10062": {
         "id": 10062,
         "nameTextMapHash": 3387608453,
         "abilityName": "",
@@ -922,7 +922,7 @@
         "proudSkillGroupId": 439,
         "globalValueKey": ""
     },
-    {
+    "10063": {
         "id": 10063,
         "nameTextMapHash": 2586290485,
         "abilityName": "Test_CreateSharkTorpedo",
@@ -941,7 +941,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10064": {
         "id": 10064,
         "nameTextMapHash": 525869677,
         "abilityName": "Test_CreateSteamBang",
@@ -960,7 +960,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10065": {
         "id": 10065,
         "nameTextMapHash": 1490087445,
         "abilityName": "Avatar_Ambor_ThrowDummy",
@@ -979,7 +979,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10066": {
         "id": 10066,
         "nameTextMapHash": 3115053829,
         "abilityName": "",
@@ -999,7 +999,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10067": {
         "id": 10067,
         "nameTextMapHash": 2639384229,
         "abilityName": "Avatar_Player_UziExplode",
@@ -1021,7 +1021,7 @@
         "proudSkillGroupId": 732,
         "globalValueKey": ""
     },
-    {
+    "10068": {
         "id": 10068,
         "nameTextMapHash": 565740677,
         "abilityName": "Avatar_Player_WindBreathe",
@@ -1045,7 +1045,7 @@
         "proudSkillGroupId": 739,
         "globalValueKey": ""
     },
-    {
+    "10069": {
         "id": 10069,
         "nameTextMapHash": 1982944773,
         "abilityName": "",
@@ -1064,7 +1064,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10070": {
         "id": 10070,
         "nameTextMapHash": 1555695317,
         "abilityName": "Avatar_Barbara_ExtraAttack",
@@ -1083,7 +1083,7 @@
         "proudSkillGroupId": 1431,
         "globalValueKey": ""
     },
-    {
+    "10071": {
         "id": 10071,
         "nameTextMapHash": 645814357,
         "abilityName": "",
@@ -1106,7 +1106,7 @@
         "proudSkillGroupId": 1432,
         "globalValueKey": ""
     },
-    {
+    "10072": {
         "id": 10072,
         "nameTextMapHash": 3238780589,
         "abilityName": "",
@@ -1129,7 +1129,7 @@
         "proudSkillGroupId": 1439,
         "globalValueKey": ""
     },
-    {
+    "10073": {
         "id": 10073,
         "nameTextMapHash": 3795823997,
         "abilityName": "Avatar_Kaeya_ExtraAttack",
@@ -1148,7 +1148,7 @@
         "proudSkillGroupId": 1531,
         "globalValueKey": ""
     },
-    {
+    "10074": {
         "id": 10074,
         "nameTextMapHash": 1067425573,
         "abilityName": "",
@@ -1169,7 +1169,7 @@
         "proudSkillGroupId": 1532,
         "globalValueKey": ""
     },
-    {
+    "10075": {
         "id": 10075,
         "nameTextMapHash": 2486277181,
         "abilityName": "",
@@ -1192,7 +1192,7 @@
         "proudSkillGroupId": 1539,
         "globalValueKey": ""
     },
-    {
+    "10076": {
         "id": 10076,
         "nameTextMapHash": 2500956509,
         "abilityName": "Avatar_Barbara_ReBorn",
@@ -1215,7 +1215,7 @@
         "globalValueKey": "",
         "needStore": true
     },
-    {
+    "10077": {
         "id": 10077,
         "nameTextMapHash": 65936957,
         "abilityName": "Avatar_Player_Hogyoku",
@@ -1237,7 +1237,7 @@
         "proudSkillGroupId": 932,
         "globalValueKey": ""
     },
-    {
+    "10078": {
         "id": 10078,
         "nameTextMapHash": 1608625765,
         "abilityName": "Avatar_Player_RockTide",
@@ -1261,7 +1261,7 @@
         "proudSkillGroupId": 939,
         "globalValueKey": ""
     },
-    {
+    "10079": {
         "id": 10079,
         "nameTextMapHash": 2082103149,
         "abilityName": "Avatar_Barbara_ReBornEffect_01",
@@ -1282,7 +1282,7 @@
         "globalValueKey": "",
         "needStore": true
     },
-    {
+    "10080": {
         "id": 10080,
         "nameTextMapHash": 3119510045,
         "abilityName": "Avatar_Barbara_ReBornEffect_02",
@@ -1303,7 +1303,7 @@
         "globalValueKey": "",
         "needStore": true
     },
-    {
+    "10081": {
         "id": 10081,
         "nameTextMapHash": 1904017997,
         "abilityName": "Avatar_Keaya_IceShield",
@@ -1323,7 +1323,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10082": {
         "id": 10082,
         "nameTextMapHash": 421173349,
         "abilityName": "Avatar_Barbara_Trigger_WaterBall",
@@ -1342,7 +1342,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10083": {
         "id": 10083,
         "nameTextMapHash": 2350480557,
         "abilityName": "Avatar_Lsai_TeamTalent_Skill",
@@ -1361,7 +1361,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10117": {
         "id": 10117,
         "nameTextMapHash": 2178570213,
         "abilityName": "",
@@ -1382,7 +1382,7 @@
         "proudSkillGroupId": 1132,
         "globalValueKey": ""
     },
-    {
+    "10118": {
         "id": 10118,
         "nameTextMapHash": 2504837493,
         "abilityName": "",
@@ -1405,7 +1405,7 @@
         "proudSkillGroupId": 1139,
         "globalValueKey": ""
     },
-    {
+    "10160": {
         "id": 10160,
         "nameTextMapHash": 2878874285,
         "abilityName": "Avatar_Diluc_ExtraAttack",
@@ -1424,7 +1424,7 @@
         "proudSkillGroupId": 1631,
         "globalValueKey": ""
     },
-    {
+    "10161": {
         "id": 10161,
         "nameTextMapHash": 2979035429,
         "abilityName": "Diluc_Fire_Blade",
@@ -1445,7 +1445,7 @@
         "proudSkillGroupId": 1632,
         "globalValueKey": ""
     },
-    {
+    "10162": {
         "id": 10162,
         "nameTextMapHash": 3312056637,
         "abilityName": "Diluc_Fire_Blade",
@@ -1465,7 +1465,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10163": {
         "id": 10163,
         "nameTextMapHash": 4175685277,
         "abilityName": "Diluc_Fire_Blade",
@@ -1485,7 +1485,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10165": {
         "id": 10165,
         "nameTextMapHash": 2772119557,
         "abilityName": "Diluc_FireCross",
@@ -1508,7 +1508,7 @@
         "proudSkillGroupId": 1639,
         "globalValueKey": ""
     },
-    {
+    "10166": {
         "id": 10166,
         "nameTextMapHash": 533094517,
         "abilityName": "Diluc_EnterSkill",
@@ -1527,7 +1527,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10201": {
         "id": 10201,
         "nameTextMapHash": 3392494725,
         "abilityName": "Avatar_Razor_ExtraAttack",
@@ -1546,7 +1546,7 @@
         "proudSkillGroupId": 2031,
         "globalValueKey": ""
     },
-    {
+    "10202": {
         "id": 10202,
         "nameTextMapHash": 2720517437,
         "abilityName": "Avatar_Razor_ClawMark_Click",
@@ -1567,7 +1567,7 @@
         "proudSkillGroupId": 2032,
         "globalValueKey": ""
     },
-    {
+    "10203": {
         "id": 10203,
         "nameTextMapHash": 1752405213,
         "abilityName": "Avatar_Razor_LycanMode",
@@ -1590,7 +1590,7 @@
         "proudSkillGroupId": 2039,
         "globalValueKey": ""
     },
-    {
+    "10204": {
         "id": 10204,
         "nameTextMapHash": 4072488965,
         "abilityName": "Avatar_Razor_ClawMark_Click",
@@ -1610,7 +1610,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10211": {
         "id": 10211,
         "nameTextMapHash": 2104569853,
         "abilityName": "",
@@ -1629,7 +1629,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10221": {
         "id": 10221,
         "nameTextMapHash": 4043029317,
         "abilityName": "Avatar_Venti_PressShoot",
@@ -1649,7 +1649,7 @@
         "proudSkillGroupId": 2231,
         "globalValueKey": ""
     },
-    {
+    "10222": {
         "id": 10222,
         "nameTextMapHash": 2037043829,
         "abilityName": "Avatar_Venti_AimPressShoot",
@@ -1668,7 +1668,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10223": {
         "id": 10223,
         "nameTextMapHash": 3736134253,
         "abilityName": "",
@@ -1688,7 +1688,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10224": {
         "id": 10224,
         "nameTextMapHash": 2470093149,
         "abilityName": "",
@@ -1709,7 +1709,7 @@
         "proudSkillGroupId": 2232,
         "globalValueKey": ""
     },
-    {
+    "10225": {
         "id": 10225,
         "nameTextMapHash": 1181756941,
         "abilityName": "",
@@ -1732,7 +1732,7 @@
         "proudSkillGroupId": 2239,
         "globalValueKey": ""
     },
-    {
+    "10231": {
         "id": 10231,
         "nameTextMapHash": 2921789333,
         "abilityName": "Avatar_Xiangling_ExtraAttack",
@@ -1751,7 +1751,7 @@
         "proudSkillGroupId": 2331,
         "globalValueKey": ""
     },
-    {
+    "10232": {
         "id": 10232,
         "nameTextMapHash": 1925269741,
         "abilityName": "",
@@ -1772,7 +1772,7 @@
         "proudSkillGroupId": 2332,
         "globalValueKey": ""
     },
-    {
+    "10235": {
         "id": 10235,
         "nameTextMapHash": 3051726149,
         "abilityName": "",
@@ -1795,7 +1795,7 @@
         "proudSkillGroupId": 2339,
         "globalValueKey": ""
     },
-    {
+    "10241": {
         "id": 10241,
         "nameTextMapHash": 3770302877,
         "abilityName": "Avatar_Beidou_ExtraAttack",
@@ -1814,7 +1814,7 @@
         "proudSkillGroupId": 2431,
         "globalValueKey": ""
     },
-    {
+    "10242": {
         "id": 10242,
         "nameTextMapHash": 3028116765,
         "abilityName": "Avatar_Beidou_ThunderCounter_Handler",
@@ -1837,7 +1837,7 @@
         "proudSkillGroupId": 2432,
         "globalValueKey": ""
     },
-    {
+    "10245": {
         "id": 10245,
         "nameTextMapHash": 2874294485,
         "abilityName": "Avatar_Beidou_ThunderShield",
@@ -1860,7 +1860,7 @@
         "proudSkillGroupId": 2439,
         "globalValueKey": ""
     },
-    {
+    "20000": {
         "id": 20000,
         "nameTextMapHash": 3786268365,
         "abilityName": "",
@@ -1879,7 +1879,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10251": {
         "id": 10251,
         "nameTextMapHash": 2739745653,
         "abilityName": "Avatar_Aquaria_PressShoot",
@@ -1899,7 +1899,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10252": {
         "id": 10252,
         "nameTextMapHash": 1214405501,
         "abilityName": "Avatar_Aquaria_AimPressShoot",
@@ -1919,7 +1919,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10253": {
         "id": 10253,
         "nameTextMapHash": 2244025589,
         "abilityName": "",
@@ -1940,7 +1940,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10254": {
         "id": 10254,
         "nameTextMapHash": 2086557645,
         "abilityName": "",
@@ -1960,7 +1960,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10255": {
         "id": 10255,
         "nameTextMapHash": 2223041389,
         "abilityName": "",
@@ -1982,7 +1982,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10261": {
         "id": 10261,
         "nameTextMapHash": 232048445,
         "abilityName": "Avatar_Xiao_ExtraAttack",
@@ -2001,7 +2001,7 @@
         "proudSkillGroupId": 2631,
         "globalValueKey": ""
     },
-    {
+    "10262": {
         "id": 10262,
         "nameTextMapHash": 45357229,
         "abilityName": "",
@@ -2022,7 +2022,7 @@
         "proudSkillGroupId": 2632,
         "globalValueKey": ""
     },
-    {
+    "10263": {
         "id": 10263,
         "nameTextMapHash": 4121034669,
         "abilityName": "",
@@ -2043,7 +2043,7 @@
         "globalValueKey": "",
         "cdSlot": 2
     },
-    {
+    "10264": {
         "id": 10264,
         "nameTextMapHash": 1846272605,
         "abilityName": "",
@@ -2062,7 +2062,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10265": {
         "id": 10265,
         "nameTextMapHash": 2396025797,
         "abilityName": "",
@@ -2085,7 +2085,7 @@
         "proudSkillGroupId": 2639,
         "globalValueKey": ""
     },
-    {
+    "10271": {
         "id": 10271,
         "nameTextMapHash": 2745030989,
         "abilityName": "Avatar_Ningguang_ExtraAttack",
@@ -2104,7 +2104,7 @@
         "proudSkillGroupId": 2731,
         "globalValueKey": ""
     },
-    {
+    "10272": {
         "id": 10272,
         "nameTextMapHash": 2863733197,
         "abilityName": "",
@@ -2125,7 +2125,7 @@
         "proudSkillGroupId": 2732,
         "globalValueKey": ""
     },
-    {
+    "10273": {
         "id": 10273,
         "nameTextMapHash": 3585226285,
         "abilityName": "",
@@ -2145,7 +2145,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10274": {
         "id": 10274,
         "nameTextMapHash": 3719617877,
         "abilityName": "",
@@ -2168,7 +2168,7 @@
         "proudSkillGroupId": 2739,
         "globalValueKey": ""
     },
-    {
+    "10275": {
         "id": 10275,
         "nameTextMapHash": 1679764893,
         "abilityName": "Avatar_Ningguang_Trigger_ElementalArt_CD",
@@ -2187,7 +2187,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10281": {
         "id": 10281,
         "nameTextMapHash": 1174655621,
         "abilityName": "Avatar_Prototype_ExtraAttack",
@@ -2205,7 +2205,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10282": {
         "id": 10282,
         "nameTextMapHash": 2731359549,
         "abilityName": "",
@@ -2224,7 +2224,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10283": {
         "id": 10283,
         "nameTextMapHash": 172556125,
         "abilityName": "",
@@ -2245,7 +2245,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10291": {
         "id": 10291,
         "nameTextMapHash": 161160581,
         "abilityName": "Avatar_Klee_ExtraAttack",
@@ -2264,7 +2264,7 @@
         "proudSkillGroupId": 2931,
         "globalValueKey": ""
     },
-    {
+    "10292": {
         "id": 10292,
         "nameTextMapHash": 3723743117,
         "abilityName": "",
@@ -2285,7 +2285,7 @@
         "proudSkillGroupId": 2932,
         "globalValueKey": ""
     },
-    {
+    "10295": {
         "id": 10295,
         "nameTextMapHash": 1371192733,
         "abilityName": "",
@@ -2308,7 +2308,7 @@
         "proudSkillGroupId": 2939,
         "globalValueKey": ""
     },
-    {
+    "10300": {
         "id": 10300,
         "nameTextMapHash": 2269097229,
         "abilityName": "",
@@ -2327,7 +2327,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10301": {
         "id": 10301,
         "nameTextMapHash": 2119081949,
         "abilityName": "Avatar_Zhongli_ExtraAttack",
@@ -2346,7 +2346,7 @@
         "proudSkillGroupId": 3031,
         "globalValueKey": ""
     },
-    {
+    "10302": {
         "id": 10302,
         "nameTextMapHash": 3426814373,
         "abilityName": "",
@@ -2367,7 +2367,7 @@
         "proudSkillGroupId": 3032,
         "globalValueKey": ""
     },
-    {
+    "10303": {
         "id": 10303,
         "nameTextMapHash": 3055197325,
         "abilityName": "",
@@ -2390,7 +2390,7 @@
         "proudSkillGroupId": 3039,
         "globalValueKey": ""
     },
-    {
+    "10311": {
         "id": 10311,
         "nameTextMapHash": 3733168437,
         "abilityName": "Avatar_Fischl_PressShoot",
@@ -2410,7 +2410,7 @@
         "proudSkillGroupId": 3131,
         "globalValueKey": ""
     },
-    {
+    "10312": {
         "id": 10312,
         "nameTextMapHash": 2390005205,
         "abilityName": "",
@@ -2431,7 +2431,7 @@
         "proudSkillGroupId": 3132,
         "globalValueKey": ""
     },
-    {
+    "10313": {
         "id": 10313,
         "nameTextMapHash": 1386345573,
         "abilityName": "",
@@ -2454,7 +2454,7 @@
         "proudSkillGroupId": 3139,
         "globalValueKey": ""
     },
-    {
+    "10314": {
         "id": 10314,
         "nameTextMapHash": 3301569901,
         "abilityName": "Avatar_Fischl_AimPressShoot",
@@ -2473,7 +2473,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10315": {
         "id": 10315,
         "nameTextMapHash": 1197592453,
         "abilityName": "",
@@ -2493,7 +2493,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10316": {
         "id": 10316,
         "nameTextMapHash": 3957763109,
         "abilityName": "",
@@ -2514,7 +2514,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10321": {
         "id": 10321,
         "nameTextMapHash": 422353221,
         "abilityName": "Avatar_Bennett_ExtraAttack",
@@ -2533,7 +2533,7 @@
         "proudSkillGroupId": 3231,
         "globalValueKey": ""
     },
-    {
+    "10322": {
         "id": 10322,
         "nameTextMapHash": 1809314813,
         "abilityName": "Avatar_Bennett_ElementalArt_Handler",
@@ -2554,7 +2554,7 @@
         "proudSkillGroupId": 3232,
         "globalValueKey": ""
     },
-    {
+    "10323": {
         "id": 10323,
         "nameTextMapHash": 3528607669,
         "abilityName": "",
@@ -2577,7 +2577,7 @@
         "proudSkillGroupId": 3239,
         "globalValueKey": ""
     },
-    {
+    "10331": {
         "id": 10331,
         "nameTextMapHash": 2900039733,
         "abilityName": "Avatar_Tartaglia_PressShoot",
@@ -2597,7 +2597,7 @@
         "proudSkillGroupId": 3331,
         "globalValueKey": ""
     },
-    {
+    "10332": {
         "id": 10332,
         "nameTextMapHash": 863456805,
         "abilityName": "Avatar_Tartaglia_Gandalfr_Trigger",
@@ -2617,7 +2617,7 @@
         "proudSkillGroupId": 3332,
         "globalValueKey": ""
     },
-    {
+    "10333": {
         "id": 10333,
         "nameTextMapHash": 2804759909,
         "abilityName": "",
@@ -2640,7 +2640,7 @@
         "proudSkillGroupId": 3339,
         "globalValueKey": ""
     },
-    {
+    "10334": {
         "id": 10334,
         "nameTextMapHash": 359566701,
         "abilityName": "Avatar_Tartaglia_AimPressShoot",
@@ -2659,7 +2659,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10335": {
         "id": 10335,
         "nameTextMapHash": 2864617109,
         "abilityName": "",
@@ -2679,7 +2679,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10336": {
         "id": 10336,
         "nameTextMapHash": 3093740965,
         "abilityName": "Avatar_Tartaglia_Gandalfr_TriggerOff",
@@ -2698,7 +2698,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10337": {
         "id": 10337,
         "nameTextMapHash": 2810970837,
         "abilityName": "Avatar_Tartaglia_PressShoot",
@@ -2716,7 +2716,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10341": {
         "id": 10341,
         "nameTextMapHash": 1521716213,
         "abilityName": "Avatar_Noel_ExtraAttack",
@@ -2735,7 +2735,7 @@
         "proudSkillGroupId": 3431,
         "globalValueKey": ""
     },
-    {
+    "10342": {
         "id": 10342,
         "nameTextMapHash": 737506901,
         "abilityName": "",
@@ -2756,7 +2756,7 @@
         "proudSkillGroupId": 3432,
         "globalValueKey": ""
     },
-    {
+    "10343": {
         "id": 10343,
         "nameTextMapHash": 1615963973,
         "abilityName": "",
@@ -2779,7 +2779,7 @@
         "proudSkillGroupId": 3439,
         "globalValueKey": ""
     },
-    {
+    "10344": {
         "id": 10344,
         "nameTextMapHash": 2455313621,
         "abilityName": "",
@@ -2799,7 +2799,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10351": {
         "id": 10351,
         "nameTextMapHash": 1361102277,
         "abilityName": "Avatar_Qiqi_ExtraAttack",
@@ -2818,7 +2818,7 @@
         "proudSkillGroupId": 3531,
         "globalValueKey": ""
     },
-    {
+    "10352": {
         "id": 10352,
         "nameTextMapHash": 2328467573,
         "abilityName": "",
@@ -2839,7 +2839,7 @@
         "proudSkillGroupId": 3532,
         "globalValueKey": ""
     },
-    {
+    "10353": {
         "id": 10353,
         "nameTextMapHash": 2926659693,
         "abilityName": "",
@@ -2862,7 +2862,7 @@
         "proudSkillGroupId": 3539,
         "globalValueKey": ""
     },
-    {
+    "10355": {
         "id": 10355,
         "nameTextMapHash": 443303565,
         "abilityName": "Avatar_Qiqi_Revive",
@@ -2885,7 +2885,7 @@
         "globalValueKey": "",
         "needStore": true
     },
-    {
+    "10371": {
         "id": 10371,
         "nameTextMapHash": 798389461,
         "abilityName": "Avatar_Ganyu_PressShoot",
@@ -2905,7 +2905,7 @@
         "proudSkillGroupId": 3731,
         "globalValueKey": ""
     },
-    {
+    "10372": {
         "id": 10372,
         "nameTextMapHash": 1812426093,
         "abilityName": "",
@@ -2926,7 +2926,7 @@
         "proudSkillGroupId": 3732,
         "globalValueKey": ""
     },
-    {
+    "10373": {
         "id": 10373,
         "nameTextMapHash": 683098317,
         "abilityName": "",
@@ -2949,7 +2949,7 @@
         "proudSkillGroupId": 3739,
         "globalValueKey": ""
     },
-    {
+    "10374": {
         "id": 10374,
         "nameTextMapHash": 1660440365,
         "abilityName": "Avatar_Ganyu_AimPressShoot",
@@ -2968,7 +2968,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "11301": {
         "id": 11301,
         "nameTextMapHash": 3802462781,
         "abilityName": "Avatar_Beidou_ExtraAttack",
@@ -2986,7 +2986,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "11302": {
         "id": 11302,
         "nameTextMapHash": 2467360621,
         "abilityName": "",
@@ -3006,7 +3006,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "11305": {
         "id": 11305,
         "nameTextMapHash": 3542308085,
         "abilityName": "",
@@ -3028,7 +3028,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10256": {
         "id": 10256,
         "nameTextMapHash": 2869756949,
         "abilityName": "",
@@ -3048,7 +3048,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10257": {
         "id": 10257,
         "nameTextMapHash": 638400197,
         "abilityName": "",
@@ -3068,7 +3068,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10258": {
         "id": 10258,
         "nameTextMapHash": 1765614717,
         "abilityName": "",
@@ -3088,7 +3088,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10259": {
         "id": 10259,
         "nameTextMapHash": 1588300309,
         "abilityName": "",
@@ -3110,7 +3110,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10362": {
         "id": 10362,
         "nameTextMapHash": 911388717,
         "abilityName": "",
@@ -3132,7 +3132,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10363": {
         "id": 10363,
         "nameTextMapHash": 3877347189,
         "abilityName": "",
@@ -3152,7 +3152,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10364": {
         "id": 10364,
         "nameTextMapHash": 389819541,
         "abilityName": "Avatar_Player_Electric_ElementalArt_Reverse_Trigger",
@@ -3170,7 +3170,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10365": {
         "id": 10365,
         "nameTextMapHash": 3238405613,
         "abilityName": "",
@@ -3190,7 +3190,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "11371": {
         "id": 11371,
         "nameTextMapHash": 3471617741,
         "abilityName": "",
@@ -3209,7 +3209,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "11372": {
         "id": 11372,
         "nameTextMapHash": 887901653,
         "abilityName": "",
@@ -3229,7 +3229,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "11373": {
         "id": 11373,
         "nameTextMapHash": 2373915949,
         "abilityName": "",
@@ -3251,7 +3251,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "11374": {
         "id": 11374,
         "nameTextMapHash": 3115055061,
         "abilityName": "",
@@ -3270,7 +3270,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "11375": {
         "id": 11375,
         "nameTextMapHash": 1184917301,
         "abilityName": "",
@@ -3290,7 +3290,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10381": {
         "id": 10381,
         "nameTextMapHash": 3909984477,
         "abilityName": "Avatar_Xingqiu_ExtraAttack",
@@ -3309,7 +3309,7 @@
         "proudSkillGroupId": 2531,
         "globalValueKey": ""
     },
-    {
+    "10382": {
         "id": 10382,
         "nameTextMapHash": 4213665965,
         "abilityName": "Avatar_Xingqiu_SkillHoldHandler",
@@ -3330,7 +3330,7 @@
         "proudSkillGroupId": 2532,
         "globalValueKey": ""
     },
-    {
+    "10385": {
         "id": 10385,
         "nameTextMapHash": 3014291477,
         "abilityName": "",
@@ -3353,7 +3353,7 @@
         "proudSkillGroupId": 2539,
         "globalValueKey": ""
     },
-    {
+    "10386": {
         "id": 10386,
         "nameTextMapHash": 1763139317,
         "abilityName": "Avatar_Albedo_ExtraAttack",
@@ -3372,7 +3372,7 @@
         "proudSkillGroupId": 3831,
         "globalValueKey": ""
     },
-    {
+    "10387": {
         "id": 10387,
         "nameTextMapHash": 4277075117,
         "abilityName": "",
@@ -3393,7 +3393,7 @@
         "proudSkillGroupId": 3832,
         "globalValueKey": ""
     },
-    {
+    "10388": {
         "id": 10388,
         "nameTextMapHash": 1170150789,
         "abilityName": "",
@@ -3416,7 +3416,7 @@
         "proudSkillGroupId": 3839,
         "globalValueKey": ""
     },
-    {
+    "10391": {
         "id": 10391,
         "nameTextMapHash": 3860542709,
         "abilityName": "Avatar_Diona_PressShoot",
@@ -3436,7 +3436,7 @@
         "proudSkillGroupId": 3931,
         "globalValueKey": ""
     },
-    {
+    "10392": {
         "id": 10392,
         "nameTextMapHash": 3942666181,
         "abilityName": "",
@@ -3459,7 +3459,7 @@
         "proudSkillGroupId": 3932,
         "globalValueKey": ""
     },
-    {
+    "10393": {
         "id": 10393,
         "nameTextMapHash": 1792093821,
         "abilityName": "Avatar_Diona_AimPressShoot",
@@ -3478,7 +3478,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10394": {
         "id": 10394,
         "nameTextMapHash": 723718077,
         "abilityName": "",
@@ -3498,7 +3498,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10395": {
         "id": 10395,
         "nameTextMapHash": 948563965,
         "abilityName": "",
@@ -3522,7 +3522,7 @@
         "proudSkillGroupId": 3939,
         "globalValueKey": ""
     },
-    {
+    "10401": {
         "id": 10401,
         "nameTextMapHash": 1917853333,
         "abilityName": "Avatar_Beidou_ExtraAttack_Chongyun",
@@ -3541,7 +3541,7 @@
         "proudSkillGroupId": 3631,
         "globalValueKey": ""
     },
-    {
+    "10402": {
         "id": 10402,
         "nameTextMapHash": 1241562797,
         "abilityName": "Avatar_Razor_ClawMark_Click",
@@ -3562,7 +3562,7 @@
         "proudSkillGroupId": 3632,
         "globalValueKey": ""
     },
-    {
+    "10403": {
         "id": 10403,
         "nameTextMapHash": 514253413,
         "abilityName": "Diluc_FireCross",
@@ -3585,7 +3585,7 @@
         "proudSkillGroupId": 3639,
         "globalValueKey": ""
     },
-    {
+    "10411": {
         "id": 10411,
         "nameTextMapHash": 2512572181,
         "abilityName": "Avatar_Mona_ExtraAttack",
@@ -3604,7 +3604,7 @@
         "proudSkillGroupId": 4131,
         "globalValueKey": ""
     },
-    {
+    "10412": {
         "id": 10412,
         "nameTextMapHash": 1125648053,
         "abilityName": "",
@@ -3625,7 +3625,7 @@
         "proudSkillGroupId": 4132,
         "globalValueKey": ""
     },
-    {
+    "10413": {
         "id": 10413,
         "nameTextMapHash": 1057341493,
         "abilityName": "",
@@ -3648,7 +3648,7 @@
         "globalValueKey": "",
         "forceCanDoSkill": true
     },
-    {
+    "10415": {
         "id": 10415,
         "nameTextMapHash": 3616116589,
         "abilityName": "",
@@ -3671,7 +3671,7 @@
         "proudSkillGroupId": 4139,
         "globalValueKey": ""
     },
-    {
+    "10421": {
         "id": 10421,
         "nameTextMapHash": 1732155229,
         "abilityName": "Avatar_Keqing_ExtraAttack",
@@ -3690,7 +3690,7 @@
         "proudSkillGroupId": 4231,
         "globalValueKey": ""
     },
-    {
+    "10422": {
         "id": 10422,
         "nameTextMapHash": 2146753981,
         "abilityName": "",
@@ -3711,7 +3711,7 @@
         "proudSkillGroupId": 4232,
         "globalValueKey": ""
     },
-    {
+    "10423": {
         "id": 10423,
         "nameTextMapHash": 3841583165,
         "abilityName": "",
@@ -3730,7 +3730,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10425": {
         "id": 10425,
         "nameTextMapHash": 535180037,
         "abilityName": "",
@@ -3753,7 +3753,7 @@
         "proudSkillGroupId": 4239,
         "globalValueKey": ""
     },
-    {
+    "10431": {
         "id": 10431,
         "nameTextMapHash": 3941337549,
         "abilityName": "Avatar_Sucrose_ExtraAttack",
@@ -3772,7 +3772,7 @@
         "proudSkillGroupId": 4331,
         "globalValueKey": ""
     },
-    {
+    "10432": {
         "id": 10432,
         "nameTextMapHash": 159360653,
         "abilityName": "",
@@ -3793,7 +3793,7 @@
         "proudSkillGroupId": 4332,
         "globalValueKey": ""
     },
-    {
+    "10433": {
         "id": 10433,
         "nameTextMapHash": 4220161669,
         "abilityName": "",
@@ -3814,7 +3814,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10434": {
         "id": 10434,
         "nameTextMapHash": 1745727853,
         "abilityName": "",
@@ -3832,7 +3832,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10435": {
         "id": 10435,
         "nameTextMapHash": 234765309,
         "abilityName": "",
@@ -3855,7 +3855,7 @@
         "proudSkillGroupId": 4339,
         "globalValueKey": ""
     },
-    {
+    "10441": {
         "id": 10441,
         "nameTextMapHash": 327566445,
         "abilityName": "Avatar_Xinyan_ExtraAttack",
@@ -3874,7 +3874,7 @@
         "proudSkillGroupId": 4431,
         "globalValueKey": ""
     },
-    {
+    "10442": {
         "id": 10442,
         "nameTextMapHash": 980327173,
         "abilityName": "",
@@ -3895,7 +3895,7 @@
         "proudSkillGroupId": 4432,
         "globalValueKey": ""
     },
-    {
+    "10443": {
         "id": 10443,
         "nameTextMapHash": 405900781,
         "abilityName": "",
@@ -3918,7 +3918,7 @@
         "proudSkillGroupId": 4439,
         "globalValueKey": ""
     },
-    {
+    "10451": {
         "id": 10451,
         "nameTextMapHash": 37074469,
         "abilityName": "Avatar_Rosaria_ExtraAttack",
@@ -3937,7 +3937,7 @@
         "proudSkillGroupId": 4531,
         "globalValueKey": ""
     },
-    {
+    "10452": {
         "id": 10452,
         "nameTextMapHash": 2398605029,
         "abilityName": "",
@@ -3958,7 +3958,7 @@
         "proudSkillGroupId": 4532,
         "globalValueKey": ""
     },
-    {
+    "10453": {
         "id": 10453,
         "nameTextMapHash": 3067800421,
         "abilityName": "",
@@ -3981,7 +3981,7 @@
         "proudSkillGroupId": 4539,
         "globalValueKey": ""
     },
-    {
+    "10461": {
         "id": 10461,
         "nameTextMapHash": 2345944629,
         "abilityName": "Avatar_Hutao_ExtraAttack",
@@ -4000,7 +4000,7 @@
         "proudSkillGroupId": 4631,
         "globalValueKey": ""
     },
-    {
+    "10462": {
         "id": 10462,
         "nameTextMapHash": 214248165,
         "abilityName": "",
@@ -4021,7 +4021,7 @@
         "proudSkillGroupId": 4632,
         "globalValueKey": ""
     },
-    {
+    "10463": {
         "id": 10463,
         "nameTextMapHash": 1115787101,
         "abilityName": "",
@@ -4044,7 +4044,7 @@
         "proudSkillGroupId": 4639,
         "globalValueKey": ""
     },
-    {
+    "10464": {
         "id": 10464,
         "nameTextMapHash": 268015821,
         "abilityName": "Avatar_Hutao_Constellation_Limbo_Trigger",
@@ -4065,7 +4065,7 @@
         "globalValueKey": "",
         "needStore": true
     },
-    {
+    "10471": {
         "id": 10471,
         "nameTextMapHash": 137786925,
         "abilityName": "Avatar_Kazuha_ExtraAttack",
@@ -4084,7 +4084,7 @@
         "proudSkillGroupId": 4731,
         "globalValueKey": ""
     },
-    {
+    "10472": {
         "id": 10472,
         "nameTextMapHash": 3645237197,
         "abilityName": "",
@@ -4105,7 +4105,7 @@
         "proudSkillGroupId": 4732,
         "globalValueKey": ""
     },
-    {
+    "10473": {
         "id": 10473,
         "nameTextMapHash": 1245826445,
         "abilityName": "",
@@ -4126,7 +4126,7 @@
         "globalValueKey": "",
         "cdSlot": 2
     },
-    {
+    "10474": {
         "id": 10474,
         "nameTextMapHash": 738388789,
         "abilityName": "",
@@ -4145,7 +4145,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10475": {
         "id": 10475,
         "nameTextMapHash": 2015878197,
         "abilityName": "",
@@ -4168,7 +4168,7 @@
         "proudSkillGroupId": 4739,
         "globalValueKey": ""
     },
-    {
+    "10481": {
         "id": 10481,
         "nameTextMapHash": 2553270533,
         "abilityName": "Avatar_Feiyan_ExtraAttack",
@@ -4187,7 +4187,7 @@
         "proudSkillGroupId": 4831,
         "globalValueKey": ""
     },
-    {
+    "10482": {
         "id": 10482,
         "nameTextMapHash": 4230930285,
         "abilityName": "",
@@ -4208,7 +4208,7 @@
         "proudSkillGroupId": 4832,
         "globalValueKey": ""
     },
-    {
+    "10485": {
         "id": 10485,
         "nameTextMapHash": 3041237813,
         "abilityName": "",
@@ -4231,7 +4231,7 @@
         "proudSkillGroupId": 4839,
         "globalValueKey": ""
     },
-    {
+    "10491": {
         "id": 10491,
         "nameTextMapHash": 1887244733,
         "abilityName": "Avatar_Yoimiya_PressShoot",
@@ -4251,7 +4251,7 @@
         "proudSkillGroupId": 4931,
         "globalValueKey": ""
     },
-    {
+    "10492": {
         "id": 10492,
         "nameTextMapHash": 3119836125,
         "abilityName": "",
@@ -4273,7 +4273,7 @@
         "proudSkillGroupId": 4932,
         "globalValueKey": ""
     },
-    {
+    "10493": {
         "id": 10493,
         "nameTextMapHash": 3811849605,
         "abilityName": "Avatar_Yoimiya_AimPressShoot",
@@ -4292,7 +4292,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10495": {
         "id": 10495,
         "nameTextMapHash": 4251575685,
         "abilityName": "",
@@ -4316,7 +4316,7 @@
         "proudSkillGroupId": 4939,
         "globalValueKey": ""
     },
-    {
+    "10501": {
         "id": 10501,
         "nameTextMapHash": 3651752365,
         "abilityName": "Avatar_Tohma_ExtraAttack",
@@ -4335,7 +4335,7 @@
         "proudSkillGroupId": 5031,
         "globalValueKey": ""
     },
-    {
+    "10502": {
         "id": 10502,
         "nameTextMapHash": 3732507581,
         "abilityName": "",
@@ -4356,7 +4356,7 @@
         "proudSkillGroupId": 5032,
         "globalValueKey": ""
     },
-    {
+    "10505": {
         "id": 10505,
         "nameTextMapHash": 3548079181,
         "abilityName": "",
@@ -4379,7 +4379,7 @@
         "proudSkillGroupId": 5039,
         "globalValueKey": ""
     },
-    {
+    "10511": {
         "id": 10511,
         "nameTextMapHash": 242311157,
         "abilityName": "Avatar_Eula_ExtraAttack",
@@ -4398,7 +4398,7 @@
         "proudSkillGroupId": 5131,
         "globalValueKey": ""
     },
-    {
+    "10512": {
         "id": 10512,
         "nameTextMapHash": 741315613,
         "abilityName": "",
@@ -4419,7 +4419,7 @@
         "proudSkillGroupId": 5132,
         "globalValueKey": ""
     },
-    {
+    "10515": {
         "id": 10515,
         "nameTextMapHash": 3521320029,
         "abilityName": "",
@@ -4442,7 +4442,7 @@
         "proudSkillGroupId": 5139,
         "globalValueKey": ""
     },
-    {
+    "10521": {
         "id": 10521,
         "nameTextMapHash": 1302153717,
         "abilityName": "Avatar_Shougun_ExtraAttack",
@@ -4461,7 +4461,7 @@
         "proudSkillGroupId": 5231,
         "globalValueKey": ""
     },
-    {
+    "10522": {
         "id": 10522,
         "nameTextMapHash": 1312969485,
         "abilityName": "",
@@ -4482,7 +4482,7 @@
         "proudSkillGroupId": 5232,
         "globalValueKey": ""
     },
-    {
+    "10525": {
         "id": 10525,
         "nameTextMapHash": 725251661,
         "abilityName": "",
@@ -4505,7 +4505,7 @@
         "proudSkillGroupId": 5239,
         "globalValueKey": ""
     },
-    {
+    "10531": {
         "id": 10531,
         "nameTextMapHash": 1631640581,
         "abilityName": "Avatar_Sayu_ExtraAttack",
@@ -4524,7 +4524,7 @@
         "proudSkillGroupId": 5331,
         "globalValueKey": ""
     },
-    {
+    "10532": {
         "id": 10532,
         "nameTextMapHash": 866970125,
         "abilityName": "",
@@ -4545,7 +4545,7 @@
         "proudSkillGroupId": 5332,
         "globalValueKey": ""
     },
-    {
+    "10533": {
         "id": 10533,
         "nameTextMapHash": 2724434029,
         "abilityName": "",
@@ -4564,7 +4564,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10535": {
         "id": 10535,
         "nameTextMapHash": 3632447629,
         "abilityName": "",
@@ -4587,7 +4587,7 @@
         "proudSkillGroupId": 5339,
         "globalValueKey": ""
     },
-    {
+    "10541": {
         "id": 10541,
         "nameTextMapHash": 3150512989,
         "abilityName": "Avatar_Kokomi_ExtraAttack",
@@ -4606,7 +4606,7 @@
         "proudSkillGroupId": 5431,
         "globalValueKey": ""
     },
-    {
+    "10542": {
         "id": 10542,
         "nameTextMapHash": 369441117,
         "abilityName": "",
@@ -4627,7 +4627,7 @@
         "proudSkillGroupId": 5432,
         "globalValueKey": ""
     },
-    {
+    "10545": {
         "id": 10545,
         "nameTextMapHash": 2835602565,
         "abilityName": "",
@@ -4650,7 +4650,7 @@
         "proudSkillGroupId": 5439,
         "globalValueKey": ""
     },
-    {
+    "10551": {
         "id": 10551,
         "nameTextMapHash": 527760517,
         "abilityName": "Avatar_Gorou_PressShoot",
@@ -4670,7 +4670,7 @@
         "proudSkillGroupId": 5531,
         "globalValueKey": ""
     },
-    {
+    "10552": {
         "id": 10552,
         "nameTextMapHash": 2527853093,
         "abilityName": "",
@@ -4693,7 +4693,7 @@
         "proudSkillGroupId": 5532,
         "globalValueKey": ""
     },
-    {
+    "10553": {
         "id": 10553,
         "nameTextMapHash": 3165585093,
         "abilityName": "Avatar_Gorou_AimPressShoot",
@@ -4712,7 +4712,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10554": {
         "id": 10554,
         "nameTextMapHash": 2798026229,
         "abilityName": "",
@@ -4732,7 +4732,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10555": {
         "id": 10555,
         "nameTextMapHash": 406282597,
         "abilityName": "",
@@ -4756,7 +4756,7 @@
         "proudSkillGroupId": 5539,
         "globalValueKey": ""
     },
-    {
+    "10561": {
         "id": 10561,
         "nameTextMapHash": 1547762373,
         "abilityName": "Avatar_Sara_PressShoot",
@@ -4776,7 +4776,7 @@
         "proudSkillGroupId": 5631,
         "globalValueKey": ""
     },
-    {
+    "10562": {
         "id": 10562,
         "nameTextMapHash": 2752568269,
         "abilityName": "",
@@ -4799,7 +4799,7 @@
         "proudSkillGroupId": 5632,
         "globalValueKey": ""
     },
-    {
+    "10563": {
         "id": 10563,
         "nameTextMapHash": 4243606493,
         "abilityName": "Avatar_Sara_AimPressShoot",
@@ -4818,7 +4818,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10564": {
         "id": 10564,
         "nameTextMapHash": 1162004437,
         "abilityName": "",
@@ -4838,7 +4838,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10565": {
         "id": 10565,
         "nameTextMapHash": 2275338309,
         "abilityName": "",
@@ -4862,7 +4862,7 @@
         "proudSkillGroupId": 5639,
         "globalValueKey": ""
     },
-    {
+    "10571": {
         "id": 10571,
         "nameTextMapHash": 1791467005,
         "abilityName": "Avatar_Itto_ExtraAttack",
@@ -4881,7 +4881,7 @@
         "proudSkillGroupId": 5731,
         "globalValueKey": ""
     },
-    {
+    "10572": {
         "id": 10572,
         "nameTextMapHash": 1142785501,
         "abilityName": "",
@@ -4902,7 +4902,7 @@
         "proudSkillGroupId": 5732,
         "globalValueKey": ""
     },
-    {
+    "10575": {
         "id": 10575,
         "nameTextMapHash": 3385637213,
         "abilityName": "",
@@ -4925,7 +4925,7 @@
         "proudSkillGroupId": 5739,
         "globalValueKey": ""
     },
-    {
+    "10581": {
         "id": 10581,
         "nameTextMapHash": 3966360853,
         "abilityName": "Avatar_Yae_ExtraAttack",
@@ -4944,7 +4944,7 @@
         "proudSkillGroupId": 5831,
         "globalValueKey": ""
     },
-    {
+    "10582": {
         "id": 10582,
         "nameTextMapHash": 823035501,
         "abilityName": "",
@@ -4966,7 +4966,7 @@
         "proudSkillGroupId": 5832,
         "globalValueKey": ""
     },
-    {
+    "10583": {
         "id": 10583,
         "nameTextMapHash": 2689623765,
         "abilityName": "",
@@ -4986,7 +4986,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10585": {
         "id": 10585,
         "nameTextMapHash": 3675029365,
         "abilityName": "",
@@ -5009,7 +5009,7 @@
         "proudSkillGroupId": 5839,
         "globalValueKey": ""
     },
-    {
+    "10591": {
         "id": 10591,
         "nameTextMapHash": 2195671413,
         "abilityName": "Avatar_Heizo_ExtraAttack",
@@ -5028,7 +5028,7 @@
         "proudSkillGroupId": 5931,
         "globalValueKey": ""
     },
-    {
+    "10592": {
         "id": 10592,
         "nameTextMapHash": 3012298293,
         "abilityName": "",
@@ -5049,7 +5049,7 @@
         "proudSkillGroupId": 5932,
         "globalValueKey": ""
     },
-    {
+    "10595": {
         "id": 10595,
         "nameTextMapHash": 3584687669,
         "abilityName": "",
@@ -5072,7 +5072,7 @@
         "proudSkillGroupId": 5939,
         "globalValueKey": ""
     },
-    {
+    "10602": {
         "id": 10602,
         "nameTextMapHash": 123614933,
         "abilityName": "",
@@ -5093,7 +5093,7 @@
         "proudSkillGroupId": 1032,
         "globalValueKey": ""
     },
-    {
+    "10605": {
         "id": 10605,
         "nameTextMapHash": 1169939717,
         "abilityName": "",
@@ -5116,7 +5116,7 @@
         "proudSkillGroupId": 1039,
         "globalValueKey": ""
     },
-    {
+    "10606": {
         "id": 10606,
         "nameTextMapHash": 1713742645,
         "abilityName": "Avatar_Yelan_PressShoot",
@@ -5136,7 +5136,7 @@
         "proudSkillGroupId": 6031,
         "globalValueKey": ""
     },
-    {
+    "10607": {
         "id": 10607,
         "nameTextMapHash": 890827533,
         "abilityName": "",
@@ -5158,7 +5158,7 @@
         "proudSkillGroupId": 6032,
         "globalValueKey": ""
     },
-    {
+    "10608": {
         "id": 10608,
         "nameTextMapHash": 682555157,
         "abilityName": "Avatar_Yelan_AimPressShoot",
@@ -5177,7 +5177,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10609": {
         "id": 10609,
         "nameTextMapHash": 2743164485,
         "abilityName": "",
@@ -5197,7 +5197,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10610": {
         "id": 10610,
         "nameTextMapHash": 4098371861,
         "abilityName": "",
@@ -5221,7 +5221,7 @@
         "proudSkillGroupId": 6039,
         "globalValueKey": ""
     },
-    {
+    "10621": {
         "id": 10621,
         "nameTextMapHash": 2994648485,
         "abilityName": "Avatar_Aloy_PressShoot",
@@ -5241,7 +5241,7 @@
         "proudSkillGroupId": 6231,
         "globalValueKey": ""
     },
-    {
+    "10622": {
         "id": 10622,
         "nameTextMapHash": 1871687965,
         "abilityName": "",
@@ -5262,7 +5262,7 @@
         "proudSkillGroupId": 6232,
         "globalValueKey": ""
     },
-    {
+    "10623": {
         "id": 10623,
         "nameTextMapHash": 2840824533,
         "abilityName": "Avatar_Aloy_AimPressShoot",
@@ -5281,7 +5281,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10624": {
         "id": 10624,
         "nameTextMapHash": 3778025661,
         "abilityName": "",
@@ -5301,7 +5301,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10631": {
         "id": 10631,
         "nameTextMapHash": 2933047013,
         "abilityName": "Avatar_Shenhe_ExtraAttack",
@@ -5320,7 +5320,7 @@
         "proudSkillGroupId": 6331,
         "globalValueKey": ""
     },
-    {
+    "10632": {
         "id": 10632,
         "nameTextMapHash": 3028595085,
         "abilityName": "",
@@ -5341,7 +5341,7 @@
         "proudSkillGroupId": 6332,
         "globalValueKey": ""
     },
-    {
+    "10635": {
         "id": 10635,
         "nameTextMapHash": 207401861,
         "abilityName": "",
@@ -5364,7 +5364,7 @@
         "proudSkillGroupId": 6339,
         "globalValueKey": ""
     },
-    {
+    "10625": {
         "id": 10625,
         "nameTextMapHash": 902219717,
         "abilityName": "",
@@ -5387,7 +5387,7 @@
         "proudSkillGroupId": 6239,
         "globalValueKey": ""
     },
-    {
+    "10641": {
         "id": 10641,
         "nameTextMapHash": 4286587805,
         "abilityName": "Avatar_Yunjin_ExtraAttack",
@@ -5406,7 +5406,7 @@
         "proudSkillGroupId": 6431,
         "globalValueKey": ""
     },
-    {
+    "10642": {
         "id": 10642,
         "nameTextMapHash": 2178272253,
         "abilityName": "",
@@ -5427,7 +5427,7 @@
         "proudSkillGroupId": 6432,
         "globalValueKey": ""
     },
-    {
+    "10643": {
         "id": 10643,
         "nameTextMapHash": 3248431565,
         "abilityName": "",
@@ -5450,7 +5450,7 @@
         "proudSkillGroupId": 6439,
         "globalValueKey": ""
     },
-    {
+    "10651": {
         "id": 10651,
         "nameTextMapHash": 2013854373,
         "abilityName": "Avatar_Shinobu_ExtraAttack",
@@ -5469,7 +5469,7 @@
         "proudSkillGroupId": 6531,
         "globalValueKey": ""
     },
-    {
+    "10652": {
         "id": 10652,
         "nameTextMapHash": 1345666909,
         "abilityName": "",
@@ -5490,7 +5490,7 @@
         "proudSkillGroupId": 6532,
         "globalValueKey": ""
     },
-    {
+    "10655": {
         "id": 10655,
         "nameTextMapHash": 1690703909,
         "abilityName": "",
@@ -5513,7 +5513,7 @@
         "proudSkillGroupId": 6539,
         "globalValueKey": ""
     },
-    {
+    "10656": {
         "id": 10656,
         "nameTextMapHash": 3057382629,
         "abilityName": "Avatar_Shinobu_Constellation6_Limbo_Trigger",
@@ -5534,7 +5534,7 @@
         "globalValueKey": "",
         "needStore": true
     },
-    {
+    "10657": {
         "id": 10657,
         "nameTextMapHash": 3552450509,
         "abilityName": "Avatar_Shinobu_Constellation6_Limbo_Trigger",
@@ -5555,7 +5555,7 @@
         "globalValueKey": "",
         "needStore": true
     },
-    {
+    "10661": {
         "id": 10661,
         "nameTextMapHash": 3116393605,
         "abilityName": "Avatar_Ayato_ExtraAttack",
@@ -5574,7 +5574,7 @@
         "proudSkillGroupId": 6631,
         "globalValueKey": ""
     },
-    {
+    "10662": {
         "id": 10662,
         "nameTextMapHash": 856237685,
         "abilityName": "",
@@ -5595,7 +5595,7 @@
         "proudSkillGroupId": 6632,
         "globalValueKey": ""
     },
-    {
+    "10663": {
         "id": 10663,
         "nameTextMapHash": 433582069,
         "abilityName": "Avatar_Ayato_KendoPose_Click",
@@ -5613,7 +5613,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10665": {
         "id": 10665,
         "nameTextMapHash": 2907386981,
         "abilityName": "",
@@ -5636,7 +5636,7 @@
         "proudSkillGroupId": 6639,
         "globalValueKey": ""
     },
-    {
+    "10671": {
         "id": 10671,
         "nameTextMapHash": 3768859965,
         "abilityName": "Avatar_Collei_PressShoot",
@@ -5656,7 +5656,7 @@
         "proudSkillGroupId": 6731,
         "globalValueKey": ""
     },
-    {
+    "10672": {
         "id": 10672,
         "nameTextMapHash": 2943851901,
         "abilityName": "",
@@ -5677,7 +5677,7 @@
         "proudSkillGroupId": 6732,
         "globalValueKey": ""
     },
-    {
+    "10675": {
         "id": 10675,
         "nameTextMapHash": 1430301637,
         "abilityName": "",
@@ -5700,7 +5700,7 @@
         "proudSkillGroupId": 6739,
         "globalValueKey": ""
     },
-    {
+    "10674": {
         "id": 10674,
         "nameTextMapHash": 3984738037,
         "abilityName": "Avatar_Ganyu_AimPressShoot",
@@ -5719,7 +5719,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10681": {
         "id": 10681,
         "nameTextMapHash": 3134128957,
         "abilityName": "Avatar_Dori_ExtraAttack",
@@ -5738,7 +5738,7 @@
         "proudSkillGroupId": 6831,
         "globalValueKey": ""
     },
-    {
+    "10682": {
         "id": 10682,
         "nameTextMapHash": 2851422357,
         "abilityName": "",
@@ -5759,7 +5759,7 @@
         "proudSkillGroupId": 6832,
         "globalValueKey": ""
     },
-    {
+    "10685": {
         "id": 10685,
         "nameTextMapHash": 4155943733,
         "abilityName": "",
@@ -5782,7 +5782,7 @@
         "proudSkillGroupId": 6839,
         "globalValueKey": ""
     },
-    {
+    "10691": {
         "id": 10691,
         "nameTextMapHash": 3409522557,
         "abilityName": "Avatar_Tighnari_PressShoot",
@@ -5802,7 +5802,7 @@
         "proudSkillGroupId": 6931,
         "globalValueKey": ""
     },
-    {
+    "10692": {
         "id": 10692,
         "nameTextMapHash": 3726986301,
         "abilityName": "",
@@ -5823,7 +5823,7 @@
         "proudSkillGroupId": 6932,
         "globalValueKey": ""
     },
-    {
+    "10693": {
         "id": 10693,
         "nameTextMapHash": 1376683245,
         "abilityName": "Avatar_Tighnari_AimPressShoot",
@@ -5842,7 +5842,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10695": {
         "id": 10695,
         "nameTextMapHash": 3822928381,
         "abilityName": "",
@@ -5865,7 +5865,7 @@
         "proudSkillGroupId": 6939,
         "globalValueKey": ""
     },
-    {
+    "20001": {
         "id": 20001,
         "nameTextMapHash": 1936482797,
         "abilityName": "Dvalin_S01_AirGun",
@@ -5886,7 +5886,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20002": {
         "id": 20002,
         "nameTextMapHash": 828925397,
         "abilityName": "Dvalin_S01_AirGun",
@@ -5906,7 +5906,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20011": {
         "id": 20011,
         "nameTextMapHash": 2656825093,
         "abilityName": "Avatar_Player_GlidingChallenge_AirDash_Forward",
@@ -5927,7 +5927,7 @@
         "globalValueKey": "AVATAR_GLIDING_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20012": {
         "id": 20012,
         "nameTextMapHash": 1189226013,
         "abilityName": "Avatar_Player_GlidingChallenge_AirDash_Upward",
@@ -5947,7 +5947,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20020": {
         "id": 20020,
         "nameTextMapHash": 1456454701,
         "abilityName": "ActivityAbility_Endora_Bubble_AimPress",
@@ -5967,7 +5967,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20021": {
         "id": 20021,
         "nameTextMapHash": 1236244093,
         "abilityName": "ActivityAbility_LudiHarpastum_Serve",
@@ -5987,7 +5987,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20022": {
         "id": 20022,
         "nameTextMapHash": 3529333157,
         "abilityName": "ActivityAbility_LudiHarpastum_Hit",
@@ -6007,7 +6007,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20023": {
         "id": 20023,
         "nameTextMapHash": 756850077,
         "abilityName": "ActivityAbility_LudiHarpastum_Bomb_AimPress",
@@ -6027,7 +6027,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20024": {
         "id": 20024,
         "nameTextMapHash": 4106180333,
         "abilityName": "ActivityAbility_LudiHarpastum_Bomb_AimPress",
@@ -6047,7 +6047,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20025": {
         "id": 20025,
         "nameTextMapHash": 1213295293,
         "abilityName": "ActivityAbility_LudiHarpastum_Bomb_AimPress",
@@ -6067,7 +6067,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20026": {
         "id": 20026,
         "nameTextMapHash": 3859238781,
         "abilityName": "ActivityAbility_LudiHarpastum_Bomb_Forbid",
@@ -6087,7 +6087,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20027": {
         "id": 20027,
         "nameTextMapHash": 2759617589,
         "abilityName": "ActivityAbility_LudiHarpastum_Bomb_Forbid",
@@ -6107,7 +6107,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20028": {
         "id": 20028,
         "nameTextMapHash": 4108891997,
         "abilityName": "ActivityAbility_LudiHarpastum_Bomb_Forbid",
@@ -6127,7 +6127,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20029": {
         "id": 20029,
         "nameTextMapHash": 1774915893,
         "abilityName": "ActivityAbility_LudiHarpastum_Hit_02",
@@ -6147,7 +6147,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20030": {
         "id": 20030,
         "nameTextMapHash": 908300285,
         "abilityName": "",
@@ -6166,7 +6166,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20031": {
         "id": 20031,
         "nameTextMapHash": 3398003357,
         "abilityName": "",
@@ -6185,7 +6185,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20032": {
         "id": 20032,
         "nameTextMapHash": 147099245,
         "abilityName": "SceneObj_Temari_Hide_Ball",
@@ -6205,7 +6205,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20033": {
         "id": 20033,
         "nameTextMapHash": 4149105741,
         "abilityName": "",
@@ -6225,7 +6225,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20034": {
         "id": 20034,
         "nameTextMapHash": 2624422197,
         "abilityName": "",
@@ -6245,7 +6245,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20035": {
         "id": 20035,
         "nameTextMapHash": 2400987205,
         "abilityName": "",
@@ -6264,7 +6264,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20036": {
         "id": 20036,
         "nameTextMapHash": 772855381,
         "abilityName": "",
@@ -6283,7 +6283,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20037": {
         "id": 20037,
         "nameTextMapHash": 1636845245,
         "abilityName": "",
@@ -6302,7 +6302,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20040": {
         "id": 20040,
         "nameTextMapHash": 3692781493,
         "abilityName": "ActivityAbility_CatchAnimal_Shoot",
@@ -6322,7 +6322,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20041": {
         "id": 20041,
         "nameTextMapHash": 1531349133,
         "abilityName": "ActivityAbility_CatchAnimal_Shoot_DogGame",
@@ -6342,7 +6342,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20042": {
         "id": 20042,
         "nameTextMapHash": 3598437797,
         "abilityName": "ActivityAbility_CatchAnimal_Shoot_Test",
@@ -6363,7 +6363,7 @@
         "globalValueKey": "",
         "OOKJFEOLHMF": 3
     },
-    {
+    "20043": {
         "id": 20043,
         "nameTextMapHash": 2192716101,
         "abilityName": "",
@@ -6383,7 +6383,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20044": {
         "id": 20044,
         "nameTextMapHash": 2165605389,
         "abilityName": "",
@@ -6403,7 +6403,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20100": {
         "id": 20100,
         "nameTextMapHash": 4176490093,
         "abilityName": "ActivityAbility_HideSeek_Seeker_Execution",
@@ -6423,7 +6423,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20101": {
         "id": 20101,
         "nameTextMapHash": 2129541325,
         "abilityName": "ActivityAbility_HideSeek_Seeker_Execution",
@@ -6443,7 +6443,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20110": {
         "id": 20110,
         "nameTextMapHash": 459126589,
         "abilityName": "ActivityAbility_HideSeek_Seeker_Guide",
@@ -6463,7 +6463,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20111": {
         "id": 20111,
         "nameTextMapHash": 2696259549,
         "abilityName": "ActivityAbility_HideSeek_Seeker_BreakDisguise",
@@ -6483,7 +6483,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20120": {
         "id": 20120,
         "nameTextMapHash": 1169112125,
         "abilityName": "ActivityAbility_HideSeek_Seeker_Positioning",
@@ -6504,7 +6504,7 @@
         "globalValueKey": "AVATAR_SEEKANDHIDE_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20121": {
         "id": 20121,
         "nameTextMapHash": 1942430565,
         "abilityName": "ActivityAbility_HideSeek_Seeker_FindAll",
@@ -6525,7 +6525,7 @@
         "globalValueKey": "AVATAR_SEEKANDHIDE_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20122": {
         "id": 20122,
         "nameTextMapHash": 2720235117,
         "abilityName": "ActivityAbility_HideSeek_Seeker_SuperLockon",
@@ -6546,7 +6546,7 @@
         "globalValueKey": "AVATAR_SEEKANDHIDE_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20200": {
         "id": 20200,
         "nameTextMapHash": 626062253,
         "abilityName": "ActivityAbility_HideSeek_Hider_DisguiseHandler",
@@ -6566,7 +6566,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20201": {
         "id": 20201,
         "nameTextMapHash": 2687337709,
         "abilityName": "",
@@ -6586,7 +6586,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20210": {
         "id": 20210,
         "nameTextMapHash": 1443145165,
         "abilityName": "ActivityAbility_HideSeek_Hider_Invisibility",
@@ -6606,7 +6606,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20212": {
         "id": 20212,
         "nameTextMapHash": 1163162717,
         "abilityName": "",
@@ -6626,7 +6626,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20211": {
         "id": 20211,
         "nameTextMapHash": 2752819013,
         "abilityName": "ActivityAbility_HideSeek_Hider_Bait",
@@ -6646,7 +6646,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20213": {
         "id": 20213,
         "nameTextMapHash": 1821490277,
         "abilityName": "",
@@ -6666,7 +6666,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20220": {
         "id": 20220,
         "nameTextMapHash": 7564629,
         "abilityName": "ActivityAbility_HideSeek_Hider_SpeedUp",
@@ -6687,7 +6687,7 @@
         "globalValueKey": "AVATAR_SEEKANDHIDE_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20202": {
         "id": 20202,
         "nameTextMapHash": 644125541,
         "abilityName": "ActivityAbility_HideSeek_Hider_DisguiseHandler_V2",
@@ -6707,7 +6707,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20203": {
         "id": 20203,
         "nameTextMapHash": 1774818781,
         "abilityName": "",
@@ -6727,7 +6727,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20214": {
         "id": 20214,
         "nameTextMapHash": 2370875301,
         "abilityName": "ActivityAbility_HideSeek_Hider_Bait_V2",
@@ -6747,7 +6747,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20215": {
         "id": 20215,
         "nameTextMapHash": 2814338565,
         "abilityName": "",
@@ -6767,7 +6767,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20400": {
         "id": 20400,
         "nameTextMapHash": 2657714069,
         "abilityName": "ActivityAbility_HideSeek_Seeker_Execution_V2",
@@ -6787,7 +6787,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20401": {
         "id": 20401,
         "nameTextMapHash": 66214933,
         "abilityName": "ActivityAbility_HideSeek_Seeker_Execution_V2",
@@ -6807,7 +6807,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20410": {
         "id": 20410,
         "nameTextMapHash": 169502221,
         "abilityName": "ActivityAbility_HideSeek_Seeker_Guide_V2",
@@ -6827,7 +6827,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20411": {
         "id": 20411,
         "nameTextMapHash": 1752388581,
         "abilityName": "ActivityAbility_HideSeek_Seeker_BreakDisguise_V2",
@@ -6847,7 +6847,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20420": {
         "id": 20420,
         "nameTextMapHash": 816489501,
         "abilityName": "ActivityAbility_HideSeek_Seeker_Positioning_V2",
@@ -6868,7 +6868,7 @@
         "globalValueKey": "AVATAR_SEEKANDHIDE_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20421": {
         "id": 20421,
         "nameTextMapHash": 1050865533,
         "abilityName": "ActivityAbility_HideSeek_Seeker_FindAll_V2",
@@ -6889,7 +6889,7 @@
         "globalValueKey": "AVATAR_SEEKANDHIDE_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20422": {
         "id": 20422,
         "nameTextMapHash": 2689008917,
         "abilityName": "ActivityAbility_HideSeek_Seeker_SuperLockon_V2",
@@ -6910,7 +6910,7 @@
         "globalValueKey": "AVATAR_SEEKANDHIDE_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20500": {
         "id": 20500,
         "nameTextMapHash": 902040061,
         "abilityName": "ActivityAbility_HideSeek_Hider_DisguiseHandler_V2",
@@ -6930,7 +6930,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20501": {
         "id": 20501,
         "nameTextMapHash": 1233705669,
         "abilityName": "",
@@ -6950,7 +6950,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20510": {
         "id": 20510,
         "nameTextMapHash": 2713313077,
         "abilityName": "ActivityAbility_HideSeek_Hider_Invisibility_V2",
@@ -6970,7 +6970,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20512": {
         "id": 20512,
         "nameTextMapHash": 815001853,
         "abilityName": "",
@@ -6990,7 +6990,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20511": {
         "id": 20511,
         "nameTextMapHash": 1882966981,
         "abilityName": "ActivityAbility_HideSeek_Hider_Bait_V2",
@@ -7010,7 +7010,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20513": {
         "id": 20513,
         "nameTextMapHash": 1833806357,
         "abilityName": "",
@@ -7030,7 +7030,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20520": {
         "id": 20520,
         "nameTextMapHash": 2680677653,
         "abilityName": "ActivityAbility_HideSeek_Hider_SpeedUp_V2",
@@ -7051,7 +7051,7 @@
         "globalValueKey": "AVATAR_SEEKANDHIDE_ENERGY",
         "energyMin": 50.0
     },
-    {
+    "20310": {
         "id": 20310,
         "nameTextMapHash": 4098249149,
         "abilityName": "",
@@ -7071,7 +7071,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20311": {
         "id": 20311,
         "nameTextMapHash": 467388069,
         "abilityName": "Avatar_Common_Fishing_Cast",
@@ -7090,7 +7090,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20312": {
         "id": 20312,
         "nameTextMapHash": 3754566189,
         "abilityName": "",
@@ -7110,7 +7110,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20313": {
         "id": 20313,
         "nameTextMapHash": 3826517485,
         "abilityName": "Avatar_Common_Fishing_Battle",
@@ -7129,7 +7129,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20314": {
         "id": 20314,
         "nameTextMapHash": 3875153725,
         "abilityName": "",
@@ -7149,7 +7149,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20315": {
         "id": 20315,
         "nameTextMapHash": 2615366341,
         "abilityName": "Avatar_Common_Fishing_RequestQuit",
@@ -7168,7 +7168,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20316": {
         "id": 20316,
         "nameTextMapHash": 2392743845,
         "abilityName": "Avatar_Common_Fishing_SelectBait",
@@ -7187,7 +7187,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20320": {
         "id": 20320,
         "nameTextMapHash": 4091597733,
         "abilityName": "ActivityAbility_Avatar_Blocking",
@@ -7207,7 +7207,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20330": {
         "id": 20330,
         "nameTextMapHash": 1226553101,
         "abilityName": "ActivityAbility_Lannaluo_Shoot",
@@ -7227,7 +7227,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "20331": {
         "id": 20331,
         "nameTextMapHash": 77403669,
         "abilityName": "ActivityAbility_Lannaluo_Skill",
@@ -7247,7 +7247,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "10384": {
         "id": 10384,
         "nameTextMapHash": 1543775045,
         "abilityName": "",
@@ -7270,7 +7270,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "100540": {
         "id": 100540,
         "nameTextMapHash": 1952055533,
         "abilityName": "Avatar_PlayerBoy_ExtraAttack_Common",
@@ -7289,7 +7289,7 @@
         "proudSkillGroupId": 730,
         "globalValueKey": ""
     },
-    {
+    "100541": {
         "id": 100541,
         "nameTextMapHash": 3198281757,
         "abilityName": "",
@@ -7307,7 +7307,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "100542": {
         "id": 100542,
         "nameTextMapHash": 3565118517,
         "abilityName": "",
@@ -7325,7 +7325,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "100543": {
         "id": 100543,
         "nameTextMapHash": 3283214237,
         "abilityName": "Avatar_PlayerBoy_ExtraAttack_Wind",
@@ -7344,7 +7344,7 @@
         "proudSkillGroupId": 730,
         "globalValueKey": ""
     },
-    {
+    "100544": {
         "id": 100544,
         "nameTextMapHash": 895313525,
         "abilityName": "",
@@ -7362,7 +7362,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "100545": {
         "id": 100545,
         "nameTextMapHash": 379244133,
         "abilityName": "Avatar_PlayerBoy_ExtraAttack_Rock",
@@ -7381,7 +7381,7 @@
         "proudSkillGroupId": 730,
         "globalValueKey": ""
     },
-    {
+    "100546": {
         "id": 100546,
         "nameTextMapHash": 1660121349,
         "abilityName": "Avatar_PlayerBoy_ExtraAttack_Electric",
@@ -7400,7 +7400,7 @@
         "proudSkillGroupId": 1030,
         "globalValueKey": ""
     },
-    {
+    "100547": {
         "id": 100547,
         "nameTextMapHash": 3401752693,
         "abilityName": "Avatar_PlayerBoy_ExtraAttack_Grass",
@@ -7419,7 +7419,7 @@
         "proudSkillGroupId": 1130,
         "globalValueKey": ""
     },
-    {
+    "100550": {
         "id": 100550,
         "nameTextMapHash": 3538369725,
         "abilityName": "Avatar_PlayerGirl_ExtraAttack_Common",
@@ -7438,7 +7438,7 @@
         "proudSkillGroupId": 731,
         "globalValueKey": ""
     },
-    {
+    "100551": {
         "id": 100551,
         "nameTextMapHash": 2463434149,
         "abilityName": "",
@@ -7456,7 +7456,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "100552": {
         "id": 100552,
         "nameTextMapHash": 299520933,
         "abilityName": "",
@@ -7474,7 +7474,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "100553": {
         "id": 100553,
         "nameTextMapHash": 2182891949,
         "abilityName": "Avatar_PlayerGirl_ExtraAttack_Wind",
@@ -7493,7 +7493,7 @@
         "proudSkillGroupId": 731,
         "globalValueKey": ""
     },
-    {
+    "100554": {
         "id": 100554,
         "nameTextMapHash": 1522492485,
         "abilityName": "",
@@ -7511,7 +7511,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "100555": {
         "id": 100555,
         "nameTextMapHash": 1063935965,
         "abilityName": "Avatar_PlayerGirl_ExtraAttack_Rock",
@@ -7530,7 +7530,7 @@
         "proudSkillGroupId": 731,
         "globalValueKey": ""
     },
-    {
+    "100556": {
         "id": 100556,
         "nameTextMapHash": 3021322565,
         "abilityName": "Avatar_PlayerGirl_ExtraAttack_Electric",
@@ -7549,7 +7549,7 @@
         "proudSkillGroupId": 1031,
         "globalValueKey": ""
     },
-    {
+    "100557": {
         "id": 100557,
         "nameTextMapHash": 1727970205,
         "abilityName": "Avatar_PlayerGirl_ExtraAttack_Grass",
@@ -7568,7 +7568,7 @@
         "proudSkillGroupId": 1131,
         "globalValueKey": ""
     },
-    {
+    "5002010": {
         "id": 5002010,
         "nameTextMapHash": 1113979477,
         "abilityName": "",
@@ -7587,7 +7587,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5003010": {
         "id": 5003010,
         "nameTextMapHash": 2743040301,
         "abilityName": "",
@@ -7606,7 +7606,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5005010": {
         "id": 5005010,
         "nameTextMapHash": 222670213,
         "abilityName": "",
@@ -7625,7 +7625,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5005020": {
         "id": 5005020,
         "nameTextMapHash": 599206293,
         "abilityName": "",
@@ -7644,7 +7644,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5005030": {
         "id": 5005030,
         "nameTextMapHash": 3869306797,
         "abilityName": "",
@@ -7663,7 +7663,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5005040": {
         "id": 5005040,
         "nameTextMapHash": 537185229,
         "abilityName": "",
@@ -7682,7 +7682,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5005050": {
         "id": 5005050,
         "nameTextMapHash": 458080989,
         "abilityName": "",
@@ -7701,7 +7701,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5005060": {
         "id": 5005060,
         "nameTextMapHash": 3662398749,
         "abilityName": "",
@@ -7720,7 +7720,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5005070": {
         "id": 5005070,
         "nameTextMapHash": 2768383149,
         "abilityName": "",
@@ -7739,7 +7739,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5005080": {
         "id": 5005080,
         "nameTextMapHash": 2048192477,
         "abilityName": "",
@@ -7758,7 +7758,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5006010": {
         "id": 5006010,
         "nameTextMapHash": 1861301005,
         "abilityName": "",
@@ -7777,7 +7777,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5007010": {
         "id": 5007010,
         "nameTextMapHash": 4224921045,
         "abilityName": "",
@@ -7796,7 +7796,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5007020": {
         "id": 5007020,
         "nameTextMapHash": 900526901,
         "abilityName": "",
@@ -7815,7 +7815,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5007030": {
         "id": 5007030,
         "nameTextMapHash": 811245917,
         "abilityName": "",
@@ -7834,7 +7834,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5007040": {
         "id": 5007040,
         "nameTextMapHash": 2422927957,
         "abilityName": "",
@@ -7853,7 +7853,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5007050": {
         "id": 5007050,
         "nameTextMapHash": 3923422245,
         "abilityName": "",
@@ -7872,7 +7872,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5007060": {
         "id": 5007060,
         "nameTextMapHash": 3851684133,
         "abilityName": "",
@@ -7891,7 +7891,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5007070": {
         "id": 5007070,
         "nameTextMapHash": 2772749133,
         "abilityName": "",
@@ -7910,7 +7910,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5007080": {
         "id": 5007080,
         "nameTextMapHash": 2138619645,
         "abilityName": "",
@@ -7929,7 +7929,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5014010": {
         "id": 5014010,
         "nameTextMapHash": 3673252189,
         "abilityName": "",
@@ -7948,7 +7948,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5015010": {
         "id": 5015010,
         "nameTextMapHash": 146347653,
         "abilityName": "",
@@ -7967,7 +7967,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5016010": {
         "id": 5016010,
         "nameTextMapHash": 1059884597,
         "abilityName": "",
@@ -7986,7 +7986,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5020010": {
         "id": 5020010,
         "nameTextMapHash": 2307867765,
         "abilityName": "",
@@ -8005,7 +8005,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5021010": {
         "id": 5021010,
         "nameTextMapHash": 2465177213,
         "abilityName": "",
@@ -8024,7 +8024,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5022010": {
         "id": 5022010,
         "nameTextMapHash": 1880336189,
         "abilityName": "",
@@ -8043,7 +8043,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5023010": {
         "id": 5023010,
         "nameTextMapHash": 2947930693,
         "abilityName": "",
@@ -8062,7 +8062,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5024010": {
         "id": 5024010,
         "nameTextMapHash": 1202874949,
         "abilityName": "",
@@ -8081,7 +8081,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5025010": {
         "id": 5025010,
         "nameTextMapHash": 2555769645,
         "abilityName": "",
@@ -8100,7 +8100,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5026010": {
         "id": 5026010,
         "nameTextMapHash": 2718102949,
         "abilityName": "",
@@ -8119,7 +8119,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5027010": {
         "id": 5027010,
         "nameTextMapHash": 3736001053,
         "abilityName": "",
@@ -8138,7 +8138,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5029010": {
         "id": 5029010,
         "nameTextMapHash": 1277261805,
         "abilityName": "",
@@ -8157,7 +8157,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5030010": {
         "id": 5030010,
         "nameTextMapHash": 1444388789,
         "abilityName": "",
@@ -8176,7 +8176,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5031010": {
         "id": 5031010,
         "nameTextMapHash": 4251380141,
         "abilityName": "",
@@ -8195,7 +8195,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5032010": {
         "id": 5032010,
         "nameTextMapHash": 807465973,
         "abilityName": "",
@@ -8214,7 +8214,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5033010": {
         "id": 5033010,
         "nameTextMapHash": 2269716989,
         "abilityName": "",
@@ -8233,7 +8233,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5034010": {
         "id": 5034010,
         "nameTextMapHash": 120782533,
         "abilityName": "",
@@ -8252,7 +8252,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5035010": {
         "id": 5035010,
         "nameTextMapHash": 3686145989,
         "abilityName": "",
@@ -8271,7 +8271,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5036010": {
         "id": 5036010,
         "nameTextMapHash": 641926669,
         "abilityName": "",
@@ -8290,7 +8290,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5037010": {
         "id": 5037010,
         "nameTextMapHash": 2828744293,
         "abilityName": "",
@@ -8309,7 +8309,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5038010": {
         "id": 5038010,
         "nameTextMapHash": 2495101917,
         "abilityName": "",
@@ -8328,7 +8328,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5039010": {
         "id": 5039010,
         "nameTextMapHash": 562318989,
         "abilityName": "",
@@ -8347,7 +8347,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5041010": {
         "id": 5041010,
         "nameTextMapHash": 1558817893,
         "abilityName": "",
@@ -8366,7 +8366,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5042010": {
         "id": 5042010,
         "nameTextMapHash": 2442023485,
         "abilityName": "",
@@ -8385,7 +8385,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5043010": {
         "id": 5043010,
         "nameTextMapHash": 3753429733,
         "abilityName": "",
@@ -8404,7 +8404,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5044010": {
         "id": 5044010,
         "nameTextMapHash": 1747345901,
         "abilityName": "",
@@ -8423,7 +8423,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5045010": {
         "id": 5045010,
         "nameTextMapHash": 3381185701,
         "abilityName": "",
@@ -8442,7 +8442,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5046010": {
         "id": 5046010,
         "nameTextMapHash": 1471470213,
         "abilityName": "",
@@ -8461,7 +8461,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5047010": {
         "id": 5047010,
         "nameTextMapHash": 7068229,
         "abilityName": "",
@@ -8480,7 +8480,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5048010": {
         "id": 5048010,
         "nameTextMapHash": 1054428893,
         "abilityName": "",
@@ -8499,7 +8499,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5049010": {
         "id": 5049010,
         "nameTextMapHash": 534393685,
         "abilityName": "",
@@ -8518,7 +8518,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5050010": {
         "id": 5050010,
         "nameTextMapHash": 889413773,
         "abilityName": "",
@@ -8537,7 +8537,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5051010": {
         "id": 5051010,
         "nameTextMapHash": 3123794733,
         "abilityName": "",
@@ -8556,7 +8556,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5052010": {
         "id": 5052010,
         "nameTextMapHash": 2761964765,
         "abilityName": "",
@@ -8575,7 +8575,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5053010": {
         "id": 5053010,
         "nameTextMapHash": 3251301293,
         "abilityName": "",
@@ -8594,7 +8594,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5054010": {
         "id": 5054010,
         "nameTextMapHash": 2462540765,
         "abilityName": "",
@@ -8613,7 +8613,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5055010": {
         "id": 5055010,
         "nameTextMapHash": 1061636741,
         "abilityName": "",
@@ -8632,7 +8632,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5056010": {
         "id": 5056010,
         "nameTextMapHash": 1602190341,
         "abilityName": "",
@@ -8651,7 +8651,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5058010": {
         "id": 5058010,
         "nameTextMapHash": 2500225021,
         "abilityName": "",
@@ -8670,7 +8670,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5057010": {
         "id": 5057010,
         "nameTextMapHash": 752149869,
         "abilityName": "",
@@ -8689,7 +8689,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5059010": {
         "id": 5059010,
         "nameTextMapHash": 3825685805,
         "abilityName": "",
@@ -8708,7 +8708,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5060010": {
         "id": 5060010,
         "nameTextMapHash": 289877085,
         "abilityName": "",
@@ -8727,7 +8727,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5062010": {
         "id": 5062010,
         "nameTextMapHash": 1225242717,
         "abilityName": "",
@@ -8746,7 +8746,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5063010": {
         "id": 5063010,
         "nameTextMapHash": 1461236069,
         "abilityName": "",
@@ -8765,7 +8765,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5064010": {
         "id": 5064010,
         "nameTextMapHash": 4228672181,
         "abilityName": "",
@@ -8784,7 +8784,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5065010": {
         "id": 5065010,
         "nameTextMapHash": 3189479301,
         "abilityName": "",
@@ -8803,7 +8803,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5066010": {
         "id": 5066010,
         "nameTextMapHash": 2509253013,
         "abilityName": "",
@@ -8822,7 +8822,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5067010": {
         "id": 5067010,
         "nameTextMapHash": 1232154725,
         "abilityName": "",
@@ -8841,7 +8841,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5068010": {
         "id": 5068010,
         "nameTextMapHash": 2106573173,
         "abilityName": "",
@@ -8860,7 +8860,7 @@
         "buffIcon": "",
         "globalValueKey": ""
     },
-    {
+    "5069010": {
         "id": 5069010,
         "nameTextMapHash": 19903157,
         "abilityName": "",
@@ -8879,4 +8879,4 @@
         "buffIcon": "",
         "globalValueKey": ""
     }
-]
+}

@@ -1,50 +1,50 @@
-[
-    {
+{
+    "1001": {
         "functionId": 1001,
         "nameTextMapHash": 1452900101,
         "descTextMapHash": 373579433,
         "shopDescTextMapHash": 1821519383
     },
-    {
+    "1002": {
         "functionId": 1002,
         "nameTextMapHash": 1610612133,
         "descTextMapHash": 2597783929,
         "shopDescTextMapHash": 363009487
     },
-    {
+    "2001": {
         "functionId": 2001,
         "nameTextMapHash": 2635957669,
         "descTextMapHash": 4288123161,
         "shopDescTextMapHash": 3371997583
     },
-    {
+    "2002": {
         "functionId": 2002,
         "nameTextMapHash": 1509147573,
         "descTextMapHash": 3573476145,
         "shopDescTextMapHash": 2788518263
     },
-    {
+    "3001": {
         "functionId": 3001,
         "nameTextMapHash": 2953071877,
         "descTextMapHash": 3618220713,
         "shopDescTextMapHash": 235986631
     },
-    {
+    "3002": {
         "functionId": 3002,
         "nameTextMapHash": 1820216173,
         "descTextMapHash": 253761673,
         "shopDescTextMapHash": 4130112215
     },
-    {
+    "4001": {
         "functionId": 4001,
         "nameTextMapHash": 2264764757,
         "descTextMapHash": 1327198193,
         "shopDescTextMapHash": 3458852399
     },
-    {
+    "4002": {
         "functionId": 4002,
         "nameTextMapHash": 681656117,
         "descTextMapHash": 3207740977,
         "shopDescTextMapHash": 3279299751
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "playType": "SALVAGE_PLAY_TYPE_CARRIAGE",
         "HHJKBDGHBND": 20104301,
@@ -19,7 +19,7 @@
             12010403
         ]
     },
-    {
+    "2": {
         "id": 2,
         "playType": "SALVAGE_PLAY_TYPE_CARRIAGE",
         "HHJKBDGHBND": 20104302,
@@ -39,7 +39,7 @@
             12010406
         ]
     },
-    {
+    "3": {
         "id": 3,
         "playType": "SALVAGE_PLAY_TYPE_ESCORT",
         "HHJKBDGHBND": 20104401,
@@ -59,7 +59,7 @@
             12010409
         ]
     },
-    {
+    "4": {
         "id": 4,
         "playType": "SALVAGE_PLAY_TYPE_ESCORT",
         "HHJKBDGHBND": 20104402,
@@ -79,7 +79,7 @@
             12010412
         ]
     },
-    {
+    "5": {
         "id": 5,
         "playType": "SALVAGE_PLAY_TYPE_BOSS",
         "HHJKBDGHBND": 20104501,
@@ -91,4 +91,4 @@
             12010415
         ]
     }
-]
+}

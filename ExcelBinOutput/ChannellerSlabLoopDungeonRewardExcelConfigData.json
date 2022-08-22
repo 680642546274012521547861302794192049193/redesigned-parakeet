@@ -1,62 +1,62 @@
-[
-    {
+{
+    "21": {
         "id": 21,
         "scoreGrade": 1000,
         "rewardID": 3031015
     },
-    {
+    "22": {
         "id": 22,
         "scoreGrade": 2000,
         "rewardID": 3031016
     },
-    {
+    "23": {
         "id": 23,
         "scoreGrade": 3000,
         "rewardID": 3031017
     },
-    {
+    "24": {
         "id": 24,
         "scoreGrade": 4000,
         "rewardID": 3031018
     },
-    {
+    "25": {
         "id": 25,
         "scoreGrade": 5000,
         "rewardID": 3031019
     },
-    {
+    "26": {
         "id": 26,
         "scoreGrade": 6000,
         "rewardID": 3031020
     },
-    {
+    "27": {
         "id": 27,
         "scoreGrade": 7000,
         "rewardID": 3031021
     },
-    {
+    "28": {
         "id": 28,
         "scoreGrade": 8000,
         "rewardID": 3031022
     },
-    {
+    "29": {
         "id": 29,
         "scoreGrade": 9000,
         "rewardID": 3031023
     },
-    {
+    "30": {
         "id": 30,
         "scoreGrade": 10000,
         "rewardID": 3031024
     },
-    {
+    "31": {
         "id": 31,
         "scoreGrade": 11000,
         "rewardID": 3031025
     },
-    {
+    "32": {
         "id": 32,
         "scoreGrade": 12000,
         "rewardID": 3031026
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "levelId": 1,
         "stageId": 1,
         "watcherId": 12010601,
@@ -73,7 +73,7 @@
             }
         ]
     },
-    {
+    "2": {
         "levelId": 2,
         "stageId": 1,
         "watcherId": 12010602,
@@ -147,7 +147,7 @@
             }
         ]
     },
-    {
+    "3": {
         "levelId": 3,
         "stageId": 1,
         "watcherId": 12010603,
@@ -221,7 +221,7 @@
             }
         ]
     },
-    {
+    "4": {
         "levelId": 4,
         "stageId": 2,
         "watcherId": 12010604,
@@ -322,7 +322,7 @@
             }
         ]
     },
-    {
+    "5": {
         "levelId": 5,
         "stageId": 2,
         "watcherId": 12010605,
@@ -420,7 +420,7 @@
             }
         ]
     },
-    {
+    "6": {
         "levelId": 6,
         "stageId": 2,
         "watcherId": 12010606,
@@ -515,7 +515,7 @@
             }
         ]
     },
-    {
+    "7": {
         "levelId": 7,
         "stageId": 3,
         "watcherId": 12010608,
@@ -625,7 +625,7 @@
             }
         ]
     },
-    {
+    "8": {
         "levelId": 8,
         "stageId": 3,
         "watcherId": 12010607,
@@ -735,7 +735,7 @@
             }
         ]
     },
-    {
+    "9": {
         "levelId": 9,
         "stageId": 3,
         "watcherId": 12010609,
@@ -863,4 +863,4 @@
             }
         ]
     }
-]
+}

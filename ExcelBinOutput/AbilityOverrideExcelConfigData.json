@@ -1,5 +1,5 @@
-[
-    {
+{
+    "100001": {
         "id": 100001,
         "abilityName": "Activity_Rogue_ElementAddHurt_SSR",
         "DJADGHJOMBA": [
@@ -27,7 +27,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100002": {
         "id": 100002,
         "abilityName": "Activity_Rogue_ElementAddHurt_SR",
         "DJADGHJOMBA": [
@@ -61,7 +61,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100003": {
         "id": 100003,
         "abilityName": "Activity_Rogue_ElementReactionAttack_Explode",
         "DJADGHJOMBA": [
@@ -92,7 +92,7 @@
             5.0
         ]
     },
-    {
+    "100004": {
         "id": 100004,
         "abilityName": "Activity_Rogue_ElementReactionAttack_Superconductor",
         "DJADGHJOMBA": [
@@ -123,7 +123,7 @@
             5.0
         ]
     },
-    {
+    "100005": {
         "id": 100005,
         "abilityName": "Activity_Rogue_ElementReactionAttack_Melt",
         "DJADGHJOMBA": [
@@ -154,7 +154,7 @@
             5.0
         ]
     },
-    {
+    "100006": {
         "id": 100006,
         "abilityName": "Activity_Rogue_ElementReactionAttack_Stream",
         "DJADGHJOMBA": [
@@ -185,7 +185,7 @@
             5.0
         ]
     },
-    {
+    "100007": {
         "id": 100007,
         "abilityName": "Activity_Rogue_ElementReactionAttack_Shock",
         "DJADGHJOMBA": [
@@ -216,7 +216,7 @@
             5.0
         ]
     },
-    {
+    "100008": {
         "id": 100008,
         "abilityName": "Activity_Rogue_AreaNoEnemyAtkSpeedUp",
         "DJADGHJOMBA": [
@@ -247,7 +247,7 @@
             3.0
         ]
     },
-    {
+    "100009": {
         "id": 100009,
         "abilityName": "Activity_Rogue_NormalAttackDamageUp_R",
         "DJADGHJOMBA": [
@@ -278,7 +278,7 @@
             2.0
         ]
     },
-    {
+    "100010": {
         "id": 100010,
         "abilityName": "Activity_Rogue_ExtraAttackDamageUp_R",
         "DJADGHJOMBA": [
@@ -309,7 +309,7 @@
             2.0
         ]
     },
-    {
+    "100011": {
         "id": 100011,
         "abilityName": "Activity_Rogue_FallingAttackDamageUp_R",
         "DJADGHJOMBA": [
@@ -340,7 +340,7 @@
             2.0
         ]
     },
-    {
+    "100012": {
         "id": 100012,
         "abilityName": "Activity_Rogue_Elemental_ArtDamageUp_R",
         "DJADGHJOMBA": [
@@ -371,7 +371,7 @@
             2.0
         ]
     },
-    {
+    "100013": {
         "id": 100013,
         "abilityName": "Activity_Rogue_DefenceRatio_R",
         "DJADGHJOMBA": [
@@ -402,7 +402,7 @@
             2.0
         ]
     },
-    {
+    "100015": {
         "id": 100015,
         "abilityName": "Activity_Rogue_HighHp_DamageUp_SR",
         "DJADGHJOMBA": [
@@ -439,7 +439,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "100016": {
         "id": 100016,
         "abilityName": "Activity_Rogue_LowHp_DamageUp_SR",
         "DJADGHJOMBA": [
@@ -476,7 +476,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "100017": {
         "id": 100017,
         "abilityName": "Activity_Rogue_DamageUp_SubHurtDown_SR",
         "DJADGHJOMBA": [
@@ -507,7 +507,7 @@
             0.15000000596046448
         ]
     },
-    {
+    "100018": {
         "id": 100018,
         "abilityName": "Activity_Rogue_OtherNumerical_R",
         "DJADGHJOMBA": [
@@ -538,7 +538,7 @@
             0.0
         ]
     },
-    {
+    "100019": {
         "id": 100019,
         "abilityName": "LevelEntityTowerBuff_HighEnergyAtkUp_Multiple",
         "DJADGHJOMBA": [
@@ -582,7 +582,7 @@
             10.0
         ]
     },
-    {
+    "100021": {
         "id": 100021,
         "abilityName": "LevelEntityTowerBuff_HighEnergyTriggerAoe",
         "DJADGHJOMBA": [
@@ -616,7 +616,7 @@
             8.329999923706055
         ]
     },
-    {
+    "100022": {
         "id": 100022,
         "abilityName": "LevelEntity_ElementAddHurt_Water_V22",
         "DJADGHJOMBA": [
@@ -644,7 +644,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100023": {
         "id": 100023,
         "abilityName": "Activity_Rogue_ElemnentalArt_GenerateBall",
         "DJADGHJOMBA": [
@@ -672,7 +672,7 @@
             4.0
         ]
     },
-    {
+    "100024": {
         "id": 100024,
         "abilityName": "Activity_Rogue_ElementAddHurt_R",
         "DJADGHJOMBA": [
@@ -703,7 +703,7 @@
             10.0
         ]
     },
-    {
+    "100025": {
         "id": 100025,
         "abilityName": "Activity_Rogue_HighStaminaAreaAttack_SR",
         "DJADGHJOMBA": [
@@ -737,7 +737,7 @@
             5.0
         ]
     },
-    {
+    "100026": {
         "id": 100026,
         "abilityName": "Activity_Rogue_DownPhysicalSubHurt_SR",
         "DJADGHJOMBA": [
@@ -768,7 +768,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "100030": {
         "id": 100030,
         "abilityName": "ActivityAbility_MistTrial_Level_1",
         "DJADGHJOMBA": [
@@ -805,7 +805,7 @@
             1.2000000476837158
         ]
     },
-    {
+    "100031": {
         "id": 100031,
         "abilityName": "ActivityAbility_MistTrial_Level_2",
         "DJADGHJOMBA": [
@@ -849,7 +849,7 @@
             4.0
         ]
     },
-    {
+    "100032": {
         "id": 100032,
         "abilityName": "ActivityAbility_MistTrial_Level_3",
         "DJADGHJOMBA": [
@@ -889,7 +889,7 @@
             3.0
         ]
     },
-    {
+    "100033": {
         "id": 100033,
         "abilityName": "ActivityAbility_MistTrial_Level_4",
         "DJADGHJOMBA": [
@@ -929,7 +929,7 @@
             8.0
         ]
     },
-    {
+    "100034": {
         "id": 100034,
         "abilityName": "ActivityAbility_MistTrial_Level_5",
         "DJADGHJOMBA": [
@@ -971,7 +971,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "100035": {
         "id": 100035,
         "abilityName": "ActivityAbility_MistTrial_Level_6",
         "DJADGHJOMBA": [
@@ -1011,7 +1011,7 @@
             8.0
         ]
     },
-    {
+    "100036": {
         "id": 100036,
         "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_ShieldCostMinusDown",
         "DJADGHJOMBA": [
@@ -1039,7 +1039,7 @@
             -0.5
         ]
     },
-    {
+    "100037": {
         "id": 100037,
         "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_MoveSpeedDown",
         "DJADGHJOMBA": [
@@ -1067,7 +1067,7 @@
             -0.11999999731779099
         ]
     },
-    {
+    "100038": {
         "id": 100038,
         "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_DashStaminaUp",
         "DJADGHJOMBA": [
@@ -1095,7 +1095,7 @@
             1.0
         ]
     },
-    {
+    "100039": {
         "id": 100039,
         "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_SkillCDIncrement",
         "DJADGHJOMBA": [
@@ -1123,7 +1123,7 @@
             -1.0
         ]
     },
-    {
+    "100040": {
         "id": 100040,
         "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_RecoverStaminaRatioDown",
         "DJADGHJOMBA": [
@@ -1151,7 +1151,7 @@
             -0.3499999940395355
         ]
     },
-    {
+    "100041": {
         "id": 100041,
         "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_NoShieldAtkDown",
         "DJADGHJOMBA": [
@@ -1179,7 +1179,7 @@
             -0.5
         ]
     },
-    {
+    "100042": {
         "id": 100042,
         "abilityName": "LevelEntity_ChannellerSlabV2_Team_AtkDownLowHP",
         "DJADGHJOMBA": [
@@ -1210,7 +1210,7 @@
             -0.5
         ]
     },
-    {
+    "100043": {
         "id": 100043,
         "abilityName": "LevelEntity_ChannellerSlabV2_Team_SpeedDownLowHP",
         "DJADGHJOMBA": [
@@ -1241,7 +1241,7 @@
             -0.18000000715255737
         ]
     },
-    {
+    "100044": {
         "id": 100044,
         "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_SprintBeHurtDamageUp",
         "DJADGHJOMBA": [
@@ -1272,7 +1272,7 @@
             -0.4000000059604645
         ]
     },
-    {
+    "100045": {
         "id": 100045,
         "abilityName": "LevelEntity_ChannellerSlabV2_Team_BeHurtDamageUpAfterChangeAvatar",
         "DJADGHJOMBA": [
@@ -1306,7 +1306,7 @@
             30.0
         ]
     },
-    {
+    "100046": {
         "id": 100046,
         "abilityName": "LevelEntity_ChannellerSlabV2_Team_BeHurtDamageUpAfterULT",
         "DJADGHJOMBA": [
@@ -1340,7 +1340,7 @@
             30.0
         ]
     },
-    {
+    "100047": {
         "id": 100047,
         "abilityName": "LevelEntity_ChannellerSlabV2_Team_AtkDownLowHP_TwoStages",
         "DJADGHJOMBA": [
@@ -1377,7 +1377,7 @@
             -0.800000011920929
         ]
     },
-    {
+    "100048": {
         "id": 100048,
         "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_ChargeEfficiencyDelta",
         "DJADGHJOMBA": [
@@ -1405,7 +1405,7 @@
             -0.5
         ]
     },
-    {
+    "100050": {
         "id": 100050,
         "abilityName": "LevelEntityTowerBuff_PickUpCrystal_OnTeam",
         "DJADGHJOMBA": [
@@ -1442,7 +1442,7 @@
             3.0
         ]
     },
-    {
+    "100051": {
         "id": 100051,
         "abilityName": "LevelEntityTowerBuff_DoElementDamage_OnTeam",
         "DJADGHJOMBA": [
@@ -1476,7 +1476,7 @@
             3.0
         ]
     },
-    {
+    "100052": {
         "id": 100052,
         "abilityName": "LevelEntityTowerBuff_RockGadgetUp_OnAvatar",
         "DJADGHJOMBA": [
@@ -1507,7 +1507,7 @@
             0.5
         ]
     },
-    {
+    "100053": {
         "id": 100053,
         "abilityName": "ActivityAbility_EnergyDisk_Purple_HealthyDamage_V2",
         "DJADGHJOMBA": [
@@ -1541,7 +1541,7 @@
             5.0
         ]
     },
-    {
+    "100054": {
         "id": 100054,
         "abilityName": "ActivityAbility_EnergyDisk_Purple_Berserker_V2",
         "DJADGHJOMBA": [
@@ -1575,7 +1575,7 @@
             10.0
         ]
     },
-    {
+    "100055": {
         "id": 100055,
         "abilityName": "ActivityAbility_EnergyDisk_Purple_PickupTriggerAOE_V2",
         "DJADGHJOMBA": [
@@ -1612,7 +1612,7 @@
             10.0
         ]
     },
-    {
+    "100056": {
         "id": 100056,
         "abilityName": "ActivityAbility_EnergyDisk_Purple_ElementBurst_Count3Wave_V2",
         "DJADGHJOMBA": [
@@ -1646,7 +1646,7 @@
             5.0
         ]
     },
-    {
+    "100057": {
         "id": 100057,
         "abilityName": "ActivityAbility_EnergyDisk_Purple_ElementBurstTriggerWave_V2",
         "DJADGHJOMBA": [
@@ -1677,7 +1677,7 @@
             2.0
         ]
     },
-    {
+    "100058": {
         "id": 100058,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_ElementDmgUpAfterCrystalShield_V2",
         "DJADGHJOMBA": [
@@ -1708,7 +1708,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100059": {
         "id": 100059,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_ElementBurst_NormalAtkUp_V2",
         "DJADGHJOMBA": [
@@ -1739,7 +1739,7 @@
             0.4000000059604645
         ]
     },
-    {
+    "100060": {
         "id": 100060,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_HasShield_NormalAtkUp_V2",
         "DJADGHJOMBA": [
@@ -1770,7 +1770,7 @@
             0.07999999821186066
         ]
     },
-    {
+    "100061": {
         "id": 100061,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_ExtraAtkKill_Attract_V2",
         "DJADGHJOMBA": [
@@ -1798,7 +1798,7 @@
             2.0
         ]
     },
-    {
+    "100062": {
         "id": 100062,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_MonsterNumAtkDefUp_V2",
         "DJADGHJOMBA": [
@@ -1829,7 +1829,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "100063": {
         "id": 100063,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_ExtraAtkKillMonster_V2",
         "DJADGHJOMBA": [
@@ -1863,7 +1863,7 @@
             20.0
         ]
     },
-    {
+    "100064": {
         "id": 100064,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_BuffAfterCrystalShield_V2",
         "DJADGHJOMBA": [
@@ -1891,7 +1891,7 @@
             2.0
         ]
     },
-    {
+    "100065": {
         "id": 100065,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_KillAOEMonster_V2",
         "DJADGHJOMBA": [
@@ -1914,7 +1914,7 @@
         "BKGAHFCLEHB": [],
         "ECLMFACFFMK": []
     },
-    {
+    "100066": {
         "id": 100066,
         "abilityName": "ActivityAbility_EnergyDisk_Green_PhysicalHurtUp_V2",
         "DJADGHJOMBA": [
@@ -1942,7 +1942,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100067": {
         "id": 100067,
         "abilityName": "ActivityAbility_EnergyDisk_Green_BurstDamageUp_V2",
         "DJADGHJOMBA": [
@@ -1970,7 +1970,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100068": {
         "id": 100068,
         "abilityName": "ActivityAbility_EnergyDisk_Green_ElemMasteryDeltaUp_V2",
         "DJADGHJOMBA": [
@@ -1998,7 +1998,7 @@
             100.0
         ]
     },
-    {
+    "100069": {
         "id": 100069,
         "abilityName": "ActivityAbility_EnergyDisk_Green_DefUp_V2",
         "DJADGHJOMBA": [
@@ -2026,7 +2026,7 @@
             0.4000000059604645
         ]
     },
-    {
+    "100070": {
         "id": 100070,
         "abilityName": "ActivityAbility_EnergyDisk_Green_ExtraAtkUp_V2",
         "DJADGHJOMBA": [
@@ -2054,7 +2054,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100071": {
         "id": 100071,
         "abilityName": "ActivityAbility_EnergyDisk_Green_ThumpDamageUp_V2",
         "DJADGHJOMBA": [
@@ -2082,7 +2082,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100072": {
         "id": 100072,
         "abilityName": "ActivityAbility_EnergyDisk_Purple_BurstDamageUp_V2",
         "DJADGHJOMBA": [
@@ -2116,7 +2116,7 @@
             0.15000000596046448
         ]
     },
-    {
+    "100073": {
         "id": 100073,
         "abilityName": "ActivityAbility_EnergyDisk_Blue_ShockCdMinus_V2",
         "DJADGHJOMBA": [
@@ -2147,7 +2147,7 @@
             1.5
         ]
     },
-    {
+    "100074": {
         "id": 100074,
         "abilityName": "ActivityAbility_Potion_ThumDamageUp",
         "DJADGHJOMBA": [
@@ -2175,7 +2175,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "100075": {
         "id": 100075,
         "abilityName": "ActivityAbility_Potion_NormalAttackUp",
         "DJADGHJOMBA": [
@@ -2203,7 +2203,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "100076": {
         "id": 100076,
         "abilityName": "ActivityAbility_Potion_ElementalBurstDamageUp",
         "DJADGHJOMBA": [
@@ -2231,7 +2231,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "100077": {
         "id": 100077,
         "abilityName": "ActivityAbility_Potion_ElemMasteryDeltaUp",
         "DJADGHJOMBA": [
@@ -2259,7 +2259,7 @@
             120.0
         ]
     },
-    {
+    "100078": {
         "id": 100078,
         "abilityName": "ActivityAbility_Potion_DefenceUp_Team",
         "DJADGHJOMBA": [
@@ -2287,7 +2287,7 @@
             0.5
         ]
     },
-    {
+    "100079": {
         "id": 100079,
         "abilityName": "ActivityAbility_Potion_ThumpCostReduce",
         "DJADGHJOMBA": [
@@ -2315,7 +2315,7 @@
             0.5
         ]
     },
-    {
+    "100080": {
         "id": 100080,
         "abilityName": "ActivityAbility_Potion_DashStaminaReduce",
         "DJADGHJOMBA": [
@@ -2343,7 +2343,7 @@
             0.5
         ]
     },
-    {
+    "100081": {
         "id": 100081,
         "abilityName": "ActivityAbility_Potion_ExtraAttackAtkUpAfterUseUltimateSkill",
         "DJADGHJOMBA": [
@@ -2380,7 +2380,7 @@
             15.0
         ]
     },
-    {
+    "100082": {
         "id": 100082,
         "abilityName": "ActivityAbility_Potion_SwirlIncreaseTeamAtk",
         "DJADGHJOMBA": [
@@ -2411,7 +2411,7 @@
             8.0
         ]
     },
-    {
+    "100083": {
         "id": 100083,
         "abilityName": "ActivityAbility_Potion_ElemnentalArt_GenerateBall",
         "DJADGHJOMBA": [
@@ -2439,7 +2439,7 @@
             3.0
         ]
     },
-    {
+    "100084": {
         "id": 100084,
         "abilityName": "ActivityAbility_Potion_DamageUp_SubHurtDown",
         "DJADGHJOMBA": [
@@ -2470,7 +2470,7 @@
             0.15000000596046448
         ]
     },
-    {
+    "100085": {
         "id": 100085,
         "abilityName": "ActivityAbility_Potion_Purple_After_Steam_Melt",
         "DJADGHJOMBA": [
@@ -2501,7 +2501,7 @@
             5.0
         ]
     },
-    {
+    "100086": {
         "id": 100086,
         "abilityName": "ActivityAbility_Potion_AttackFrozenEnemy_IncreaseDamage",
         "DJADGHJOMBA": [
@@ -2529,7 +2529,7 @@
             0.25
         ]
     },
-    {
+    "100087": {
         "id": 100087,
         "abilityName": "ActivityAbility_Potion_ContinuousNormalAtk_PhysicalDamageUp",
         "DJADGHJOMBA": [
@@ -2563,7 +2563,7 @@
             5.0
         ]
     },
-    {
+    "100088": {
         "id": 100088,
         "abilityName": "ActivityAbility_Potion_SkillCDMinusRatioUp_AfterSkill",
         "DJADGHJOMBA": [
@@ -2597,7 +2597,7 @@
             16.0
         ]
     },
-    {
+    "100089": {
         "id": 100089,
         "abilityName": "ActivityAbility_Potion_ContinuousNormalAtk_HealEffectUp",
         "DJADGHJOMBA": [
@@ -2625,7 +2625,7 @@
             1.0
         ]
     },
-    {
+    "100090": {
         "id": 100090,
         "abilityName": "ActivityAbility_Potion_HealAttackUp",
         "DJADGHJOMBA": [
@@ -2659,7 +2659,7 @@
             3.0
         ]
     },
-    {
+    "100091": {
         "id": 100091,
         "abilityName": "ActivityAbility_Potion_HightHP_IncreaseDamage",
         "DJADGHJOMBA": [
@@ -2690,7 +2690,7 @@
             0.5
         ]
     },
-    {
+    "100092": {
         "id": 100092,
         "abilityName": "ActivityAbility_Potion_ATKSpeedUp_AfterDash",
         "DJADGHJOMBA": [
@@ -2721,7 +2721,7 @@
             8.0
         ]
     },
-    {
+    "100093": {
         "id": 100093,
         "abilityName": "ActivityAbility_Potion_UltimateSkill_UltimateSkillDamageUp",
         "DJADGHJOMBA": [
@@ -2755,7 +2755,7 @@
             3.0
         ]
     },
-    {
+    "100094": {
         "id": 100094,
         "abilityName": "ActivityAbility_Potion_HitTheTarget_GenerateBall_AfterUltimateSkill",
         "DJADGHJOMBA": [
@@ -2786,7 +2786,7 @@
             2.0
         ]
     },
-    {
+    "100095": {
         "id": 100095,
         "abilityName": "ActivityAbility_Potion_LowEnergy_ChargeEfficiencyUp",
         "DJADGHJOMBA": [
@@ -2817,7 +2817,7 @@
             1.0
         ]
     },
-    {
+    "100096": {
         "id": 100096,
         "abilityName": "ActivityAbility_Potion_AtkUp_OnAvatarIn",
         "DJADGHJOMBA": [
@@ -2851,7 +2851,7 @@
             4.0
         ]
     },
-    {
+    "100097": {
         "id": 100097,
         "abilityName": "ActivityAbility_Potion_AtkUp_DefUp_Crystallize",
         "DJADGHJOMBA": [
@@ -2885,7 +2885,7 @@
             8.0
         ]
     },
-    {
+    "100098": {
         "id": 100098,
         "abilityName": "ActivityAbility_Potion_RockGadgetNearAvatar_ThumDamageUp_ThumpCostReduce",
         "DJADGHJOMBA": [
@@ -2916,7 +2916,7 @@
             0.5
         ]
     },
-    {
+    "100099": {
         "id": 100099,
         "abilityName": "ActivityAbility_Potion_GainCrystalSeed_AllElementalDamageUp",
         "DJADGHJOMBA": [
@@ -2947,7 +2947,7 @@
             8.0
         ]
     },
-    {
+    "100100": {
         "id": 100100,
         "abilityName": "ActivityAbility_Potion_LevelBuff_Level1",
         "DJADGHJOMBA": [
@@ -2987,7 +2987,7 @@
             0.5
         ]
     },
-    {
+    "100101": {
         "id": 100101,
         "abilityName": "ActivityAbility_Potion_LevelEntity_LevelBuff_Level2",
         "DJADGHJOMBA": [
@@ -3027,7 +3027,7 @@
             5.0
         ]
     },
-    {
+    "100102": {
         "id": 100102,
         "abilityName": "ActivityAbility_Potion_DeathRattle_Corruption_LogicGadget",
         "DJADGHJOMBA": [
@@ -3064,7 +3064,7 @@
             0.15000000596046448
         ]
     },
-    {
+    "100103": {
         "id": 100103,
         "abilityName": "ActivityAbility_Potion_GainCrystalSeed_GenerateImpact",
         "DJADGHJOMBA": [
@@ -3101,7 +3101,7 @@
             5.0
         ]
     },
-    {
+    "100104": {
         "id": 100104,
         "abilityName": "ActivityAbility_Potion_Explode_Superconductor_Shock_IncreaseDmg",
         "DJADGHJOMBA": [
@@ -3135,7 +3135,7 @@
             3.0
         ]
     },
-    {
+    "100105": {
         "id": 100105,
         "abilityName": "LevelEntity_TowerBuff_NormalAttackUp",
         "DJADGHJOMBA": [
@@ -3163,7 +3163,7 @@
             0.5
         ]
     },
-    {
+    "100106": {
         "id": 100106,
         "abilityName": "LevelEntity_TowerBuff_NormalExFallSustainAttackUp",
         "DJADGHJOMBA": [
@@ -3200,7 +3200,7 @@
             2.0
         ]
     },
-    {
+    "100107": {
         "id": 100107,
         "abilityName": "LevelEntity_TowerBuff_NormalAttackRandomShock",
         "DJADGHJOMBA": [
@@ -3237,7 +3237,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100108": {
         "id": 100108,
         "abilityName": "LevelEntity_TowerBuff_NormalExFallSustainAttackShockUp",
         "DJADGHJOMBA": [
@@ -3281,7 +3281,7 @@
             8.0
         ]
     },
-    {
+    "100109": {
         "id": 100109,
         "abilityName": "ActivityAbility_Potion_AtkSpeedUp_MoveSpeedUp_OnKillEnemies",
         "DJADGHJOMBA": [
@@ -3315,7 +3315,7 @@
             12.0
         ]
     },
-    {
+    "100110": {
         "id": 100110,
         "abilityName": "ActivityAbility_Potion_ElementalDamageUp_AfterSkill",
         "DJADGHJOMBA": [
@@ -3346,7 +3346,7 @@
             10.0
         ]
     },
-    {
+    "100111": {
         "id": 100111,
         "abilityName": "ActivityAbility_Potion_RecoverEnergy_HitDamage",
         "DJADGHJOMBA": [
@@ -3377,7 +3377,7 @@
             2.0
         ]
     },
-    {
+    "100112": {
         "id": 100112,
         "abilityName": "ActivityAbility_Potion_LevelEntity_LevelBuff_QuicklyAttack",
         "DJADGHJOMBA": [
@@ -3414,7 +3414,7 @@
             0.05000000074505806
         ]
     },
-    {
+    "100113": {
         "id": 100113,
         "abilityName": "ActivityAbility_Potion_AddAtkUpLevelOnStage_SubAtkLevelOffStage",
         "DJADGHJOMBA": [
@@ -3451,7 +3451,7 @@
             2.0
         ]
     },
-    {
+    "100114": {
         "id": 100114,
         "abilityName": "ActivityAbility_Potion_AllElementalDmgUp_AfterNormalAttack",
         "DJADGHJOMBA": [
@@ -3488,7 +3488,7 @@
             0.05000000074505806
         ]
     },
-    {
+    "100115": {
         "id": 100115,
         "abilityName": "ActivityAbility_MichiaeMatsuri_DefenceUp_HealthUp",
         "DJADGHJOMBA": [
@@ -3519,7 +3519,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "100116": {
         "id": 100116,
         "abilityName": "ActivityAbility_MichiaeMatsuri_ElementalBurstDamageUp",
         "DJADGHJOMBA": [
@@ -3547,7 +3547,7 @@
             0.25
         ]
     },
-    {
+    "100117": {
         "id": 100117,
         "abilityName": "ActivityAbility_MichiaeMatsuri_MeleeWeaponDamageUp",
         "DJADGHJOMBA": [
@@ -3575,7 +3575,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100118": {
         "id": 100118,
         "abilityName": "ActivityAbility_MichiaeMatsuri_RangedWeapon_AtkSpeedUp",
         "DJADGHJOMBA": [
@@ -3603,7 +3603,7 @@
             0.15000000596046448
         ]
     },
-    {
+    "100119": {
         "id": 100119,
         "abilityName": "ActivityAbility_MichiaeMatsuri_Explode_Superconductor_Shock_SwirlElec_DmgUp",
         "DJADGHJOMBA": [
@@ -3631,7 +3631,7 @@
             1.0
         ]
     },
-    {
+    "100120": {
         "id": 100120,
         "abilityName": "ActivityAbility_MichiaeMatsuri_StaminaCostDown_StaminaRecoverUp",
         "DJADGHJOMBA": [
@@ -3662,7 +3662,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "100121": {
         "id": 100121,
         "abilityName": "ActivityAbility_MichiaeMatsuri_OnCrystalAttackLand",
         "DJADGHJOMBA": [
@@ -3693,7 +3693,7 @@
             30.0
         ]
     },
-    {
+    "100122": {
         "id": 100122,
         "abilityName": "Activity_Sumo_ArtAndBurst_DamageUp",
         "DJADGHJOMBA": [
@@ -3733,7 +3733,7 @@
             0.5
         ]
     },
-    {
+    "100123": {
         "id": 100123,
         "abilityName": "Activity_Sumo_ExtraAttack_RandomDamage",
         "DJADGHJOMBA": [
@@ -3767,7 +3767,7 @@
             10.0
         ]
     },
-    {
+    "100124": {
         "id": 100124,
         "abilityName": "Activity_Sumo_ReviveEnergy",
         "DJADGHJOMBA": [
@@ -3804,7 +3804,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100125": {
         "id": 100125,
         "abilityName": "Activity_Sumo_WindZone_Gadget",
         "DJADGHJOMBA": [
@@ -3838,7 +3838,7 @@
             4.0
         ]
     },
-    {
+    "100126": {
         "id": 100126,
         "abilityName": "Activity_Sumo_WaterZone_Gadget",
         "DJADGHJOMBA": [
@@ -3872,7 +3872,7 @@
             5.0
         ]
     },
-    {
+    "100127": {
         "id": 100127,
         "abilityName": "Activity_Sumo_Cannon",
         "DJADGHJOMBA": [
@@ -3903,7 +3903,7 @@
             7.5
         ]
     },
-    {
+    "100128": {
         "id": 100128,
         "abilityName": "Activity_Sumo_Cannon_Bullet",
         "DJADGHJOMBA": [
@@ -3931,7 +3931,7 @@
             7.5
         ]
     },
-    {
+    "100129": {
         "id": 100129,
         "abilityName": "Activity_Sumo_ElemMasteryDelta",
         "DJADGHJOMBA": [
@@ -3962,7 +3962,7 @@
             150.0
         ]
     },
-    {
+    "100130": {
         "id": 100130,
         "abilityName": "Activity_Sumo_ElementAddHurt_Fire",
         "DJADGHJOMBA": [
@@ -3993,7 +3993,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100131": {
         "id": 100131,
         "abilityName": "Activity_Sumo_ElementAddHurt_Ice",
         "DJADGHJOMBA": [
@@ -4024,7 +4024,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100132": {
         "id": 100132,
         "abilityName": "Activity_Sumo_ElementAddHurt_Elec",
         "DJADGHJOMBA": [
@@ -4055,7 +4055,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100133": {
         "id": 100133,
         "abilityName": "Activity_Sumo_ElementAddHurt_Rock",
         "DJADGHJOMBA": [
@@ -4086,7 +4086,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100134": {
         "id": 100134,
         "abilityName": "Activity_Sumo_ElementAddHurt_Water",
         "DJADGHJOMBA": [
@@ -4117,7 +4117,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100135": {
         "id": 100135,
         "abilityName": "Activity_Sumo_ElementAddHurt_Wind",
         "DJADGHJOMBA": [
@@ -4148,7 +4148,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100136": {
         "id": 100136,
         "abilityName": "Activity_Sumo_PhysicalAddHurt",
         "DJADGHJOMBA": [
@@ -4179,7 +4179,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100137": {
         "id": 100137,
         "abilityName": "Activity_Sumo_CriticalHurtDelta",
         "DJADGHJOMBA": [
@@ -4210,7 +4210,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100138": {
         "id": 100138,
         "abilityName": "Activity_Sumo_AtkUp",
         "DJADGHJOMBA": [
@@ -4241,7 +4241,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100139": {
         "id": 100139,
         "abilityName": "Activity_Sumo_Elemental_Burst",
         "DJADGHJOMBA": [
@@ -4275,7 +4275,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100140": {
         "id": 100140,
         "abilityName": "Activity_Sumo_NormalAttack",
         "DJADGHJOMBA": [
@@ -4312,7 +4312,7 @@
             4.0
         ]
     },
-    {
+    "100141": {
         "id": 100141,
         "abilityName": "Activity_Sumo_TriggerAoe_AfterHealUp",
         "DJADGHJOMBA": [
@@ -4349,7 +4349,7 @@
             0.004999999888241291
         ]
     },
-    {
+    "100142": {
         "id": 100142,
         "abilityName": "Activity_Sumo_GenerateBall_AfterElementalArt",
         "DJADGHJOMBA": [
@@ -4380,7 +4380,7 @@
             5.0
         ]
     },
-    {
+    "100143": {
         "id": 100143,
         "abilityName": "Activity_Sumo_FallingDamage",
         "DJADGHJOMBA": [
@@ -4411,7 +4411,7 @@
             0.8500000238418579
         ]
     },
-    {
+    "100144": {
         "id": 100144,
         "abilityName": "Activity_Sumo_ShieldBeingHitDoAttack",
         "DJADGHJOMBA": [
@@ -4445,7 +4445,7 @@
             2.0
         ]
     },
-    {
+    "100145": {
         "id": 100145,
         "abilityName": "Activity_Sumo_ExtraAttack",
         "DJADGHJOMBA": [
@@ -4482,7 +4482,7 @@
             0.6499999761581421
         ]
     },
-    {
+    "100146": {
         "id": 100146,
         "abilityName": "LevelEntity_TowerBuff_ImproveElecDamage",
         "DJADGHJOMBA": [
@@ -4510,7 +4510,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100147": {
         "id": 100147,
         "abilityName": "LevelEntity_TowerBuff_ImproveHeal",
         "DJADGHJOMBA": [
@@ -4538,7 +4538,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100148": {
         "id": 100148,
         "abilityName": "LevelEntity_TowerBuff_AvatarHitMonsterHasElec_ImpactDamage",
         "DJADGHJOMBA": [
@@ -4569,7 +4569,7 @@
             2.0
         ]
     },
-    {
+    "100149": {
         "id": 100149,
         "abilityName": "LevelEntity_TowerBuff_ElecAddHurtDelta",
         "DJADGHJOMBA": [
@@ -4606,7 +4606,7 @@
             10.0
         ]
     },
-    {
+    "100150": {
         "id": 100150,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UltimateSkillHitDamage",
         "DJADGHJOMBA": [
@@ -4634,7 +4634,7 @@
             3.0
         ]
     },
-    {
+    "100151": {
         "id": 100151,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill",
         "DJADGHJOMBA": [
@@ -4662,7 +4662,7 @@
             3.0
         ]
     },
-    {
+    "100152": {
         "id": 100152,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_OnAvatarIn",
         "DJADGHJOMBA": [
@@ -4690,7 +4690,7 @@
             3.0
         ]
     },
-    {
+    "100153": {
         "id": 100153,
         "abilityName": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp",
         "DJADGHJOMBA": [
@@ -4727,7 +4727,7 @@
             20.0
         ]
     },
-    {
+    "100154": {
         "id": 100154,
         "abilityName": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery",
         "DJADGHJOMBA": [
@@ -4764,7 +4764,7 @@
             20.0
         ]
     },
-    {
+    "100155": {
         "id": 100155,
         "abilityName": "ActivityAbility_CrystalLink_Action_ChargeEfficiencyUp",
         "DJADGHJOMBA": [
@@ -4801,7 +4801,7 @@
             20.0
         ]
     },
-    {
+    "100156": {
         "id": 100156,
         "abilityName": "ActivityAbility_CrystalLink_UltimateSkill_AttackUp",
         "DJADGHJOMBA": [
@@ -4835,7 +4835,7 @@
             8.0
         ]
     },
-    {
+    "100157": {
         "id": 100157,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level2",
         "DJADGHJOMBA": [
@@ -4863,7 +4863,7 @@
             3.0
         ]
     },
-    {
+    "100158": {
         "id": 100158,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_NormalAttackLanded_Counter",
         "DJADGHJOMBA": [
@@ -4894,7 +4894,7 @@
             3.0
         ]
     },
-    {
+    "100159": {
         "id": 100159,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_NormalAttackElementalDamage",
         "DJADGHJOMBA": [
@@ -4922,7 +4922,7 @@
             3.0
         ]
     },
-    {
+    "100160": {
         "id": 100160,
         "abilityName": "ActivityAbility_CrystalLink_Action_NormalAttackDamageUp",
         "DJADGHJOMBA": [
@@ -4959,7 +4959,7 @@
             20.0
         ]
     },
-    {
+    "100161": {
         "id": 100161,
         "abilityName": "ActivityAbility_CrystalLink_Action_AllElementalDamageUp",
         "DJADGHJOMBA": [
@@ -4996,7 +4996,7 @@
             20.0
         ]
     },
-    {
+    "100162": {
         "id": 100162,
         "abilityName": "ActivityAbility_CrystalLink_Action_AttackSpeedUp",
         "DJADGHJOMBA": [
@@ -5033,7 +5033,7 @@
             20.0
         ]
     },
-    {
+    "100163": {
         "id": 100163,
         "abilityName": "ActivityAbility_CrystalLink_QuicklyAttack",
         "DJADGHJOMBA": [
@@ -5070,7 +5070,7 @@
             5.0
         ]
     },
-    {
+    "100164": {
         "id": 100164,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_ElectricReaction",
         "DJADGHJOMBA": [
@@ -5098,7 +5098,7 @@
             3.0
         ]
     },
-    {
+    "100165": {
         "id": 100165,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level3",
         "DJADGHJOMBA": [
@@ -5126,7 +5126,7 @@
             3.0
         ]
     },
-    {
+    "100166": {
         "id": 100166,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_ElectricDamage",
         "DJADGHJOMBA": [
@@ -5154,7 +5154,7 @@
             3.0
         ]
     },
-    {
+    "100167": {
         "id": 100167,
         "abilityName": "ActivityAbility_CrystalLink_Action_SkillDamageUp",
         "DJADGHJOMBA": [
@@ -5191,7 +5191,7 @@
             20.0
         ]
     },
-    {
+    "100168": {
         "id": 100168,
         "abilityName": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery_Level3",
         "DJADGHJOMBA": [
@@ -5228,7 +5228,7 @@
             20.0
         ]
     },
-    {
+    "100169": {
         "id": 100169,
         "abilityName": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp_Level3",
         "DJADGHJOMBA": [
@@ -5265,7 +5265,7 @@
             20.0
         ]
     },
-    {
+    "100170": {
         "id": 100170,
         "abilityName": "ActivityAbility_CrystalLink_ElectricDamageUp",
         "DJADGHJOMBA": [
@@ -5293,7 +5293,7 @@
             0.4000000059604645
         ]
     },
-    {
+    "100171": {
         "id": 100171,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_RockDamage",
         "DJADGHJOMBA": [
@@ -5321,7 +5321,7 @@
             3.0
         ]
     },
-    {
+    "100172": {
         "id": 100172,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_Crystallize",
         "DJADGHJOMBA": [
@@ -5349,7 +5349,7 @@
             3.0
         ]
     },
-    {
+    "100173": {
         "id": 100173,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_RockGadgetDestroyed",
         "DJADGHJOMBA": [
@@ -5377,7 +5377,7 @@
             3.0
         ]
     },
-    {
+    "100174": {
         "id": 100174,
         "abilityName": "ActivityAbility_CrystalLink_Action_RockDamageUp",
         "DJADGHJOMBA": [
@@ -5414,7 +5414,7 @@
             20.0
         ]
     },
-    {
+    "100175": {
         "id": 100175,
         "abilityName": "ActivityAbility_CrystalLink_Action_DefenceUp",
         "DJADGHJOMBA": [
@@ -5451,7 +5451,7 @@
             20.0
         ]
     },
-    {
+    "100176": {
         "id": 100176,
         "abilityName": "ActivityAbility_CrystalLink_Action_CriticalUp",
         "DJADGHJOMBA": [
@@ -5488,7 +5488,7 @@
             20.0
         ]
     },
-    {
+    "100177": {
         "id": 100177,
         "abilityName": "ActivityAbility_CrystalLink_GetRockSeed_DamageUp",
         "DJADGHJOMBA": [
@@ -5522,7 +5522,7 @@
             3.0
         ]
     },
-    {
+    "100178": {
         "id": 100178,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_BeingHealed",
         "DJADGHJOMBA": [
@@ -5550,7 +5550,7 @@
             3.0
         ]
     },
-    {
+    "100179": {
         "id": 100179,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_HPDown",
         "DJADGHJOMBA": [
@@ -5578,7 +5578,7 @@
             3.0
         ]
     },
-    {
+    "100180": {
         "id": 100180,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level5",
         "DJADGHJOMBA": [
@@ -5606,7 +5606,7 @@
             3.0
         ]
     },
-    {
+    "100181": {
         "id": 100181,
         "abilityName": "ActivityAbility_CrystalLink_Action_MaxHPUp",
         "DJADGHJOMBA": [
@@ -5643,7 +5643,7 @@
             20.0
         ]
     },
-    {
+    "100182": {
         "id": 100182,
         "abilityName": "ActivityAbility_CrystalLink_Action_AttackUp",
         "DJADGHJOMBA": [
@@ -5680,7 +5680,7 @@
             20.0
         ]
     },
-    {
+    "100183": {
         "id": 100183,
         "abilityName": "ActivityAbility_CrystalLink_Action_WaterDamageUp",
         "DJADGHJOMBA": [
@@ -5717,7 +5717,7 @@
             20.0
         ]
     },
-    {
+    "100184": {
         "id": 100184,
         "abilityName": "ActivityAbility_CrystalLink_Skill_UltimateSkill_DamageUp_ByCurHP",
         "DJADGHJOMBA": [
@@ -5748,7 +5748,7 @@
             0.5
         ]
     },
-    {
+    "100185": {
         "id": 100185,
         "abilityName": "ActivityAbility_CrystalLink_DeathRattle_Corruption_LogicGadget",
         "DJADGHJOMBA": [
@@ -5785,7 +5785,7 @@
             0.15000000596046448
         ]
     },
-    {
+    "100186": {
         "id": 100186,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_HitFrozenTarget",
         "DJADGHJOMBA": [
@@ -5813,7 +5813,7 @@
             3.0
         ]
     },
-    {
+    "100187": {
         "id": 100187,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_FrozenBroken",
         "DJADGHJOMBA": [
@@ -5841,7 +5841,7 @@
             3.0
         ]
     },
-    {
+    "100188": {
         "id": 100188,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_Frozen",
         "DJADGHJOMBA": [
@@ -5869,7 +5869,7 @@
             3.0
         ]
     },
-    {
+    "100189": {
         "id": 100189,
         "abilityName": "ActivityAbility_CrystalLink_Action_WaterDamageUp_Level6",
         "DJADGHJOMBA": [
@@ -5906,7 +5906,7 @@
             20.0
         ]
     },
-    {
+    "100190": {
         "id": 100190,
         "abilityName": "ActivityAbility_CrystalLink_Action_IceDamageUp",
         "DJADGHJOMBA": [
@@ -5943,7 +5943,7 @@
             20.0
         ]
     },
-    {
+    "100191": {
         "id": 100191,
         "abilityName": "ActivityAbility_CrystalLink_Action_FrozenDamageUp",
         "DJADGHJOMBA": [
@@ -5980,7 +5980,7 @@
             20.0
         ]
     },
-    {
+    "100192": {
         "id": 100192,
         "abilityName": "ActivityAbility_CrystalLink_FrozenTarget_DefenceDown",
         "DJADGHJOMBA": [
@@ -6011,7 +6011,7 @@
             3.0
         ]
     },
-    {
+    "100193": {
         "id": 100193,
         "abilityName": "LevelEntity_LoopDungeon_UseSkill_GenerateBlastWave",
         "DJADGHJOMBA": [
@@ -6039,7 +6039,7 @@
             4.0
         ]
     },
-    {
+    "100194": {
         "id": 100194,
         "abilityName": "ActivityAbility_CrystalLink_FeverUp_CriticalHurtUp",
         "DJADGHJOMBA": [
@@ -6076,7 +6076,7 @@
             0.800000011920929
         ]
     },
-    {
+    "100195": {
         "id": 100195,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level6",
         "DJADGHJOMBA": [
@@ -6104,7 +6104,7 @@
             3.0
         ]
     },
-    {
+    "100196": {
         "id": 100196,
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level4",
         "DJADGHJOMBA": [
@@ -6132,7 +6132,7 @@
             3.0
         ]
     },
-    {
+    "100197": {
         "id": 100197,
         "abilityName": "ActivityAbility_CrystalLink_Action_AttackUp_Level4",
         "DJADGHJOMBA": [
@@ -6169,7 +6169,7 @@
             20.0
         ]
     },
-    {
+    "100198": {
         "id": 100198,
         "abilityName": "LevelEntity_TowerAvatarBuff_ClaymoreAddHurt",
         "DJADGHJOMBA": [
@@ -6197,7 +6197,7 @@
             0.75
         ]
     },
-    {
+    "100199": {
         "id": 100199,
         "abilityName": "LevelEntity_TowerBuff_UseSkill_AddNormalAtkDamage",
         "DJADGHJOMBA": [
@@ -6231,7 +6231,7 @@
             3.0
         ]
     },
-    {
+    "100200": {
         "id": 100200,
         "abilityName": "LevelEntity_TowerBuff_UseSkillHit_DecreaseTargetSubHurt",
         "DJADGHJOMBA": [
@@ -6265,7 +6265,7 @@
             3.0
         ]
     },
-    {
+    "100201": {
         "id": 100201,
         "abilityName": "LevelEntity_TowerBuff_AvatarElementArt_HitMonster_ImpactDamage",
         "DJADGHJOMBA": [
@@ -6296,7 +6296,7 @@
             1.2000000476837158
         ]
     },
-    {
+    "100202": {
         "id": 100202,
         "abilityName": "ActivityAbility_ArenaChallenge_UltimateSkillDamageUp",
         "DJADGHJOMBA": [
@@ -6327,7 +6327,7 @@
             0.75
         ]
     },
-    {
+    "100203": {
         "id": 100203,
         "abilityName": "ActivityAbility_ArenaChallenge_ReviveEnergy",
         "DJADGHJOMBA": [
@@ -6358,7 +6358,7 @@
             3.0
         ]
     },
-    {
+    "100204": {
         "id": 100204,
         "abilityName": "ActivityAbility_ArenaChallenge_Steam_Melt_DamageUp",
         "DJADGHJOMBA": [
@@ -6389,7 +6389,7 @@
             0.4000000059604645
         ]
     },
-    {
+    "100205": {
         "id": 100205,
         "abilityName": "ActivityAbility_ArenaChallenge_Purple_After_Steam_Melt",
         "DJADGHJOMBA": [
@@ -6420,7 +6420,7 @@
             4.0
         ]
     },
-    {
+    "100206": {
         "id": 100206,
         "abilityName": "ActivityAbility_ArenaChallenge_TriggerReact_Steam_Melt",
         "DJADGHJOMBA": [
@@ -6448,7 +6448,7 @@
             1.0
         ]
     },
-    {
+    "100207": {
         "id": 100207,
         "abilityName": "ActivityAbility_ArenaChallenge_ElectricReact_EnermyDefenceDown",
         "DJADGHJOMBA": [
@@ -6482,7 +6482,7 @@
             0.699999988079071
         ]
     },
-    {
+    "100208": {
         "id": 100208,
         "abilityName": "ActivityAbility_ArenaChallenge_ElectricReact_GenerateEnergyBall",
         "DJADGHJOMBA": [
@@ -6510,7 +6510,7 @@
             4.0
         ]
     },
-    {
+    "100209": {
         "id": 100209,
         "abilityName": "ActivityAbility_ArenaChallenge_TriggerReact_Electric",
         "DJADGHJOMBA": [
@@ -6538,7 +6538,7 @@
             1.0
         ]
     },
-    {
+    "100210": {
         "id": 100210,
         "abilityName": "ActivityAbility_ArenaChallenge_SwirlReact_DamageUp",
         "DJADGHJOMBA": [
@@ -6572,7 +6572,7 @@
             0.75
         ]
     },
-    {
+    "100211": {
         "id": 100211,
         "abilityName": "ActivityAbility_ArenaChallenge_SwirlReact_GenerateEnergyBall",
         "DJADGHJOMBA": [
@@ -6600,7 +6600,7 @@
             4.0
         ]
     },
-    {
+    "100212": {
         "id": 100212,
         "abilityName": "ActivityAbility_ArenaChallenge_TriggerReact_Swirl",
         "DJADGHJOMBA": [
@@ -6628,7 +6628,7 @@
             1.0
         ]
     },
-    {
+    "100213": {
         "id": 100213,
         "abilityName": "ActivityAbility_ArenaChallenge_Claymore_DamageUp",
         "DJADGHJOMBA": [
@@ -6656,7 +6656,7 @@
             0.5
         ]
     },
-    {
+    "100214": {
         "id": 100214,
         "abilityName": "ActivityAbility_ArenaChallenge_Claymore_AtkSpeedUp",
         "DJADGHJOMBA": [
@@ -6684,7 +6684,7 @@
             0.4000000059604645
         ]
     },
-    {
+    "100215": {
         "id": 100215,
         "abilityName": "ActivityAbility_ArenaChallenge_Claymore_AtkLand",
         "DJADGHJOMBA": [
@@ -6712,7 +6712,7 @@
             1.0
         ]
     },
-    {
+    "100216": {
         "id": 100216,
         "abilityName": "ActivityAbility_ArenaChallenge_NormalAtkDamageUp",
         "DJADGHJOMBA": [
@@ -6743,7 +6743,7 @@
             0.75
         ]
     },
-    {
+    "100217": {
         "id": 100217,
         "abilityName": "ActivityAbility_ArenaChallenge_NormalAttackLand_ReviveEnergy",
         "DJADGHJOMBA": [
@@ -6774,7 +6774,7 @@
             2.0
         ]
     },
-    {
+    "100218": {
         "id": 100218,
         "abilityName": "ActivityAbility_ArenaChallenge_NormalAtkDamageLand",
         "DJADGHJOMBA": [
@@ -6802,7 +6802,7 @@
             1.0
         ]
     },
-    {
+    "100219": {
         "id": 100219,
         "abilityName": "ActivityAbility_ArenaChallenge_HitFrozenTarget_DamageUp",
         "DJADGHJOMBA": [
@@ -6830,7 +6830,7 @@
             0.5
         ]
     },
-    {
+    "100220": {
         "id": 100220,
         "abilityName": "ActivityAbility_ArenaChallenge_FrozenReact_DefenceDown",
         "DJADGHJOMBA": [
@@ -6861,7 +6861,7 @@
             4.0
         ]
     },
-    {
+    "100221": {
         "id": 100221,
         "abilityName": "ActivityAbility_ArenaChallenge_TriggerReact_Freeze",
         "DJADGHJOMBA": [
@@ -6889,7 +6889,7 @@
             1.0
         ]
     },
-    {
+    "100222": {
         "id": 100222,
         "abilityName": "ActivityAbility_RogueV2_StrengthenNormalAttack",
         "DJADGHJOMBA": [
@@ -6923,7 +6923,7 @@
             3.0
         ]
     },
-    {
+    "100223": {
         "id": 100223,
         "abilityName": "ActivityAbility_RogueV2_ExtraAttack",
         "DJADGHJOMBA": [
@@ -6951,7 +6951,7 @@
             0.4000000059604645
         ]
     },
-    {
+    "100224": {
         "id": 100224,
         "abilityName": "ActivityAbility_RogueV2_ReviveEnergy",
         "DJADGHJOMBA": [
@@ -6979,7 +6979,7 @@
             3.0
         ]
     },
-    {
+    "100225": {
         "id": 100225,
         "abilityName": "ActivityAbility_RogueV2_FallingWindZone",
         "DJADGHJOMBA": [
@@ -7007,7 +7007,7 @@
             2.0
         ]
     },
-    {
+    "100226": {
         "id": 100226,
         "abilityName": "ActivityAbility_RogueV2_RockGadgetUp",
         "DJADGHJOMBA": [
@@ -7038,7 +7038,7 @@
             10.0
         ]
     },
-    {
+    "100227": {
         "id": 100227,
         "abilityName": "ActivityAbility_RogueV2_EnergyMax_Strengthen",
         "DJADGHJOMBA": [
@@ -7066,7 +7066,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "100228": {
         "id": 100228,
         "abilityName": "ActivityAbility_RogueV2_ChangeAvatarCD",
         "DJADGHJOMBA": [
@@ -7100,7 +7100,7 @@
             0.15000000596046448
         ]
     },
-    {
+    "100229": {
         "id": 100229,
         "abilityName": "ActivityAbility_RogueV2_HealAndHolyNova",
         "DJADGHJOMBA": [
@@ -7137,7 +7137,7 @@
             4.0
         ]
     },
-    {
+    "100230": {
         "id": 100230,
         "abilityName": "ActivityAbility_RogueV2_Blue_NormalAttackDamageUp",
         "DJADGHJOMBA": [
@@ -7171,7 +7171,7 @@
             5.0
         ]
     },
-    {
+    "100231": {
         "id": 100231,
         "abilityName": "ActivityAbility_RogueV2_Blue_ExtraAttackDamageUp",
         "DJADGHJOMBA": [
@@ -7205,7 +7205,7 @@
             8.0
         ]
     },
-    {
+    "100232": {
         "id": 100232,
         "abilityName": "ActivityAbility_RogueV2_Blue_ExtraAttackGenerateBall",
         "DJADGHJOMBA": [
@@ -7233,7 +7233,7 @@
             1.0
         ]
     },
-    {
+    "100233": {
         "id": 100233,
         "abilityName": "ActivityAbility_RogueV2_Blue_FallingAttackDamageUp",
         "DJADGHJOMBA": [
@@ -7267,7 +7267,7 @@
             8.0
         ]
     },
-    {
+    "100234": {
         "id": 100234,
         "abilityName": "ActivityAbility_RogueV2_Blue_FallingAttack_ReviveEnergy",
         "DJADGHJOMBA": [
@@ -7301,7 +7301,7 @@
             0.029999999329447746
         ]
     },
-    {
+    "100235": {
         "id": 100235,
         "abilityName": "ActivityAbility_RogueV2_Blue_AfterUseUltimateSkill",
         "DJADGHJOMBA": [
@@ -7332,7 +7332,7 @@
             6.0
         ]
     },
-    {
+    "100236": {
         "id": 100236,
         "abilityName": "ActivityAbility_RogueV2_Blue_ElecSubHurtDelta",
         "DJADGHJOMBA": [
@@ -7363,7 +7363,7 @@
             5.0
         ]
     },
-    {
+    "100237": {
         "id": 100237,
         "abilityName": "ActivityAbility_RogueV2_Blue_CalculateWaterElecAvatar",
         "DJADGHJOMBA": [
@@ -7391,7 +7391,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "100238": {
         "id": 100238,
         "abilityName": "ActivityAbility_RogueV2_Blue_PickUpCrystal",
         "DJADGHJOMBA": [
@@ -7422,7 +7422,7 @@
             6.0
         ]
     },
-    {
+    "100239": {
         "id": 100239,
         "abilityName": "ActivityAbility_RogueV2_Blue_ShieldBeingHitDoAttack",
         "DJADGHJOMBA": [
@@ -7456,7 +7456,7 @@
             5.0
         ]
     },
-    {
+    "100240": {
         "id": 100240,
         "abilityName": "ActivityAbility_RogueV2_Blue_ArtDamageUp",
         "DJADGHJOMBA": [
@@ -7487,7 +7487,7 @@
             6.0
         ]
     },
-    {
+    "100241": {
         "id": 100241,
         "abilityName": "ActivityAbility_RogueV2_Blue_BeingHealed_MaxHpUp",
         "DJADGHJOMBA": [
@@ -7518,7 +7518,7 @@
             6.0
         ]
     },
-    {
+    "100242": {
         "id": 100242,
         "abilityName": "ActivityAbility_RogueV2_Blue_BeingHealed_AtkUp",
         "DJADGHJOMBA": [
@@ -7552,7 +7552,7 @@
             5.0
         ]
     },
-    {
+    "100243": {
         "id": 100243,
         "abilityName": "ActivityAbility_RogueV2_Blue_LoseHp_CritDmgUp",
         "DJADGHJOMBA": [
@@ -7583,7 +7583,7 @@
             0.800000011920929
         ]
     },
-    {
+    "100244": {
         "id": 100244,
         "abilityName": "ActivityAbility_RogueV2_Blue_ElementalDamageUp",
         "DJADGHJOMBA": [
@@ -7611,7 +7611,7 @@
             0.5
         ]
     },
-    {
+    "100245": {
         "id": 100245,
         "abilityName": "ActivityAbility_RogueV2_Blue_SwirlIncreaseWindDmg",
         "DJADGHJOMBA": [
@@ -7642,7 +7642,7 @@
             8.0
         ]
     },
-    {
+    "100246": {
         "id": 100246,
         "abilityName": "ActivityAbility_RogueV2_Blue_WeaponCheck",
         "DJADGHJOMBA": [
@@ -7670,7 +7670,7 @@
             0.6000000238418579
         ]
     },
-    {
+    "100247": {
         "id": 100247,
         "abilityName": "ActivityAbility_RogueV2_Blue_NormalAttack_CJB",
         "DJADGHJOMBA": [
@@ -7704,7 +7704,7 @@
             6.650000095367432
         ]
     },
-    {
+    "100248": {
         "id": 100248,
         "abilityName": "ActivityAbility_RogueV2_Blue_BigCDmgUp",
         "DJADGHJOMBA": [
@@ -7738,7 +7738,7 @@
             3.0
         ]
     },
-    {
+    "100249": {
         "id": 100249,
         "abilityName": "ActivityAbility_SummerTimeV2_KazuhaAOE",
         "DJADGHJOMBA": [
@@ -7775,7 +7775,7 @@
             35.0
         ]
     },
-    {
+    "100250": {
         "id": 100250,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_FallingAttackLand_CDDown",
         "DJADGHJOMBA": [
@@ -7806,7 +7806,7 @@
             12.0
         ]
     },
-    {
+    "100251": {
         "id": 100251,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_SkillCDMinusRatioUp",
         "DJADGHJOMBA": [
@@ -7837,7 +7837,7 @@
             8.0
         ]
     },
-    {
+    "100252": {
         "id": 100252,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_Kazuha_DamageUp",
         "DJADGHJOMBA": [
@@ -7868,7 +7868,7 @@
             8.0
         ]
     },
-    {
+    "100253": {
         "id": 100253,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_Trigger_Skill_UltimateSkill_CDDown",
         "DJADGHJOMBA": [
@@ -7899,7 +7899,7 @@
             3.0
         ]
     },
-    {
+    "100254": {
         "id": 100254,
         "abilityName": "ActivityAbility_SummerTimeV2_Kazuha_CDManager_Team",
         "DJADGHJOMBA": [
@@ -7933,7 +7933,7 @@
             0.5
         ]
     },
-    {
+    "100255": {
         "id": 100255,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_AttackFrozenEnemy_IncreaseDamage",
         "DJADGHJOMBA": [
@@ -7964,7 +7964,7 @@
             8.0
         ]
     },
-    {
+    "100256": {
         "id": 100256,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_Mona_StruggleBubble",
         "DJADGHJOMBA": [
@@ -7992,7 +7992,7 @@
             8.0
         ]
     },
-    {
+    "100257": {
         "id": 100257,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_ElectricZone",
         "DJADGHJOMBA": [
@@ -8026,7 +8026,7 @@
             8.0
         ]
     },
-    {
+    "100258": {
         "id": 100258,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_Fishcl_Crow",
         "DJADGHJOMBA": [
@@ -8057,7 +8057,7 @@
             1.5
         ]
     },
-    {
+    "100259": {
         "id": 100259,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_Fishcl_Crow_Bullet",
         "DJADGHJOMBA": [
@@ -8085,7 +8085,7 @@
             5.0
         ]
     },
-    {
+    "100260": {
         "id": 100260,
         "abilityName": "ActivityAbility_SummerTimeV2_Dungeon_FallingAttack_Impact",
         "DJADGHJOMBA": [
@@ -8119,7 +8119,7 @@
             14.0
         ]
     },
-    {
+    "100261": {
         "id": 100261,
         "abilityName": "ActivityAbility_SwimStamina_Reduction",
         "DJADGHJOMBA": [
@@ -8147,7 +8147,7 @@
             -0.30000001192092896
         ]
     },
-    {
+    "100262": {
         "id": 100262,
         "abilityName": "ActivityAbility_InstableSpray_FireDamageUp",
         "DJADGHJOMBA": [
@@ -8175,7 +8175,7 @@
             1.100000023841858
         ]
     },
-    {
+    "100263": {
         "id": 100263,
         "abilityName": "ActivityAbility_InstableSpray_GrassDamageUp",
         "DJADGHJOMBA": [
@@ -8203,7 +8203,7 @@
             1.100000023841858
         ]
     },
-    {
+    "100264": {
         "id": 100264,
         "abilityName": "ActivityAbility_InstableSpray_ElecDamageUp",
         "DJADGHJOMBA": [
@@ -8231,7 +8231,7 @@
             1.100000023841858
         ]
     },
-    {
+    "100265": {
         "id": 100265,
         "abilityName": "ActivityAbility_InstableSpray_WaterDamageUp",
         "DJADGHJOMBA": [
@@ -8259,7 +8259,7 @@
             1.100000023841858
         ]
     },
-    {
+    "100266": {
         "id": 100266,
         "abilityName": "ActivityAbility_InstableSpray_IceDamageUp",
         "DJADGHJOMBA": [
@@ -8287,7 +8287,7 @@
             1.100000023841858
         ]
     },
-    {
+    "100267": {
         "id": 100267,
         "abilityName": "ActivityAbility_InstableSpray_ElemMasteryUp",
         "DJADGHJOMBA": [
@@ -8315,7 +8315,7 @@
             200.0
         ]
     },
-    {
+    "100268": {
         "id": 100268,
         "abilityName": "ActivityAbility_InstableSpray_GrassReaction_ElemResistance_Down",
         "DJADGHJOMBA": [
@@ -8346,7 +8346,7 @@
             4.0
         ]
     },
-    {
+    "100269": {
         "id": 100269,
         "abilityName": "ActivityAbility_InstableSpray_AttackUp",
         "DJADGHJOMBA": [
@@ -8374,7 +8374,7 @@
             0.5
         ]
     },
-    {
+    "100270": {
         "id": 100270,
         "abilityName": "ActivityAbility_InstableSpray_ElecReaction_ReviveEnergy",
         "DJADGHJOMBA": [
@@ -8405,7 +8405,7 @@
             7.0
         ]
     },
-    {
+    "100271": {
         "id": 100271,
         "abilityName": "ActivityAbility_InstableSpray_Frozen_DefenceDown",
         "DJADGHJOMBA": [
@@ -8436,7 +8436,7 @@
             10.0
         ]
     },
-    {
+    "100272": {
         "id": 100272,
         "abilityName": "ActivityAbility_InstableSpray_Frozen_DamageUp",
         "DJADGHJOMBA": [
@@ -8464,7 +8464,7 @@
             0.5
         ]
     },
-    {
+    "100273": {
         "id": 100273,
         "abilityName": "ActivityAbility_InstableSpray_Steam_Impact",
         "DJADGHJOMBA": [
@@ -8495,7 +8495,7 @@
             5.0
         ]
     },
-    {
+    "100274": {
         "id": 100274,
         "abilityName": "ActivityAbility_InstableSpray_CriticalUp",
         "DJADGHJOMBA": [
@@ -8523,7 +8523,7 @@
             0.3499999940395355
         ]
     },
-    {
+    "100275": {
         "id": 100275,
         "abilityName": "ActivityAbility_InstableSpray_NormalAttack",
         "DJADGHJOMBA": [
@@ -8551,7 +8551,7 @@
             1.100000023841858
         ]
     },
-    {
+    "100276": {
         "id": 100276,
         "abilityName": "ActivityAbility_InstableSpray_ExtraAttack",
         "DJADGHJOMBA": [
@@ -8579,7 +8579,7 @@
             1.100000023841858
         ]
     },
-    {
+    "100277": {
         "id": 100277,
         "abilityName": "ActivityAbility_InstableSpray_ElementalArt",
         "DJADGHJOMBA": [
@@ -8610,7 +8610,7 @@
             5.0
         ]
     },
-    {
+    "100278": {
         "id": 100278,
         "abilityName": "ActivityAbility_InstableSpray_FallingAttack_Impact",
         "DJADGHJOMBA": [
@@ -8641,7 +8641,7 @@
             5.0
         ]
     },
-    {
+    "100279": {
         "id": 100279,
         "abilityName": "ActivityAbility_InstableSpray_ElemAddHurt_Up",
         "DJADGHJOMBA": [
@@ -8669,7 +8669,7 @@
             0.5
         ]
     },
-    {
+    "100280": {
         "id": 100280,
         "abilityName": "ActivityAbility_InstableSpray_SpeedUp",
         "DJADGHJOMBA": [
@@ -8697,7 +8697,7 @@
             0.25
         ]
     },
-    {
+    "100281": {
         "id": 100281,
         "abilityName": "Activity_Muqadas_Potion_Day_1_Normal_Gadget",
         "DJADGHJOMBA": [
@@ -8725,7 +8725,7 @@
             80.0
         ]
     },
-    {
+    "100282": {
         "id": 100282,
         "abilityName": "Activity_Muqadas_Potion_Day_1_Enhanced_Gadget",
         "DJADGHJOMBA": [
@@ -8753,7 +8753,7 @@
             200.0
         ]
     },
-    {
+    "100283": {
         "id": 100283,
         "abilityName": "Activity_Muqadas_Potion_Day_2_Normal_Gadget",
         "DJADGHJOMBA": [
@@ -8781,7 +8781,7 @@
             100.0
         ]
     },
-    {
+    "100284": {
         "id": 100284,
         "abilityName": "Activity_Muqadas_Potion_Day_2_Enhanced_Gadget",
         "DJADGHJOMBA": [
@@ -8809,7 +8809,7 @@
             250.0
         ]
     },
-    {
+    "100285": {
         "id": 100285,
         "abilityName": "Activity_Gadget_Muqadas_Potion_Water_Attacker",
         "DJADGHJOMBA": [
@@ -8840,7 +8840,7 @@
             5.0
         ]
     },
-    {
+    "100286": {
         "id": 100286,
         "abilityName": "Activity_Gadget_Muqadas_Potion_Water_Attacker_Enhanced",
         "DJADGHJOMBA": [
@@ -8871,7 +8871,7 @@
             5.0
         ]
     },
-    {
+    "100287": {
         "id": 100287,
         "abilityName": "Activity_Muqadas_Potion_Day_4_Normal_Gadget",
         "DJADGHJOMBA": [
@@ -8905,7 +8905,7 @@
             -10.0
         ]
     },
-    {
+    "100288": {
         "id": 100288,
         "abilityName": "Activity_Muqadas_Potion_Day_4_Enhanced_Gadget",
         "DJADGHJOMBA": [
@@ -8939,7 +8939,7 @@
             -15.0
         ]
     },
-    {
+    "100289": {
         "id": 100289,
         "abilityName": "Activity_Muqadas_Potion_Day_5_Normal_Gadget",
         "DJADGHJOMBA": [
@@ -8967,7 +8967,7 @@
             12.0
         ]
     },
-    {
+    "100290": {
         "id": 100290,
         "abilityName": "Activity_Muqadas_Potion_Day_5_Enhanced_Gadget",
         "DJADGHJOMBA": [
@@ -8995,7 +8995,7 @@
             32.0
         ]
     },
-    {
+    "100291": {
         "id": 100291,
         "abilityName": "Activity_Muqadas_Potion_Day_6_Normal_Gadget",
         "DJADGHJOMBA": [
@@ -9026,7 +9026,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "100292": {
         "id": 100292,
         "abilityName": "Activity_Muqadas_Potion_Day_6_Enhanced_Gadget",
         "DJADGHJOMBA": [
@@ -9057,7 +9057,7 @@
             0.15000000596046448
         ]
     },
-    {
+    "100293": {
         "id": 100293,
         "abilityName": "Activity_Muqadas_Potion_Day_7_Normal_Gadget",
         "DJADGHJOMBA": [
@@ -9088,7 +9088,7 @@
             100.0
         ]
     },
-    {
+    "100294": {
         "id": 100294,
         "abilityName": "Activity_Muqadas_Potion_Day_7_Enhanced_Gadget",
         "DJADGHJOMBA": [
@@ -9119,7 +9119,7 @@
             200.0
         ]
     },
-    {
+    "100295": {
         "id": 100295,
         "abilityName": "LevelEntity_TowerBuff_ElemReactOvergrowDelta",
         "DJADGHJOMBA": [
@@ -9147,7 +9147,7 @@
             1.25
         ]
     },
-    {
+    "100296": {
         "id": 100296,
         "abilityName": "LevelEntity_TowerBuff_ElemReactOverdoseDelta",
         "DJADGHJOMBA": [
@@ -9175,7 +9175,7 @@
             0.75
         ]
     },
-    {
+    "100297": {
         "id": 100297,
         "abilityName": "LevelEntity_TowerBuff_GrassAddHurt",
         "DJADGHJOMBA": [
@@ -9203,7 +9203,7 @@
             0.75
         ]
     },
-    {
+    "100298": {
         "id": 100298,
         "abilityName": "LevelEntity_TowerBuff_OverdoseTriggerDefenseDown",
         "DJADGHJOMBA": [
@@ -9234,7 +9234,7 @@
             -0.3499999940395355
         ]
     },
-    {
+    "100299": {
         "id": 100299,
         "abilityName": "LevelEntity_TowerBuff_OverGrowTriggerAtkUp",
         "DJADGHJOMBA": [
@@ -9271,7 +9271,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "100300": {
         "id": 100300,
         "abilityName": "ActivityAbility_InstableSpray_PhysicalDamageUp",
         "DJADGHJOMBA": [
@@ -9299,7 +9299,7 @@
             1.100000023841858
         ]
     },
-    {
+    "100301": {
         "id": 100301,
         "abilityName": "ActivityAbility_InstableSpray_CriticalHurtUp",
         "DJADGHJOMBA": [
@@ -9327,7 +9327,7 @@
             0.699999988079071
         ]
     },
-    {
+    "100302": {
         "id": 100302,
         "abilityName": "LevelBuff_LoopDungeon_OverdoseTarget_ElemSubHurtDown",
         "DJADGHJOMBA": [
@@ -9358,7 +9358,7 @@
             5.0
         ]
     },
-    {
+    "100303": {
         "id": 100303,
         "abilityName": "LevelBuff_LoopDungeon_DamageUp_ElemDamage",
         "DJADGHJOMBA": [
@@ -9398,7 +9398,7 @@
             10.0
         ]
     },
-    {
+    "100304": {
         "id": 100304,
         "abilityName": "LevelBuff_LoopDungeon_MasteryUp_ByAllCharacterMastery",
         "DJADGHJOMBA": [
@@ -9429,7 +9429,7 @@
             20.0
         ]
     },
-    {
+    "100305": {
         "id": 100305,
         "abilityName": "ActivityAbility_ForestWQ_AssistAttack",
         "DJADGHJOMBA": [
@@ -9469,7 +9469,7 @@
             4.0
         ]
     },
-    {
+    "700001": {
         "id": 700001,
         "abilityName": "DynamicAbility_MichiaeMatsuri_Pressure",
         "DJADGHJOMBA": [
@@ -9500,7 +9500,7 @@
             -0.07999999821186066
         ]
     },
-    {
+    "700002": {
         "id": 700002,
         "abilityName": "SceneAbility_BlackMudArea",
         "DJADGHJOMBA": [
@@ -9537,7 +9537,7 @@
             0.05000000074505806
         ]
     },
-    {
+    "200001": {
         "id": 200001,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage1",
         "DJADGHJOMBA": [
@@ -9565,7 +9565,7 @@
             0.25
         ]
     },
-    {
+    "200002": {
         "id": 200002,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage2",
         "DJADGHJOMBA": [
@@ -9593,7 +9593,7 @@
             0.5
         ]
     },
-    {
+    "200003": {
         "id": 200003,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage3",
         "DJADGHJOMBA": [
@@ -9621,7 +9621,7 @@
             1.0
         ]
     },
-    {
+    "200004": {
         "id": 200004,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage4",
         "DJADGHJOMBA": [
@@ -9649,7 +9649,7 @@
             0.5
         ]
     },
-    {
+    "200005": {
         "id": 200005,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage5",
         "DJADGHJOMBA": [
@@ -9677,7 +9677,7 @@
             1.0
         ]
     },
-    {
+    "200006": {
         "id": 200006,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage6",
         "DJADGHJOMBA": [
@@ -9705,7 +9705,7 @@
             1.0
         ]
     },
-    {
+    "200007": {
         "id": 200007,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage7",
         "DJADGHJOMBA": [
@@ -9733,7 +9733,7 @@
             1.5
         ]
     },
-    {
+    "200008": {
         "id": 200008,
         "abilityName": "Activity_Rogue_Monster_SelfHeal",
         "DJADGHJOMBA": [
@@ -9767,7 +9767,7 @@
             0.30000001192092896
         ]
     },
-    {
+    "200009": {
         "id": 200009,
         "abilityName": "MonsterAffix_Property_HpUp_01_ForMistTrial",
         "DJADGHJOMBA": [
@@ -9795,7 +9795,7 @@
             0.5
         ]
     },
-    {
+    "200010": {
         "id": 200010,
         "abilityName": "MonsterAffix_Property_HpUp_02_ForMistTrial",
         "DJADGHJOMBA": [
@@ -9823,7 +9823,7 @@
             1.0
         ]
     },
-    {
+    "200011": {
         "id": 200011,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage8",
         "DJADGHJOMBA": [
@@ -9854,7 +9854,7 @@
             0.25
         ]
     },
-    {
+    "200012": {
         "id": 200012,
         "abilityName": "Activity_Rogue_Monster_HPUp_Stage9",
         "DJADGHJOMBA": [
@@ -9885,7 +9885,7 @@
             0.25
         ]
     },
-    {
+    "200013": {
         "id": 200013,
         "abilityName": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv1",
         "DJADGHJOMBA": [
@@ -9913,7 +9913,7 @@
             0.5
         ]
     },
-    {
+    "200014": {
         "id": 200014,
         "abilityName": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv2",
         "DJADGHJOMBA": [
@@ -9941,7 +9941,7 @@
             2.0
         ]
     },
-    {
+    "200015": {
         "id": 200015,
         "abilityName": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv3",
         "DJADGHJOMBA": [
@@ -9969,7 +9969,7 @@
             4.0
         ]
     },
-    {
+    "200016": {
         "id": 200016,
         "abilityName": "LevelEntity_ChannellerSlabV2_Monster_AtkUp_Lv1",
         "DJADGHJOMBA": [
@@ -9997,7 +9997,7 @@
             0.5
         ]
     },
-    {
+    "200017": {
         "id": 200017,
         "abilityName": "MonsterAffix_WeakTimeModify_ForChannellerSlabV2",
         "DJADGHJOMBA": [
@@ -10025,7 +10025,7 @@
             -0.5
         ]
     },
-    {
+    "200018": {
         "id": 200018,
         "abilityName": "GeneralSkill_SelfHeal_ForChannellerSlabV2",
         "DJADGHJOMBA": [
@@ -10062,7 +10062,7 @@
             1.0
         ]
     },
-    {
+    "200019": {
         "id": 200019,
         "abilityName": "Activity_ChannellerSlab_DamageArea_Impulse",
         "DJADGHJOMBA": [
@@ -10093,7 +10093,7 @@
             12.0
         ]
     },
-    {
+    "200020": {
         "id": 200020,
         "abilityName": "Sylph_Rock_Elite_Activated_DeathPosAction",
         "DJADGHJOMBA": [
@@ -10124,7 +10124,7 @@
             50.0
         ]
     },
-    {
+    "200021": {
         "id": 200021,
         "abilityName": "MonsterAffix_Sylph_ChargeUp_01_ForChannellerSlab",
         "DJADGHJOMBA": [
@@ -10155,7 +10155,7 @@
             4.0
         ]
     },
-    {
+    "200022": {
         "id": 200022,
         "abilityName": "Sylph_Water_Elite_Activated_DeathPosAction",
         "DJADGHJOMBA": [
@@ -10183,7 +10183,7 @@
             50.0
         ]
     },
-    {
+    "200023": {
         "id": 200023,
         "abilityName": "Sylph_Wind_Elite_Activated_DeathPosAction",
         "DJADGHJOMBA": [
@@ -10211,7 +10211,7 @@
             50.0
         ]
     },
-    {
+    "200024": {
         "id": 200024,
         "abilityName": "MonsterAffix_Hound_AttackEnhance_01_ForChannellerSlab",
         "DJADGHJOMBA": [
@@ -10239,7 +10239,7 @@
             2.0
         ]
     },
-    {
+    "200026": {
         "id": 200026,
         "abilityName": "SceneObj_Monster_Sylph_AttackEnhance",
         "DJADGHJOMBA": [
@@ -10267,7 +10267,7 @@
             0.25
         ]
     },
-    {
+    "200027": {
         "id": 200027,
         "abilityName": "MonsterAffix_Ningyo_HPDown_ForAbyss",
         "DJADGHJOMBA": [
@@ -10295,7 +10295,7 @@
             -0.25
         ]
     },
-    {
+    "200028": {
         "id": 200028,
         "abilityName": "GeneralSkill_SubHurtDelta_Periodicity",
         "DJADGHJOMBA": [
@@ -10332,7 +10332,7 @@
             20.0
         ]
     },
-    {
+    "200029": {
         "id": 200029,
         "abilityName": "MonsterAffix_AdditionalHPAndAttack_ForSelfPickChallenge",
         "DJADGHJOMBA": [
@@ -10376,7 +10376,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "200030": {
         "id": 200030,
         "abilityName": "MonsterAffix_Monster_AbyssalPalace_SpecialForce",
         "DJADGHJOMBA": [
@@ -10407,7 +10407,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "200031": {
         "id": 200031,
         "abilityName": "MonsterAffix_Activity_Sumov2_Stage1",
         "DJADGHJOMBA": [
@@ -10438,7 +10438,7 @@
             -0.10000000149011612
         ]
     },
-    {
+    "200032": {
         "id": 200032,
         "abilityName": "MonsterAffix_Activity_Sumov2_Stage2",
         "DJADGHJOMBA": [
@@ -10469,7 +10469,7 @@
             -0.30000001192092896
         ]
     },
-    {
+    "200033": {
         "id": 200033,
         "abilityName": "MonsterAffix_Activity_Sumov2_Stage3",
         "DJADGHJOMBA": [
@@ -10500,7 +10500,7 @@
             -0.10000000149011612
         ]
     },
-    {
+    "200034": {
         "id": 200034,
         "abilityName": "MonsterAffix_Activity_Sumov2_Stage4",
         "DJADGHJOMBA": [
@@ -10531,7 +10531,7 @@
             -0.10000000149011612
         ]
     },
-    {
+    "200035": {
         "id": 200035,
         "abilityName": "MonsterAffix_Activity_Sumov2_Stage5",
         "DJADGHJOMBA": [
@@ -10561,7 +10561,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200036": {
         "id": 200036,
         "abilityName": "MonsterAffix_Activity_Sumov2_Stage6",
         "DJADGHJOMBA": [
@@ -10591,7 +10591,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200037": {
         "id": 200037,
         "abilityName": "GeneralSkill_ReduceMonster_ElecAddHurtDelta",
         "DJADGHJOMBA": [
@@ -10628,7 +10628,7 @@
             10.0
         ]
     },
-    {
+    "200038": {
         "id": 200038,
         "abilityName": "MonsterAffix_Activity_TowerDefenseV3_FrozenRevive",
         "DJADGHJOMBA": [
@@ -10656,7 +10656,7 @@
             0.05999999865889549
         ]
     },
-    {
+    "200039": {
         "id": 200039,
         "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced01",
         "DJADGHJOMBA": [
@@ -10686,7 +10686,7 @@
             0.0
         ]
     },
-    {
+    "200040": {
         "id": 200040,
         "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced02",
         "DJADGHJOMBA": [
@@ -10716,7 +10716,7 @@
             0.0
         ]
     },
-    {
+    "200041": {
         "id": 200041,
         "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced03",
         "DJADGHJOMBA": [
@@ -10747,7 +10747,7 @@
             -0.5
         ]
     },
-    {
+    "200042": {
         "id": 200042,
         "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced04",
         "DJADGHJOMBA": [
@@ -10778,7 +10778,7 @@
             -0.5
         ]
     },
-    {
+    "200043": {
         "id": 200043,
         "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced05",
         "DJADGHJOMBA": [
@@ -10808,7 +10808,7 @@
             0.0
         ]
     },
-    {
+    "200044": {
         "id": 200044,
         "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced06",
         "DJADGHJOMBA": [
@@ -10839,7 +10839,7 @@
             -0.5
         ]
     },
-    {
+    "200045": {
         "id": 200045,
         "abilityName": "MonsterAffix_Tower_SpecailHPRatio1",
         "DJADGHJOMBA": [
@@ -10867,7 +10867,7 @@
             -0.5
         ]
     },
-    {
+    "200046": {
         "id": 200046,
         "abilityName": "MonsterAffix_Tower_SpecailHPRatio2",
         "DJADGHJOMBA": [
@@ -10895,7 +10895,7 @@
             -0.75
         ]
     },
-    {
+    "200047": {
         "id": 200047,
         "abilityName": "MonsterAffix_ForlornVessel_HPDown_ForTwins2",
         "DJADGHJOMBA": [
@@ -10923,7 +10923,7 @@
             -0.30000001192092896
         ]
     },
-    {
+    "200048": {
         "id": 200048,
         "abilityName": "MonsterAffix_Activity_TowerDefenseV3_FrozenReviveStrong",
         "DJADGHJOMBA": [
@@ -10951,7 +10951,7 @@
             0.11999999731779099
         ]
     },
-    {
+    "200049": {
         "id": 200049,
         "abilityName": "MonsterAffix_AdditionalHP_HardMode_ForRogueV2",
         "DJADGHJOMBA": [
@@ -10979,7 +10979,7 @@
             0.5
         ]
     },
-    {
+    "200050": {
         "id": 200050,
         "abilityName": "MonsterAffix_AdditionalHP_Dynamic_ForRogueV2",
         "DJADGHJOMBA": [
@@ -11007,7 +11007,7 @@
             0.10000000149011612
         ]
     },
-    {
+    "200051": {
         "id": 200051,
         "abilityName": "MonsterAffix_BlackMudBuff_ForTheChasmChallenge",
         "DJADGHJOMBA": [
@@ -11041,7 +11041,7 @@
             10.0
         ]
     },
-    {
+    "200052": {
         "id": 200052,
         "abilityName": "MonsterAffix_PropertyUp_Normal_ForActivityArena",
         "DJADGHJOMBA": [
@@ -11069,7 +11069,7 @@
             1.25
         ]
     },
-    {
+    "200053": {
         "id": 200053,
         "abilityName": "MonsterAffix_PropertyUp_Hard_ForActivityArena",
         "DJADGHJOMBA": [
@@ -11100,7 +11100,7 @@
             0.20000000298023224
         ]
     },
-    {
+    "200054": {
         "id": 200054,
         "abilityName": "MonsterAffix_AdditionalHP_BonusStage01_ForRogueV2",
         "DJADGHJOMBA": [
@@ -11128,7 +11128,7 @@
             48.0
         ]
     },
-    {
+    "200055": {
         "id": 200055,
         "abilityName": "MonsterAffix_AdditionalHP_BonusStage02_ForRogueV2",
         "DJADGHJOMBA": [
@@ -11156,7 +11156,7 @@
             -0.9900000095367432
         ]
     },
-    {
+    "200056": {
         "id": 200056,
         "abilityName": "Monster_Apparatus_Enigma_Machinery",
         "DJADGHJOMBA": [
@@ -11187,7 +11187,7 @@
             -0.699999988079071
         ]
     },
-    {
+    "200057": {
         "id": 200057,
         "abilityName": "MonsterAffix_Apparatus_Perpetual_AttackDown_ForMachinery",
         "DJADGHJOMBA": [
@@ -11215,7 +11215,7 @@
             -0.699999988079071
         ]
     },
-    {
+    "200058": {
         "id": 200058,
         "abilityName": "MonsterAffix_Apparatus_Perpetual_HPDown_ForMachinery",
         "DJADGHJOMBA": [
@@ -11243,7 +11243,7 @@
             -0.699999988079071
         ]
     },
-    {
+    "200059": {
         "id": 200059,
         "abilityName": "GeneralSkill_DeathZone_Shield",
         "DJADGHJOMBA": [
@@ -11277,7 +11277,7 @@
             15.0
         ]
     },
-    {
+    "200062": {
         "id": 200062,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage1_NormalEntity",
         "DJADGHJOMBA": [
@@ -11307,7 +11307,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200063": {
         "id": 200063,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage1_EliteEntity",
         "DJADGHJOMBA": [
@@ -11338,7 +11338,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200064": {
         "id": 200064,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage2_NormalEntity",
         "DJADGHJOMBA": [
@@ -11369,7 +11369,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200065": {
         "id": 200065,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage2_EliteEntity",
         "DJADGHJOMBA": [
@@ -11400,7 +11400,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200066": {
         "id": 200066,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage3_NormalEntity",
         "DJADGHJOMBA": [
@@ -11430,7 +11430,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200067": {
         "id": 200067,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage3_EliteEntity",
         "DJADGHJOMBA": [
@@ -11461,7 +11461,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200068": {
         "id": 200068,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage4_NormalEntity",
         "DJADGHJOMBA": [
@@ -11491,7 +11491,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200069": {
         "id": 200069,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage4_EliteEntity",
         "DJADGHJOMBA": [
@@ -11522,7 +11522,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200070": {
         "id": 200070,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage5_NormalEntity",
         "DJADGHJOMBA": [
@@ -11553,7 +11553,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200071": {
         "id": 200071,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage5_EliteEntity",
         "DJADGHJOMBA": [
@@ -11584,7 +11584,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200072": {
         "id": 200072,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage6_NormalEntity",
         "DJADGHJOMBA": [
@@ -11614,7 +11614,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200073": {
         "id": 200073,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage6_EliteEntity",
         "DJADGHJOMBA": [
@@ -11645,7 +11645,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200074": {
         "id": 200074,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage7_NormalEntity",
         "DJADGHJOMBA": [
@@ -11675,7 +11675,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200075": {
         "id": 200075,
         "abilityName": "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage7_EliteEntity",
         "DJADGHJOMBA": [
@@ -11706,7 +11706,7 @@
             -0.20000000298023224
         ]
     },
-    {
+    "200076": {
         "id": 200076,
         "abilityName": "MonsterAffix_PropertiesUp_ForInstableSpray_Stage1",
         "DJADGHJOMBA": [
@@ -11734,7 +11734,7 @@
             0.5
         ]
     },
-    {
+    "200077": {
         "id": 200077,
         "abilityName": "MonsterAffix_PropertiesUp_ForInstableSpray_Stage2",
         "DJADGHJOMBA": [
@@ -11762,7 +11762,7 @@
             0.5
         ]
     },
-    {
+    "200078": {
         "id": 200078,
         "abilityName": "MonsterAffix_PropertiesUp_ForInstableSpray_Stage3",
         "DJADGHJOMBA": [
@@ -11790,7 +11790,7 @@
             0.5
         ]
     },
-    {
+    "200079": {
         "id": 200079,
         "abilityName": "MonsterAffix_PropertiesUp_ForInstableSpray_Stage4",
         "DJADGHJOMBA": [
@@ -11818,4 +11818,4 @@
             0.5
         ]
     }
-]
+}

@@ -1,11 +1,11 @@
-[
-    {
+{
+    "100001": {
         "BPJLFPDOJBI": 100001,
         "LMPJGIFEPNC": 2,
         "maxLevel": 5,
         "buffList": []
     },
-    {
+    "100002": {
         "BPJLFPDOJBI": 100002,
         "LMPJGIFEPNC": 1,
         "maxLevel": 15,
@@ -27,9 +27,9 @@
             500315
         ]
     },
-    {
+    "100003": {
         "BPJLFPDOJBI": 100003,
         "maxLevel": 10,
         "buffList": []
     }
-]
+}

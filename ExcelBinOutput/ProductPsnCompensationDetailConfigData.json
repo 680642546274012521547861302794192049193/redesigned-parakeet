@@ -1,5 +1,5 @@
-[
-    {
+{
+    "311": {
         "contentVec": [
             {
                 "materialId": 202,
@@ -15,7 +15,7 @@
         "configId": 311,
         "priceTier": "None"
     },
-    {
+    "312": {
         "contentVec": [
             {
                 "materialId": 104003,
@@ -40,4 +40,4 @@
         "configId": 312,
         "priceTier": "None"
     }
-]
+}

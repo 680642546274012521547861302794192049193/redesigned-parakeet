@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "scheduleId": 5091001,
         "openDay": 1,
@@ -12,7 +12,7 @@
         ],
         "NJKBOCJGLGL": 72035
     },
-    {
+    "2": {
         "id": 2,
         "scheduleId": 5091001,
         "openDay": 2,
@@ -25,7 +25,7 @@
         ],
         "NJKBOCJGLGL": 19035
     },
-    {
+    "3": {
         "id": 3,
         "scheduleId": 5091001,
         "openDay": 3,
@@ -38,7 +38,7 @@
         ],
         "NJKBOCJGLGL": 53035
     },
-    {
+    "4": {
         "id": 4,
         "scheduleId": 5091001,
         "openDay": 4,
@@ -51,7 +51,7 @@
         ],
         "NJKBOCJGLGL": 231035
     },
-    {
+    "5": {
         "id": 5,
         "scheduleId": 5091001,
         "openDay": 5,
@@ -64,7 +64,7 @@
         ],
         "NJKBOCJGLGL": 232035
     },
-    {
+    "6": {
         "id": 6,
         "scheduleId": 5091001,
         "openDay": 6,
@@ -77,4 +77,4 @@
         ],
         "NJKBOCJGLGL": 53035
     }
-]
+}

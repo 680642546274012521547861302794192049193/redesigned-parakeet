@@ -1,190 +1,190 @@
-[
-    {
+{
+    "1": {
         "JBBCDMPKLNH": 1,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Albedo"
     },
-    {
+    "2": {
         "JBBCDMPKLNH": 2,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Aloy"
     },
-    {
+    "3": {
         "JBBCDMPKLNH": 3,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Ambor"
     },
-    {
+    "4": {
         "JBBCDMPKLNH": 4,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Ayaka"
     },
-    {
+    "5": {
         "JBBCDMPKLNH": 5,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Ayato"
     },
-    {
+    "6": {
         "JBBCDMPKLNH": 6,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Barbara"
     },
-    {
+    "7": {
         "JBBCDMPKLNH": 7,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Beidou"
     },
-    {
+    "8": {
         "JBBCDMPKLNH": 8,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Bennett"
     },
-    {
+    "9": {
         "JBBCDMPKLNH": 9,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Chongyun"
     },
-    {
+    "10": {
         "JBBCDMPKLNH": 10,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Diluc"
     },
-    {
+    "11": {
         "JBBCDMPKLNH": 11,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Diona"
     },
-    {
+    "12": {
         "JBBCDMPKLNH": 12,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Eula"
     },
-    {
+    "13": {
         "JBBCDMPKLNH": 13,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Feiyan"
     },
-    {
+    "14": {
         "JBBCDMPKLNH": 14,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Fischl"
     },
-    {
+    "15": {
         "JBBCDMPKLNH": 15,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Ganyu"
     },
-    {
+    "16": {
         "JBBCDMPKLNH": 16,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Gorou"
     },
-    {
+    "17": {
         "JBBCDMPKLNH": 17,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Hutao"
     },
-    {
+    "18": {
         "JBBCDMPKLNH": 18,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Itto"
     },
-    {
+    "19": {
         "JBBCDMPKLNH": 19,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Kaeya"
     },
-    {
+    "20": {
         "JBBCDMPKLNH": 20,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Kazuha"
     },
-    {
+    "21": {
         "JBBCDMPKLNH": 21,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Keqing"
     },
-    {
+    "22": {
         "JBBCDMPKLNH": 22,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Klee"
     },
-    {
+    "23": {
         "JBBCDMPKLNH": 23,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Kokomi"
     },
-    {
+    "24": {
         "JBBCDMPKLNH": 24,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Lisa"
     },
-    {
+    "25": {
         "JBBCDMPKLNH": 25,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Mona"
     },
-    {
+    "26": {
         "JBBCDMPKLNH": 26,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Ningguang"
     },
-    {
+    "27": {
         "JBBCDMPKLNH": 27,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Noel"
     },
-    {
+    "28": {
         "JBBCDMPKLNH": 28,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Qin"
     },
-    {
+    "29": {
         "JBBCDMPKLNH": 29,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Qiqi"
     },
-    {
+    "30": {
         "JBBCDMPKLNH": 30,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Razor"
     },
-    {
+    "31": {
         "JBBCDMPKLNH": 31,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Rosaria"
     },
-    {
+    "32": {
         "JBBCDMPKLNH": 32,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Sara"
     },
-    {
+    "33": {
         "JBBCDMPKLNH": 33,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Sayu"
     },
-    {
+    "34": {
         "JBBCDMPKLNH": 34,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Shenhe"
     },
-    {
+    "35": {
         "JBBCDMPKLNH": 35,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Shougun"
     },
-    {
+    "36": {
         "JBBCDMPKLNH": 36,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Sucrose"
     },
-    {
+    "37": {
         "JBBCDMPKLNH": 37,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Tartaglia"
     },
-    {
+    "38": {
         "JBBCDMPKLNH": 38,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Tohma"
     },
-    {
+    "39": {
         "JBBCDMPKLNH": 39,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Venti"
     },
-    {
+    "40": {
         "JBBCDMPKLNH": 40,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Xiangling"
     },
-    {
+    "41": {
         "JBBCDMPKLNH": 41,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Xiao"
     },
-    {
+    "42": {
         "JBBCDMPKLNH": 42,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Xingqiu"
     },
-    {
+    "43": {
         "JBBCDMPKLNH": 43,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Xinyan"
     },
-    {
+    "44": {
         "JBBCDMPKLNH": 44,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Yae"
     },
-    {
+    "45": {
         "JBBCDMPKLNH": 45,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Yoimiya"
     },
-    {
+    "46": {
         "JBBCDMPKLNH": 46,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Yunjin"
     },
-    {
+    "47": {
         "JBBCDMPKLNH": 47,
         "JGCDJLLOHLD": "UI_AvatarIcon_Side_Zhongli"
     }
-]
+}

@@ -1,205 +1,205 @@
-[
-    {
+{
+    "0": {
         "levelUpNeedPoint": 900
     },
-    {
+    "1": {
         "level": 1,
         "levelUpNeedPoint": 900
     },
-    {
+    "2": {
         "level": 2,
         "levelUpNeedPoint": 900
     },
-    {
+    "3": {
         "level": 3,
         "levelUpNeedPoint": 900
     },
-    {
+    "4": {
         "level": 4,
         "levelUpNeedPoint": 900
     },
-    {
+    "5": {
         "level": 5,
         "levelUpNeedPoint": 900
     },
-    {
+    "6": {
         "level": 6,
         "levelUpNeedPoint": 900
     },
-    {
+    "7": {
         "level": 7,
         "levelUpNeedPoint": 900
     },
-    {
+    "8": {
         "level": 8,
         "levelUpNeedPoint": 900
     },
-    {
+    "9": {
         "level": 9,
         "levelUpNeedPoint": 900
     },
-    {
+    "10": {
         "level": 10,
         "levelUpNeedPoint": 900
     },
-    {
+    "11": {
         "level": 11,
         "levelUpNeedPoint": 900
     },
-    {
+    "12": {
         "level": 12,
         "levelUpNeedPoint": 900
     },
-    {
+    "13": {
         "level": 13,
         "levelUpNeedPoint": 900
     },
-    {
+    "14": {
         "level": 14,
         "levelUpNeedPoint": 900
     },
-    {
+    "15": {
         "level": 15,
         "levelUpNeedPoint": 900
     },
-    {
+    "16": {
         "level": 16,
         "levelUpNeedPoint": 900
     },
-    {
+    "17": {
         "level": 17,
         "levelUpNeedPoint": 900
     },
-    {
+    "18": {
         "level": 18,
         "levelUpNeedPoint": 900
     },
-    {
+    "19": {
         "level": 19,
         "levelUpNeedPoint": 900
     },
-    {
+    "20": {
         "level": 20,
         "levelUpNeedPoint": 900
     },
-    {
+    "21": {
         "level": 21,
         "levelUpNeedPoint": 900
     },
-    {
+    "22": {
         "level": 22,
         "levelUpNeedPoint": 900
     },
-    {
+    "23": {
         "level": 23,
         "levelUpNeedPoint": 900
     },
-    {
+    "24": {
         "level": 24,
         "levelUpNeedPoint": 900
     },
-    {
+    "25": {
         "level": 25,
         "levelUpNeedPoint": 900
     },
-    {
+    "26": {
         "level": 26,
         "levelUpNeedPoint": 900
     },
-    {
+    "27": {
         "level": 27,
         "levelUpNeedPoint": 900
     },
-    {
+    "28": {
         "level": 28,
         "levelUpNeedPoint": 900
     },
-    {
+    "29": {
         "level": 29,
         "levelUpNeedPoint": 900
     },
-    {
+    "30": {
         "level": 30,
         "levelUpNeedPoint": 900
     },
-    {
+    "31": {
         "level": 31,
         "levelUpNeedPoint": 900
     },
-    {
+    "32": {
         "level": 32,
         "levelUpNeedPoint": 900
     },
-    {
+    "33": {
         "level": 33,
         "levelUpNeedPoint": 900
     },
-    {
+    "34": {
         "level": 34,
         "levelUpNeedPoint": 900
     },
-    {
+    "35": {
         "level": 35,
         "levelUpNeedPoint": 900
     },
-    {
+    "36": {
         "level": 36,
         "levelUpNeedPoint": 900
     },
-    {
+    "37": {
         "level": 37,
         "levelUpNeedPoint": 900
     },
-    {
+    "38": {
         "level": 38,
         "levelUpNeedPoint": 900
     },
-    {
+    "39": {
         "level": 39,
         "levelUpNeedPoint": 900
     },
-    {
+    "40": {
         "level": 40,
         "levelUpNeedPoint": 900
     },
-    {
+    "41": {
         "level": 41,
         "levelUpNeedPoint": 900
     },
-    {
+    "42": {
         "level": 42,
         "levelUpNeedPoint": 900
     },
-    {
+    "43": {
         "level": 43,
         "levelUpNeedPoint": 900
     },
-    {
+    "44": {
         "level": 44,
         "levelUpNeedPoint": 900
     },
-    {
+    "45": {
         "level": 45,
         "levelUpNeedPoint": 900
     },
-    {
+    "46": {
         "level": 46,
         "levelUpNeedPoint": 900
     },
-    {
+    "47": {
         "level": 47,
         "levelUpNeedPoint": 900
     },
-    {
+    "48": {
         "level": 48,
         "levelUpNeedPoint": 900
     },
-    {
+    "49": {
         "level": 49,
         "levelUpNeedPoint": 900
     },
-    {
+    "50": {
         "level": 50,
         "levelUpNeedPoint": 900
     }
-]
+}

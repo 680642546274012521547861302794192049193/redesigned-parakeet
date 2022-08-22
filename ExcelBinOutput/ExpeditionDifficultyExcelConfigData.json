@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "needHours": 12,
         "minPlayer": 2,
@@ -8,7 +8,7 @@
         "maxRefreshCount": 1,
         "coef": 0.30000001192092896
     },
-    {
+    "2": {
         "id": 2,
         "needHours": 10,
         "minPlayer": 2,
@@ -17,7 +17,7 @@
         "maxRefreshCount": 2,
         "coef": 0.4000000059604645
     },
-    {
+    "3": {
         "id": 3,
         "needHours": 8,
         "minPlayer": 2,
@@ -26,4 +26,4 @@
         "maxRefreshCount": 4,
         "coef": 0.5
     }
-]
+}

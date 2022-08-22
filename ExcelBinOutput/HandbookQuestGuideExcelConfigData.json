@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "NHNLOJIKNID": 1,
         "typeID": 1,
         "NNEMMKHIINK": 2397175008,
@@ -17,7 +17,7 @@
             }
         ]
     },
-    {
+    "2": {
         "NHNLOJIKNID": 2,
         "typeID": 2,
         "NNEMMKHIINK": 2699366952,
@@ -38,7 +38,7 @@
             }
         ]
     },
-    {
+    "3": {
         "NHNLOJIKNID": 3,
         "typeID": 2,
         "NNEMMKHIINK": 1346080752,
@@ -59,7 +59,7 @@
             }
         ]
     },
-    {
+    "4": {
         "NHNLOJIKNID": 4,
         "typeID": 2,
         "NNEMMKHIINK": 2146269432,
@@ -79,7 +79,7 @@
             }
         ]
     },
-    {
+    "5": {
         "NHNLOJIKNID": 5,
         "typeID": 2,
         "NNEMMKHIINK": 2905360616,
@@ -100,7 +100,7 @@
             }
         ]
     },
-    {
+    "6": {
         "NHNLOJIKNID": 6,
         "typeID": 2,
         "NNEMMKHIINK": 2479533392,
@@ -121,7 +121,7 @@
             }
         ]
     },
-    {
+    "7": {
         "NHNLOJIKNID": 7,
         "typeID": 3,
         "NNEMMKHIINK": 907672792,
@@ -141,7 +141,7 @@
             }
         ]
     },
-    {
+    "8": {
         "NHNLOJIKNID": 8,
         "typeID": 3,
         "NNEMMKHIINK": 2972094720,
@@ -161,7 +161,7 @@
             }
         ]
     },
-    {
+    "9": {
         "NHNLOJIKNID": 9,
         "typeID": 3,
         "NNEMMKHIINK": 3301133712,
@@ -181,7 +181,7 @@
             }
         ]
     },
-    {
+    "10": {
         "NHNLOJIKNID": 10,
         "typeID": 3,
         "NNEMMKHIINK": 1438839112,
@@ -201,7 +201,7 @@
             }
         ]
     },
-    {
+    "11": {
         "NHNLOJIKNID": 11,
         "typeID": 3,
         "NNEMMKHIINK": 4234611992,
@@ -221,7 +221,7 @@
             }
         ]
     },
-    {
+    "12": {
         "NHNLOJIKNID": 12,
         "typeID": 3,
         "NNEMMKHIINK": 4127691256,
@@ -241,7 +241,7 @@
             }
         ]
     },
-    {
+    "13": {
         "NHNLOJIKNID": 13,
         "typeID": 3,
         "NNEMMKHIINK": 3001418600,
@@ -261,7 +261,7 @@
             }
         ]
     },
-    {
+    "14": {
         "NHNLOJIKNID": 14,
         "typeID": 3,
         "NNEMMKHIINK": 3959877576,
@@ -281,7 +281,7 @@
             }
         ]
     },
-    {
+    "15": {
         "NHNLOJIKNID": 15,
         "typeID": 3,
         "NNEMMKHIINK": 2293697904,
@@ -301,7 +301,7 @@
             }
         ]
     },
-    {
+    "16": {
         "NHNLOJIKNID": 16,
         "typeID": 3,
         "NNEMMKHIINK": 1924299440,
@@ -321,7 +321,7 @@
             }
         ]
     },
-    {
+    "17": {
         "NHNLOJIKNID": 17,
         "typeID": 3,
         "NNEMMKHIINK": 3334789056,
@@ -341,7 +341,7 @@
             }
         ]
     },
-    {
+    "18": {
         "NHNLOJIKNID": 18,
         "typeID": 3,
         "NNEMMKHIINK": 431177464,
@@ -361,7 +361,7 @@
             }
         ]
     },
-    {
+    "19": {
         "NHNLOJIKNID": 19,
         "typeID": 3,
         "NNEMMKHIINK": 4223935904,
@@ -381,7 +381,7 @@
             }
         ]
     },
-    {
+    "20": {
         "NHNLOJIKNID": 20,
         "typeID": 3,
         "NNEMMKHIINK": 2800066928,
@@ -401,7 +401,7 @@
             }
         ]
     },
-    {
+    "21": {
         "NHNLOJIKNID": 21,
         "typeID": 4,
         "NNEMMKHIINK": 2872530896,
@@ -421,7 +421,7 @@
             }
         ]
     },
-    {
+    "22": {
         "NHNLOJIKNID": 22,
         "typeID": 4,
         "NNEMMKHIINK": 2953500184,
@@ -441,7 +441,7 @@
             }
         ]
     },
-    {
+    "23": {
         "NHNLOJIKNID": 23,
         "typeID": 5,
         "NNEMMKHIINK": 2158662944,
@@ -468,7 +468,7 @@
             }
         ]
     },
-    {
+    "24": {
         "NHNLOJIKNID": 24,
         "typeID": 5,
         "NNEMMKHIINK": 688803792,
@@ -495,7 +495,7 @@
             }
         ]
     },
-    {
+    "25": {
         "NHNLOJIKNID": 25,
         "typeID": 7,
         "NNEMMKHIINK": 3260427632,
@@ -519,7 +519,7 @@
             }
         ]
     },
-    {
+    "26": {
         "NHNLOJIKNID": 26,
         "typeID": 7,
         "NNEMMKHIINK": 2022840632,
@@ -543,7 +543,7 @@
             }
         ]
     },
-    {
+    "27": {
         "NHNLOJIKNID": 27,
         "typeID": 7,
         "NNEMMKHIINK": 3925778592,
@@ -567,7 +567,7 @@
             }
         ]
     },
-    {
+    "28": {
         "NHNLOJIKNID": 28,
         "typeID": 7,
         "NNEMMKHIINK": 3253251888,
@@ -588,7 +588,7 @@
             }
         ]
     },
-    {
+    "29": {
         "NHNLOJIKNID": 29,
         "typeID": 7,
         "NNEMMKHIINK": 3365386944,
@@ -609,7 +609,7 @@
             }
         ]
     },
-    {
+    "30": {
         "NHNLOJIKNID": 30,
         "typeID": 7,
         "NNEMMKHIINK": 1834911112,
@@ -630,7 +630,7 @@
             }
         ]
     },
-    {
+    "31": {
         "NHNLOJIKNID": 31,
         "typeID": 7,
         "NNEMMKHIINK": 2291523728,
@@ -654,7 +654,7 @@
             }
         ]
     },
-    {
+    "32": {
         "NHNLOJIKNID": 32,
         "typeID": 7,
         "NNEMMKHIINK": 3340703848,
@@ -675,7 +675,7 @@
             }
         ]
     },
-    {
+    "33": {
         "NHNLOJIKNID": 33,
         "typeID": 7,
         "NNEMMKHIINK": 3547580600,
@@ -696,7 +696,7 @@
             }
         ]
     },
-    {
+    "34": {
         "NHNLOJIKNID": 34,
         "typeID": 7,
         "NNEMMKHIINK": 652044072,
@@ -720,7 +720,7 @@
             }
         ]
     },
-    {
+    "35": {
         "NHNLOJIKNID": 35,
         "typeID": 7,
         "NNEMMKHIINK": 228032160,
@@ -744,7 +744,7 @@
             }
         ]
     },
-    {
+    "36": {
         "NHNLOJIKNID": 36,
         "typeID": 7,
         "NNEMMKHIINK": 988613528,
@@ -768,7 +768,7 @@
             }
         ]
     },
-    {
+    "37": {
         "NHNLOJIKNID": 37,
         "typeID": 7,
         "NNEMMKHIINK": 1430036296,
@@ -792,7 +792,7 @@
             }
         ]
     },
-    {
+    "38": {
         "NHNLOJIKNID": 38,
         "typeID": 7,
         "NNEMMKHIINK": 3922973192,
@@ -816,7 +816,7 @@
             }
         ]
     },
-    {
+    "39": {
         "NHNLOJIKNID": 39,
         "typeID": 7,
         "NNEMMKHIINK": 503601088,
@@ -840,7 +840,7 @@
             }
         ]
     },
-    {
+    "40": {
         "NHNLOJIKNID": 40,
         "typeID": 7,
         "NNEMMKHIINK": 448765144,
@@ -864,7 +864,7 @@
             }
         ]
     },
-    {
+    "41": {
         "NHNLOJIKNID": 41,
         "typeID": 7,
         "NNEMMKHIINK": 4075548784,
@@ -888,7 +888,7 @@
             }
         ]
     },
-    {
+    "42": {
         "NHNLOJIKNID": 42,
         "typeID": 7,
         "NNEMMKHIINK": 2351156544,
@@ -912,7 +912,7 @@
             }
         ]
     },
-    {
+    "43": {
         "NHNLOJIKNID": 43,
         "typeID": 7,
         "NNEMMKHIINK": 3503761440,
@@ -936,7 +936,7 @@
             }
         ]
     },
-    {
+    "44": {
         "NHNLOJIKNID": 44,
         "typeID": 7,
         "NNEMMKHIINK": 3305527360,
@@ -960,7 +960,7 @@
             }
         ]
     },
-    {
+    "45": {
         "NHNLOJIKNID": 45,
         "typeID": 7,
         "NNEMMKHIINK": 1036100336,
@@ -984,7 +984,7 @@
             }
         ]
     },
-    {
+    "46": {
         "NHNLOJIKNID": 46,
         "typeID": 7,
         "NNEMMKHIINK": 3820873584,
@@ -1008,7 +1008,7 @@
             }
         ]
     },
-    {
+    "47": {
         "NHNLOJIKNID": 47,
         "typeID": 7,
         "NNEMMKHIINK": 992890232,
@@ -1032,7 +1032,7 @@
             }
         ]
     },
-    {
+    "48": {
         "NHNLOJIKNID": 48,
         "typeID": 7,
         "NNEMMKHIINK": 3335885560,
@@ -1056,7 +1056,7 @@
             }
         ]
     },
-    {
+    "51": {
         "NHNLOJIKNID": 51,
         "typeID": 8,
         "NNEMMKHIINK": 423005392,
@@ -1076,7 +1076,7 @@
             }
         ]
     },
-    {
+    "52": {
         "NHNLOJIKNID": 52,
         "typeID": 8,
         "NNEMMKHIINK": 3244611368,
@@ -1096,7 +1096,7 @@
             }
         ]
     },
-    {
+    "53": {
         "NHNLOJIKNID": 53,
         "typeID": 8,
         "NNEMMKHIINK": 1179574712,
@@ -1116,7 +1116,7 @@
             }
         ]
     },
-    {
+    "54": {
         "NHNLOJIKNID": 54,
         "typeID": 8,
         "NNEMMKHIINK": 3690217144,
@@ -1136,7 +1136,7 @@
             }
         ]
     },
-    {
+    "55": {
         "NHNLOJIKNID": 55,
         "typeID": 9,
         "NNEMMKHIINK": 54245632,
@@ -1156,7 +1156,7 @@
             }
         ]
     },
-    {
+    "56": {
         "NHNLOJIKNID": 56,
         "typeID": 9,
         "NNEMMKHIINK": 864432704,
@@ -1176,7 +1176,7 @@
             }
         ]
     },
-    {
+    "57": {
         "NHNLOJIKNID": 57,
         "typeID": 9,
         "NNEMMKHIINK": 802897104,
@@ -1196,7 +1196,7 @@
             }
         ]
     },
-    {
+    "58": {
         "NHNLOJIKNID": 58,
         "typeID": 9,
         "NNEMMKHIINK": 1110857312,
@@ -1216,7 +1216,7 @@
             }
         ]
     },
-    {
+    "59": {
         "NHNLOJIKNID": 59,
         "typeID": 9,
         "NNEMMKHIINK": 824184224,
@@ -1236,7 +1236,7 @@
             }
         ]
     },
-    {
+    "60": {
         "NHNLOJIKNID": 60,
         "typeID": 9,
         "NNEMMKHIINK": 839869736,
@@ -1256,7 +1256,7 @@
             }
         ]
     },
-    {
+    "61": {
         "NHNLOJIKNID": 61,
         "typeID": 9,
         "NNEMMKHIINK": 1466414528,
@@ -1276,7 +1276,7 @@
             }
         ]
     },
-    {
+    "62": {
         "NHNLOJIKNID": 62,
         "typeID": 9,
         "NNEMMKHIINK": 574179640,
@@ -1296,7 +1296,7 @@
             }
         ]
     },
-    {
+    "63": {
         "NHNLOJIKNID": 63,
         "typeID": 9,
         "NNEMMKHIINK": 486264600,
@@ -1316,7 +1316,7 @@
             }
         ]
     },
-    {
+    "64": {
         "NHNLOJIKNID": 64,
         "typeID": 9,
         "NNEMMKHIINK": 1239997536,
@@ -1336,7 +1336,7 @@
             }
         ]
     },
-    {
+    "65": {
         "NHNLOJIKNID": 65,
         "typeID": 9,
         "NNEMMKHIINK": 1567416096,
@@ -1356,7 +1356,7 @@
             }
         ]
     },
-    {
+    "66": {
         "NHNLOJIKNID": 66,
         "typeID": 9,
         "NNEMMKHIINK": 4074530760,
@@ -1376,7 +1376,7 @@
             }
         ]
     },
-    {
+    "67": {
         "NHNLOJIKNID": 67,
         "typeID": 9,
         "NNEMMKHIINK": 2990345296,
@@ -1396,7 +1396,7 @@
             }
         ]
     },
-    {
+    "68": {
         "NHNLOJIKNID": 68,
         "typeID": 9,
         "NNEMMKHIINK": 314970712,
@@ -1416,7 +1416,7 @@
             }
         ]
     },
-    {
+    "69": {
         "NHNLOJIKNID": 69,
         "typeID": 9,
         "NNEMMKHIINK": 175793032,
@@ -1436,7 +1436,7 @@
             }
         ]
     },
-    {
+    "70": {
         "NHNLOJIKNID": 70,
         "typeID": 9,
         "NNEMMKHIINK": 1252922936,
@@ -1456,7 +1456,7 @@
             }
         ]
     },
-    {
+    "72": {
         "NHNLOJIKNID": 72,
         "typeID": 10,
         "NNEMMKHIINK": 2950139088,
@@ -1480,7 +1480,7 @@
             }
         ]
     },
-    {
+    "73": {
         "NHNLOJIKNID": 73,
         "typeID": 10,
         "NNEMMKHIINK": 1158810936,
@@ -1504,7 +1504,7 @@
             }
         ]
     },
-    {
+    "74": {
         "NHNLOJIKNID": 74,
         "typeID": 10,
         "NNEMMKHIINK": 3606907448,
@@ -1528,7 +1528,7 @@
             }
         ]
     },
-    {
+    "75": {
         "NHNLOJIKNID": 75,
         "typeID": 10,
         "NNEMMKHIINK": 963558608,
@@ -1552,7 +1552,7 @@
             }
         ]
     },
-    {
+    "76": {
         "NHNLOJIKNID": 76,
         "typeID": 10,
         "NNEMMKHIINK": 685402176,
@@ -1576,7 +1576,7 @@
             }
         ]
     },
-    {
+    "77": {
         "NHNLOJIKNID": 77,
         "typeID": 10,
         "NNEMMKHIINK": 1943063328,
@@ -1600,7 +1600,7 @@
             }
         ]
     },
-    {
+    "78": {
         "NHNLOJIKNID": 78,
         "typeID": 10,
         "NNEMMKHIINK": 642362008,
@@ -1624,7 +1624,7 @@
             }
         ]
     },
-    {
+    "79": {
         "NHNLOJIKNID": 79,
         "typeID": 10,
         "NNEMMKHIINK": 2665304344,
@@ -1648,7 +1648,7 @@
             }
         ]
     },
-    {
+    "80": {
         "NHNLOJIKNID": 80,
         "typeID": 10,
         "NNEMMKHIINK": 3356999352,
@@ -1672,7 +1672,7 @@
             }
         ]
     },
-    {
+    "81": {
         "NHNLOJIKNID": 81,
         "typeID": 10,
         "NNEMMKHIINK": 554313824,
@@ -1696,7 +1696,7 @@
             }
         ]
     },
-    {
+    "82": {
         "NHNLOJIKNID": 82,
         "typeID": 10,
         "NNEMMKHIINK": 3130454200,
@@ -1720,7 +1720,7 @@
             }
         ]
     },
-    {
+    "83": {
         "NHNLOJIKNID": 83,
         "typeID": 10,
         "NNEMMKHIINK": 4207117152,
@@ -1744,7 +1744,7 @@
             }
         ]
     },
-    {
+    "84": {
         "NHNLOJIKNID": 84,
         "typeID": 10,
         "NNEMMKHIINK": 2402386776,
@@ -1768,7 +1768,7 @@
             }
         ]
     },
-    {
+    "85": {
         "NHNLOJIKNID": 85,
         "typeID": 10,
         "NNEMMKHIINK": 1898036960,
@@ -1792,4 +1792,4 @@
             }
         ]
     }
-]
+}

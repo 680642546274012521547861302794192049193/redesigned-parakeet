@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "id": 1001,
         "transferConfig": [
             {
@@ -29,7 +29,7 @@
         "isNeedTwiceConfirm": true,
         "twiceConfirmCountDown": 20
     },
-    {
+    "1003": {
         "id": 1003,
         "transferConfig": [
             {
@@ -59,7 +59,7 @@
         "isNeedTwiceConfirm": true,
         "twiceConfirmCountDown": 20
     },
-    {
+    "1004": {
         "id": 1004,
         "transferConfig": [
             {
@@ -89,7 +89,7 @@
         "isNeedTwiceConfirm": true,
         "twiceConfirmCountDown": 20
     },
-    {
+    "1005": {
         "id": 1005,
         "transferConfig": [
             {
@@ -119,7 +119,7 @@
         "isNeedTwiceConfirm": true,
         "twiceConfirmCountDown": 20
     },
-    {
+    "2001": {
         "id": 2001,
         "transferConfig": [
             {
@@ -149,7 +149,7 @@
         "isNeedTwiceConfirm": true,
         "twiceConfirmCountDown": 20
     },
-    {
+    "2002": {
         "id": 2002,
         "transferConfig": [
             {
@@ -179,7 +179,7 @@
         "isNeedTwiceConfirm": true,
         "twiceConfirmCountDown": 20
     },
-    {
+    "2003": {
         "id": 2003,
         "transferConfig": [
             {
@@ -209,7 +209,7 @@
         "isNeedTwiceConfirm": true,
         "twiceConfirmCountDown": 20
     },
-    {
+    "2004": {
         "id": 2004,
         "transferConfig": [
             {
@@ -239,7 +239,7 @@
         "isNeedTwiceConfirm": true,
         "twiceConfirmCountDown": 20
     },
-    {
+    "3001": {
         "id": 3001,
         "transferConfig": [
             {},
@@ -255,7 +255,7 @@
         "minPlayerCount": 2,
         "twiceConfirmCountDown": 20
     },
-    {
+    "4001": {
         "id": 4001,
         "transferConfig": [
             {
@@ -284,7 +284,7 @@
         "minPlayerCount": 1,
         "twiceConfirmCountDown": 20
     },
-    {
+    "4002": {
         "id": 4002,
         "transferConfig": [
             {
@@ -313,7 +313,7 @@
         "minPlayerCount": 1,
         "twiceConfirmCountDown": 20
     },
-    {
+    "4003": {
         "id": 4003,
         "transferConfig": [
             {
@@ -342,7 +342,7 @@
         "minPlayerCount": 1,
         "twiceConfirmCountDown": 20
     },
-    {
+    "5001": {
         "id": 5001,
         "transferConfig": [
             {},
@@ -360,7 +360,7 @@
         "minPlayerCount": 2,
         "twiceConfirmCountDown": 20
     },
-    {
+    "5002": {
         "id": 5002,
         "transferConfig": [
             {},
@@ -378,7 +378,7 @@
         "minPlayerCount": 2,
         "twiceConfirmCountDown": 20
     },
-    {
+    "5003": {
         "id": 5003,
         "transferConfig": [
             {},
@@ -396,7 +396,7 @@
         "minPlayerCount": 2,
         "twiceConfirmCountDown": 20
     },
-    {
+    "5004": {
         "id": 5004,
         "transferConfig": [
             {},
@@ -414,7 +414,7 @@
         "minPlayerCount": 2,
         "twiceConfirmCountDown": 20
     },
-    {
+    "5005": {
         "id": 5005,
         "transferConfig": [
             {},
@@ -432,7 +432,7 @@
         "minPlayerCount": 2,
         "twiceConfirmCountDown": 20
     },
-    {
+    "5006": {
         "id": 5006,
         "transferConfig": [
             {},
@@ -450,4 +450,4 @@
         "minPlayerCount": 2,
         "twiceConfirmCountDown": 20
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
@@ -9,7 +9,7 @@
             ""
         ]
     },
-    {
+    "2": {
         "Id": 2,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_ATTACK_BY_GEAR_COUNT",
@@ -19,7 +19,7 @@
             ""
         ]
     },
-    {
+    "3": {
         "Id": 3,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_BY_ATTACK_TAG",
@@ -29,7 +29,7 @@
             ""
         ]
     },
-    {
+    "4": {
         "Id": 4,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
@@ -39,7 +39,7 @@
             ""
         ]
     },
-    {
+    "5": {
         "Id": 5,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_RECOVER_HP_COUNT",
@@ -49,7 +49,7 @@
             ""
         ]
     },
-    {
+    "6": {
         "Id": 6,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_BY_ATTACK_TAG",
@@ -59,7 +59,7 @@
             ""
         ]
     },
-    {
+    "7": {
         "Id": 7,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
@@ -69,7 +69,7 @@
             ""
         ]
     },
-    {
+    "8": {
         "Id": 8,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_KILL_SHIELD_COUNT",
@@ -79,7 +79,7 @@
             ""
         ]
     },
-    {
+    "9": {
         "Id": 9,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_BY_ATTACK_TAG",
@@ -89,7 +89,7 @@
             ""
         ]
     },
-    {
+    "10": {
         "Id": 10,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
@@ -99,7 +99,7 @@
             ""
         ]
     },
-    {
+    "11": {
         "Id": 11,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_BE_HURT_COUNT",
@@ -109,7 +109,7 @@
             ""
         ]
     },
-    {
+    "12": {
         "Id": 12,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
@@ -119,7 +119,7 @@
             ""
         ]
     },
-    {
+    "13": {
         "Id": 13,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_BE_HURT_COUNT",
@@ -129,7 +129,7 @@
             ""
         ]
     },
-    {
+    "14": {
         "Id": 14,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_BY_SHIELD",
@@ -139,7 +139,7 @@
             ""
         ]
     },
-    {
+    "15": {
         "Id": 15,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
@@ -149,7 +149,7 @@
             ""
         ]
     },
-    {
+    "16": {
         "Id": 16,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_DISABLE_GEAR_COUNT",
@@ -159,7 +159,7 @@
             ""
         ]
     },
-    {
+    "17": {
         "Id": 17,
         "scheduleId": 5022001,
         "statName": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_TYPE_NUM",
@@ -169,7 +169,7 @@
             ""
         ]
     },
-    {
+    "18": {
         "Id": 18,
         "scheduleId": 5054001,
         "statName": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
@@ -179,7 +179,7 @@
             ""
         ]
     },
-    {
+    "19": {
         "Id": 19,
         "scheduleId": 5054001,
         "statName": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
@@ -189,7 +189,7 @@
             ""
         ]
     },
-    {
+    "20": {
         "Id": 20,
         "scheduleId": 5054001,
         "statName": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
@@ -199,7 +199,7 @@
             ""
         ]
     },
-    {
+    "21": {
         "Id": 21,
         "scheduleId": 5054001,
         "statName": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
@@ -209,7 +209,7 @@
             ""
         ]
     },
-    {
+    "22": {
         "Id": 22,
         "scheduleId": 5054001,
         "statName": "MIST_TRIAL_STAT_TYPE_ELEMENT_BURST_COUNT",
@@ -219,7 +219,7 @@
             ""
         ]
     },
-    {
+    "23": {
         "Id": 23,
         "scheduleId": 5054001,
         "statName": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
@@ -229,7 +229,7 @@
             ""
         ]
     },
-    {
+    "24": {
         "Id": 24,
         "scheduleId": 5054001,
         "statName": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_COUNT",
@@ -239,4 +239,4 @@
             ""
         ]
     }
-]
+}

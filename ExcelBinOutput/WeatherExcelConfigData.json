@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "areaID": 1,
         "weatherAreaId": 1,
         "maxHeightStr": "",
@@ -12,7 +12,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2": {
         "areaID": 2,
         "weatherAreaId": 2,
         "maxHeightStr": "",
@@ -25,7 +25,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3": {
         "areaID": 3,
         "weatherAreaId": 3,
         "maxHeightStr": "",
@@ -37,7 +37,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4": {
         "areaID": 4,
         "weatherAreaId": 4,
         "maxHeightStr": "",
@@ -49,7 +49,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "1000": {
         "areaID": 1000,
         "weatherAreaId": 1000,
         "maxHeightStr": "",
@@ -60,7 +60,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1001": {
         "areaID": 1001,
         "weatherAreaId": 1001,
         "maxHeightStr": "",
@@ -71,7 +71,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1002": {
         "areaID": 1002,
         "weatherAreaId": 1002,
         "maxHeightStr": "",
@@ -82,7 +82,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1003": {
         "areaID": 1003,
         "weatherAreaId": 1003,
         "maxHeightStr": "",
@@ -93,7 +93,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1004": {
         "areaID": 1004,
         "weatherAreaId": 1004,
         "maxHeightStr": "",
@@ -104,7 +104,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1005": {
         "areaID": 1005,
         "weatherAreaId": 1005,
         "maxHeightStr": "",
@@ -115,7 +115,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1006": {
         "areaID": 1006,
         "weatherAreaId": 1006,
         "maxHeightStr": "",
@@ -126,7 +126,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1007": {
         "areaID": 1007,
         "weatherAreaId": 1007,
         "maxHeightStr": "",
@@ -138,7 +138,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "1008": {
         "areaID": 1008,
         "weatherAreaId": 1008,
         "maxHeightStr": "",
@@ -148,7 +148,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1009": {
         "areaID": 1009,
         "weatherAreaId": 1009,
         "maxHeightStr": "",
@@ -158,7 +158,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1010": {
         "areaID": 1010,
         "weatherAreaId": 1010,
         "maxHeightStr": "",
@@ -168,7 +168,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "1011": {
         "areaID": 1011,
         "weatherAreaId": 1011,
         "maxHeightStr": "",
@@ -178,7 +178,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2000": {
         "areaID": 2000,
         "weatherAreaId": 2000,
         "maxHeightStr": "",
@@ -189,7 +189,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2001": {
         "areaID": 2001,
         "weatherAreaId": 2001,
         "maxHeightStr": "",
@@ -200,7 +200,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2002": {
         "areaID": 2002,
         "weatherAreaId": 2002,
         "maxHeightStr": "",
@@ -211,7 +211,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2003": {
         "areaID": 2003,
         "weatherAreaId": 2003,
         "maxHeightStr": "",
@@ -222,7 +222,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2004": {
         "areaID": 2004,
         "weatherAreaId": 2004,
         "maxHeightStr": "",
@@ -234,7 +234,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2005": {
         "areaID": 2005,
         "weatherAreaId": 2005,
         "maxHeightStr": "",
@@ -245,7 +245,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2006": {
         "areaID": 2006,
         "weatherAreaId": 2006,
         "maxHeightStr": "",
@@ -257,7 +257,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2007": {
         "areaID": 2007,
         "weatherAreaId": 2007,
         "maxHeightStr": "250",
@@ -269,7 +269,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2107": {
         "areaID": 2107,
         "weatherAreaId": 2007,
         "maxHeightStr": "265",
@@ -281,7 +281,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2207": {
         "areaID": 2207,
         "weatherAreaId": 2007,
         "maxHeightStr": "",
@@ -293,7 +293,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2008": {
         "areaID": 2008,
         "weatherAreaId": 2008,
         "maxHeightStr": "",
@@ -304,7 +304,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2009": {
         "areaID": 2009,
         "weatherAreaId": 2009,
         "maxHeightStr": "",
@@ -314,7 +314,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "2010": {
         "areaID": 2010,
         "weatherAreaId": 2010,
         "maxHeightStr": "",
@@ -325,7 +325,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2011": {
         "areaID": 2011,
         "weatherAreaId": 2011,
         "maxHeightStr": "",
@@ -337,7 +337,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2012": {
         "areaID": 2012,
         "weatherAreaId": 2012,
         "maxHeightStr": "",
@@ -349,7 +349,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2013": {
         "areaID": 2013,
         "weatherAreaId": 2013,
         "maxHeightStr": "189",
@@ -361,7 +361,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2113": {
         "areaID": 2113,
         "weatherAreaId": 2013,
         "maxHeightStr": "",
@@ -372,7 +372,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2014": {
         "areaID": 2014,
         "weatherAreaId": 2014,
         "maxHeightStr": "240",
@@ -384,7 +384,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2114": {
         "areaID": 2114,
         "weatherAreaId": 2014,
         "maxHeightStr": "",
@@ -395,7 +395,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2015": {
         "areaID": 2015,
         "weatherAreaId": 2015,
         "maxHeightStr": "170",
@@ -406,7 +406,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2115": {
         "areaID": 2115,
         "weatherAreaId": 2015,
         "maxHeightStr": "",
@@ -417,7 +417,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2016": {
         "areaID": 2016,
         "weatherAreaId": 2016,
         "maxHeightStr": "170",
@@ -428,7 +428,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2116": {
         "areaID": 2116,
         "weatherAreaId": 2016,
         "maxHeightStr": "",
@@ -439,7 +439,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2017": {
         "areaID": 2017,
         "weatherAreaId": 2017,
         "maxHeightStr": "215",
@@ -451,7 +451,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2117": {
         "areaID": 2117,
         "weatherAreaId": 2017,
         "maxHeightStr": "",
@@ -462,7 +462,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2018": {
         "areaID": 2018,
         "weatherAreaId": 2018,
         "maxHeightStr": "220",
@@ -474,7 +474,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2118": {
         "areaID": 2118,
         "weatherAreaId": 2018,
         "maxHeightStr": "",
@@ -485,7 +485,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2019": {
         "areaID": 2019,
         "weatherAreaId": 2019,
         "maxHeightStr": "",
@@ -497,7 +497,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2020": {
         "areaID": 2020,
         "weatherAreaId": 2020,
         "maxHeightStr": "",
@@ -508,7 +508,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2021": {
         "areaID": 2021,
         "weatherAreaId": 2021,
         "maxHeightStr": "250",
@@ -520,7 +520,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2121": {
         "areaID": 2121,
         "weatherAreaId": 2021,
         "maxHeightStr": "",
@@ -532,7 +532,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2022": {
         "areaID": 2022,
         "weatherAreaId": 2022,
         "maxHeightStr": "",
@@ -544,7 +544,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2023": {
         "areaID": 2023,
         "weatherAreaId": 2023,
         "maxHeightStr": "",
@@ -556,7 +556,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2024": {
         "areaID": 2024,
         "weatherAreaId": 2024,
         "maxHeightStr": "460",
@@ -568,7 +568,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2124": {
         "areaID": 2124,
         "weatherAreaId": 2024,
         "maxHeightStr": "",
@@ -580,7 +580,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2026": {
         "areaID": 2026,
         "weatherAreaId": 2026,
         "maxHeightStr": "180",
@@ -592,7 +592,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2126": {
         "areaID": 2126,
         "weatherAreaId": 2026,
         "maxHeightStr": "",
@@ -604,7 +604,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "90001": {
         "areaID": 90001,
         "weatherAreaId": 90001,
         "maxHeightStr": "",
@@ -616,7 +616,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3000": {
         "areaID": 3000,
         "weatherAreaId": 3000,
         "maxHeightStr": "",
@@ -628,7 +628,7 @@
         "isUseDefault": true,
         "sceneID": 20005
     },
-    {
+    "3001": {
         "areaID": 3001,
         "weatherAreaId": 3001,
         "maxHeightStr": "",
@@ -640,7 +640,7 @@
         "isUseDefault": true,
         "sceneID": 20005
     },
-    {
+    "9999": {
         "areaID": 9999,
         "weatherAreaId": 9999,
         "maxHeightStr": "",
@@ -652,7 +652,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "10001": {
         "areaID": 10001,
         "weatherAreaId": 10001,
         "maxHeightStr": "",
@@ -664,7 +664,7 @@
         "isUseDefault": true,
         "sceneID": 20005
     },
-    {
+    "10002": {
         "areaID": 10002,
         "weatherAreaId": 10002,
         "maxHeightStr": "",
@@ -676,7 +676,7 @@
         "isUseDefault": true,
         "sceneID": 20005
     },
-    {
+    "2027": {
         "areaID": 2027,
         "weatherAreaId": 2027,
         "maxHeightStr": "295",
@@ -688,7 +688,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2127": {
         "areaID": 2127,
         "weatherAreaId": 2027,
         "maxHeightStr": "",
@@ -700,7 +700,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2028": {
         "areaID": 2028,
         "weatherAreaId": 2028,
         "maxHeightStr": "",
@@ -712,7 +712,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2029": {
         "areaID": 2029,
         "weatherAreaId": 2029,
         "maxHeightStr": "",
@@ -724,7 +724,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2030": {
         "areaID": 2030,
         "weatherAreaId": 2030,
         "maxHeightStr": "240",
@@ -736,7 +736,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2130": {
         "areaID": 2130,
         "weatherAreaId": 2030,
         "maxHeightStr": "",
@@ -747,7 +747,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "2031": {
         "areaID": 2031,
         "weatherAreaId": 2031,
         "maxHeightStr": "450",
@@ -759,7 +759,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2131": {
         "areaID": 2131,
         "weatherAreaId": 2031,
         "maxHeightStr": "",
@@ -771,7 +771,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2032": {
         "areaID": 2032,
         "weatherAreaId": 2032,
         "maxHeightStr": "400",
@@ -783,7 +783,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2025": {
         "areaID": 2025,
         "weatherAreaId": 2025,
         "maxHeightStr": "275",
@@ -795,7 +795,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2125": {
         "areaID": 2125,
         "weatherAreaId": 2025,
         "maxHeightStr": "300",
@@ -807,7 +807,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2225": {
         "areaID": 2225,
         "weatherAreaId": 2025,
         "maxHeightStr": "",
@@ -819,7 +819,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2132": {
         "areaID": 2132,
         "weatherAreaId": 2032,
         "maxHeightStr": "",
@@ -831,7 +831,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2034": {
         "areaID": 2034,
         "weatherAreaId": 2034,
         "maxHeightStr": "",
@@ -842,7 +842,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2035": {
         "areaID": 2035,
         "weatherAreaId": 2035,
         "maxHeightStr": "440",
@@ -853,7 +853,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2135": {
         "areaID": 2135,
         "weatherAreaId": 2035,
         "maxHeightStr": "",
@@ -864,7 +864,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2036": {
         "areaID": 2036,
         "weatherAreaId": 2036,
         "maxHeightStr": "",
@@ -876,7 +876,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2037": {
         "areaID": 2037,
         "weatherAreaId": 2037,
         "maxHeightStr": "",
@@ -887,7 +887,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2038": {
         "areaID": 2038,
         "weatherAreaId": 2038,
         "maxHeightStr": "460",
@@ -898,7 +898,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2138": {
         "areaID": 2138,
         "weatherAreaId": 2038,
         "maxHeightStr": "",
@@ -909,7 +909,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2039": {
         "areaID": 2039,
         "weatherAreaId": 2039,
         "maxHeightStr": "",
@@ -921,7 +921,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "10003": {
         "areaID": 10003,
         "weatherAreaId": 10003,
         "maxHeightStr": "",
@@ -933,7 +933,7 @@
         "isUseDefault": true,
         "sceneID": 1059
     },
-    {
+    "10004": {
         "areaID": 10004,
         "weatherAreaId": 10004,
         "maxHeightStr": "",
@@ -945,7 +945,7 @@
         "isUseDefault": true,
         "sceneID": 1059
     },
-    {
+    "10005": {
         "areaID": 10005,
         "weatherAreaId": 10005,
         "maxHeightStr": "",
@@ -957,7 +957,7 @@
         "isUseDefault": true,
         "sceneID": 20104
     },
-    {
+    "10006": {
         "areaID": 10006,
         "weatherAreaId": 10006,
         "maxHeightStr": "",
@@ -969,7 +969,7 @@
         "isUseDefault": true,
         "sceneID": 20104
     },
-    {
+    "10007": {
         "areaID": 10007,
         "weatherAreaId": 10007,
         "maxHeightStr": "",
@@ -981,7 +981,7 @@
         "isUseDefault": true,
         "sceneID": 20105
     },
-    {
+    "10008": {
         "areaID": 10008,
         "weatherAreaId": 10008,
         "maxHeightStr": "",
@@ -993,7 +993,7 @@
         "isUseDefault": true,
         "sceneID": 20105
     },
-    {
+    "10009": {
         "areaID": 10009,
         "weatherAreaId": 10009,
         "maxHeightStr": "",
@@ -1005,7 +1005,7 @@
         "isUseDefault": true,
         "sceneID": 35800
     },
-    {
+    "10010": {
         "areaID": 10010,
         "weatherAreaId": 10010,
         "maxHeightStr": "",
@@ -1017,7 +1017,7 @@
         "isUseDefault": true,
         "sceneID": 35800
     },
-    {
+    "10011": {
         "areaID": 10011,
         "weatherAreaId": 10011,
         "maxHeightStr": "",
@@ -1029,7 +1029,7 @@
         "isUseDefault": true,
         "sceneID": 35800
     },
-    {
+    "10012": {
         "areaID": 10012,
         "weatherAreaId": 10012,
         "maxHeightStr": "",
@@ -1041,7 +1041,7 @@
         "isUseDefault": true,
         "sceneID": 20106
     },
-    {
+    "10013": {
         "areaID": 10013,
         "weatherAreaId": 10013,
         "maxHeightStr": "",
@@ -1053,7 +1053,7 @@
         "isUseDefault": true,
         "sceneID": 20107
     },
-    {
+    "10014": {
         "areaID": 10014,
         "weatherAreaId": 10014,
         "maxHeightStr": "",
@@ -1065,7 +1065,7 @@
         "isUseDefault": true,
         "sceneID": 20108
     },
-    {
+    "10015": {
         "areaID": 10015,
         "weatherAreaId": 10015,
         "maxHeightStr": "",
@@ -1077,7 +1077,7 @@
         "isUseDefault": true,
         "sceneID": 20109
     },
-    {
+    "10016": {
         "areaID": 10016,
         "weatherAreaId": 10016,
         "maxHeightStr": "",
@@ -1089,7 +1089,7 @@
         "isUseDefault": true,
         "sceneID": 20110
     },
-    {
+    "10017": {
         "areaID": 10017,
         "weatherAreaId": 10018,
         "maxHeightStr": "35",
@@ -1101,7 +1101,7 @@
         "isUseDefault": true,
         "sceneID": 43001
     },
-    {
+    "10018": {
         "areaID": 10018,
         "weatherAreaId": 10018,
         "maxHeightStr": "",
@@ -1113,7 +1113,7 @@
         "isUseDefault": true,
         "sceneID": 43001
     },
-    {
+    "10019": {
         "areaID": 10019,
         "weatherAreaId": 10020,
         "maxHeightStr": "35",
@@ -1125,7 +1125,7 @@
         "isUseDefault": true,
         "sceneID": 43002
     },
-    {
+    "10020": {
         "areaID": 10020,
         "weatherAreaId": 10020,
         "maxHeightStr": "",
@@ -1137,7 +1137,7 @@
         "isUseDefault": true,
         "sceneID": 43002
     },
-    {
+    "10021": {
         "areaID": 10021,
         "weatherAreaId": 10022,
         "maxHeightStr": "35",
@@ -1149,7 +1149,7 @@
         "isUseDefault": true,
         "sceneID": 43003
     },
-    {
+    "10022": {
         "areaID": 10022,
         "weatherAreaId": 10022,
         "maxHeightStr": "",
@@ -1161,7 +1161,7 @@
         "isUseDefault": true,
         "sceneID": 43003
     },
-    {
+    "10023": {
         "areaID": 10023,
         "weatherAreaId": 10024,
         "maxHeightStr": "35",
@@ -1173,7 +1173,7 @@
         "isUseDefault": true,
         "sceneID": 43004
     },
-    {
+    "10024": {
         "areaID": 10024,
         "weatherAreaId": 10024,
         "maxHeightStr": "",
@@ -1185,7 +1185,7 @@
         "isUseDefault": true,
         "sceneID": 43004
     },
-    {
+    "10025": {
         "areaID": 10025,
         "weatherAreaId": 10026,
         "maxHeightStr": "35",
@@ -1197,7 +1197,7 @@
         "isUseDefault": true,
         "sceneID": 43005
     },
-    {
+    "10026": {
         "areaID": 10026,
         "weatherAreaId": 10026,
         "maxHeightStr": "",
@@ -1209,7 +1209,7 @@
         "isUseDefault": true,
         "sceneID": 43005
     },
-    {
+    "10027": {
         "areaID": 10027,
         "weatherAreaId": 10028,
         "maxHeightStr": "35",
@@ -1221,7 +1221,7 @@
         "isUseDefault": true,
         "sceneID": 43006
     },
-    {
+    "10028": {
         "areaID": 10028,
         "weatherAreaId": 10028,
         "maxHeightStr": "",
@@ -1233,7 +1233,7 @@
         "isUseDefault": true,
         "sceneID": 43006
     },
-    {
+    "10029": {
         "areaID": 10029,
         "weatherAreaId": 10029,
         "maxHeightStr": "",
@@ -1245,7 +1245,7 @@
         "isUseDefault": true,
         "sceneID": 20114
     },
-    {
+    "10030": {
         "areaID": 10030,
         "weatherAreaId": 10030,
         "maxHeightStr": "",
@@ -1256,7 +1256,7 @@
         "isUseDefault": true,
         "sceneID": 20114
     },
-    {
+    "10031": {
         "areaID": 10031,
         "weatherAreaId": 10031,
         "maxHeightStr": "",
@@ -1267,7 +1267,7 @@
         "isUseDefault": true,
         "sceneID": 20114
     },
-    {
+    "10032": {
         "areaID": 10032,
         "weatherAreaId": 10032,
         "maxHeightStr": "",
@@ -1279,7 +1279,7 @@
         "isUseDefault": true,
         "sceneID": 20115
     },
-    {
+    "10033": {
         "areaID": 10033,
         "weatherAreaId": 10033,
         "maxHeightStr": "",
@@ -1290,7 +1290,7 @@
         "isUseDefault": true,
         "sceneID": 20115
     },
-    {
+    "10034": {
         "areaID": 10034,
         "weatherAreaId": 10034,
         "maxHeightStr": "",
@@ -1301,7 +1301,7 @@
         "isUseDefault": true,
         "sceneID": 20115
     },
-    {
+    "10035": {
         "areaID": 10035,
         "weatherAreaId": 10035,
         "maxHeightStr": "",
@@ -1313,7 +1313,7 @@
         "isUseDefault": true,
         "sceneID": 35801
     },
-    {
+    "10036": {
         "areaID": 10036,
         "weatherAreaId": 10036,
         "maxHeightStr": "",
@@ -1324,7 +1324,7 @@
         "isUseDefault": true,
         "sceneID": 35801
     },
-    {
+    "10037": {
         "areaID": 10037,
         "weatherAreaId": 10037,
         "maxHeightStr": "",
@@ -1335,7 +1335,7 @@
         "isUseDefault": true,
         "sceneID": 35801
     },
-    {
+    "10038": {
         "areaID": 10038,
         "weatherAreaId": 10038,
         "maxHeightStr": "",
@@ -1346,7 +1346,7 @@
         "isUseDefault": true,
         "sceneID": 35801
     },
-    {
+    "10039": {
         "areaID": 10039,
         "weatherAreaId": 10039,
         "maxHeightStr": "",
@@ -1358,7 +1358,7 @@
         "isUseDefault": true,
         "sceneID": 35802
     },
-    {
+    "10040": {
         "areaID": 10040,
         "weatherAreaId": 10040,
         "maxHeightStr": "",
@@ -1369,7 +1369,7 @@
         "isUseDefault": true,
         "sceneID": 35802
     },
-    {
+    "10041": {
         "areaID": 10041,
         "weatherAreaId": 10041,
         "maxHeightStr": "",
@@ -1380,7 +1380,7 @@
         "isUseDefault": true,
         "sceneID": 35802
     },
-    {
+    "10042": {
         "areaID": 10042,
         "weatherAreaId": 10042,
         "maxHeightStr": "",
@@ -1391,7 +1391,7 @@
         "isUseDefault": true,
         "sceneID": 35802
     },
-    {
+    "10043": {
         "areaID": 10043,
         "weatherAreaId": 10043,
         "maxHeightStr": "",
@@ -1403,7 +1403,7 @@
         "isUseDefault": true,
         "sceneID": 35803
     },
-    {
+    "10044": {
         "areaID": 10044,
         "weatherAreaId": 10044,
         "maxHeightStr": "",
@@ -1414,7 +1414,7 @@
         "isUseDefault": true,
         "sceneID": 35803
     },
-    {
+    "10045": {
         "areaID": 10045,
         "weatherAreaId": 10045,
         "maxHeightStr": "",
@@ -1425,7 +1425,7 @@
         "isUseDefault": true,
         "sceneID": 35803
     },
-    {
+    "10046": {
         "areaID": 10046,
         "weatherAreaId": 10046,
         "maxHeightStr": "",
@@ -1436,7 +1436,7 @@
         "isUseDefault": true,
         "sceneID": 35803
     },
-    {
+    "10047": {
         "areaID": 10047,
         "weatherAreaId": 10047,
         "maxHeightStr": "",
@@ -1448,7 +1448,7 @@
         "isUseDefault": true,
         "sceneID": 35804
     },
-    {
+    "10048": {
         "areaID": 10048,
         "weatherAreaId": 10048,
         "maxHeightStr": "",
@@ -1459,7 +1459,7 @@
         "isUseDefault": true,
         "sceneID": 35804
     },
-    {
+    "10049": {
         "areaID": 10049,
         "weatherAreaId": 10049,
         "maxHeightStr": "",
@@ -1470,7 +1470,7 @@
         "isUseDefault": true,
         "sceneID": 35804
     },
-    {
+    "10050": {
         "areaID": 10050,
         "weatherAreaId": 10050,
         "maxHeightStr": "",
@@ -1481,7 +1481,7 @@
         "isUseDefault": true,
         "sceneID": 35804
     },
-    {
+    "10051": {
         "areaID": 10051,
         "weatherAreaId": 10051,
         "maxHeightStr": "",
@@ -1493,7 +1493,7 @@
         "isUseDefault": true,
         "sceneID": 35805
     },
-    {
+    "10052": {
         "areaID": 10052,
         "weatherAreaId": 10052,
         "maxHeightStr": "",
@@ -1504,7 +1504,7 @@
         "isUseDefault": true,
         "sceneID": 35805
     },
-    {
+    "10053": {
         "areaID": 10053,
         "weatherAreaId": 10053,
         "maxHeightStr": "",
@@ -1515,7 +1515,7 @@
         "isUseDefault": true,
         "sceneID": 35805
     },
-    {
+    "10054": {
         "areaID": 10054,
         "weatherAreaId": 10054,
         "maxHeightStr": "",
@@ -1526,7 +1526,7 @@
         "isUseDefault": true,
         "sceneID": 35805
     },
-    {
+    "10055": {
         "areaID": 10055,
         "weatherAreaId": 10055,
         "maxHeightStr": "",
@@ -1538,7 +1538,7 @@
         "isUseDefault": true,
         "sceneID": 35806
     },
-    {
+    "10056": {
         "areaID": 10056,
         "weatherAreaId": 10056,
         "maxHeightStr": "",
@@ -1549,7 +1549,7 @@
         "isUseDefault": true,
         "sceneID": 35806
     },
-    {
+    "10057": {
         "areaID": 10057,
         "weatherAreaId": 10057,
         "maxHeightStr": "",
@@ -1560,7 +1560,7 @@
         "isUseDefault": true,
         "sceneID": 35806
     },
-    {
+    "10058": {
         "areaID": 10058,
         "weatherAreaId": 10058,
         "maxHeightStr": "",
@@ -1571,7 +1571,7 @@
         "isUseDefault": true,
         "sceneID": 35806
     },
-    {
+    "11035": {
         "areaID": 11035,
         "weatherAreaId": 11035,
         "maxHeightStr": "",
@@ -1583,7 +1583,7 @@
         "isUseDefault": true,
         "sceneID": 35807
     },
-    {
+    "11036": {
         "areaID": 11036,
         "weatherAreaId": 11036,
         "maxHeightStr": "",
@@ -1594,7 +1594,7 @@
         "isUseDefault": true,
         "sceneID": 35807
     },
-    {
+    "11037": {
         "areaID": 11037,
         "weatherAreaId": 11037,
         "maxHeightStr": "",
@@ -1605,7 +1605,7 @@
         "isUseDefault": true,
         "sceneID": 35807
     },
-    {
+    "11038": {
         "areaID": 11038,
         "weatherAreaId": 11038,
         "maxHeightStr": "",
@@ -1616,7 +1616,7 @@
         "isUseDefault": true,
         "sceneID": 35807
     },
-    {
+    "11039": {
         "areaID": 11039,
         "weatherAreaId": 11039,
         "maxHeightStr": "",
@@ -1628,7 +1628,7 @@
         "isUseDefault": true,
         "sceneID": 35808
     },
-    {
+    "11040": {
         "areaID": 11040,
         "weatherAreaId": 11040,
         "maxHeightStr": "",
@@ -1639,7 +1639,7 @@
         "isUseDefault": true,
         "sceneID": 35808
     },
-    {
+    "11041": {
         "areaID": 11041,
         "weatherAreaId": 11041,
         "maxHeightStr": "",
@@ -1650,7 +1650,7 @@
         "isUseDefault": true,
         "sceneID": 35808
     },
-    {
+    "11042": {
         "areaID": 11042,
         "weatherAreaId": 11042,
         "maxHeightStr": "",
@@ -1661,7 +1661,7 @@
         "isUseDefault": true,
         "sceneID": 35808
     },
-    {
+    "11043": {
         "areaID": 11043,
         "weatherAreaId": 11043,
         "maxHeightStr": "",
@@ -1673,7 +1673,7 @@
         "isUseDefault": true,
         "sceneID": 35809
     },
-    {
+    "11044": {
         "areaID": 11044,
         "weatherAreaId": 11044,
         "maxHeightStr": "",
@@ -1684,7 +1684,7 @@
         "isUseDefault": true,
         "sceneID": 35809
     },
-    {
+    "11045": {
         "areaID": 11045,
         "weatherAreaId": 11045,
         "maxHeightStr": "",
@@ -1695,7 +1695,7 @@
         "isUseDefault": true,
         "sceneID": 35809
     },
-    {
+    "11046": {
         "areaID": 11046,
         "weatherAreaId": 11046,
         "maxHeightStr": "",
@@ -1706,7 +1706,7 @@
         "isUseDefault": true,
         "sceneID": 35809
     },
-    {
+    "11047": {
         "areaID": 11047,
         "weatherAreaId": 11047,
         "maxHeightStr": "",
@@ -1718,7 +1718,7 @@
         "isUseDefault": true,
         "sceneID": 35810
     },
-    {
+    "11048": {
         "areaID": 11048,
         "weatherAreaId": 11048,
         "maxHeightStr": "",
@@ -1729,7 +1729,7 @@
         "isUseDefault": true,
         "sceneID": 35810
     },
-    {
+    "11049": {
         "areaID": 11049,
         "weatherAreaId": 11049,
         "maxHeightStr": "",
@@ -1740,7 +1740,7 @@
         "isUseDefault": true,
         "sceneID": 35810
     },
-    {
+    "11050": {
         "areaID": 11050,
         "weatherAreaId": 11050,
         "maxHeightStr": "",
@@ -1751,7 +1751,7 @@
         "isUseDefault": true,
         "sceneID": 35810
     },
-    {
+    "11051": {
         "areaID": 11051,
         "weatherAreaId": 11051,
         "maxHeightStr": "",
@@ -1763,7 +1763,7 @@
         "isUseDefault": true,
         "sceneID": 35811
     },
-    {
+    "11052": {
         "areaID": 11052,
         "weatherAreaId": 11052,
         "maxHeightStr": "",
@@ -1774,7 +1774,7 @@
         "isUseDefault": true,
         "sceneID": 35811
     },
-    {
+    "11053": {
         "areaID": 11053,
         "weatherAreaId": 11053,
         "maxHeightStr": "",
@@ -1785,7 +1785,7 @@
         "isUseDefault": true,
         "sceneID": 35811
     },
-    {
+    "11054": {
         "areaID": 11054,
         "weatherAreaId": 11054,
         "maxHeightStr": "",
@@ -1796,7 +1796,7 @@
         "isUseDefault": true,
         "sceneID": 35811
     },
-    {
+    "11055": {
         "areaID": 11055,
         "weatherAreaId": 11055,
         "maxHeightStr": "",
@@ -1808,7 +1808,7 @@
         "isUseDefault": true,
         "sceneID": 35812
     },
-    {
+    "11056": {
         "areaID": 11056,
         "weatherAreaId": 11056,
         "maxHeightStr": "",
@@ -1819,7 +1819,7 @@
         "isUseDefault": true,
         "sceneID": 35812
     },
-    {
+    "11057": {
         "areaID": 11057,
         "weatherAreaId": 11057,
         "maxHeightStr": "",
@@ -1830,7 +1830,7 @@
         "isUseDefault": true,
         "sceneID": 35812
     },
-    {
+    "11058": {
         "areaID": 11058,
         "weatherAreaId": 11058,
         "maxHeightStr": "",
@@ -1841,7 +1841,7 @@
         "isUseDefault": true,
         "sceneID": 35812
     },
-    {
+    "10059": {
         "areaID": 10059,
         "weatherAreaId": 10059,
         "maxHeightStr": "",
@@ -1853,7 +1853,7 @@
         "isUseDefault": true,
         "sceneID": 20113
     },
-    {
+    "10060": {
         "areaID": 10060,
         "weatherAreaId": 10060,
         "maxHeightStr": "",
@@ -1865,7 +1865,7 @@
         "isUseDefault": true,
         "sceneID": 20117
     },
-    {
+    "10061": {
         "areaID": 10061,
         "weatherAreaId": 10061,
         "maxHeightStr": "",
@@ -1876,7 +1876,7 @@
         "isUseDefault": true,
         "sceneID": 20117
     },
-    {
+    "10062": {
         "areaID": 10062,
         "weatherAreaId": 10062,
         "maxHeightStr": "",
@@ -1887,7 +1887,7 @@
         "isUseDefault": true,
         "sceneID": 20117
     },
-    {
+    "10063": {
         "areaID": 10063,
         "weatherAreaId": 10063,
         "maxHeightStr": "",
@@ -1899,7 +1899,7 @@
         "isUseDefault": true,
         "sceneID": 20116
     },
-    {
+    "10064": {
         "areaID": 10064,
         "weatherAreaId": 10064,
         "maxHeightStr": "",
@@ -1911,7 +1911,7 @@
         "isUseDefault": true,
         "sceneID": 47003
     },
-    {
+    "10065": {
         "areaID": 10065,
         "weatherAreaId": 10065,
         "maxHeightStr": "",
@@ -1923,7 +1923,7 @@
         "isUseDefault": true,
         "sceneID": 2004
     },
-    {
+    "10066": {
         "areaID": 10066,
         "weatherAreaId": 10066,
         "maxHeightStr": "",
@@ -1935,7 +1935,7 @@
         "isUseDefault": true,
         "sceneID": 2004
     },
-    {
+    "10067": {
         "areaID": 10067,
         "weatherAreaId": 20121,
         "maxHeightStr": "",
@@ -1947,7 +1947,7 @@
         "isUseDefault": true,
         "sceneID": 20121
     },
-    {
+    "10068": {
         "areaID": 10068,
         "weatherAreaId": 20122,
         "maxHeightStr": "",
@@ -1958,7 +1958,7 @@
         "isUseDefault": true,
         "sceneID": 20121
     },
-    {
+    "10069": {
         "areaID": 10069,
         "weatherAreaId": 20123,
         "maxHeightStr": "",
@@ -1969,7 +1969,7 @@
         "isUseDefault": true,
         "sceneID": 20121
     },
-    {
+    "10070": {
         "areaID": 10070,
         "weatherAreaId": 20124,
         "maxHeightStr": "",
@@ -1980,7 +1980,7 @@
         "isUseDefault": true,
         "sceneID": 20121
     },
-    {
+    "10071": {
         "areaID": 10071,
         "weatherAreaId": 20125,
         "maxHeightStr": "",
@@ -1991,7 +1991,7 @@
         "isUseDefault": true,
         "sceneID": 20121
     },
-    {
+    "10072": {
         "areaID": 10072,
         "weatherAreaId": 10072,
         "maxHeightStr": "",
@@ -2003,7 +2003,7 @@
         "isUseDefault": true,
         "sceneID": 20133
     },
-    {
+    "10073": {
         "areaID": 10073,
         "weatherAreaId": 10073,
         "maxHeightStr": "",
@@ -2014,7 +2014,7 @@
         "isUseDefault": true,
         "sceneID": 20133
     },
-    {
+    "10074": {
         "areaID": 10074,
         "weatherAreaId": 10074,
         "maxHeightStr": "",
@@ -2025,7 +2025,7 @@
         "isUseDefault": true,
         "sceneID": 20133
     },
-    {
+    "10075": {
         "areaID": 10075,
         "weatherAreaId": 10075,
         "maxHeightStr": "",
@@ -2037,7 +2037,7 @@
         "isUseDefault": true,
         "sceneID": 20133
     },
-    {
+    "10076": {
         "areaID": 10076,
         "weatherAreaId": 10076,
         "maxHeightStr": "",
@@ -2049,7 +2049,7 @@
         "isUseDefault": true,
         "sceneID": 20133
     },
-    {
+    "10077": {
         "areaID": 10077,
         "weatherAreaId": 10077,
         "maxHeightStr": "",
@@ -2061,7 +2061,7 @@
         "isUseDefault": true,
         "sceneID": 20133
     },
-    {
+    "10078": {
         "areaID": 10078,
         "weatherAreaId": 10078,
         "maxHeightStr": "",
@@ -2073,7 +2073,7 @@
         "isUseDefault": true,
         "sceneID": 20133
     },
-    {
+    "10079": {
         "areaID": 10079,
         "weatherAreaId": 10079,
         "maxHeightStr": "",
@@ -2085,7 +2085,7 @@
         "isUseDefault": true,
         "sceneID": 20133
     },
-    {
+    "10080": {
         "areaID": 10080,
         "weatherAreaId": 10080,
         "maxHeightStr": "",
@@ -2097,7 +2097,7 @@
         "isUseDefault": true,
         "sceneID": 20122
     },
-    {
+    "10081": {
         "areaID": 10081,
         "weatherAreaId": 10081,
         "maxHeightStr": "",
@@ -2109,7 +2109,7 @@
         "isUseDefault": true,
         "sceneID": 20125
     },
-    {
+    "10082": {
         "areaID": 10082,
         "weatherAreaId": 10082,
         "maxHeightStr": "",
@@ -2121,7 +2121,7 @@
         "isUseDefault": true,
         "sceneID": 20129
     },
-    {
+    "10083": {
         "areaID": 10083,
         "weatherAreaId": 10083,
         "maxHeightStr": "",
@@ -2133,7 +2133,7 @@
         "isUseDefault": true,
         "sceneID": 20129
     },
-    {
+    "10084": {
         "areaID": 10084,
         "weatherAreaId": 10084,
         "maxHeightStr": "",
@@ -2145,7 +2145,7 @@
         "isUseDefault": true,
         "sceneID": 20129
     },
-    {
+    "10085": {
         "areaID": 10085,
         "weatherAreaId": 10085,
         "maxHeightStr": "",
@@ -2157,7 +2157,7 @@
         "isUseDefault": true,
         "sceneID": 20129
     },
-    {
+    "10086": {
         "areaID": 10086,
         "weatherAreaId": 10086,
         "maxHeightStr": "",
@@ -2169,7 +2169,7 @@
         "isUseDefault": true,
         "sceneID": 46203
     },
-    {
+    "10087": {
         "areaID": 10087,
         "weatherAreaId": 10087,
         "maxHeightStr": "",
@@ -2181,7 +2181,7 @@
         "isUseDefault": true,
         "sceneID": 46203
     },
-    {
+    "10088": {
         "areaID": 10088,
         "weatherAreaId": 10088,
         "maxHeightStr": "",
@@ -2193,7 +2193,7 @@
         "isUseDefault": true,
         "sceneID": 46203
     },
-    {
+    "10089": {
         "areaID": 10089,
         "weatherAreaId": 10089,
         "maxHeightStr": "",
@@ -2205,7 +2205,7 @@
         "isUseDefault": true,
         "sceneID": 46203
     },
-    {
+    "10090": {
         "areaID": 10090,
         "weatherAreaId": 10090,
         "maxHeightStr": "",
@@ -2217,7 +2217,7 @@
         "isUseDefault": true,
         "sceneID": 20136
     },
-    {
+    "10091": {
         "areaID": 10091,
         "weatherAreaId": 10091,
         "maxHeightStr": "",
@@ -2228,7 +2228,7 @@
         "isUseDefault": true,
         "sceneID": 20136
     },
-    {
+    "10092": {
         "areaID": 10092,
         "weatherAreaId": 10092,
         "maxHeightStr": "",
@@ -2239,7 +2239,7 @@
         "isUseDefault": true,
         "sceneID": 20136
     },
-    {
+    "10093": {
         "areaID": 10093,
         "weatherAreaId": 10093,
         "maxHeightStr": "",
@@ -2251,7 +2251,7 @@
         "isUseDefault": true,
         "sceneID": 20136
     },
-    {
+    "10094": {
         "areaID": 10094,
         "weatherAreaId": 10094,
         "maxHeightStr": "",
@@ -2263,7 +2263,7 @@
         "isUseDefault": true,
         "sceneID": 20135
     },
-    {
+    "10095": {
         "areaID": 10095,
         "weatherAreaId": 10095,
         "maxHeightStr": "",
@@ -2275,7 +2275,7 @@
         "isUseDefault": true,
         "sceneID": 20128
     },
-    {
+    "10096": {
         "areaID": 10096,
         "weatherAreaId": 10096,
         "maxHeightStr": "",
@@ -2287,7 +2287,7 @@
         "isUseDefault": true,
         "sceneID": 20128
     },
-    {
+    "10097": {
         "areaID": 10097,
         "weatherAreaId": 10097,
         "maxHeightStr": "",
@@ -2299,7 +2299,7 @@
         "isUseDefault": true,
         "sceneID": 20129
     },
-    {
+    "10098": {
         "areaID": 10098,
         "weatherAreaId": 10098,
         "maxHeightStr": "",
@@ -2311,7 +2311,7 @@
         "isUseDefault": true,
         "sceneID": 20129
     },
-    {
+    "10099": {
         "areaID": 10099,
         "weatherAreaId": 10099,
         "maxHeightStr": "",
@@ -2323,7 +2323,7 @@
         "isUseDefault": true,
         "sceneID": 46203
     },
-    {
+    "10100": {
         "areaID": 10100,
         "weatherAreaId": 10100,
         "maxHeightStr": "",
@@ -2335,7 +2335,7 @@
         "isUseDefault": true,
         "sceneID": 20128
     },
-    {
+    "10101": {
         "areaID": 10101,
         "weatherAreaId": 10101,
         "maxHeightStr": "",
@@ -2347,7 +2347,7 @@
         "isUseDefault": true,
         "sceneID": 20128
     },
-    {
+    "10102": {
         "areaID": 10102,
         "weatherAreaId": 10102,
         "maxHeightStr": "",
@@ -2359,7 +2359,7 @@
         "isUseDefault": true,
         "sceneID": 35846
     },
-    {
+    "10103": {
         "areaID": 10103,
         "weatherAreaId": 10103,
         "maxHeightStr": "",
@@ -2371,7 +2371,7 @@
         "isUseDefault": true,
         "sceneID": 35847
     },
-    {
+    "10104": {
         "areaID": 10104,
         "weatherAreaId": 10104,
         "maxHeightStr": "",
@@ -2382,7 +2382,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 20133
     },
-    {
+    "10105": {
         "areaID": 10105,
         "weatherAreaId": 10105,
         "maxHeightStr": "",
@@ -2394,7 +2394,7 @@
         "isUseDefault": true,
         "sceneID": 20134
     },
-    {
+    "10106": {
         "areaID": 10106,
         "weatherAreaId": 10106,
         "maxHeightStr": "",
@@ -2406,7 +2406,7 @@
         "isUseDefault": true,
         "sceneID": 20134
     },
-    {
+    "10107": {
         "areaID": 10107,
         "weatherAreaId": 10107,
         "maxHeightStr": "",
@@ -2418,7 +2418,7 @@
         "isUseDefault": true,
         "sceneID": 20136
     },
-    {
+    "10132": {
         "areaID": 10132,
         "weatherAreaId": 10132,
         "maxHeightStr": "",
@@ -2430,7 +2430,7 @@
         "isUseDefault": true,
         "sceneID": 20146
     },
-    {
+    "10133": {
         "areaID": 10133,
         "weatherAreaId": 10133,
         "maxHeightStr": "",
@@ -2442,7 +2442,7 @@
         "isUseDefault": true,
         "sceneID": 20147
     },
-    {
+    "10134": {
         "areaID": 10134,
         "weatherAreaId": 10134,
         "maxHeightStr": "",
@@ -2453,7 +2453,7 @@
         "isUseDefault": true,
         "sceneID": 20132
     },
-    {
+    "10135": {
         "areaID": 10135,
         "weatherAreaId": 10135,
         "maxHeightStr": "",
@@ -2464,7 +2464,7 @@
         "isUseDefault": true,
         "sceneID": 20132
     },
-    {
+    "10136": {
         "areaID": 10136,
         "weatherAreaId": 10136,
         "maxHeightStr": "",
@@ -2475,7 +2475,7 @@
         "isUseDefault": true,
         "sceneID": 20132
     },
-    {
+    "10137": {
         "areaID": 10137,
         "weatherAreaId": 10137,
         "maxHeightStr": "",
@@ -2486,7 +2486,7 @@
         "isUseDefault": true,
         "sceneID": 20132
     },
-    {
+    "2139": {
         "areaID": 2139,
         "weatherAreaId": 2139,
         "maxHeightStr": "",
@@ -2498,7 +2498,7 @@
         "isUseDefault": true,
         "sceneID": 1
     },
-    {
+    "2140": {
         "areaID": 2140,
         "weatherAreaId": 2140,
         "maxHeightStr": "",
@@ -2509,7 +2509,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 1
     },
-    {
+    "2141": {
         "areaID": 2141,
         "weatherAreaId": 2141,
         "maxHeightStr": "",
@@ -2521,7 +2521,7 @@
         "isUseDefault": true,
         "sceneID": 1
     },
-    {
+    "2142": {
         "areaID": 2142,
         "weatherAreaId": 2142,
         "maxHeightStr": "",
@@ -2533,7 +2533,7 @@
         "isUseDefault": true,
         "sceneID": 1
     },
-    {
+    "2143": {
         "areaID": 2143,
         "weatherAreaId": 2143,
         "maxHeightStr": "",
@@ -2545,7 +2545,7 @@
         "isUseDefault": true,
         "sceneID": 1
     },
-    {
+    "2144": {
         "areaID": 2144,
         "weatherAreaId": 2144,
         "maxHeightStr": "",
@@ -2556,7 +2556,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 4
     },
-    {
+    "2145": {
         "areaID": 2145,
         "weatherAreaId": 2145,
         "maxHeightStr": "",
@@ -2566,7 +2566,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 4
     },
-    {
+    "2146": {
         "areaID": 2146,
         "weatherAreaId": 2146,
         "maxHeightStr": "",
@@ -2577,7 +2577,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2147": {
         "areaID": 2147,
         "weatherAreaId": 2147,
         "maxHeightStr": "",
@@ -2588,7 +2588,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2148": {
         "areaID": 2148,
         "weatherAreaId": 2148,
         "maxHeightStr": "",
@@ -2599,7 +2599,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2149": {
         "areaID": 2149,
         "weatherAreaId": 2149,
         "maxHeightStr": "",
@@ -2610,7 +2610,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2150": {
         "areaID": 2150,
         "weatherAreaId": 2150,
         "maxHeightStr": "",
@@ -2621,7 +2621,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2151": {
         "areaID": 2151,
         "weatherAreaId": 2151,
         "maxHeightStr": "",
@@ -2632,7 +2632,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2153": {
         "areaID": 2153,
         "weatherAreaId": 2153,
         "maxHeightStr": "",
@@ -2643,7 +2643,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2154": {
         "areaID": 2154,
         "weatherAreaId": 2154,
         "maxHeightStr": "",
@@ -2654,7 +2654,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2155": {
         "areaID": 2155,
         "weatherAreaId": 2155,
         "maxHeightStr": "",
@@ -2665,7 +2665,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2156": {
         "areaID": 2156,
         "weatherAreaId": 2156,
         "maxHeightStr": "",
@@ -2676,7 +2676,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2157": {
         "areaID": 2157,
         "weatherAreaId": 2157,
         "maxHeightStr": "",
@@ -2687,7 +2687,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2158": {
         "areaID": 2158,
         "weatherAreaId": 2158,
         "maxHeightStr": "",
@@ -2698,7 +2698,7 @@
         "isUseDefault": true,
         "sceneID": 4
     },
-    {
+    "2159": {
         "areaID": 2159,
         "weatherAreaId": 2159,
         "maxHeightStr": "",
@@ -2708,7 +2708,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 4
     },
-    {
+    "2160": {
         "areaID": 2160,
         "weatherAreaId": 2160,
         "maxHeightStr": "",
@@ -2718,7 +2718,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 4
     },
-    {
+    "2161": {
         "areaID": 2161,
         "weatherAreaId": 2161,
         "maxHeightStr": "",
@@ -2728,7 +2728,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 4
     },
-    {
+    "2162": {
         "areaID": 2162,
         "weatherAreaId": 2162,
         "maxHeightStr": "",
@@ -2738,7 +2738,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 4
     },
-    {
+    "2163": {
         "areaID": 2163,
         "weatherAreaId": 2163,
         "maxHeightStr": "",
@@ -2748,7 +2748,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 4
     },
-    {
+    "2164": {
         "areaID": 2164,
         "weatherAreaId": 2164,
         "maxHeightStr": "",
@@ -2759,7 +2759,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 4
     },
-    {
+    "2152": {
         "areaID": 2152,
         "weatherAreaId": 2152,
         "maxHeightStr": "240",
@@ -2771,7 +2771,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2252": {
         "areaID": 2252,
         "weatherAreaId": 2152,
         "maxHeightStr": "",
@@ -2783,7 +2783,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3002": {
         "areaID": 3002,
         "weatherAreaId": 3002,
         "maxHeightStr": "",
@@ -2794,7 +2794,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3003": {
         "areaID": 3003,
         "weatherAreaId": 3003,
         "maxHeightStr": "",
@@ -2805,7 +2805,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3004": {
         "areaID": 3004,
         "weatherAreaId": 3004,
         "maxHeightStr": "",
@@ -2816,7 +2816,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3005": {
         "areaID": 3005,
         "weatherAreaId": 3005,
         "maxHeightStr": "298",
@@ -2827,7 +2827,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3105": {
         "areaID": 3105,
         "weatherAreaId": 3005,
         "maxHeightStr": "",
@@ -2838,7 +2838,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3006": {
         "areaID": 3006,
         "weatherAreaId": 3006,
         "maxHeightStr": "",
@@ -2849,7 +2849,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3007": {
         "areaID": 3007,
         "weatherAreaId": 3007,
         "maxHeightStr": "",
@@ -2860,7 +2860,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3008": {
         "areaID": 3008,
         "weatherAreaId": 3008,
         "maxHeightStr": "",
@@ -2872,7 +2872,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3009": {
         "areaID": 3009,
         "weatherAreaId": 3009,
         "maxHeightStr": "",
@@ -2884,7 +2884,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3010": {
         "areaID": 3010,
         "weatherAreaId": 3010,
         "maxHeightStr": "",
@@ -2896,7 +2896,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3011": {
         "areaID": 3011,
         "weatherAreaId": 3011,
         "maxHeightStr": "",
@@ -2907,7 +2907,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3012": {
         "areaID": 3012,
         "weatherAreaId": 3012,
         "maxHeightStr": "",
@@ -2917,7 +2917,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3013": {
         "areaID": 3013,
         "weatherAreaId": 3013,
         "maxHeightStr": "",
@@ -2928,7 +2928,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3113": {
         "areaID": 3113,
         "weatherAreaId": 3113,
         "maxHeightStr": "",
@@ -2938,7 +2938,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3014": {
         "areaID": 3014,
         "weatherAreaId": 3014,
         "maxHeightStr": "",
@@ -2950,7 +2950,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3015": {
         "areaID": 3015,
         "weatherAreaId": 3015,
         "maxHeightStr": "223",
@@ -2962,7 +2962,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3115": {
         "areaID": 3115,
         "weatherAreaId": 3015,
         "maxHeightStr": "",
@@ -2974,7 +2974,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3016": {
         "areaID": 3016,
         "weatherAreaId": 3016,
         "maxHeightStr": "235",
@@ -2986,7 +2986,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3116": {
         "areaID": 3116,
         "weatherAreaId": 3016,
         "maxHeightStr": "",
@@ -2998,7 +2998,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3017": {
         "areaID": 3017,
         "weatherAreaId": 3017,
         "maxHeightStr": "",
@@ -3010,7 +3010,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3018": {
         "areaID": 3018,
         "weatherAreaId": 3018,
         "maxHeightStr": "",
@@ -3022,7 +3022,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3019": {
         "areaID": 3019,
         "weatherAreaId": 3019,
         "maxHeightStr": "",
@@ -3034,7 +3034,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3020": {
         "areaID": 3020,
         "weatherAreaId": 3020,
         "maxHeightStr": "",
@@ -3046,7 +3046,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3021": {
         "areaID": 3021,
         "weatherAreaId": 3021,
         "maxHeightStr": "",
@@ -3058,7 +3058,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3022": {
         "areaID": 3022,
         "weatherAreaId": 3022,
         "maxHeightStr": "223",
@@ -3070,7 +3070,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3122": {
         "areaID": 3122,
         "weatherAreaId": 3022,
         "maxHeightStr": "",
@@ -3082,7 +3082,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3023": {
         "areaID": 3023,
         "weatherAreaId": 3023,
         "maxHeightStr": "235",
@@ -3094,7 +3094,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3123": {
         "areaID": 3123,
         "weatherAreaId": 3023,
         "maxHeightStr": "",
@@ -3106,7 +3106,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3024": {
         "areaID": 3024,
         "weatherAreaId": 3024,
         "maxHeightStr": "",
@@ -3118,7 +3118,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3025": {
         "areaID": 3025,
         "weatherAreaId": 3025,
         "maxHeightStr": "200",
@@ -3130,7 +3130,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3125": {
         "areaID": 3125,
         "weatherAreaId": 3025,
         "maxHeightStr": "",
@@ -3142,7 +3142,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3026": {
         "areaID": 3026,
         "weatherAreaId": 3026,
         "maxHeightStr": "228",
@@ -3154,7 +3154,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3126": {
         "areaID": 3126,
         "weatherAreaId": 3026,
         "maxHeightStr": "",
@@ -3166,7 +3166,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3091": {
         "areaID": 3091,
         "weatherAreaId": 3091,
         "maxHeightStr": "228",
@@ -3177,7 +3177,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3191": {
         "areaID": 3191,
         "weatherAreaId": 3091,
         "maxHeightStr": "",
@@ -3188,7 +3188,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3027": {
         "areaID": 3027,
         "weatherAreaId": 3027,
         "maxHeightStr": "220",
@@ -3200,7 +3200,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3127": {
         "areaID": 3127,
         "weatherAreaId": 3027,
         "maxHeightStr": "",
@@ -3212,7 +3212,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3028": {
         "areaID": 3028,
         "weatherAreaId": 3028,
         "maxHeightStr": "161",
@@ -3224,7 +3224,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3128": {
         "areaID": 3128,
         "weatherAreaId": 3028,
         "maxHeightStr": "195",
@@ -3236,7 +3236,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3228": {
         "areaID": 3228,
         "weatherAreaId": 3028,
         "maxHeightStr": "",
@@ -3248,7 +3248,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3029": {
         "areaID": 3029,
         "weatherAreaId": 3029,
         "maxHeightStr": "233",
@@ -3260,7 +3260,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3129": {
         "areaID": 3129,
         "weatherAreaId": 3029,
         "maxHeightStr": "",
@@ -3272,7 +3272,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3030": {
         "areaID": 3030,
         "weatherAreaId": 3030,
         "maxHeightStr": "253",
@@ -3284,7 +3284,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3130": {
         "areaID": 3130,
         "weatherAreaId": 3030,
         "maxHeightStr": "",
@@ -3296,7 +3296,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3031": {
         "areaID": 3031,
         "weatherAreaId": 3031,
         "maxHeightStr": "253",
@@ -3308,7 +3308,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3131": {
         "areaID": 3131,
         "weatherAreaId": 3031,
         "maxHeightStr": "355",
@@ -3320,7 +3320,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3231": {
         "areaID": 3231,
         "weatherAreaId": 3031,
         "maxHeightStr": "",
@@ -3332,7 +3332,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3046": {
         "areaID": 3046,
         "weatherAreaId": 3046,
         "maxHeightStr": "253",
@@ -3343,7 +3343,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3146": {
         "areaID": 3146,
         "weatherAreaId": 3046,
         "maxHeightStr": "355",
@@ -3354,7 +3354,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3246": {
         "areaID": 3246,
         "weatherAreaId": 3046,
         "maxHeightStr": "",
@@ -3365,7 +3365,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3047": {
         "areaID": 3047,
         "weatherAreaId": 3047,
         "maxHeightStr": "252",
@@ -3377,7 +3377,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3147": {
         "areaID": 3147,
         "weatherAreaId": 3047,
         "maxHeightStr": "",
@@ -3389,7 +3389,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3048": {
         "areaID": 3048,
         "weatherAreaId": 3048,
         "maxHeightStr": "",
@@ -3401,7 +3401,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3049": {
         "areaID": 3049,
         "weatherAreaId": 3049,
         "maxHeightStr": "",
@@ -3413,7 +3413,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3050": {
         "areaID": 3050,
         "weatherAreaId": 3050,
         "maxHeightStr": "",
@@ -3425,7 +3425,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3051": {
         "areaID": 3051,
         "weatherAreaId": 3051,
         "maxHeightStr": "",
@@ -3437,7 +3437,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3090": {
         "areaID": 3090,
         "weatherAreaId": 3090,
         "maxHeightStr": "",
@@ -3448,7 +3448,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3032": {
         "areaID": 3032,
         "weatherAreaId": 3032,
         "maxHeightStr": "300",
@@ -3460,7 +3460,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3132": {
         "areaID": 3132,
         "weatherAreaId": 3032,
         "maxHeightStr": "",
@@ -3471,7 +3471,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3033": {
         "areaID": 3033,
         "weatherAreaId": 3033,
         "maxHeightStr": "224",
@@ -3483,7 +3483,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3133": {
         "areaID": 3133,
         "weatherAreaId": 3033,
         "maxHeightStr": "",
@@ -3494,7 +3494,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3034": {
         "areaID": 3034,
         "weatherAreaId": 3034,
         "maxHeightStr": "224",
@@ -3506,7 +3506,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3134": {
         "areaID": 3134,
         "weatherAreaId": 3034,
         "maxHeightStr": "",
@@ -3517,7 +3517,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3035": {
         "areaID": 3035,
         "weatherAreaId": 3035,
         "maxHeightStr": "234",
@@ -3529,7 +3529,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3135": {
         "areaID": 3135,
         "weatherAreaId": 3035,
         "maxHeightStr": "",
@@ -3540,7 +3540,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3136": {
         "areaID": 3136,
         "weatherAreaId": 3136,
         "maxHeightStr": "",
@@ -3552,7 +3552,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3139": {
         "areaID": 3139,
         "weatherAreaId": 3139,
         "maxHeightStr": "",
@@ -3564,7 +3564,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3140": {
         "areaID": 3140,
         "weatherAreaId": 3140,
         "maxHeightStr": "225",
@@ -3576,7 +3576,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3240": {
         "areaID": 3240,
         "weatherAreaId": 3140,
         "maxHeightStr": "305",
@@ -3588,7 +3588,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3340": {
         "areaID": 3340,
         "weatherAreaId": 3140,
         "maxHeightStr": "",
@@ -3600,7 +3600,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3141": {
         "areaID": 3141,
         "weatherAreaId": 3141,
         "maxHeightStr": "225",
@@ -3612,7 +3612,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3241": {
         "areaID": 3241,
         "weatherAreaId": 3141,
         "maxHeightStr": "305",
@@ -3624,7 +3624,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3341": {
         "areaID": 3341,
         "weatherAreaId": 3141,
         "maxHeightStr": "",
@@ -3636,7 +3636,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3142": {
         "areaID": 3142,
         "weatherAreaId": 3142,
         "maxHeightStr": "",
@@ -3647,7 +3647,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3143": {
         "areaID": 3143,
         "weatherAreaId": 3143,
         "maxHeightStr": "",
@@ -3658,7 +3658,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3144": {
         "areaID": 3144,
         "weatherAreaId": 3144,
         "maxHeightStr": "",
@@ -3669,7 +3669,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3036": {
         "areaID": 3036,
         "weatherAreaId": 3036,
         "maxHeightStr": "",
@@ -3681,7 +3681,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3037": {
         "areaID": 3037,
         "weatherAreaId": 3037,
         "maxHeightStr": "",
@@ -3691,7 +3691,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3038": {
         "areaID": 3038,
         "weatherAreaId": 3038,
         "maxHeightStr": "",
@@ -3702,7 +3702,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3045": {
         "areaID": 3045,
         "weatherAreaId": 3045,
         "maxHeightStr": "194",
@@ -3714,7 +3714,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3145": {
         "areaID": 3145,
         "weatherAreaId": 3045,
         "maxHeightStr": "",
@@ -3726,7 +3726,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3055": {
         "areaID": 3055,
         "weatherAreaId": 3055,
         "maxHeightStr": "",
@@ -3737,7 +3737,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3056": {
         "areaID": 3056,
         "weatherAreaId": 3056,
         "maxHeightStr": "235",
@@ -3749,7 +3749,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3156": {
         "areaID": 3156,
         "weatherAreaId": 3056,
         "maxHeightStr": "",
@@ -3761,7 +3761,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3057": {
         "areaID": 3057,
         "weatherAreaId": 3057,
         "maxHeightStr": "235",
@@ -3773,7 +3773,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3157": {
         "areaID": 3157,
         "weatherAreaId": 3057,
         "maxHeightStr": "",
@@ -3785,7 +3785,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3058": {
         "areaID": 3058,
         "weatherAreaId": 3058,
         "maxHeightStr": "",
@@ -3796,7 +3796,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3059": {
         "areaID": 3059,
         "weatherAreaId": 3059,
         "maxHeightStr": "",
@@ -3806,7 +3806,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3060": {
         "areaID": 3060,
         "weatherAreaId": 3060,
         "maxHeightStr": "",
@@ -3816,7 +3816,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3061": {
         "areaID": 3061,
         "weatherAreaId": 3061,
         "maxHeightStr": "",
@@ -3826,7 +3826,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3062": {
         "areaID": 3062,
         "weatherAreaId": 3062,
         "maxHeightStr": "",
@@ -3836,7 +3836,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3063": {
         "areaID": 3063,
         "weatherAreaId": 3063,
         "maxHeightStr": "180",
@@ -3846,7 +3846,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3163": {
         "areaID": 3163,
         "weatherAreaId": 3063,
         "maxHeightStr": "",
@@ -3856,7 +3856,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3064": {
         "areaID": 3064,
         "weatherAreaId": 3064,
         "maxHeightStr": "180",
@@ -3866,7 +3866,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3164": {
         "areaID": 3164,
         "weatherAreaId": 3064,
         "maxHeightStr": "440",
@@ -3876,7 +3876,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3264": {
         "areaID": 3264,
         "weatherAreaId": 3064,
         "maxHeightStr": "",
@@ -3886,7 +3886,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3065": {
         "areaID": 3065,
         "weatherAreaId": 3065,
         "maxHeightStr": "195",
@@ -3896,7 +3896,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3165": {
         "areaID": 3165,
         "weatherAreaId": 3065,
         "maxHeightStr": "",
@@ -3906,7 +3906,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3119": {
         "areaID": 3119,
         "weatherAreaId": 3119,
         "maxHeightStr": "195",
@@ -3917,7 +3917,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3219": {
         "areaID": 3219,
         "weatherAreaId": 3119,
         "maxHeightStr": "",
@@ -3928,7 +3928,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3066": {
         "areaID": 3066,
         "weatherAreaId": 3066,
         "maxHeightStr": "205",
@@ -3938,7 +3938,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3166": {
         "areaID": 3166,
         "weatherAreaId": 3066,
         "maxHeightStr": "",
@@ -3948,7 +3948,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3118": {
         "areaID": 3118,
         "weatherAreaId": 3118,
         "maxHeightStr": "205",
@@ -3959,7 +3959,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3218": {
         "areaID": 3218,
         "weatherAreaId": 3118,
         "maxHeightStr": "",
@@ -3970,7 +3970,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3093": {
         "areaID": 3093,
         "weatherAreaId": 3093,
         "maxHeightStr": "190",
@@ -3980,7 +3980,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3193": {
         "areaID": 3193,
         "weatherAreaId": 3093,
         "maxHeightStr": "",
@@ -3990,7 +3990,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3120": {
         "areaID": 3120,
         "weatherAreaId": 3120,
         "maxHeightStr": "190",
@@ -4001,7 +4001,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3220": {
         "areaID": 3220,
         "weatherAreaId": 3120,
         "maxHeightStr": "",
@@ -4012,7 +4012,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3094": {
         "areaID": 3094,
         "weatherAreaId": 3094,
         "maxHeightStr": "195",
@@ -4022,7 +4022,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3194": {
         "areaID": 3194,
         "weatherAreaId": 3094,
         "maxHeightStr": "",
@@ -4032,7 +4032,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3121": {
         "areaID": 3121,
         "weatherAreaId": 3121,
         "maxHeightStr": "195",
@@ -4043,7 +4043,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3221": {
         "areaID": 3221,
         "weatherAreaId": 3121,
         "maxHeightStr": "",
@@ -4054,7 +4054,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3067": {
         "areaID": 3067,
         "weatherAreaId": 3067,
         "maxHeightStr": "",
@@ -4065,7 +4065,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3068": {
         "areaID": 3068,
         "weatherAreaId": 3068,
         "maxHeightStr": "",
@@ -4076,7 +4076,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3069": {
         "areaID": 3069,
         "weatherAreaId": 3069,
         "maxHeightStr": "185",
@@ -4087,7 +4087,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3169": {
         "areaID": 3169,
         "weatherAreaId": 3069,
         "maxHeightStr": "",
@@ -4098,7 +4098,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3070": {
         "areaID": 3070,
         "weatherAreaId": 3070,
         "maxHeightStr": "190",
@@ -4110,7 +4110,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3170": {
         "areaID": 3170,
         "weatherAreaId": 3070,
         "maxHeightStr": "",
@@ -4121,7 +4121,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3071": {
         "areaID": 3071,
         "weatherAreaId": 3071,
         "maxHeightStr": "182",
@@ -4133,7 +4133,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3171": {
         "areaID": 3171,
         "weatherAreaId": 3071,
         "maxHeightStr": "",
@@ -4144,7 +4144,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3072": {
         "areaID": 3072,
         "weatherAreaId": 3072,
         "maxHeightStr": "209",
@@ -4156,7 +4156,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3172": {
         "areaID": 3172,
         "weatherAreaId": 3072,
         "maxHeightStr": "",
@@ -4167,7 +4167,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3073": {
         "areaID": 3073,
         "weatherAreaId": 3073,
         "maxHeightStr": "190",
@@ -4179,7 +4179,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3173": {
         "areaID": 3173,
         "weatherAreaId": 3073,
         "maxHeightStr": "",
@@ -4190,7 +4190,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3074": {
         "areaID": 3074,
         "weatherAreaId": 3074,
         "maxHeightStr": "200",
@@ -4202,7 +4202,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3174": {
         "areaID": 3174,
         "weatherAreaId": 3074,
         "maxHeightStr": "",
@@ -4213,7 +4213,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3075": {
         "areaID": 3075,
         "weatherAreaId": 3075,
         "maxHeightStr": "178",
@@ -4225,7 +4225,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3175": {
         "areaID": 3175,
         "weatherAreaId": 3075,
         "maxHeightStr": "",
@@ -4236,7 +4236,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3076": {
         "areaID": 3076,
         "weatherAreaId": 3076,
         "maxHeightStr": "",
@@ -4247,7 +4247,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3077": {
         "areaID": 3077,
         "weatherAreaId": 3077,
         "maxHeightStr": "",
@@ -4258,7 +4258,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3078": {
         "areaID": 3078,
         "weatherAreaId": 3078,
         "maxHeightStr": "",
@@ -4269,7 +4269,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3079": {
         "areaID": 3079,
         "weatherAreaId": 3079,
         "maxHeightStr": "248",
@@ -4280,7 +4280,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3179": {
         "areaID": 3179,
         "weatherAreaId": 3079,
         "maxHeightStr": "",
@@ -4291,7 +4291,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3080": {
         "areaID": 3080,
         "weatherAreaId": 3080,
         "maxHeightStr": "",
@@ -4301,7 +4301,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3081": {
         "areaID": 3081,
         "weatherAreaId": 3081,
         "maxHeightStr": "270",
@@ -4312,7 +4312,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3181": {
         "areaID": 3181,
         "weatherAreaId": 3081,
         "maxHeightStr": "",
@@ -4323,7 +4323,7 @@
         "defaultClimate": "CLIMATE_RAIN",
         "sceneID": 3
     },
-    {
+    "3082": {
         "areaID": 3082,
         "weatherAreaId": 3082,
         "maxHeightStr": "",
@@ -4334,7 +4334,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3083": {
         "areaID": 3083,
         "weatherAreaId": 3083,
         "maxHeightStr": "234",
@@ -4346,7 +4346,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3183": {
         "areaID": 3183,
         "weatherAreaId": 3083,
         "maxHeightStr": "",
@@ -4358,7 +4358,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3084": {
         "areaID": 3084,
         "weatherAreaId": 3084,
         "maxHeightStr": "",
@@ -4369,7 +4369,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3085": {
         "areaID": 3085,
         "weatherAreaId": 3085,
         "maxHeightStr": "",
@@ -4380,7 +4380,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3086": {
         "areaID": 3086,
         "weatherAreaId": 3086,
         "maxHeightStr": "180",
@@ -4390,7 +4390,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3186": {
         "areaID": 3186,
         "weatherAreaId": 3086,
         "maxHeightStr": "440",
@@ -4400,7 +4400,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3286": {
         "areaID": 3286,
         "weatherAreaId": 3086,
         "maxHeightStr": "",
@@ -4410,7 +4410,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3087": {
         "areaID": 3087,
         "weatherAreaId": 3087,
         "maxHeightStr": "",
@@ -4420,7 +4420,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3088": {
         "areaID": 3088,
         "weatherAreaId": 3088,
         "maxHeightStr": "223",
@@ -4430,7 +4430,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3188": {
         "areaID": 3188,
         "weatherAreaId": 3088,
         "maxHeightStr": "",
@@ -4440,7 +4440,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3089": {
         "areaID": 3089,
         "weatherAreaId": 3089,
         "maxHeightStr": "235",
@@ -4450,7 +4450,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3189": {
         "areaID": 3189,
         "weatherAreaId": 3089,
         "maxHeightStr": "",
@@ -4460,7 +4460,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3137": {
         "areaID": 3137,
         "weatherAreaId": 3137,
         "maxHeightStr": "",
@@ -4471,7 +4471,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3138": {
         "areaID": 3138,
         "weatherAreaId": 3138,
         "maxHeightStr": "",
@@ -4482,7 +4482,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3150": {
         "areaID": 3150,
         "weatherAreaId": 3150,
         "maxHeightStr": "",
@@ -4494,7 +4494,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3151": {
         "areaID": 3151,
         "weatherAreaId": 3151,
         "maxHeightStr": "",
@@ -4505,7 +4505,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3092": {
         "areaID": 3092,
         "weatherAreaId": 3092,
         "maxHeightStr": "",
@@ -4516,7 +4516,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3095": {
         "areaID": 3095,
         "weatherAreaId": 3095,
         "maxHeightStr": "",
@@ -4526,7 +4526,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3096": {
         "areaID": 3096,
         "weatherAreaId": 3096,
         "maxHeightStr": "210",
@@ -4537,7 +4537,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3196": {
         "areaID": 3196,
         "weatherAreaId": 3096,
         "maxHeightStr": "",
@@ -4547,7 +4547,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3117": {
         "areaID": 3117,
         "weatherAreaId": 3117,
         "maxHeightStr": "210",
@@ -4559,7 +4559,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "3217": {
         "areaID": 3217,
         "weatherAreaId": 3117,
         "maxHeightStr": "",
@@ -4570,7 +4570,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3097": {
         "areaID": 3097,
         "weatherAreaId": 3097,
         "maxHeightStr": "",
@@ -4581,7 +4581,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3098": {
         "areaID": 3098,
         "weatherAreaId": 3098,
         "maxHeightStr": "",
@@ -4591,7 +4591,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3099": {
         "areaID": 3099,
         "weatherAreaId": 3099,
         "maxHeightStr": "",
@@ -4601,7 +4601,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3100": {
         "areaID": 3100,
         "weatherAreaId": 3100,
         "maxHeightStr": "",
@@ -4611,7 +4611,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3101": {
         "areaID": 3101,
         "weatherAreaId": 3101,
         "maxHeightStr": "180",
@@ -4622,7 +4622,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3201": {
         "areaID": 3201,
         "weatherAreaId": 3101,
         "maxHeightStr": "440",
@@ -4633,7 +4633,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3301": {
         "areaID": 3301,
         "weatherAreaId": 3101,
         "maxHeightStr": "",
@@ -4644,7 +4644,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3102": {
         "areaID": 3102,
         "weatherAreaId": 3102,
         "maxHeightStr": "",
@@ -4655,7 +4655,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3103": {
         "areaID": 3103,
         "weatherAreaId": 3103,
         "maxHeightStr": "",
@@ -4666,7 +4666,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3104": {
         "areaID": 3104,
         "weatherAreaId": 3104,
         "maxHeightStr": "",
@@ -4676,7 +4676,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3106": {
         "areaID": 3106,
         "weatherAreaId": 3106,
         "maxHeightStr": "",
@@ -4686,7 +4686,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3107": {
         "areaID": 3107,
         "weatherAreaId": 3107,
         "maxHeightStr": "280",
@@ -4696,7 +4696,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3207": {
         "areaID": 3207,
         "weatherAreaId": 3107,
         "maxHeightStr": "",
@@ -4706,7 +4706,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3108": {
         "areaID": 3108,
         "weatherAreaId": 3108,
         "maxHeightStr": "",
@@ -4716,7 +4716,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3109": {
         "areaID": 3109,
         "weatherAreaId": 3109,
         "maxHeightStr": "",
@@ -4727,7 +4727,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3110": {
         "areaID": 3110,
         "weatherAreaId": 3110,
         "maxHeightStr": "",
@@ -4738,7 +4738,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3111": {
         "areaID": 3111,
         "weatherAreaId": 3111,
         "maxHeightStr": "",
@@ -4749,7 +4749,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3112": {
         "areaID": 3112,
         "weatherAreaId": 3112,
         "maxHeightStr": "",
@@ -4760,7 +4760,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3114": {
         "areaID": 3114,
         "weatherAreaId": 3114,
         "maxHeightStr": "",
@@ -4771,7 +4771,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3311": {
         "areaID": 3311,
         "weatherAreaId": 3311,
         "maxHeightStr": "195",
@@ -4782,7 +4782,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3411": {
         "areaID": 3411,
         "weatherAreaId": 3311,
         "maxHeightStr": "",
@@ -4793,7 +4793,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3312": {
         "areaID": 3312,
         "weatherAreaId": 3312,
         "maxHeightStr": "195",
@@ -4803,7 +4803,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3412": {
         "areaID": 3412,
         "weatherAreaId": 3312,
         "maxHeightStr": "",
@@ -4813,7 +4813,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3313": {
         "areaID": 3313,
         "weatherAreaId": 3313,
         "maxHeightStr": "195",
@@ -4823,7 +4823,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3413": {
         "areaID": 3413,
         "weatherAreaId": 3313,
         "maxHeightStr": "",
@@ -4833,7 +4833,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3314": {
         "areaID": 3314,
         "weatherAreaId": 3314,
         "maxHeightStr": "195",
@@ -4844,7 +4844,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3414": {
         "areaID": 3414,
         "weatherAreaId": 3314,
         "maxHeightStr": "",
@@ -4855,7 +4855,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3315": {
         "areaID": 3315,
         "weatherAreaId": 3315,
         "maxHeightStr": "",
@@ -4865,7 +4865,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3316": {
         "areaID": 3316,
         "weatherAreaId": 3316,
         "maxHeightStr": "",
@@ -4875,7 +4875,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3317": {
         "areaID": 3317,
         "weatherAreaId": 3317,
         "maxHeightStr": "",
@@ -4885,7 +4885,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3318": {
         "areaID": 3318,
         "weatherAreaId": 3318,
         "maxHeightStr": "",
@@ -4895,7 +4895,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3319": {
         "areaID": 3319,
         "weatherAreaId": 3319,
         "maxHeightStr": "195",
@@ -4905,7 +4905,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3419": {
         "areaID": 3419,
         "weatherAreaId": 3319,
         "maxHeightStr": "",
@@ -4915,7 +4915,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3320": {
         "areaID": 3320,
         "weatherAreaId": 3320,
         "maxHeightStr": "275",
@@ -4926,7 +4926,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3420": {
         "areaID": 3420,
         "weatherAreaId": 3320,
         "maxHeightStr": "",
@@ -4937,7 +4937,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3321": {
         "areaID": 3321,
         "weatherAreaId": 3321,
         "maxHeightStr": "",
@@ -4947,7 +4947,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3322": {
         "areaID": 3322,
         "weatherAreaId": 3322,
         "maxHeightStr": "250",
@@ -4957,7 +4957,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3422": {
         "areaID": 3422,
         "weatherAreaId": 3322,
         "maxHeightStr": "",
@@ -4967,7 +4967,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3323": {
         "areaID": 3323,
         "weatherAreaId": 3323,
         "maxHeightStr": "210",
@@ -4978,7 +4978,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3423": {
         "areaID": 3423,
         "weatherAreaId": 3323,
         "maxHeightStr": "",
@@ -4989,7 +4989,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3324": {
         "areaID": 3324,
         "weatherAreaId": 3324,
         "maxHeightStr": "280",
@@ -5000,7 +5000,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3424": {
         "areaID": 3424,
         "weatherAreaId": 3324,
         "maxHeightStr": "",
@@ -5011,7 +5011,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3325": {
         "areaID": 3325,
         "weatherAreaId": 3325,
         "maxHeightStr": "250",
@@ -5022,7 +5022,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3425": {
         "areaID": 3425,
         "weatherAreaId": 3325,
         "maxHeightStr": "",
@@ -5033,7 +5033,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3326": {
         "areaID": 3326,
         "weatherAreaId": 3326,
         "maxHeightStr": "280",
@@ -5043,7 +5043,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3426": {
         "areaID": 3426,
         "weatherAreaId": 3326,
         "maxHeightStr": "",
@@ -5053,7 +5053,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3327": {
         "areaID": 3327,
         "weatherAreaId": 3327,
         "maxHeightStr": "250",
@@ -5063,7 +5063,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3427": {
         "areaID": 3427,
         "weatherAreaId": 3327,
         "maxHeightStr": "",
@@ -5073,7 +5073,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3328": {
         "areaID": 3328,
         "weatherAreaId": 3328,
         "maxHeightStr": "",
@@ -5083,7 +5083,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3329": {
         "areaID": 3329,
         "weatherAreaId": 3329,
         "maxHeightStr": "",
@@ -5093,7 +5093,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3330": {
         "areaID": 3330,
         "weatherAreaId": 3330,
         "maxHeightStr": "280",
@@ -5103,7 +5103,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3430": {
         "areaID": 3430,
         "weatherAreaId": 3330,
         "maxHeightStr": "",
@@ -5113,7 +5113,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3331": {
         "areaID": 3331,
         "weatherAreaId": 3331,
         "maxHeightStr": "250",
@@ -5123,7 +5123,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 3
     },
-    {
+    "3431": {
         "areaID": 3431,
         "weatherAreaId": 3331,
         "maxHeightStr": "",
@@ -5133,7 +5133,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3332": {
         "areaID": 3332,
         "weatherAreaId": 3332,
         "maxHeightStr": "",
@@ -5144,7 +5144,7 @@
         "defaultClimate": "CLIMATE_MIST",
         "sceneID": 3
     },
-    {
+    "3333": {
         "areaID": 3333,
         "weatherAreaId": 3333,
         "maxHeightStr": "300",
@@ -5155,7 +5155,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3433": {
         "areaID": 3433,
         "weatherAreaId": 3333,
         "maxHeightStr": "",
@@ -5166,7 +5166,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3334": {
         "areaID": 3334,
         "weatherAreaId": 3334,
         "maxHeightStr": "",
@@ -5177,7 +5177,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3335": {
         "areaID": 3335,
         "weatherAreaId": 3335,
         "maxHeightStr": "",
@@ -5188,7 +5188,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3336": {
         "areaID": 3336,
         "weatherAreaId": 3336,
         "maxHeightStr": "160",
@@ -5199,7 +5199,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3436": {
         "areaID": 3436,
         "weatherAreaId": 3336,
         "maxHeightStr": "",
@@ -5210,7 +5210,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3337": {
         "areaID": 3337,
         "weatherAreaId": 3337,
         "maxHeightStr": "",
@@ -5221,7 +5221,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3338": {
         "areaID": 3338,
         "weatherAreaId": 3338,
         "maxHeightStr": "235",
@@ -5232,7 +5232,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3438": {
         "areaID": 3438,
         "weatherAreaId": 3338,
         "maxHeightStr": "",
@@ -5243,7 +5243,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3339": {
         "areaID": 3339,
         "weatherAreaId": 3339,
         "maxHeightStr": "",
@@ -5254,7 +5254,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3342": {
         "areaID": 3342,
         "weatherAreaId": 3342,
         "maxHeightStr": "",
@@ -5265,7 +5265,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3343": {
         "areaID": 3343,
         "weatherAreaId": 3343,
         "maxHeightStr": "",
@@ -5276,7 +5276,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3344": {
         "areaID": 3344,
         "weatherAreaId": 3344,
         "maxHeightStr": "",
@@ -5287,7 +5287,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3345": {
         "areaID": 3345,
         "weatherAreaId": 3345,
         "maxHeightStr": "290",
@@ -5298,7 +5298,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3445": {
         "areaID": 3445,
         "weatherAreaId": 3345,
         "maxHeightStr": "",
@@ -5309,7 +5309,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3347": {
         "areaID": 3347,
         "weatherAreaId": 3347,
         "maxHeightStr": "",
@@ -5320,7 +5320,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3348": {
         "areaID": 3348,
         "weatherAreaId": 3348,
         "maxHeightStr": "",
@@ -5331,7 +5331,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3351": {
         "areaID": 3351,
         "weatherAreaId": 3351,
         "maxHeightStr": "",
@@ -5342,7 +5342,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3354": {
         "areaID": 3354,
         "weatherAreaId": 3354,
         "maxHeightStr": "",
@@ -5353,7 +5353,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3363": {
         "areaID": 3363,
         "weatherAreaId": 3363,
         "maxHeightStr": "",
@@ -5364,7 +5364,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3364": {
         "areaID": 3364,
         "weatherAreaId": 3364,
         "maxHeightStr": "",
@@ -5375,7 +5375,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3365": {
         "areaID": 3365,
         "weatherAreaId": 3365,
         "maxHeightStr": "",
@@ -5386,7 +5386,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3368": {
         "areaID": 3368,
         "weatherAreaId": 3368,
         "maxHeightStr": "",
@@ -5396,7 +5396,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3369": {
         "areaID": 3369,
         "weatherAreaId": 3369,
         "maxHeightStr": "",
@@ -5406,7 +5406,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3370": {
         "areaID": 3370,
         "weatherAreaId": 3370,
         "maxHeightStr": "",
@@ -5416,7 +5416,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3371": {
         "areaID": 3371,
         "weatherAreaId": 3371,
         "maxHeightStr": "",
@@ -5426,7 +5426,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3372": {
         "areaID": 3372,
         "weatherAreaId": 3372,
         "maxHeightStr": "",
@@ -5436,7 +5436,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3373": {
         "areaID": 3373,
         "weatherAreaId": 3373,
         "maxHeightStr": "",
@@ -5446,7 +5446,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3374": {
         "areaID": 3374,
         "weatherAreaId": 3374,
         "maxHeightStr": "235",
@@ -5457,7 +5457,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3474": {
         "areaID": 3474,
         "weatherAreaId": 3374,
         "maxHeightStr": "",
@@ -5468,7 +5468,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3375": {
         "areaID": 3375,
         "weatherAreaId": 3375,
         "maxHeightStr": "235",
@@ -5478,7 +5478,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3475": {
         "areaID": 3475,
         "weatherAreaId": 3375,
         "maxHeightStr": "",
@@ -5488,7 +5488,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 7
     },
-    {
+    "3500": {
         "areaID": 3500,
         "weatherAreaId": 3500,
         "maxHeightStr": "",
@@ -5498,7 +5498,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "3355": {
         "areaID": 3355,
         "weatherAreaId": 3355,
         "maxHeightStr": "",
@@ -5509,7 +5509,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3356": {
         "areaID": 3356,
         "weatherAreaId": 3356,
         "maxHeightStr": "",
@@ -5520,7 +5520,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3357": {
         "areaID": 3357,
         "weatherAreaId": 3357,
         "maxHeightStr": "",
@@ -5531,7 +5531,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3358": {
         "areaID": 3358,
         "weatherAreaId": 3358,
         "maxHeightStr": "290",
@@ -5542,7 +5542,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3458": {
         "areaID": 3458,
         "weatherAreaId": 3358,
         "maxHeightStr": "",
@@ -5553,7 +5553,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3359": {
         "areaID": 3359,
         "weatherAreaId": 3359,
         "maxHeightStr": "",
@@ -5564,7 +5564,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3360": {
         "areaID": 3360,
         "weatherAreaId": 3360,
         "maxHeightStr": "",
@@ -5575,7 +5575,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3361": {
         "areaID": 3361,
         "weatherAreaId": 3361,
         "maxHeightStr": "245",
@@ -5586,7 +5586,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3461": {
         "areaID": 3461,
         "weatherAreaId": 3361,
         "maxHeightStr": "",
@@ -5597,7 +5597,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "3362": {
         "areaID": 3362,
         "weatherAreaId": 3362,
         "maxHeightStr": "",
@@ -5608,7 +5608,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 5
     },
-    {
+    "2165": {
         "areaID": 2165,
         "weatherAreaId": 2165,
         "maxHeightStr": "",
@@ -5620,7 +5620,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2166": {
         "areaID": 2166,
         "weatherAreaId": 2166,
         "maxHeightStr": "",
@@ -5632,7 +5632,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2167": {
         "areaID": 2167,
         "weatherAreaId": 2167,
         "maxHeightStr": "",
@@ -5644,7 +5644,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2168": {
         "areaID": 2168,
         "weatherAreaId": 2168,
         "maxHeightStr": "",
@@ -5656,7 +5656,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2169": {
         "areaID": 2169,
         "weatherAreaId": 2169,
         "maxHeightStr": "",
@@ -5668,7 +5668,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2170": {
         "areaID": 2170,
         "weatherAreaId": 2170,
         "maxHeightStr": "",
@@ -5680,7 +5680,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2171": {
         "areaID": 2171,
         "weatherAreaId": 2171,
         "maxHeightStr": "",
@@ -5692,7 +5692,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2172": {
         "areaID": 2172,
         "weatherAreaId": 2172,
         "maxHeightStr": "",
@@ -5704,7 +5704,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2173": {
         "areaID": 2173,
         "weatherAreaId": 2173,
         "maxHeightStr": "",
@@ -5716,7 +5716,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2174": {
         "areaID": 2174,
         "weatherAreaId": 2174,
         "maxHeightStr": "",
@@ -5728,7 +5728,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2275": {
         "areaID": 2275,
         "weatherAreaId": 2175,
         "maxHeightStr": "",
@@ -5740,7 +5740,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2175": {
         "areaID": 2175,
         "weatherAreaId": 2175,
         "maxHeightStr": "550",
@@ -5752,7 +5752,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2176": {
         "areaID": 2176,
         "weatherAreaId": 2176,
         "maxHeightStr": "130",
@@ -5764,7 +5764,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2276": {
         "areaID": 2276,
         "weatherAreaId": 2176,
         "maxHeightStr": "",
@@ -5776,7 +5776,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2277": {
         "areaID": 2277,
         "weatherAreaId": 2177,
         "maxHeightStr": "",
@@ -5786,7 +5786,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 6
     },
-    {
+    "2177": {
         "areaID": 2177,
         "weatherAreaId": 2177,
         "maxHeightStr": "550",
@@ -5796,7 +5796,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 6
     },
-    {
+    "2178": {
         "areaID": 2178,
         "weatherAreaId": 2178,
         "maxHeightStr": "",
@@ -5808,7 +5808,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2179": {
         "areaID": 2179,
         "weatherAreaId": 2179,
         "maxHeightStr": "",
@@ -5820,7 +5820,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2180": {
         "areaID": 2180,
         "weatherAreaId": 2180,
         "maxHeightStr": "",
@@ -5832,7 +5832,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2181": {
         "areaID": 2181,
         "weatherAreaId": 2181,
         "maxHeightStr": "",
@@ -5844,7 +5844,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2182": {
         "areaID": 2182,
         "weatherAreaId": 2182,
         "maxHeightStr": "",
@@ -5856,7 +5856,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2183": {
         "areaID": 2183,
         "weatherAreaId": 2183,
         "maxHeightStr": "",
@@ -5866,7 +5866,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 6
     },
-    {
+    "2284": {
         "areaID": 2284,
         "weatherAreaId": 2184,
         "maxHeightStr": "",
@@ -5878,7 +5878,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2184": {
         "areaID": 2184,
         "weatherAreaId": 2184,
         "maxHeightStr": "1015",
@@ -5890,7 +5890,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2285": {
         "areaID": 2285,
         "weatherAreaId": 2185,
         "maxHeightStr": "",
@@ -5902,7 +5902,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2185": {
         "areaID": 2185,
         "weatherAreaId": 2185,
         "maxHeightStr": "305",
@@ -5914,7 +5914,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2286": {
         "areaID": 2286,
         "weatherAreaId": 2186,
         "maxHeightStr": "",
@@ -5926,7 +5926,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2186": {
         "areaID": 2186,
         "weatherAreaId": 2186,
         "maxHeightStr": "280",
@@ -5938,7 +5938,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2187": {
         "areaID": 2187,
         "weatherAreaId": 2187,
         "maxHeightStr": "",
@@ -5950,7 +5950,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2188": {
         "areaID": 2188,
         "weatherAreaId": 2188,
         "maxHeightStr": "",
@@ -5962,7 +5962,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2289": {
         "areaID": 2289,
         "weatherAreaId": 2189,
         "maxHeightStr": "",
@@ -5974,7 +5974,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2189": {
         "areaID": 2189,
         "weatherAreaId": 2189,
         "maxHeightStr": "280",
@@ -5986,7 +5986,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2290": {
         "areaID": 2290,
         "weatherAreaId": 2190,
         "maxHeightStr": "",
@@ -5998,7 +5998,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2190": {
         "areaID": 2190,
         "weatherAreaId": 2190,
         "maxHeightStr": "510",
@@ -6010,7 +6010,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2191": {
         "areaID": 2191,
         "weatherAreaId": 2191,
         "maxHeightStr": "",
@@ -6022,7 +6022,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2192": {
         "areaID": 2192,
         "weatherAreaId": 2192,
         "maxHeightStr": "",
@@ -6034,7 +6034,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2193": {
         "areaID": 2193,
         "weatherAreaId": 2193,
         "maxHeightStr": "",
@@ -6046,7 +6046,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2194": {
         "areaID": 2194,
         "weatherAreaId": 2194,
         "maxHeightStr": "",
@@ -6058,7 +6058,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2195": {
         "areaID": 2195,
         "weatherAreaId": 2195,
         "maxHeightStr": "",
@@ -6069,7 +6069,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "2196": {
         "areaID": 2196,
         "weatherAreaId": 2196,
         "maxHeightStr": "",
@@ -6081,7 +6081,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2197": {
         "areaID": 2197,
         "weatherAreaId": 2197,
         "maxHeightStr": "",
@@ -6093,7 +6093,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2198": {
         "areaID": 2198,
         "weatherAreaId": 2198,
         "maxHeightStr": "",
@@ -6105,7 +6105,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "2199": {
         "areaID": 2199,
         "weatherAreaId": 2199,
         "maxHeightStr": "",
@@ -6117,7 +6117,7 @@
         "isUseDefault": true,
         "sceneID": 6
     },
-    {
+    "4000": {
         "areaID": 4000,
         "weatherAreaId": 4000,
         "maxHeightStr": "",
@@ -6129,7 +6129,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4001": {
         "areaID": 4001,
         "weatherAreaId": 4001,
         "maxHeightStr": "",
@@ -6139,7 +6139,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4002": {
         "areaID": 4002,
         "weatherAreaId": 4002,
         "maxHeightStr": "",
@@ -6149,7 +6149,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4003": {
         "areaID": 4003,
         "weatherAreaId": 4003,
         "maxHeightStr": "",
@@ -6160,7 +6160,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4004": {
         "areaID": 4004,
         "weatherAreaId": 4004,
         "maxHeightStr": "",
@@ -6172,7 +6172,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4005": {
         "areaID": 4005,
         "weatherAreaId": 4005,
         "maxHeightStr": "",
@@ -6183,7 +6183,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4006": {
         "areaID": 4006,
         "weatherAreaId": 4006,
         "maxHeightStr": "",
@@ -6194,7 +6194,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4007": {
         "areaID": 4007,
         "weatherAreaId": 4007,
         "maxHeightStr": "",
@@ -6205,7 +6205,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4008": {
         "areaID": 4008,
         "weatherAreaId": 4008,
         "maxHeightStr": "",
@@ -6216,7 +6216,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4009": {
         "areaID": 4009,
         "weatherAreaId": 4009,
         "maxHeightStr": "",
@@ -6226,7 +6226,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4010": {
         "areaID": 4010,
         "weatherAreaId": 4010,
         "maxHeightStr": "",
@@ -6237,7 +6237,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4011": {
         "areaID": 4011,
         "weatherAreaId": 4011,
         "maxHeightStr": "",
@@ -6248,7 +6248,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4012": {
         "areaID": 4012,
         "weatherAreaId": 4012,
         "maxHeightStr": "",
@@ -6259,7 +6259,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4013": {
         "areaID": 4013,
         "weatherAreaId": 4013,
         "maxHeightStr": "",
@@ -6270,7 +6270,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4014": {
         "areaID": 4014,
         "weatherAreaId": 4014,
         "maxHeightStr": "",
@@ -6281,7 +6281,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4015": {
         "areaID": 4015,
         "weatherAreaId": 4015,
         "maxHeightStr": "",
@@ -6291,7 +6291,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4016": {
         "areaID": 4016,
         "weatherAreaId": 4016,
         "maxHeightStr": "",
@@ -6301,7 +6301,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4017": {
         "areaID": 4017,
         "weatherAreaId": 4017,
         "maxHeightStr": "",
@@ -6312,7 +6312,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4018": {
         "areaID": 4018,
         "weatherAreaId": 4018,
         "maxHeightStr": "",
@@ -6323,7 +6323,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4019": {
         "areaID": 4019,
         "weatherAreaId": 4019,
         "maxHeightStr": "",
@@ -6335,7 +6335,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4020": {
         "areaID": 4020,
         "weatherAreaId": 4020,
         "maxHeightStr": "",
@@ -6346,7 +6346,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4021": {
         "areaID": 4021,
         "weatherAreaId": 4021,
         "maxHeightStr": "",
@@ -6357,7 +6357,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4022": {
         "areaID": 4022,
         "weatherAreaId": 4022,
         "maxHeightStr": "",
@@ -6368,7 +6368,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4023": {
         "areaID": 4023,
         "weatherAreaId": 4023,
         "maxHeightStr": "",
@@ -6379,7 +6379,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4024": {
         "areaID": 4024,
         "weatherAreaId": 4024,
         "maxHeightStr": "",
@@ -6390,7 +6390,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4025": {
         "areaID": 4025,
         "weatherAreaId": 4025,
         "maxHeightStr": "",
@@ -6401,7 +6401,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4026": {
         "areaID": 4026,
         "weatherAreaId": 4026,
         "maxHeightStr": "",
@@ -6411,7 +6411,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4027": {
         "areaID": 4027,
         "weatherAreaId": 4027,
         "maxHeightStr": "",
@@ -6422,7 +6422,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4028": {
         "areaID": 4028,
         "weatherAreaId": 4028,
         "maxHeightStr": "",
@@ -6433,7 +6433,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4029": {
         "areaID": 4029,
         "weatherAreaId": 4029,
         "maxHeightStr": "",
@@ -6445,7 +6445,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4030": {
         "areaID": 4030,
         "weatherAreaId": 4030,
         "maxHeightStr": "",
@@ -6456,7 +6456,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4031": {
         "areaID": 4031,
         "weatherAreaId": 4031,
         "maxHeightStr": "",
@@ -6467,7 +6467,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4032": {
         "areaID": 4032,
         "weatherAreaId": 4032,
         "maxHeightStr": "",
@@ -6478,7 +6478,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4033": {
         "areaID": 4033,
         "weatherAreaId": 4033,
         "maxHeightStr": "",
@@ -6488,7 +6488,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4034": {
         "areaID": 4034,
         "weatherAreaId": 4034,
         "maxHeightStr": "",
@@ -6499,7 +6499,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4035": {
         "areaID": 4035,
         "weatherAreaId": 4035,
         "maxHeightStr": "",
@@ -6510,7 +6510,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4036": {
         "areaID": 4036,
         "weatherAreaId": 4036,
         "maxHeightStr": "",
@@ -6520,7 +6520,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4037": {
         "areaID": 4037,
         "weatherAreaId": 4037,
         "maxHeightStr": "",
@@ -6531,7 +6531,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4038": {
         "areaID": 4038,
         "weatherAreaId": 4038,
         "maxHeightStr": "",
@@ -6541,7 +6541,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4039": {
         "areaID": 4039,
         "weatherAreaId": 4039,
         "maxHeightStr": "",
@@ -6552,7 +6552,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4040": {
         "areaID": 4040,
         "weatherAreaId": 4040,
         "maxHeightStr": "",
@@ -6562,7 +6562,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4041": {
         "areaID": 4041,
         "weatherAreaId": 4041,
         "maxHeightStr": "",
@@ -6572,7 +6572,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4042": {
         "areaID": 4042,
         "weatherAreaId": 4042,
         "maxHeightStr": "",
@@ -6583,7 +6583,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4043": {
         "areaID": 4043,
         "weatherAreaId": 4043,
         "maxHeightStr": "",
@@ -6595,7 +6595,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4044": {
         "areaID": 4044,
         "weatherAreaId": 4044,
         "maxHeightStr": "",
@@ -6607,7 +6607,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4045": {
         "areaID": 4045,
         "weatherAreaId": 4045,
         "maxHeightStr": "",
@@ -6618,7 +6618,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4046": {
         "areaID": 4046,
         "weatherAreaId": 4046,
         "maxHeightStr": "",
@@ -6630,7 +6630,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4047": {
         "areaID": 4047,
         "weatherAreaId": 4047,
         "maxHeightStr": "",
@@ -6641,7 +6641,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4048": {
         "areaID": 4048,
         "weatherAreaId": 4048,
         "maxHeightStr": "",
@@ -6653,7 +6653,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4049": {
         "areaID": 4049,
         "weatherAreaId": 4049,
         "maxHeightStr": "",
@@ -6665,7 +6665,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4050": {
         "areaID": 4050,
         "weatherAreaId": 4050,
         "maxHeightStr": "",
@@ -6677,7 +6677,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4051": {
         "areaID": 4051,
         "weatherAreaId": 4051,
         "maxHeightStr": "",
@@ -6688,7 +6688,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4052": {
         "areaID": 4052,
         "weatherAreaId": 4052,
         "maxHeightStr": "",
@@ -6700,7 +6700,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4053": {
         "areaID": 4053,
         "weatherAreaId": 4053,
         "maxHeightStr": "",
@@ -6711,7 +6711,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4054": {
         "areaID": 4054,
         "weatherAreaId": 4054,
         "maxHeightStr": "",
@@ -6722,7 +6722,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4055": {
         "areaID": 4055,
         "weatherAreaId": 4055,
         "maxHeightStr": "",
@@ -6733,7 +6733,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4056": {
         "areaID": 4056,
         "weatherAreaId": 4056,
         "maxHeightStr": "",
@@ -6743,7 +6743,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4057": {
         "areaID": 4057,
         "weatherAreaId": 4057,
         "maxHeightStr": "",
@@ -6753,7 +6753,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4058": {
         "areaID": 4058,
         "weatherAreaId": 4058,
         "maxHeightStr": "",
@@ -6763,7 +6763,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4059": {
         "areaID": 4059,
         "weatherAreaId": 4059,
         "maxHeightStr": "",
@@ -6773,7 +6773,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4060": {
         "areaID": 4060,
         "weatherAreaId": 4060,
         "maxHeightStr": "",
@@ -6783,7 +6783,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4061": {
         "areaID": 4061,
         "weatherAreaId": 4061,
         "maxHeightStr": "",
@@ -6793,7 +6793,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4062": {
         "areaID": 4062,
         "weatherAreaId": 4062,
         "maxHeightStr": "",
@@ -6803,7 +6803,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4063": {
         "areaID": 4063,
         "weatherAreaId": 4063,
         "maxHeightStr": "",
@@ -6813,7 +6813,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4064": {
         "areaID": 4064,
         "weatherAreaId": 4064,
         "maxHeightStr": "",
@@ -6823,7 +6823,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4065": {
         "areaID": 4065,
         "weatherAreaId": 4065,
         "maxHeightStr": "",
@@ -6833,7 +6833,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4066": {
         "areaID": 4066,
         "weatherAreaId": 4066,
         "maxHeightStr": "",
@@ -6843,7 +6843,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4067": {
         "areaID": 4067,
         "weatherAreaId": 4067,
         "maxHeightStr": "",
@@ -6853,7 +6853,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4068": {
         "areaID": 4068,
         "weatherAreaId": 4068,
         "maxHeightStr": "",
@@ -6864,7 +6864,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4069": {
         "areaID": 4069,
         "weatherAreaId": 4069,
         "maxHeightStr": "",
@@ -6874,7 +6874,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4070": {
         "areaID": 4070,
         "weatherAreaId": 4070,
         "maxHeightStr": "",
@@ -6885,7 +6885,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4071": {
         "areaID": 4071,
         "weatherAreaId": 4071,
         "maxHeightStr": "",
@@ -6895,7 +6895,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4072": {
         "areaID": 4072,
         "weatherAreaId": 4072,
         "maxHeightStr": "",
@@ -6906,7 +6906,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4073": {
         "areaID": 4073,
         "weatherAreaId": 4073,
         "maxHeightStr": "",
@@ -6918,7 +6918,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4074": {
         "areaID": 4074,
         "weatherAreaId": 4074,
         "maxHeightStr": "",
@@ -6929,7 +6929,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4075": {
         "areaID": 4075,
         "weatherAreaId": 4075,
         "maxHeightStr": "",
@@ -6940,7 +6940,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4076": {
         "areaID": 4076,
         "weatherAreaId": 4076,
         "maxHeightStr": "",
@@ -6951,7 +6951,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4077": {
         "areaID": 4077,
         "weatherAreaId": 4077,
         "maxHeightStr": "",
@@ -6963,7 +6963,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4078": {
         "areaID": 4078,
         "weatherAreaId": 4078,
         "maxHeightStr": "",
@@ -6975,7 +6975,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4079": {
         "areaID": 4079,
         "weatherAreaId": 4079,
         "maxHeightStr": "",
@@ -6987,7 +6987,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4080": {
         "areaID": 4080,
         "weatherAreaId": 4080,
         "maxHeightStr": "",
@@ -6999,7 +6999,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4081": {
         "areaID": 4081,
         "weatherAreaId": 4081,
         "maxHeightStr": "",
@@ -7010,7 +7010,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4082": {
         "areaID": 4082,
         "weatherAreaId": 4082,
         "maxHeightStr": "",
@@ -7021,7 +7021,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4083": {
         "areaID": 4083,
         "weatherAreaId": 4083,
         "maxHeightStr": "",
@@ -7032,7 +7032,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4084": {
         "areaID": 4084,
         "weatherAreaId": 4084,
         "maxHeightStr": "",
@@ -7044,7 +7044,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4085": {
         "areaID": 4085,
         "weatherAreaId": 4085,
         "maxHeightStr": "",
@@ -7055,7 +7055,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4086": {
         "areaID": 4086,
         "weatherAreaId": 4086,
         "maxHeightStr": "",
@@ -7066,7 +7066,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4087": {
         "areaID": 4087,
         "weatherAreaId": 4087,
         "maxHeightStr": "",
@@ -7076,7 +7076,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4088": {
         "areaID": 4088,
         "weatherAreaId": 4088,
         "maxHeightStr": "",
@@ -7088,7 +7088,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4089": {
         "areaID": 4089,
         "weatherAreaId": 4089,
         "maxHeightStr": "",
@@ -7100,7 +7100,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4090": {
         "areaID": 4090,
         "weatherAreaId": 4090,
         "maxHeightStr": "",
@@ -7112,7 +7112,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4091": {
         "areaID": 4091,
         "weatherAreaId": 4091,
         "maxHeightStr": "",
@@ -7123,7 +7123,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4092": {
         "areaID": 4092,
         "weatherAreaId": 4092,
         "maxHeightStr": "",
@@ -7135,7 +7135,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4093": {
         "areaID": 4093,
         "weatherAreaId": 4093,
         "maxHeightStr": "",
@@ -7147,7 +7147,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4094": {
         "areaID": 4094,
         "weatherAreaId": 4094,
         "maxHeightStr": "",
@@ -7159,7 +7159,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4100": {
         "areaID": 4100,
         "weatherAreaId": 4100,
         "maxHeightStr": "",
@@ -7170,7 +7170,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 3
     },
-    {
+    "4101": {
         "areaID": 4101,
         "weatherAreaId": 4101,
         "maxHeightStr": "",
@@ -7182,7 +7182,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4102": {
         "areaID": 4102,
         "weatherAreaId": 4102,
         "maxHeightStr": "",
@@ -7194,7 +7194,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4103": {
         "areaID": 4103,
         "weatherAreaId": 4103,
         "maxHeightStr": "",
@@ -7206,7 +7206,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4104": {
         "areaID": 4104,
         "weatherAreaId": 4104,
         "maxHeightStr": "",
@@ -7218,7 +7218,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4105": {
         "areaID": 4105,
         "weatherAreaId": 4105,
         "maxHeightStr": "",
@@ -7230,7 +7230,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4106": {
         "areaID": 4106,
         "weatherAreaId": 4106,
         "maxHeightStr": "",
@@ -7242,7 +7242,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4107": {
         "areaID": 4107,
         "weatherAreaId": 4107,
         "maxHeightStr": "",
@@ -7254,7 +7254,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "4108": {
         "areaID": 4108,
         "weatherAreaId": 4108,
         "maxHeightStr": "",
@@ -7266,7 +7266,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "5001": {
         "areaID": 5001,
         "weatherAreaId": 5001,
         "maxHeightStr": "",
@@ -7278,7 +7278,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "5002": {
         "areaID": 5002,
         "weatherAreaId": 5002,
         "maxHeightStr": "",
@@ -7290,7 +7290,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "5003": {
         "areaID": 5003,
         "weatherAreaId": 5003,
         "maxHeightStr": "",
@@ -7302,7 +7302,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "5004": {
         "areaID": 5004,
         "weatherAreaId": 5004,
         "maxHeightStr": "",
@@ -7314,7 +7314,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "5005": {
         "areaID": 5005,
         "weatherAreaId": 5005,
         "maxHeightStr": "",
@@ -7326,7 +7326,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "5006": {
         "areaID": 5006,
         "weatherAreaId": 5006,
         "maxHeightStr": "",
@@ -7337,7 +7337,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "5007": {
         "areaID": 5007,
         "weatherAreaId": 5007,
         "maxHeightStr": "",
@@ -7348,7 +7348,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "6001": {
         "areaID": 6001,
         "weatherAreaId": 6001,
         "maxHeightStr": "",
@@ -7360,7 +7360,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "7001": {
         "areaID": 7001,
         "weatherAreaId": 7001,
         "maxHeightStr": "",
@@ -7372,7 +7372,7 @@
         "isUseDefault": true,
         "sceneID": 3
     },
-    {
+    "9001": {
         "areaID": 9001,
         "weatherAreaId": 9001,
         "maxHeightStr": "",
@@ -7383,7 +7383,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9002": {
         "areaID": 9002,
         "weatherAreaId": 9002,
         "maxHeightStr": "",
@@ -7394,7 +7394,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9003": {
         "areaID": 9003,
         "weatherAreaId": 9003,
         "maxHeightStr": "",
@@ -7405,7 +7405,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9004": {
         "areaID": 9004,
         "weatherAreaId": 9004,
         "maxHeightStr": "",
@@ -7416,7 +7416,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9005": {
         "areaID": 9005,
         "weatherAreaId": 9005,
         "maxHeightStr": "",
@@ -7427,7 +7427,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9006": {
         "areaID": 9006,
         "weatherAreaId": 9006,
         "maxHeightStr": "",
@@ -7438,7 +7438,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9007": {
         "areaID": 9007,
         "weatherAreaId": 9007,
         "maxHeightStr": "",
@@ -7449,7 +7449,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9008": {
         "areaID": 9008,
         "weatherAreaId": 9008,
         "maxHeightStr": "",
@@ -7460,7 +7460,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9009": {
         "areaID": 9009,
         "weatherAreaId": 9009,
         "maxHeightStr": "",
@@ -7471,7 +7471,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9010": {
         "areaID": 9010,
         "weatherAreaId": 9010,
         "maxHeightStr": "",
@@ -7481,7 +7481,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 9
     },
-    {
+    "9011": {
         "areaID": 9011,
         "weatherAreaId": 9011,
         "maxHeightStr": "",
@@ -7491,7 +7491,7 @@
         "defaultClimate": "CLIMATE_SUNNY",
         "sceneID": 9
     },
-    {
+    "9012": {
         "areaID": 9012,
         "weatherAreaId": 9012,
         "maxHeightStr": "",
@@ -7502,7 +7502,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 9
     },
-    {
+    "9013": {
         "areaID": 9013,
         "weatherAreaId": 9013,
         "maxHeightStr": "",
@@ -7512,7 +7512,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 9
     },
-    {
+    "9014": {
         "areaID": 9014,
         "weatherAreaId": 9014,
         "maxHeightStr": "",
@@ -7522,7 +7522,7 @@
         "defaultClimate": "CLIMATE_CLOUDY",
         "sceneID": 9
     },
-    {
+    "9015": {
         "areaID": 9015,
         "weatherAreaId": 9015,
         "maxHeightStr": "",
@@ -7533,7 +7533,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9016": {
         "areaID": 9016,
         "weatherAreaId": 9016,
         "maxHeightStr": "",
@@ -7545,7 +7545,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9017": {
         "areaID": 9017,
         "weatherAreaId": 9017,
         "maxHeightStr": "",
@@ -7556,7 +7556,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9018": {
         "areaID": 9018,
         "weatherAreaId": 9018,
         "maxHeightStr": "",
@@ -7567,7 +7567,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9019": {
         "areaID": 9019,
         "weatherAreaId": 9019,
         "maxHeightStr": "",
@@ -7578,7 +7578,7 @@
         "isUseDefault": true,
         "sceneID": 9
     },
-    {
+    "9020": {
         "areaID": 9020,
         "weatherAreaId": 9020,
         "maxHeightStr": "",
@@ -7589,4 +7589,4 @@
         "isUseDefault": true,
         "sceneID": 9
     }
-]
+}

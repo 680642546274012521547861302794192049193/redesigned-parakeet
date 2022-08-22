@@ -1,5 +1,5 @@
-[
-    {
+{
+    "2004": {
         "id": 1,
         "activityId": 2004,
         "activityStayTime": 17,
@@ -8,7 +8,7 @@
         "unlockPlayerLevel": 20,
         "levelRewardGadgetID": 70360163
     },
-    {
+    "5053": {
         "id": 2,
         "activityId": 5053,
         "activityStayTime": 10,
@@ -19,4 +19,4 @@
         "isMaskAvatarReward": true,
         "rewardPreviewId": 33302
     }
-]
+}

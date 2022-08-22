@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1004": {
         "id": 1004,
         "activateLevel": 10,
         "firstGiftRewardId": 3006200,
@@ -7,4 +7,4 @@
         "dailySignInId": 4,
         "reunionPrivilegeId": 1
     }
-]
+}

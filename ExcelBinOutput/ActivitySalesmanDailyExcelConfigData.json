@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "dailyConfigId": 1,
         "costItemList": [
             {
@@ -14,7 +14,7 @@
         "IntroTextMapHash": 4281344476,
         "tracePosition": "Activity_5003_01"
     },
-    {
+    "2": {
         "dailyConfigId": 2,
         "costItemList": [
             {
@@ -29,7 +29,7 @@
         "IntroTextMapHash": 94891804,
         "tracePosition": "Activity_5003_02"
     },
-    {
+    "3": {
         "dailyConfigId": 3,
         "costItemList": [
             {
@@ -44,7 +44,7 @@
         "IntroTextMapHash": 2030358308,
         "tracePosition": "Activity_5003_03"
     },
-    {
+    "4": {
         "dailyConfigId": 4,
         "costItemList": [
             {
@@ -59,7 +59,7 @@
         "IntroTextMapHash": 3634936892,
         "tracePosition": "Activity_5003_04"
     },
-    {
+    "5": {
         "dailyConfigId": 5,
         "costItemList": [
             {
@@ -74,7 +74,7 @@
         "IntroTextMapHash": 4206335796,
         "tracePosition": "Activity_5003_05"
     },
-    {
+    "6": {
         "dailyConfigId": 6,
         "costItemList": [
             {
@@ -89,7 +89,7 @@
         "IntroTextMapHash": 3301563924,
         "tracePosition": "Activity_5003_06"
     },
-    {
+    "7": {
         "dailyConfigId": 7,
         "costItemList": [
             {
@@ -104,7 +104,7 @@
         "IntroTextMapHash": 856260316,
         "tracePosition": "Activity_5003_07"
     },
-    {
+    "8": {
         "dailyConfigId": 8,
         "costItemList": [
             {
@@ -125,7 +125,7 @@
         "IntroTextMapHash": 1765375596,
         "tracePosition": "Activity_5003_01"
     },
-    {
+    "9": {
         "dailyConfigId": 9,
         "costItemList": [
             {
@@ -146,7 +146,7 @@
         "IntroTextMapHash": 2094710668,
         "tracePosition": "Activity_5003_01"
     },
-    {
+    "10": {
         "dailyConfigId": 10,
         "costItemList": [
             {
@@ -167,7 +167,7 @@
         "IntroTextMapHash": 4201542724,
         "tracePosition": "Activity_5003_01"
     },
-    {
+    "11": {
         "dailyConfigId": 11,
         "costItemList": [
             {
@@ -188,7 +188,7 @@
         "IntroTextMapHash": 3158606652,
         "tracePosition": "Activity_5003_01"
     },
-    {
+    "12": {
         "dailyConfigId": 12,
         "costItemList": [
             {
@@ -209,7 +209,7 @@
         "IntroTextMapHash": 4032206284,
         "tracePosition": "Activity_5003_01"
     },
-    {
+    "13": {
         "dailyConfigId": 13,
         "costItemList": [
             {
@@ -230,7 +230,7 @@
         "IntroTextMapHash": 894448220,
         "tracePosition": "Activity_5003_01"
     },
-    {
+    "14": {
         "dailyConfigId": 14,
         "costItemList": [
             {
@@ -251,4 +251,4 @@
         "IntroTextMapHash": 2484650700,
         "tracePosition": "Activity_5003_01"
     }
-]
+}

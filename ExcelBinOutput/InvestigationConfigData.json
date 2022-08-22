@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10001": {
         "id": 10001,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -9,7 +9,7 @@
         "rewardId": 450001,
         "titleTextMapHash": 185388919
     },
-    {
+    "10002": {
         "id": 10002,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -18,7 +18,7 @@
         "rewardId": 450002,
         "titleTextMapHash": 997105687
     },
-    {
+    "10003": {
         "id": 10003,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -27,7 +27,7 @@
         "rewardId": 450003,
         "titleTextMapHash": 2638738007
     },
-    {
+    "10004": {
         "id": 10004,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -36,7 +36,7 @@
         "rewardId": 450004,
         "titleTextMapHash": 32830991
     },
-    {
+    "10005": {
         "id": 10005,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -45,7 +45,7 @@
         "rewardId": 450005,
         "titleTextMapHash": 493621503
     },
-    {
+    "10006": {
         "id": 10006,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -54,7 +54,7 @@
         "rewardId": 450006,
         "titleTextMapHash": 820212071
     },
-    {
+    "10007": {
         "id": 10007,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -63,7 +63,7 @@
         "rewardId": 450007,
         "titleTextMapHash": 3388684735
     },
-    {
+    "10008": {
         "id": 10008,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -72,14 +72,14 @@
         "rewardId": 450008,
         "titleTextMapHash": 2420219631
     },
-    {
+    "10009": {
         "id": 10009,
         "cityId": 1,
         "nextInvestigationIdList": [],
         "rewardId": 450009,
         "titleTextMapHash": 1920411039
     },
-    {
+    "20001": {
         "id": 20001,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -90,7 +90,7 @@
         "titleTextMapHash": 2524375535,
         "investigationType": "INVESTIGATION_HOMEWORLD"
     },
-    {
+    "20002": {
         "id": 20002,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -100,7 +100,7 @@
         "titleTextMapHash": 4201521551,
         "investigationType": "INVESTIGATION_HOMEWORLD"
     },
-    {
+    "20003": {
         "id": 20003,
         "cityId": 1,
         "nextInvestigationIdList": [
@@ -110,7 +110,7 @@
         "titleTextMapHash": 1406990103,
         "investigationType": "INVESTIGATION_HOMEWORLD"
     },
-    {
+    "20004": {
         "id": 20004,
         "cityId": 1,
         "nextInvestigationIdList": [],
@@ -118,7 +118,7 @@
         "titleTextMapHash": 3662078343,
         "investigationType": "INVESTIGATION_HOMEWORLD"
     },
-    {
+    "30001": {
         "id": 30001,
         "cityId": 1,
         "nextInvestigationIdList": [],
@@ -127,7 +127,7 @@
         "titleTextMapHash": 2561351775,
         "investigationType": "INVESTIGATION_EDCATION"
     },
-    {
+    "30002": {
         "id": 30002,
         "cityId": 1,
         "nextInvestigationIdList": [],
@@ -136,7 +136,7 @@
         "titleTextMapHash": 1781883815,
         "investigationType": "INVESTIGATION_EDCATION"
     },
-    {
+    "30003": {
         "id": 30003,
         "cityId": 1,
         "nextInvestigationIdList": [],
@@ -145,7 +145,7 @@
         "titleTextMapHash": 38845551,
         "investigationType": "INVESTIGATION_EDCATION"
     },
-    {
+    "30004": {
         "id": 30004,
         "cityId": 1,
         "nextInvestigationIdList": [],
@@ -154,4 +154,4 @@
         "titleTextMapHash": 1528078183,
         "investigationType": "INVESTIGATION_EDCATION"
     }
-]
+}

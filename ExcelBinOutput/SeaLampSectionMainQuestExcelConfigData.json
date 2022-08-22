@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "nameTextMapHash": 2759823114,
         "descTextMapHash": 1038226915,
@@ -12,7 +12,7 @@
         "introTextMapHash": 2047002323,
         "openDay": 1
     },
-    {
+    "2": {
         "id": 2,
         "nameTextMapHash": 1978917378,
         "descTextMapHash": 1026901979,
@@ -22,7 +22,7 @@
         "introTextMapHash": 1174296571,
         "openDay": 1
     },
-    {
+    "3": {
         "id": 3,
         "nameTextMapHash": 272424554,
         "descTextMapHash": 1540446811,
@@ -32,7 +32,7 @@
         "introTextMapHash": 4231854467,
         "openDay": 5
     },
-    {
+    "4": {
         "id": 4,
         "nameTextMapHash": 2040992690,
         "descTextMapHash": 1363936203,
@@ -42,4 +42,4 @@
         "introTextMapHash": 3683570011,
         "openDay": 9
     }
-]
+}

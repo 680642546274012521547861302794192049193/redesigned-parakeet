@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "dailyConfigId": 1,
         "deliveryQuestConfig": [
             {
@@ -61,7 +61,7 @@
         ],
         "dailyRewardId": 3001010
     },
-    {
+    "2": {
         "dailyConfigId": 2,
         "deliveryQuestConfig": [
             {
@@ -117,7 +117,7 @@
         ],
         "dailyRewardId": 3001020
     },
-    {
+    "3": {
         "dailyConfigId": 3,
         "deliveryQuestConfig": [
             {
@@ -175,7 +175,7 @@
         ],
         "dailyRewardId": 3001030
     },
-    {
+    "4": {
         "dailyConfigId": 4,
         "deliveryQuestConfig": [
             {
@@ -237,7 +237,7 @@
         ],
         "dailyRewardId": 3001040
     },
-    {
+    "5": {
         "dailyConfigId": 5,
         "deliveryQuestConfig": [
             {
@@ -298,7 +298,7 @@
         ],
         "dailyRewardId": 3001050
     },
-    {
+    "6": {
         "dailyConfigId": 6,
         "deliveryQuestConfig": [
             {
@@ -359,7 +359,7 @@
         ],
         "dailyRewardId": 3001060
     },
-    {
+    "7": {
         "dailyConfigId": 7,
         "deliveryQuestConfig": [
             {
@@ -421,4 +421,4 @@
         ],
         "dailyRewardId": 3001070
     }
-]
+}

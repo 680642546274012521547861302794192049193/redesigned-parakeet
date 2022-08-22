@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "FMBKDJNKMEL": 1,
         "gadgetId": 70290313,
         "NCKDBCPIADH": 5,
@@ -19,7 +19,7 @@
         "watcherId": 12012301,
         "questId": 72687
     },
-    {
+    "2": {
         "FMBKDJNKMEL": 2,
         "gadgetId": 70290314,
         "NCKDBCPIADH": 6,
@@ -39,7 +39,7 @@
         "watcherId": 12012302,
         "questId": 72688
     },
-    {
+    "3": {
         "FMBKDJNKMEL": 3,
         "gadgetId": 70290315,
         "NCKDBCPIADH": 7,
@@ -59,7 +59,7 @@
         "watcherId": 12012303,
         "questId": 72689
     },
-    {
+    "4": {
         "FMBKDJNKMEL": 4,
         "gadgetId": 70290316,
         "NCKDBCPIADH": 8,
@@ -79,4 +79,4 @@
         "watcherId": 12012304,
         "questId": 72690
     }
-]
+}

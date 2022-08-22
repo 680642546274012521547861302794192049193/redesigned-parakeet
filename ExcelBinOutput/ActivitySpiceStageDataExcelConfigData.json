@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "LOCGNKFIIEF": 1,
         "EPGLBDAMHBB": 3,
@@ -29,7 +29,7 @@
         ],
         "watcherId": 15066011
     },
-    {
+    "2": {
         "id": 2,
         "LOCGNKFIIEF": 2,
         "EPGLBDAMHBB": 6,
@@ -60,7 +60,7 @@
         ],
         "watcherId": 15066012
     },
-    {
+    "3": {
         "id": 3,
         "LOCGNKFIIEF": 3,
         "EPGLBDAMHBB": 9,
@@ -91,7 +91,7 @@
         ],
         "watcherId": 15066013
     },
-    {
+    "4": {
         "id": 4,
         "LOCGNKFIIEF": 4,
         "EPGLBDAMHBB": 12,
@@ -123,7 +123,7 @@
         ],
         "watcherId": 15066014
     },
-    {
+    "5": {
         "id": 5,
         "LOCGNKFIIEF": 5,
         "EPGLBDAMHBB": 15,
@@ -155,7 +155,7 @@
         ],
         "watcherId": 15066015
     },
-    {
+    "6": {
         "id": 6,
         "LOCGNKFIIEF": 6,
         "EPGLBDAMHBB": 18,
@@ -188,7 +188,7 @@
         ],
         "watcherId": 15066016
     },
-    {
+    "7": {
         "id": 7,
         "LOCGNKFIIEF": 7,
         "EPGLBDAMHBB": 21,
@@ -221,4 +221,4 @@
         ],
         "watcherId": 15066017
     }
-]
+}

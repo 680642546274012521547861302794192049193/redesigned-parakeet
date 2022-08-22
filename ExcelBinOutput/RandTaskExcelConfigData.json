@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "ID": 1,
         "titleTextMapHash": 2070013520,
         "contentType": "RAND_TASK_CONTENT_TALL",
@@ -8,7 +8,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "2": {
         "ID": 2,
         "titleTextMapHash": 4155163104,
         "contentType": "RAND_TASK_CONTENT_CLEANUP",
@@ -18,7 +18,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "3": {
         "ID": 3,
         "titleTextMapHash": 2024539976,
         "contentType": "RAND_TASK_CONTENT_CLEANUP",
@@ -28,7 +28,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "4": {
         "ID": 4,
         "titleTextMapHash": 2469076712,
         "contentType": "RAND_TASK_CONTENT_CLEANUP",
@@ -38,7 +38,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "5": {
         "ID": 5,
         "titleTextMapHash": 1676880728,
         "contentType": "RAND_TASK_CONTENT_CLEANUP",
@@ -48,7 +48,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "6": {
         "ID": 6,
         "titleTextMapHash": 2389144648,
         "contentType": "RAND_TASK_CONTENT_CLEANUP",
@@ -58,7 +58,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "7": {
         "ID": 7,
         "titleTextMapHash": 1969950256,
         "contentType": "RAND_TASK_CONTENT_CLEANUP",
@@ -68,7 +68,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "8": {
         "ID": 8,
         "titleTextMapHash": 3015799968,
         "contentType": "RAND_TASK_CONTENT_CLEANUP",
@@ -78,7 +78,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "9": {
         "ID": 9,
         "titleTextMapHash": 501871832,
         "contentType": "RAND_TASK_CONTENT_GUARD",
@@ -88,7 +88,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "10": {
         "ID": 10,
         "titleTextMapHash": 945539456,
         "contentType": "RAND_TASK_CONTENT_RESCUE",
@@ -98,7 +98,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "11": {
         "ID": 11,
         "titleTextMapHash": 2313647272,
         "contentType": "RAND_TASK_CONTENT_RESCUE",
@@ -108,7 +108,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "12": {
         "ID": 12,
         "titleTextMapHash": 1513663792,
         "contentType": "RAND_TASK_CONTENT_ATTACK",
@@ -118,7 +118,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "13": {
         "ID": 13,
         "titleTextMapHash": 3982291008,
         "contentType": "RAND_TASK_CONTENT_RESCUE",
@@ -128,7 +128,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "14": {
         "ID": 14,
         "titleTextMapHash": 2862269320,
         "contentType": "RAND_TASK_CONTENT_RESCUE",
@@ -138,7 +138,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "15": {
         "ID": 15,
         "titleTextMapHash": 3845502712,
         "contentType": "RAND_TASK_CONTENT_GUARD",
@@ -148,7 +148,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "16": {
         "ID": 16,
         "titleTextMapHash": 933750424,
         "contentType": "RAND_TASK_CONTENT_GUARD",
@@ -158,7 +158,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "17": {
         "ID": 17,
         "titleTextMapHash": 1855740776,
         "contentType": "RAND_TASK_CONTENT_RESCUE",
@@ -168,7 +168,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "18": {
         "ID": 18,
         "titleTextMapHash": 4283958408,
         "reward": 1,
@@ -177,7 +177,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "19": {
         "ID": 19,
         "titleTextMapHash": 2501795280,
         "reward": 1,
@@ -185,7 +185,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "20": {
         "ID": 20,
         "titleTextMapHash": 2047782552,
         "reward": 1,
@@ -194,7 +194,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "21": {
         "ID": 21,
         "titleTextMapHash": 2339513920,
         "reward": 1,
@@ -203,7 +203,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "22": {
         "ID": 22,
         "titleTextMapHash": 16421488,
         "reward": 1,
@@ -212,7 +212,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "23": {
         "ID": 23,
         "titleTextMapHash": 718530112,
         "reward": 1,
@@ -220,7 +220,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "24": {
         "ID": 24,
         "titleTextMapHash": 2453685072,
         "reward": 1,
@@ -229,7 +229,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "25": {
         "ID": 25,
         "titleTextMapHash": 706045232,
         "reward": 1,
@@ -238,7 +238,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "26": {
         "ID": 26,
         "titleTextMapHash": 3608590928,
         "reward": 1,
@@ -247,7 +247,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "27": {
         "ID": 27,
         "titleTextMapHash": 2021804840,
         "reward": 1,
@@ -256,7 +256,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "29": {
         "ID": 29,
         "titleTextMapHash": 1704098560,
         "reward": 1,
@@ -264,7 +264,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "30": {
         "ID": 30,
         "titleTextMapHash": 2476248336,
         "reward": 1,
@@ -272,7 +272,7 @@
         "enterDistance": 60,
         "exitDistance": 70
     },
-    {
+    "31": {
         "ID": 31,
         "titleTextMapHash": 2190918616,
         "reward": 1,
@@ -280,4 +280,4 @@
         "enterDistance": 60,
         "exitDistance": 70
     }
-]
+}

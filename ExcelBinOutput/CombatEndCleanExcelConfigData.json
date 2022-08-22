@@ -1,5 +1,5 @@
-[
-    {
+{
+    "COMBAT_END_TOWER_HALF_LEVEL_END": {
         "id": 1,
         "BCNFPKPGIOH": "COMBAT_END_TOWER_HALF_LEVEL_END",
         "DINMNAAOEAP": [
@@ -8,7 +8,7 @@
             "None"
         ]
     },
-    {
+    "COMBAT_END_TOWER_LEVEL_END": {
         "id": 2,
         "BCNFPKPGIOH": "COMBAT_END_TOWER_LEVEL_END",
         "DINMNAAOEAP": [
@@ -17,7 +17,7 @@
             "None"
         ]
     },
-    {
+    "COMBAT_END_DUNGEON_SETTLE": {
         "id": 3,
         "BCNFPKPGIOH": "COMBAT_END_DUNGEON_SETTLE",
         "DINMNAAOEAP": [
@@ -26,7 +26,7 @@
             "None"
         ]
     },
-    {
+    "COMBAT_END_CRYSTAL_LINK_HALF_LEVEL_END": {
         "id": 4,
         "BCNFPKPGIOH": "COMBAT_END_CRYSTAL_LINK_HALF_LEVEL_END",
         "DINMNAAOEAP": [
@@ -35,4 +35,4 @@
             "None"
         ]
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "buffId": 1,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp",
@@ -14,7 +14,7 @@
             ""
         ]
     },
-    {
+    "2": {
         "buffId": 2,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery",
         "abilityName": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery",
@@ -29,7 +29,7 @@
             ""
         ]
     },
-    {
+    "3": {
         "buffId": 3,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_ChargeEfficiencyUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_ChargeEfficiencyUp",
@@ -44,7 +44,7 @@
             ""
         ]
     },
-    {
+    "4": {
         "buffId": 4,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_NormalAttackDamageUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_NormalAttackDamageUp",
@@ -59,7 +59,7 @@
             ""
         ]
     },
-    {
+    "5": {
         "buffId": 5,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_AllElementalDamageUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_AllElementalDamageUp",
@@ -74,7 +74,7 @@
             ""
         ]
     },
-    {
+    "6": {
         "buffId": 6,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_AttackSpeedUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_AttackSpeedUp",
@@ -89,7 +89,7 @@
             ""
         ]
     },
-    {
+    "7": {
         "buffId": 7,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_SkillDamageUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_SkillDamageUp",
@@ -104,7 +104,7 @@
             ""
         ]
     },
-    {
+    "8": {
         "buffId": 8,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery_Level3",
         "abilityName": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery_Level3",
@@ -119,7 +119,7 @@
             ""
         ]
     },
-    {
+    "9": {
         "buffId": 9,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp_Level3",
         "abilityName": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp_Level3",
@@ -134,7 +134,7 @@
             ""
         ]
     },
-    {
+    "10": {
         "buffId": 10,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_MaxHPUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_MaxHPUp",
@@ -149,7 +149,7 @@
             ""
         ]
     },
-    {
+    "11": {
         "buffId": 11,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_AttackUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_AttackUp",
@@ -164,7 +164,7 @@
             ""
         ]
     },
-    {
+    "12": {
         "buffId": 12,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_WaterDamageUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_WaterDamageUp",
@@ -179,7 +179,7 @@
             ""
         ]
     },
-    {
+    "13": {
         "buffId": 13,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_RockDamageUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_RockDamageUp",
@@ -194,7 +194,7 @@
             ""
         ]
     },
-    {
+    "14": {
         "buffId": 14,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_AttackUp_Level4",
         "abilityName": "ActivityAbility_CrystalLink_Action_AttackUp_Level4",
@@ -209,7 +209,7 @@
             ""
         ]
     },
-    {
+    "15": {
         "buffId": 15,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_CriticalUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_CriticalUp",
@@ -224,7 +224,7 @@
             ""
         ]
     },
-    {
+    "16": {
         "buffId": 16,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_WaterDamageUp_Level6",
         "abilityName": "ActivityAbility_CrystalLink_Action_WaterDamageUp_Level6",
@@ -239,7 +239,7 @@
             ""
         ]
     },
-    {
+    "17": {
         "buffId": 17,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_IceDamageUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_IceDamageUp",
@@ -254,7 +254,7 @@
             ""
         ]
     },
-    {
+    "18": {
         "buffId": 18,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_FrozenDamageUp",
         "abilityName": "ActivityAbility_CrystalLink_Action_FrozenDamageUp",
@@ -269,4 +269,4 @@
             ""
         ]
     }
-]
+}

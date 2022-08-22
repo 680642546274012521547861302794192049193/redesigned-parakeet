@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "activityId": 2006,
         "contentDuration": 19,
@@ -14,4 +14,4 @@
         ],
         "rewardPreview": 31901
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageID": 1,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -12,7 +12,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_CITY",
         "picPath": "UI_LoadingPic_MengDe"
     },
-    {
+    "2": {
         "stageID": 2,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -27,7 +27,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_MengDe"
     },
-    {
+    "3": {
         "stageID": 3,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -39,7 +39,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_CITY",
         "picPath": "UI_LoadingPic_LiYue"
     },
-    {
+    "4": {
         "stageID": 4,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -55,56 +55,56 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_LiYue"
     },
-    {
+    "5": {
         "stageID": 5,
         "ANCGJDFENFA": "SITUATION_TYPE_ENTER_QUEST_DUNGEON",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": "UI_LoadingPic_Dungeon"
     },
-    {
+    "6": {
         "stageID": 6,
         "ANCGJDFENFA": "SITUATION_TYPE_ENTER_DAILY_DUNGEON",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": "UI_LoadingPic_Dungeon"
     },
-    {
+    "7": {
         "stageID": 7,
         "ANCGJDFENFA": "SITUATION_TYPE_ENTER_TOWER",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": "UI_LoadingPic_Dungeon"
     },
-    {
+    "8": {
         "stageID": 8,
         "ANCGJDFENFA": "SITUATION_TYPE_ENTER_ROOM",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": ""
     },
-    {
+    "9": {
         "stageID": 9,
         "ANCGJDFENFA": "SITUATION_TYPE_LOGIN",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": ""
     },
-    {
+    "10": {
         "stageID": 10,
         "ANCGJDFENFA": "SITUATION_TYPE_LOGOUT",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": ""
     },
-    {
+    "11": {
         "stageID": 11,
         "ANCGJDFENFA": "SITUATION_TYPE_REVIVE",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": ""
     },
-    {
+    "12": {
         "stageID": 12,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -115,21 +115,21 @@
         ],
         "picPath": "UI_LoadingPic_Dragonspine"
     },
-    {
+    "13": {
         "stageID": 13,
         "ANCGJDFENFA": "SITUATION_TYPE_ENTER_HOMEWORLD",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": "UI_LoadingPic_Homeworld"
     },
-    {
+    "14": {
         "stageID": 14,
         "ANCGJDFENFA": "SITUATION_TYPE_ENTER_ISLAND",
         "APIPADDIHNP": [],
         "MCGCHHKNLNH": [],
         "picPath": "UI_LoadingPic_GoldenAppleIsles"
     },
-    {
+    "15": {
         "stageID": 15,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -141,7 +141,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_CITY",
         "picPath": "UI_LoadingPic_Inazuma"
     },
-    {
+    "16": {
         "stageID": 16,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -153,7 +153,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_Inazuma"
     },
-    {
+    "17": {
         "stageID": 17,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -164,7 +164,7 @@
         ],
         "picPath": "UI_LoadingPic_Inazuma"
     },
-    {
+    "18": {
         "stageID": 18,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -175,7 +175,7 @@
         ],
         "picPath": "UI_LoadingPic_Inazuma"
     },
-    {
+    "19": {
         "stageID": 19,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -186,7 +186,7 @@
         ],
         "picPath": "UI_LoadingPic_Inazuma"
     },
-    {
+    "20": {
         "stageID": 20,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -197,7 +197,7 @@
         ],
         "picPath": "UI_LoadingPic_Inazuma"
     },
-    {
+    "21": {
         "stageID": 21,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -208,7 +208,7 @@
         ],
         "picPath": "UI_LoadingPic_Inazuma"
     },
-    {
+    "22": {
         "stageID": 22,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -219,7 +219,7 @@
         ],
         "picPath": "UI_LoadingPic_Enkanomiya"
     },
-    {
+    "23": {
         "stageID": 23,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -230,7 +230,7 @@
         ],
         "picPath": "UI_LoadingPic_MichiaeMatsuri"
     },
-    {
+    "24": {
         "stageID": 24,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -241,7 +241,7 @@
         ],
         "picPath": "UI_LoadingPic_TheChasm"
     },
-    {
+    "25": {
         "stageID": 25,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -252,7 +252,7 @@
         ],
         "picPath": "UI_LoadingPic_TheChasm"
     },
-    {
+    "28": {
         "stageID": 28,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -266,7 +266,7 @@
         ],
         "picPath": "UI_LoadingPic_GoldenAppleIsles"
     },
-    {
+    "29": {
         "stageID": 29,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -278,7 +278,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_Sumeru"
     },
-    {
+    "30": {
         "stageID": 30,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -290,7 +290,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_Sumeru"
     },
-    {
+    "31": {
         "stageID": 31,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -302,7 +302,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_Sumeru"
     },
-    {
+    "32": {
         "stageID": 32,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -314,7 +314,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_Sumeru"
     },
-    {
+    "33": {
         "stageID": 33,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -326,7 +326,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_Sumeru"
     },
-    {
+    "34": {
         "stageID": 34,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -338,7 +338,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_OUTDOOR",
         "picPath": "UI_LoadingPic_Sumeru"
     },
-    {
+    "35": {
         "stageID": 35,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -352,7 +352,7 @@
         "DIAAKNCMKMN": "LOADING_AREA_CITY",
         "picPath": "UI_LoadingPic_Sumeru"
     },
-    {
+    "36": {
         "stageID": 36,
         "ANCGJDFENFA": "SITUATION_TYPE_COMMON_TRANSPORT",
         "APIPADDIHNP": [
@@ -363,4 +363,4 @@
         ],
         "picPath": "UI_LoadingPic_Sumeru"
     }
-]
+}

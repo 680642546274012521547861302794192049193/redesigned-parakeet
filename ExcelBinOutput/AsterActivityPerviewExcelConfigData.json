@@ -1,5 +1,5 @@
-[
-    {
+{
+    "2001": {
         "activityId": 2001,
         "descTextMapHash": 3785467251,
         "unlockLevel": 20,
@@ -13,4 +13,4 @@
         "activityStayTime": 14,
         "perfabChangeQuestId": 4111307
     }
-]
+}

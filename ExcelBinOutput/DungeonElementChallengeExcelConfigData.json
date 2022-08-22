@@ -1,5 +1,5 @@
-[
-    {
+{
+    "4022": {
         "dungeonId": 4022,
         "trialAvatarId": [
             5003,
@@ -7,7 +7,7 @@
         ],
         "tutorialId": 1000
     },
-    {
+    "4023": {
         "dungeonId": 4023,
         "trialAvatarId": [
             5002,
@@ -15,7 +15,7 @@
         ],
         "tutorialId": 1001
     },
-    {
+    "4024": {
         "dungeonId": 4024,
         "trialAvatarId": [
             5002,
@@ -23,7 +23,7 @@
         ],
         "tutorialId": 1002
     },
-    {
+    "4025": {
         "dungeonId": 4025,
         "trialAvatarId": [
             5001,
@@ -31,7 +31,7 @@
         ],
         "tutorialId": 1003
     },
-    {
+    "4026": {
         "dungeonId": 4026,
         "trialAvatarId": [
             5003,
@@ -39,7 +39,7 @@
         ],
         "tutorialId": 1004
     },
-    {
+    "4027": {
         "dungeonId": 4027,
         "trialAvatarId": [
             5003,
@@ -47,7 +47,7 @@
         ],
         "tutorialId": 1005
     },
-    {
+    "4028": {
         "dungeonId": 4028,
         "trialAvatarId": [
             5004,
@@ -56,7 +56,7 @@
         ],
         "tutorialId": 1006
     },
-    {
+    "4029": {
         "dungeonId": 4029,
         "trialAvatarId": [
             5005,
@@ -65,4 +65,4 @@
         ],
         "tutorialId": 1007
     }
-]
+}

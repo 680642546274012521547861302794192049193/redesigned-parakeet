@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "configId": 1,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 1,
@@ -14,7 +14,7 @@
         "CFCPCEIILMD": 1,
         "iconPath": "UI_Skill_OR_Icon1"
     },
-    {
+    "2": {
         "configId": 2,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 2,
@@ -29,7 +29,7 @@
         "CFCPCEIILMD": 1,
         "iconPath": "UI_Skill_OR_Icon3"
     },
-    {
+    "3": {
         "configId": 3,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 3,
@@ -44,7 +44,7 @@
         "CFCPCEIILMD": 1,
         "iconPath": "UI_Skill_OR_Icon4"
     },
-    {
+    "4": {
         "configId": 4,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 4,
@@ -59,7 +59,7 @@
         "CFCPCEIILMD": 1,
         "iconPath": "UI_Skill_OR_Icon6"
     },
-    {
+    "5": {
         "configId": 5,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 5,
@@ -74,7 +74,7 @@
         "CFCPCEIILMD": 1,
         "iconPath": "UI_Skill_OR_Icon2"
     },
-    {
+    "6": {
         "configId": 6,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 6,
@@ -89,7 +89,7 @@
         "CFCPCEIILMD": 2,
         "iconPath": "UI_Skill_OR_Icon1"
     },
-    {
+    "7": {
         "configId": 7,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 7,
@@ -104,7 +104,7 @@
         "CFCPCEIILMD": 2,
         "iconPath": "UI_Skill_OR_Icon6"
     },
-    {
+    "8": {
         "configId": 8,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 8,
@@ -119,7 +119,7 @@
         "CFCPCEIILMD": 2,
         "iconPath": "UI_Skill_OR_Icon4"
     },
-    {
+    "9": {
         "configId": 9,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 9,
@@ -134,7 +134,7 @@
         "CFCPCEIILMD": 2,
         "iconPath": "UI_Skill_OR_Icon6"
     },
-    {
+    "10": {
         "configId": 10,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 10,
@@ -149,7 +149,7 @@
         "CFCPCEIILMD": 2,
         "iconPath": "UI_Skill_OR_Icon5"
     },
-    {
+    "11": {
         "configId": 11,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 11,
@@ -164,7 +164,7 @@
         "CFCPCEIILMD": 2,
         "iconPath": "UI_Skill_OR_Icon2"
     },
-    {
+    "12": {
         "configId": 12,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 12,
@@ -179,7 +179,7 @@
         "CFCPCEIILMD": 3,
         "iconPath": "UI_Skill_OR_Icon1"
     },
-    {
+    "13": {
         "configId": 13,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 13,
@@ -194,7 +194,7 @@
         "CFCPCEIILMD": 3,
         "iconPath": "UI_Skill_OR_Icon5"
     },
-    {
+    "14": {
         "configId": 14,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 14,
@@ -209,7 +209,7 @@
         "CFCPCEIILMD": 3,
         "iconPath": "UI_Skill_OR_Icon4"
     },
-    {
+    "15": {
         "configId": 15,
         "PEBHBOALECA": 100002,
         "ICNKNBNOLEE": 15,
@@ -224,4 +224,4 @@
         "CFCPCEIILMD": 3,
         "iconPath": "UI_Skill_OR_Icon5"
     }
-]
+}

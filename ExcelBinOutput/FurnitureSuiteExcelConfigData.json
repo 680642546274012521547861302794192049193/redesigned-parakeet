@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "suiteID": 1,
         "jsonName": "Home_Suite_Camp_01",
         "suiteNameTextMapHash": 1843362898,
@@ -13,7 +13,7 @@
         "itemIcon": "UI_Home_Suite_Camp_01",
         "mapIcon": ""
     },
-    {
+    "2": {
         "suiteID": 2,
         "jsonName": "Home_Suite_Exterior_03",
         "suiteNameTextMapHash": 1146281754,
@@ -27,7 +27,7 @@
         "itemIcon": "UI_Home_Suite_Exterior_03",
         "mapIcon": ""
     },
-    {
+    "3": {
         "suiteID": 3,
         "jsonName": "Home_Suite_Exterior_08",
         "suiteNameTextMapHash": 2830689802,
@@ -41,7 +41,7 @@
         "itemIcon": "UI_Home_Suite_Exterior_08",
         "mapIcon": ""
     },
-    {
+    "4": {
         "suiteID": 4,
         "jsonName": "Home_Suite_Interior_Liyue_Bedroom_01",
         "suiteNameTextMapHash": 458906242,
@@ -55,7 +55,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Liyue_Bedroom_01",
         "mapIcon": ""
     },
-    {
+    "5": {
         "suiteID": 5,
         "jsonName": "Home_Suite_Interior_Liyue_Diningroom_01",
         "suiteNameTextMapHash": 2851359402,
@@ -69,7 +69,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Liyue_Diningroom_01",
         "mapIcon": ""
     },
-    {
+    "6": {
         "suiteID": 6,
         "jsonName": "Home_Suite_Exterior_12",
         "suiteNameTextMapHash": 2106922,
@@ -83,7 +83,7 @@
         "itemIcon": "UI_Home_Suite_Exterior_12",
         "mapIcon": ""
     },
-    {
+    "7": {
         "suiteID": 7,
         "jsonName": "Home_Suite_Interior_Liyue_Diningroom_02",
         "suiteNameTextMapHash": 3767531090,
@@ -97,7 +97,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Liyue_Diningroom_02",
         "mapIcon": ""
     },
-    {
+    "8": {
         "suiteID": 8,
         "jsonName": "Home_Suite_Interior_Liyue_Kitchen_01",
         "suiteNameTextMapHash": 1321354570,
@@ -111,7 +111,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Liyue_Kitchen_01",
         "mapIcon": ""
     },
-    {
+    "9": {
         "suiteID": 9,
         "jsonName": "Home_Suite_Interior_Liyue_Livingroom_01",
         "suiteNameTextMapHash": 3233880186,
@@ -125,7 +125,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Liyue_Livingroom_01",
         "mapIcon": ""
     },
-    {
+    "10": {
         "suiteID": 10,
         "jsonName": "Home_Suite_Interior_Liyue_Study_01",
         "suiteNameTextMapHash": 749116938,
@@ -139,7 +139,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Liyue_Study_01",
         "mapIcon": ""
     },
-    {
+    "11": {
         "suiteID": 11,
         "jsonName": "Home_Suite_Interior_Mond_Bedroom_01",
         "suiteNameTextMapHash": 3798465610,
@@ -153,7 +153,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Mond_Bedroom_01",
         "mapIcon": ""
     },
-    {
+    "12": {
         "suiteID": 12,
         "jsonName": "Home_Suite_Interior_Mond_Diningroom_01",
         "suiteNameTextMapHash": 2909268938,
@@ -167,7 +167,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Mond_Diningroom_01",
         "mapIcon": ""
     },
-    {
+    "13": {
         "suiteID": 13,
         "jsonName": "Home_Suite_Interior_Mond_Diningroom_02",
         "suiteNameTextMapHash": 1384007594,
@@ -181,7 +181,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Mond_Diningroom_02",
         "mapIcon": ""
     },
-    {
+    "14": {
         "suiteID": 14,
         "jsonName": "Home_Suite_Interior_Mond_Kitchen_01",
         "suiteNameTextMapHash": 2515685266,
@@ -195,7 +195,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Mond_Kitchen_01",
         "mapIcon": ""
     },
-    {
+    "15": {
         "suiteID": 15,
         "jsonName": "Home_Suite_Interior_Mond_Livingroom_01",
         "suiteNameTextMapHash": 1938380906,
@@ -209,7 +209,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Mond_Livingroom_01",
         "mapIcon": ""
     },
-    {
+    "16": {
         "suiteID": 16,
         "jsonName": "Home_Suite_Interior_Mond_Study_01",
         "suiteNameTextMapHash": 1375350274,
@@ -223,7 +223,7 @@
         "itemIcon": "UI_Home_Suite_Interior_Mond_Study_01",
         "mapIcon": ""
     },
-    {
+    "17": {
         "suiteID": 17,
         "jsonName": "Home_Suite_Liyue_Folkhouse_01",
         "suiteNameTextMapHash": 1054541666,
@@ -237,7 +237,7 @@
         "itemIcon": "UI_Home_Suite_Liyue_Folkhouse_01",
         "mapIcon": ""
     },
-    {
+    "18": {
         "suiteID": 18,
         "jsonName": "Home_Suite_Mond_Folkhouse_01",
         "suiteNameTextMapHash": 4105063002,
@@ -251,7 +251,7 @@
         "itemIcon": "UI_Home_Suite_Mond_Folkhouse_01",
         "mapIcon": ""
     },
-    {
+    "19": {
         "suiteID": 19,
         "jsonName": "Home_Suite_Props_01",
         "suiteNameTextMapHash": 3955997706,
@@ -265,7 +265,7 @@
         "itemIcon": "UI_Home_Suite_Props_01",
         "mapIcon": ""
     },
-    {
+    "20": {
         "suiteID": 20,
         "jsonName": "Home_Suite_Props_02",
         "suiteNameTextMapHash": 2256267522,
@@ -279,7 +279,7 @@
         "itemIcon": "UI_Home_Suite_Props_02",
         "mapIcon": ""
     },
-    {
+    "21": {
         "suiteID": 21,
         "jsonName": "Home_Suite_Props_03",
         "suiteNameTextMapHash": 3221462570,
@@ -293,7 +293,7 @@
         "itemIcon": "UI_Home_Suite_Props_03",
         "mapIcon": ""
     },
-    {
+    "22": {
         "suiteID": 22,
         "jsonName": "Home_Suite_Props_04",
         "suiteNameTextMapHash": 1729468786,
@@ -307,7 +307,7 @@
         "itemIcon": "UI_Home_Suite_Props_04",
         "mapIcon": ""
     },
-    {
+    "23": {
         "suiteID": 23,
         "jsonName": "Home_Suite_Props_05",
         "suiteNameTextMapHash": 715902034,
@@ -321,7 +321,7 @@
         "itemIcon": "UI_Home_Suite_Props_05",
         "mapIcon": ""
     },
-    {
+    "24": {
         "suiteID": 24,
         "jsonName": "Home_Suite_Props_06",
         "suiteNameTextMapHash": 1417850394,
@@ -335,7 +335,7 @@
         "itemIcon": "UI_Home_Suite_Props_06",
         "mapIcon": ""
     },
-    {
+    "25": {
         "suiteID": 25,
         "jsonName": "Home_Suite_Props_07",
         "suiteNameTextMapHash": 1338335706,
@@ -349,7 +349,7 @@
         "itemIcon": "UI_Home_Suite_Props_07",
         "mapIcon": ""
     },
-    {
+    "26": {
         "suiteID": 26,
         "jsonName": "Home_Suite_Props_08",
         "suiteNameTextMapHash": 2751991778,
@@ -363,7 +363,7 @@
         "itemIcon": "UI_Home_Suite_Props_08",
         "mapIcon": ""
     },
-    {
+    "27": {
         "suiteID": 27,
         "jsonName": "Home_Suite_Wild_01",
         "suiteNameTextMapHash": 2722706834,
@@ -377,7 +377,7 @@
         "itemIcon": "UI_Home_Suite_Wild_01",
         "mapIcon": ""
     },
-    {
+    "28": {
         "suiteID": 28,
         "jsonName": "Home_Suite_Wild_02",
         "suiteNameTextMapHash": 2653271090,
@@ -391,7 +391,7 @@
         "itemIcon": "UI_Home_Suite_Wild_02",
         "mapIcon": ""
     },
-    {
+    "29": {
         "suiteID": 29,
         "jsonName": "Home_Suite_Wild_03",
         "suiteNameTextMapHash": 2238911858,
@@ -405,7 +405,7 @@
         "itemIcon": "UI_Home_Suite_Wild_03",
         "mapIcon": ""
     },
-    {
+    "30": {
         "suiteID": 30,
         "jsonName": "Home_Suite_Wild_05",
         "suiteNameTextMapHash": 3958273594,
@@ -419,7 +419,7 @@
         "itemIcon": "UI_Home_Suite_Wild_05",
         "mapIcon": ""
     },
-    {
+    "31": {
         "suiteID": 31,
         "jsonName": "Home_Suite_Wild_05",
         "suiteNameTextMapHash": 3852092194,
@@ -436,7 +436,7 @@
         "itemIcon": "UI_Home_Suite_Wild_05",
         "mapIcon": ""
     },
-    {
+    "32": {
         "suiteID": 32,
         "jsonName": "Home_Suite_Wild_05",
         "suiteNameTextMapHash": 518938410,
@@ -456,7 +456,7 @@
         "itemIcon": "UI_Home_Suite_Wild_05",
         "mapIcon": ""
     },
-    {
+    "33": {
         "suiteID": 33,
         "jsonName": "Home_Suite_Interior_Mond_Room_of_Recollection",
         "suiteNameTextMapHash": 1533841658,
@@ -477,7 +477,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "34": {
         "suiteID": 34,
         "jsonName": "Home_Suite_Interior_Mond_Room_of_Whispers",
         "suiteNameTextMapHash": 1215465386,
@@ -496,7 +496,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "35": {
         "suiteID": 35,
         "jsonName": "Home_Suite_Interior_Liyue_Room_of_Clouds",
         "suiteNameTextMapHash": 4215822922,
@@ -516,7 +516,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "36": {
         "suiteID": 36,
         "jsonName": "Home_Suite_Interior_Liyue_Room_of_Dreams",
         "suiteNameTextMapHash": 1530502722,
@@ -537,7 +537,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "37": {
         "suiteID": 37,
         "jsonName": "Home_Suite_Interior_Common_Arcane_Laboratory",
         "suiteNameTextMapHash": 1471988114,
@@ -557,7 +557,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "38": {
         "suiteID": 38,
         "jsonName": "Home_Suite_Interior_Common_Scented_Kitchen",
         "suiteNameTextMapHash": 6616922,
@@ -578,7 +578,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "39": {
         "suiteID": 39,
         "jsonName": "Home_Suite_Exterior_Common_Blacksmith_Shop",
         "suiteNameTextMapHash": 2842511714,
@@ -598,7 +598,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.5
     },
-    {
+    "40": {
         "suiteID": 40,
         "jsonName": "Home_Suite_Exterior_Mond_Pastoral_Village",
         "suiteNameTextMapHash": 1486392186,
@@ -617,7 +617,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.5
     },
-    {
+    "41": {
         "suiteID": 41,
         "jsonName": "Home_Suite_Exterior_Mond_Floral_Garden",
         "suiteNameTextMapHash": 1581560834,
@@ -638,7 +638,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.6000000238418579
     },
-    {
+    "42": {
         "suiteID": 42,
         "jsonName": "Home_Suite_Exterior_Liyue_All_Delicacy",
         "suiteNameTextMapHash": 2696428114,
@@ -660,7 +660,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "43": {
         "suiteID": 43,
         "jsonName": "Home_Suite_Exterior_Liyue_Shopping_Street",
         "suiteNameTextMapHash": 4267659626,
@@ -683,7 +683,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "44": {
         "suiteID": 44,
         "jsonName": "Home_Suite_Exterior_Liyue_Qingce_Village",
         "suiteNameTextMapHash": 535839330,
@@ -705,7 +705,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "45": {
         "suiteID": 45,
         "jsonName": "Home_Suite_Exterior_Common_Domu_Camp",
         "suiteNameTextMapHash": 1387997314,
@@ -726,7 +726,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.6000000238418579
     },
-    {
+    "46": {
         "suiteID": 46,
         "jsonName": "Home_Suite_Exterior_Common_Journey_of_abyss",
         "suiteNameTextMapHash": 3239092562,
@@ -748,7 +748,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.5
     },
-    {
+    "47": {
         "suiteID": 47,
         "jsonName": "Home_Suite_Exterior_Common_Dawn_Orchard",
         "suiteNameTextMapHash": 756619754,
@@ -768,7 +768,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "48": {
         "suiteID": 48,
         "jsonName": "Home_Suite_Exterior_Dq_Build_Courtyard",
         "suiteNameTextMapHash": 1665015626,
@@ -786,7 +786,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "49": {
         "suiteID": 49,
         "jsonName": "Home_Suite_Exterior_Dq_Build_Hotspring",
         "suiteNameTextMapHash": 2784826778,
@@ -806,7 +806,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "50": {
         "suiteID": 50,
         "jsonName": "Home_Suite_Exterior_Dq_Build_Village",
         "suiteNameTextMapHash": 2493136722,
@@ -824,7 +824,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "51": {
         "suiteID": 51,
         "jsonName": "Home_Suite_Exterior_Dq_Field_Shrine",
         "suiteNameTextMapHash": 2583543618,
@@ -842,7 +842,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "52": {
         "suiteID": 52,
         "jsonName": "Home_Suite_Exterior_Dq_Field_Weapon",
         "suiteNameTextMapHash": 60344970,
@@ -859,7 +859,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "53": {
         "suiteID": 53,
         "jsonName": "Home_Suite_Exterior_Dq_Mountain_Outdoor",
         "suiteNameTextMapHash": 1461610482,
@@ -877,7 +877,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "54": {
         "suiteID": 54,
         "jsonName": "Home_Suite_Exterior_Dq_Street_Fete",
         "suiteNameTextMapHash": 3276043194,
@@ -896,7 +896,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "55": {
         "suiteID": 55,
         "jsonName": "Home_Suite_Exterior_Dq_Street_Shopping",
         "suiteNameTextMapHash": 1894876490,
@@ -915,7 +915,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.4000000059604645
     },
-    {
+    "56": {
         "suiteID": 56,
         "jsonName": "Home_Suite_Interior_Dq_Room_of_Bedroom",
         "suiteNameTextMapHash": 1783821162,
@@ -934,7 +934,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "57": {
         "suiteID": 57,
         "jsonName": "Home_Suite_Interior_Dq_Room_of_Ground",
         "suiteNameTextMapHash": 3657365146,
@@ -952,7 +952,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "58": {
         "suiteID": 58,
         "jsonName": "Home_Suite_Interior_Dq_Room_of_Study",
         "suiteNameTextMapHash": 2841697962,
@@ -970,7 +970,7 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     },
-    {
+    "59": {
         "suiteID": 59,
         "jsonName": "Home_Suite_Interior_Dq_Room_of_Teahouse",
         "suiteNameTextMapHash": 309189314,
@@ -988,4 +988,4 @@
         "mapIcon": "UI_MarkPoint_Homeworld_Suit",
         "LPMDLBCNBIN": 0.30000001192092896
     }
-]
+}

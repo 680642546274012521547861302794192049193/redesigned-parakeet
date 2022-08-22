@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_DOOR",
         "gadgetId": 70310125,
@@ -15,7 +15,7 @@
             {}
         ]
     },
-    {
+    "2": {
         "id": 2,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_NORMAL_OPERATOR",
         "gadgetId": 70310118,
@@ -37,7 +37,7 @@
             }
         ]
     },
-    {
+    "3": {
         "id": 3,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_ELITE_OPERATOR",
         "gadgetId": 70310119,
@@ -59,7 +59,7 @@
             }
         ]
     },
-    {
+    "4": {
         "id": 4,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_SPRING_OPERATOR_REVEAL",
         "gadgetId": 70310120,
@@ -81,7 +81,7 @@
             }
         ]
     },
-    {
+    "5": {
         "id": 5,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_SPRING_OPERATOR_SWITCH",
         "gadgetId": 70310124,
@@ -92,7 +92,7 @@
             {}
         ]
     },
-    {
+    "6": {
         "id": 6,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_SPRING_STORE",
         "gadgetId": 70310121,
@@ -111,7 +111,7 @@
             {}
         ]
     },
-    {
+    "7": {
         "id": 7,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_BLAST",
         "gadgetId": 70310100,
@@ -122,7 +122,7 @@
             {}
         ]
     },
-    {
+    "8": {
         "id": 8,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_TRAP",
         "gadgetId": 70310101,
@@ -133,7 +133,7 @@
             {}
         ]
     },
-    {
+    "9": {
         "id": 9,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_BREAKAGES",
         "gadgetId": 70310099,
@@ -144,7 +144,7 @@
             {}
         ]
     },
-    {
+    "10": {
         "id": 10,
         "PJLFMAELJEK": "ROGUE_GADGET_TYPE_GUARD",
         "gadgetId": 70310123,
@@ -165,4 +165,4 @@
             }
         ]
     }
-]
+}

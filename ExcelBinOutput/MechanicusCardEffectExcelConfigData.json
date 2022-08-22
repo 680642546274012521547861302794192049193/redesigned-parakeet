@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "ID": 1,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -9,7 +9,7 @@
         "effectStrParam": "SGV_TDAttackDamage_A",
         "effectParam1": 1
     },
-    {
+    "2": {
         "ID": 2,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -19,7 +19,7 @@
         "effectStrParam": "SGV_TDAttackDamage_A",
         "effectParam1": 1
     },
-    {
+    "3": {
         "ID": 3,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -29,7 +29,7 @@
         "effectStrParam": "SGV_TDAttackDamage_A",
         "effectParam1": 1
     },
-    {
+    "4": {
         "ID": 4,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -39,7 +39,7 @@
         "effectStrParam": "SGV_TDAttackDamage_A",
         "effectParam1": 1
     },
-    {
+    "5": {
         "ID": 5,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -49,7 +49,7 @@
         "effectStrParam": "SGV_TDAttackDamage_A",
         "effectParam1": 1
     },
-    {
+    "6": {
         "ID": 6,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -59,7 +59,7 @@
         "effectStrParam": "SGV_TDAttackDamage_A",
         "effectParam1": 1
     },
-    {
+    "7": {
         "ID": 7,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -69,7 +69,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_A",
         "effectParam1": 1
     },
-    {
+    "8": {
         "ID": 8,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -79,7 +79,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_A",
         "effectParam1": 1
     },
-    {
+    "9": {
         "ID": 9,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -89,7 +89,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_A",
         "effectParam1": 1
     },
-    {
+    "10": {
         "ID": 10,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -99,7 +99,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_A",
         "effectParam1": 1
     },
-    {
+    "11": {
         "ID": 11,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -109,7 +109,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_A",
         "effectParam1": 1
     },
-    {
+    "12": {
         "ID": 12,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -119,7 +119,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_A",
         "effectParam1": 1
     },
-    {
+    "13": {
         "ID": 13,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -129,7 +129,7 @@
         "effectStrParam": "SGV_TDAttackRange_A",
         "effectParam1": 1
     },
-    {
+    "14": {
         "ID": 14,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -139,7 +139,7 @@
         "effectStrParam": "SGV_TDAttackRange_A",
         "effectParam1": 1
     },
-    {
+    "15": {
         "ID": 15,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -149,7 +149,7 @@
         "effectStrParam": "SGV_TDAttackRange_A",
         "effectParam1": 1
     },
-    {
+    "16": {
         "ID": 16,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -159,7 +159,7 @@
         "effectStrParam": "SGV_TDAttackRange_A",
         "effectParam1": 1
     },
-    {
+    "17": {
         "ID": 17,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -169,7 +169,7 @@
         "effectStrParam": "SGV_TDElementMastery",
         "effectParam1": 1
     },
-    {
+    "18": {
         "ID": 18,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -179,7 +179,7 @@
         "effectStrParam": "SGV_TDElementMastery",
         "effectParam1": 1
     },
-    {
+    "19": {
         "ID": 19,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -189,7 +189,7 @@
         "effectStrParam": "SGV_TDElementMastery",
         "effectParam1": 1
     },
-    {
+    "20": {
         "ID": 20,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -199,7 +199,7 @@
         "effectStrParam": "SGV_TDElementMastery",
         "effectParam1": 1
     },
-    {
+    "21": {
         "ID": 21,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -209,7 +209,7 @@
         "effectStrParam": "SGV_TDElementMastery",
         "effectParam1": 1
     },
-    {
+    "22": {
         "ID": 22,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -219,7 +219,7 @@
         "effectStrParam": "",
         "effectParam1": -2000
     },
-    {
+    "23": {
         "ID": 23,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -229,7 +229,7 @@
         "effectStrParam": "",
         "effectParam1": -2000
     },
-    {
+    "24": {
         "ID": 24,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -239,7 +239,7 @@
         "effectStrParam": "",
         "effectParam1": -2000
     },
-    {
+    "25": {
         "ID": 25,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -249,7 +249,7 @@
         "effectStrParam": "",
         "effectParam1": -2000
     },
-    {
+    "26": {
         "ID": 26,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -259,7 +259,7 @@
         "effectStrParam": "",
         "effectParam1": -2000
     },
-    {
+    "27": {
         "ID": 27,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -269,7 +269,7 @@
         "effectStrParam": "",
         "effectParam1": -2000
     },
-    {
+    "28": {
         "ID": 28,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -279,7 +279,7 @@
         "effectStrParam": "",
         "effectParam1": -1000
     },
-    {
+    "29": {
         "ID": 29,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -289,7 +289,7 @@
         "effectStrParam": "",
         "effectParam1": -1000
     },
-    {
+    "30": {
         "ID": 30,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -299,7 +299,7 @@
         "effectStrParam": "",
         "effectParam1": -6000
     },
-    {
+    "31": {
         "ID": 31,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -309,7 +309,7 @@
         "effectStrParam": "",
         "effectParam1": -2000
     },
-    {
+    "32": {
         "ID": 32,
         "targetType": "MECHANICUS_CARD_TARGET_ALL",
         "targetParamList": [],
@@ -317,21 +317,21 @@
         "effectStrParam": "",
         "effectParam1": 5000
     },
-    {
+    "33": {
         "ID": 33,
         "targetType": "MECHANICUS_CARD_TARGET_ALL",
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "34": {
         "ID": 34,
         "targetType": "MECHANICUS_CARD_TARGET_ALL",
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "35": {
         "ID": 35,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -341,7 +341,7 @@
         "effectStrParam": "SGV_TDUpGrade_Special",
         "effectParam1": 1
     },
-    {
+    "36": {
         "ID": 36,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -351,7 +351,7 @@
         "effectStrParam": "SGV_TDUpGrade_Special",
         "effectParam1": 1
     },
-    {
+    "37": {
         "ID": 37,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -361,7 +361,7 @@
         "effectStrParam": "SGV_TDUpGrade_Special",
         "effectParam1": 1
     },
-    {
+    "38": {
         "ID": 38,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -371,7 +371,7 @@
         "effectStrParam": "SGV_TDUpGrade_Special",
         "effectParam1": 1
     },
-    {
+    "39": {
         "ID": 39,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -381,7 +381,7 @@
         "effectStrParam": "SGV_TDUpGrade_Special",
         "effectParam1": 1
     },
-    {
+    "40": {
         "ID": 40,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -391,7 +391,7 @@
         "effectStrParam": "SGV_TDUpGrade_Special",
         "effectParam1": 1
     },
-    {
+    "41": {
         "ID": 41,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -402,7 +402,7 @@
         "effectParam1": 1,
         "effectParam2": 8
     },
-    {
+    "42": {
         "ID": 42,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -412,7 +412,7 @@
         "effectStrParam": "SGV_TDUpGrade_Special",
         "effectParam1": 1
     },
-    {
+    "43": {
         "ID": 43,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -422,35 +422,35 @@
         "effectStrParam": "SGV_TDUpGrade_Special",
         "effectParam1": 1
     },
-    {
+    "44": {
         "ID": 44,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_GRANT_POINTS",
         "effectStrParam": "",
         "effectParam1": 250
     },
-    {
+    "45": {
         "ID": 45,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_SET_HOME_HP",
         "effectStrParam": "",
         "effectParam1": 5
     },
-    {
+    "46": {
         "ID": 46,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_ADD_KILL_POINTS",
         "effectStrParam": "",
         "effectParam1": 5
     },
-    {
+    "47": {
         "ID": 47,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_ADD_GEAR_NUM",
         "effectStrParam": "",
         "effectParam1": 1
     },
-    {
+    "48": {
         "ID": 48,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -460,7 +460,7 @@
         "effectStrParam": "SGV_TDAttackDamage_B",
         "effectParam1": 1
     },
-    {
+    "49": {
         "ID": 49,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -470,7 +470,7 @@
         "effectStrParam": "SGV_TDAttackDamage_B",
         "effectParam1": 1
     },
-    {
+    "50": {
         "ID": 50,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -480,7 +480,7 @@
         "effectStrParam": "SGV_TDAttackDamage_B",
         "effectParam1": 1
     },
-    {
+    "51": {
         "ID": 51,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -490,7 +490,7 @@
         "effectStrParam": "SGV_TDAttackDamage_B",
         "effectParam1": 1
     },
-    {
+    "52": {
         "ID": 52,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -500,7 +500,7 @@
         "effectStrParam": "SGV_TDAttackDamage_B",
         "effectParam1": 1
     },
-    {
+    "53": {
         "ID": 53,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -510,7 +510,7 @@
         "effectStrParam": "SGV_TDAttackDamage_B",
         "effectParam1": 1
     },
-    {
+    "54": {
         "ID": 54,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -520,7 +520,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_B",
         "effectParam1": 1
     },
-    {
+    "55": {
         "ID": 55,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -530,7 +530,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_B",
         "effectParam1": 1
     },
-    {
+    "56": {
         "ID": 56,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -540,7 +540,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_B",
         "effectParam1": 1
     },
-    {
+    "57": {
         "ID": 57,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -550,7 +550,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_B",
         "effectParam1": 1
     },
-    {
+    "58": {
         "ID": 58,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -560,7 +560,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_B",
         "effectParam1": 1
     },
-    {
+    "59": {
         "ID": 59,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -570,7 +570,7 @@
         "effectStrParam": "SGV_TDAttackSpeed_B",
         "effectParam1": 1
     },
-    {
+    "60": {
         "ID": 60,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -580,7 +580,7 @@
         "effectStrParam": "SGV_TDAttackRange_B",
         "effectParam1": 1
     },
-    {
+    "61": {
         "ID": 61,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -590,7 +590,7 @@
         "effectStrParam": "SGV_TDAttackRange_B",
         "effectParam1": 1
     },
-    {
+    "62": {
         "ID": 62,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -600,7 +600,7 @@
         "effectStrParam": "SGV_TDAttackRange_B",
         "effectParam1": 1
     },
-    {
+    "63": {
         "ID": 63,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -610,7 +610,7 @@
         "effectStrParam": "SGV_TDAttackRange_B",
         "effectParam1": 1
     },
-    {
+    "64": {
         "ID": 64,
         "targetType": "MECHANICUS_CARD_TARGET_ALL",
         "targetParamList": [],
@@ -618,81 +618,81 @@
         "effectStrParam": "",
         "effectParam1": -6000
     },
-    {
+    "65": {
         "ID": 65,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "66": {
         "ID": 66,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "67": {
         "ID": 67,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "68": {
         "ID": 68,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "69": {
         "ID": 69,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "70": {
         "ID": 70,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "71": {
         "ID": 71,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "72": {
         "ID": 72,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "73": {
         "ID": 73,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "74": {
         "ID": 74,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_KILL_POINTS",
         "effectStrParam": "",
         "effectParam1": -2500
     },
-    {
+    "75": {
         "ID": 75,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": "",
         "effectParam1": 3000
     },
-    {
+    "76": {
         "ID": 76,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "77": {
         "ID": 77,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -701,7 +701,7 @@
         "effectType": "MECHANICUS_CARD_EFFECT_SET_SGV",
         "effectStrParam": "SGV_TDCanDoAttack"
     },
-    {
+    "78": {
         "ID": 78,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -710,7 +710,7 @@
         "effectType": "MECHANICUS_CARD_EFFECT_SET_SGV",
         "effectStrParam": "SGV_TDCanDoAttack"
     },
-    {
+    "79": {
         "ID": 79,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -719,7 +719,7 @@
         "effectType": "MECHANICUS_CARD_EFFECT_SET_SGV",
         "effectStrParam": "SGV_TDCanDoAttack"
     },
-    {
+    "80": {
         "ID": 80,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -728,7 +728,7 @@
         "effectType": "MECHANICUS_CARD_EFFECT_SET_SGV",
         "effectStrParam": "SGV_TDCanDoAttack"
     },
-    {
+    "81": {
         "ID": 81,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -737,7 +737,7 @@
         "effectType": "MECHANICUS_CARD_EFFECT_SET_SGV",
         "effectStrParam": "SGV_TDCanDoAttack"
     },
-    {
+    "82": {
         "ID": 82,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [
@@ -746,53 +746,53 @@
         "effectType": "MECHANICUS_CARD_EFFECT_SET_SGV",
         "effectStrParam": "SGV_TDCanDoAttack"
     },
-    {
+    "83": {
         "ID": 83,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_ADD_HOME_HP",
         "effectStrParam": "",
         "effectParam1": 1
     },
-    {
+    "84": {
         "ID": 84,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_KILL_GEARS",
         "effectStrParam": "",
         "effectParam1": 1
     },
-    {
+    "85": {
         "ID": 85,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "86": {
         "ID": 86,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "87": {
         "ID": 87,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_KILL_POINTS",
         "effectStrParam": "",
         "effectParam1": -10000
     },
-    {
+    "88": {
         "ID": 88,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_ADD_GEAR_NUM",
         "effectStrParam": "",
         "effectParam1": -1
     },
-    {
+    "89": {
         "ID": 89,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_COST",
         "effectStrParam": ""
     },
-    {
+    "90": {
         "ID": 90,
         "targetType": "MECHANICUS_CARD_TARGET_GADGETS",
         "targetParamList": [],
@@ -800,62 +800,62 @@
         "effectStrParam": "",
         "effectParam1": 1000
     },
-    {
+    "91": {
         "ID": 91,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_REFUND",
         "effectStrParam": "",
         "effectParam1": 1000
     },
-    {
+    "92": {
         "ID": 92,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_GRANT_POINTS",
         "effectStrParam": "",
         "effectParam1": 10
     },
-    {
+    "93": {
         "ID": 93,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_SET_HOME_HP",
         "effectStrParam": "",
         "effectParam1": 5
     },
-    {
+    "94": {
         "ID": 94,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_ADD_HOME_HP",
         "effectStrParam": "",
         "effectParam1": 1
     },
-    {
+    "95": {
         "ID": 95,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_ADD_KILL_POINTS",
         "effectStrParam": "",
         "effectParam1": 10
     },
-    {
+    "96": {
         "ID": 96,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_MOD_KILL_POINTS",
         "effectStrParam": ""
     },
-    {
+    "97": {
         "ID": 97,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_ADD_GEAR_NUM",
         "effectStrParam": "",
         "effectParam1": 2
     },
-    {
+    "98": {
         "ID": 98,
         "targetParamList": [],
         "effectType": "MECHANICUS_CARD_EFFECT_KILL_GEARS",
         "effectStrParam": "",
         "effectParam1": 2
     },
-    {
+    "99": {
         "ID": 99,
         "targetParamList": [],
         "effectType": "MECHANICUS_PASSIVE_AURA_BONUS_POINTS",
@@ -863,7 +863,7 @@
         "effectParam1": 6,
         "effectParam2": 4
     },
-    {
+    "100": {
         "ID": 100,
         "targetParamList": [],
         "effectType": "MECHANICUS_PASSIVE_AURA_BONUS_POINTS",
@@ -871,7 +871,7 @@
         "effectParam1": 8,
         "effectParam2": 4
     },
-    {
+    "101": {
         "ID": 101,
         "targetParamList": [],
         "effectType": "MECHANICUS_PASSIVE_AURA_BONUS_POINTS",
@@ -879,4 +879,4 @@
         "effectParam1": 8,
         "effectParam2": 6
     }
-]
+}

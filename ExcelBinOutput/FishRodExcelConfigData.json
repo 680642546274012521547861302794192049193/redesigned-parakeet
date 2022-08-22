@@ -1,36 +1,36 @@
-[
-    {
+{
+    "200900": {
         "id": 200900,
         "KKGJFEDLNIC": 10.0
     },
-    {
+    "200901": {
         "id": 200901,
         "KKGJFEDLNIC": 10.0,
         "cityId": 1,
         "IJJPIJIMFLC": 0.20000000298023224
     },
-    {
+    "200902": {
         "id": 200902,
         "KKGJFEDLNIC": 10.0,
         "cityId": 2,
         "IJJPIJIMFLC": 0.20000000298023224
     },
-    {
+    "200903": {
         "id": 200903,
         "KKGJFEDLNIC": 10.0,
         "cityId": 3,
         "IJJPIJIMFLC": 0.20000000298023224
     },
-    {
+    "200904": {
         "id": 200904,
         "KKGJFEDLNIC": 10.0,
         "IHKGDDFDCND": 2.0,
         "HJPOAJKFNAO": 14.0
     },
-    {
+    "200905": {
         "id": 200905,
         "KKGJFEDLNIC": 10.0,
         "cityId": 4,
         "IJJPIJIMFLC": 0.20000000298023224
     }
-]
+}

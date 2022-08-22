@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "stageId": 1,
         "openDay": 1,
@@ -19,7 +19,7 @@
         "AHMHCHEIBDD": 2785402290,
         "PNMDDCIEBAN": 922721938
     },
-    {
+    "2": {
         "Id": 2,
         "stageId": 2,
         "openDay": 4,
@@ -50,7 +50,7 @@
         "AHMHCHEIBDD": 3764696426,
         "PNMDDCIEBAN": 1799677082
     },
-    {
+    "3": {
         "Id": 3,
         "stageId": 3,
         "openDay": 7,
@@ -69,7 +69,7 @@
         "AHMHCHEIBDD": 2090941106,
         "PNMDDCIEBAN": 213437786
     },
-    {
+    "4": {
         "Id": 4,
         "stageId": 4,
         "openDay": 10,
@@ -88,4 +88,4 @@
         "AHMHCHEIBDD": 3950244322,
         "PNMDDCIEBAN": 606706458
     }
-]
+}

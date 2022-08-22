@@ -1,5 +1,5 @@
-[
-    {
+{
+    "101": {
         "cardProductType": "CARD_PRODUCT_TYPE_HCOIN",
         "itemNameTextMapHash": 3486638812,
         "icon": "UI_Mall_Purchase_Blessofmoon",
@@ -23,4 +23,4 @@
         "priceTier": "Tier_5",
         "shopType": "SHOP_TYPE_PACKAGE"
     }
-]
+}

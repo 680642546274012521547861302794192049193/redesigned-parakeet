@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10001": {
         "configId": 10001,
         "monsterId": 20020101,
         "affix": [
@@ -31,7 +31,7 @@
         "KJGAPGGOBNB": 3771462096,
         "refreshCond": []
     },
-    {
+    "10002": {
         "configId": 10002,
         "monsterId": 20020101,
         "affix": [
@@ -63,7 +63,7 @@
         "KJGAPGGOBNB": 2091289904,
         "refreshCond": []
     },
-    {
+    "10003": {
         "configId": 10003,
         "monsterId": 20020101,
         "affix": [
@@ -95,7 +95,7 @@
         "KJGAPGGOBNB": 1105908232,
         "refreshCond": []
     },
-    {
+    "10004": {
         "configId": 10004,
         "monsterId": 20020101,
         "affix": [
@@ -127,7 +127,7 @@
         "KJGAPGGOBNB": 438973296,
         "refreshCond": []
     },
-    {
+    "10005": {
         "configId": 10005,
         "monsterId": 20020101,
         "affix": [
@@ -159,7 +159,7 @@
         "KJGAPGGOBNB": 3615958984,
         "refreshCond": []
     },
-    {
+    "10006": {
         "configId": 10006,
         "monsterId": 21020101,
         "affix": [
@@ -191,7 +191,7 @@
         "KJGAPGGOBNB": 3246473128,
         "refreshCond": []
     },
-    {
+    "10007": {
         "configId": 10007,
         "monsterId": 21020101,
         "affix": [
@@ -223,7 +223,7 @@
         "KJGAPGGOBNB": 3638872808,
         "refreshCond": []
     },
-    {
+    "10008": {
         "configId": 10008,
         "monsterId": 21020101,
         "affix": [
@@ -255,7 +255,7 @@
         "KJGAPGGOBNB": 3775543608,
         "refreshCond": []
     },
-    {
+    "10009": {
         "configId": 10009,
         "monsterId": 21020201,
         "affix": [
@@ -287,7 +287,7 @@
         "KJGAPGGOBNB": 1129743416,
         "refreshCond": []
     },
-    {
+    "10010": {
         "configId": 10010,
         "monsterId": 21020201,
         "affix": [
@@ -319,7 +319,7 @@
         "KJGAPGGOBNB": 1114246136,
         "refreshCond": []
     },
-    {
+    "10011": {
         "configId": 10011,
         "monsterId": 21020201,
         "affix": [
@@ -351,7 +351,7 @@
         "KJGAPGGOBNB": 2931108264,
         "refreshCond": []
     },
-    {
+    "10012": {
         "configId": 10012,
         "monsterId": 21020301,
         "affix": [
@@ -382,7 +382,7 @@
         "KJGAPGGOBNB": 479308824,
         "refreshCond": []
     },
-    {
+    "10013": {
         "configId": 10013,
         "monsterId": 21020301,
         "affix": [
@@ -413,7 +413,7 @@
         "KJGAPGGOBNB": 2729123768,
         "refreshCond": []
     },
-    {
+    "10014": {
         "configId": 10014,
         "monsterId": 22010101,
         "affix": [
@@ -446,7 +446,7 @@
         "KJGAPGGOBNB": 3838937160,
         "refreshCond": []
     },
-    {
+    "10015": {
         "configId": 10015,
         "monsterId": 22010101,
         "affix": [
@@ -479,7 +479,7 @@
         "KJGAPGGOBNB": 1691857720,
         "refreshCond": []
     },
-    {
+    "10016": {
         "configId": 10016,
         "monsterId": 22010101,
         "affix": [
@@ -512,7 +512,7 @@
         "KJGAPGGOBNB": 112557704,
         "refreshCond": []
     },
-    {
+    "10017": {
         "configId": 10017,
         "monsterId": 22010201,
         "affix": [
@@ -544,7 +544,7 @@
         "KJGAPGGOBNB": 1607665552,
         "refreshCond": []
     },
-    {
+    "10018": {
         "configId": 10018,
         "monsterId": 22010201,
         "affix": [
@@ -576,7 +576,7 @@
         "KJGAPGGOBNB": 3355577264,
         "refreshCond": []
     },
-    {
+    "10019": {
         "configId": 10019,
         "monsterId": 22010301,
         "affix": [
@@ -608,7 +608,7 @@
         "KJGAPGGOBNB": 1694972696,
         "refreshCond": []
     },
-    {
+    "10020": {
         "configId": 10020,
         "monsterId": 22010301,
         "affix": [
@@ -640,7 +640,7 @@
         "KJGAPGGOBNB": 3023242440,
         "refreshCond": []
     },
-    {
+    "13001": {
         "configId": 13001,
         "monsterId": 22010201,
         "affix": [
@@ -668,7 +668,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321300027
     },
-    {
+    "13002": {
         "configId": 13002,
         "monsterId": 22010401,
         "affix": [
@@ -696,7 +696,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321300028
     },
-    {
+    "13003": {
         "configId": 13003,
         "monsterId": 22010301,
         "affix": [
@@ -724,7 +724,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "13004": {
         "configId": 13004,
         "monsterId": 21020201,
         "affix": [
@@ -752,7 +752,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "13005": {
         "configId": 13005,
         "monsterId": 21020701,
         "affix": [
@@ -780,7 +780,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321200092
     },
-    {
+    "13006": {
         "configId": 13006,
         "monsterId": 21030601,
         "affix": [
@@ -808,7 +808,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000112
     },
-    {
+    "14001": {
         "configId": 14001,
         "monsterId": 22010101,
         "affix": [
@@ -834,7 +834,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "14002": {
         "configId": 14002,
         "monsterId": 21020201,
         "affix": [
@@ -860,7 +860,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "14003": {
         "configId": 14003,
         "monsterId": 25310301,
         "affix": [
@@ -886,7 +886,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "14004": {
         "configId": 14004,
         "monsterId": 26120301,
         "affix": [
@@ -912,7 +912,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "14005": {
         "configId": 14005,
         "monsterId": 25310201,
         "affix": [
@@ -939,7 +939,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 330300072
     },
-    {
+    "14006": {
         "configId": 14006,
         "monsterId": 26120201,
         "affix": [
@@ -965,7 +965,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "14007": {
         "configId": 14007,
         "monsterId": 21030201,
         "affix": [
@@ -992,7 +992,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 330400105
     },
-    {
+    "14008": {
         "configId": 14008,
         "monsterId": 25310101,
         "affix": [
@@ -1018,7 +1018,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "20001": {
         "configId": 20001,
         "monsterId": 22010101,
         "affix": [
@@ -1055,7 +1055,7 @@
         "KJGAPGGOBNB": 4178335416,
         "refreshCond": []
     },
-    {
+    "20002": {
         "configId": 20002,
         "monsterId": 22010201,
         "affix": [
@@ -1091,7 +1091,7 @@
         "KJGAPGGOBNB": 2093498752,
         "refreshCond": []
     },
-    {
+    "20003": {
         "configId": 20003,
         "monsterId": 22010301,
         "affix": [
@@ -1127,7 +1127,7 @@
         "KJGAPGGOBNB": 1128263512,
         "refreshCond": []
     },
-    {
+    "20004": {
         "configId": 20004,
         "monsterId": 26030101,
         "affix": [
@@ -1162,7 +1162,7 @@
         "KJGAPGGOBNB": 2922127072,
         "refreshCond": []
     },
-    {
+    "20005": {
         "configId": 20005,
         "monsterId": 26030101,
         "affix": [
@@ -1197,7 +1197,7 @@
         "KJGAPGGOBNB": 3772316128,
         "refreshCond": []
     },
-    {
+    "20006": {
         "configId": 20006,
         "monsterId": 26030101,
         "affix": [
@@ -1232,7 +1232,7 @@
         "KJGAPGGOBNB": 2545995496,
         "refreshCond": []
     },
-    {
+    "20007": {
         "configId": 20007,
         "monsterId": 26030101,
         "affix": [
@@ -1267,7 +1267,7 @@
         "KJGAPGGOBNB": 2782892192,
         "refreshCond": []
     },
-    {
+    "20008": {
         "configId": 20008,
         "monsterId": 20020101,
         "affix": [
@@ -1302,7 +1302,7 @@
         "KJGAPGGOBNB": 291943088,
         "refreshCond": []
     },
-    {
+    "20009": {
         "configId": 20009,
         "monsterId": 20020101,
         "affix": [
@@ -1337,7 +1337,7 @@
         "KJGAPGGOBNB": 1543192152,
         "refreshCond": []
     },
-    {
+    "20010": {
         "configId": 20010,
         "monsterId": 20020101,
         "affix": [
@@ -1372,7 +1372,7 @@
         "KJGAPGGOBNB": 945000096,
         "refreshCond": []
     },
-    {
+    "20011": {
         "configId": 20011,
         "monsterId": 20020101,
         "affix": [
@@ -1407,7 +1407,7 @@
         "KJGAPGGOBNB": 2968058704,
         "refreshCond": []
     },
-    {
+    "20012": {
         "configId": 20012,
         "monsterId": 20020101,
         "affix": [
@@ -1442,7 +1442,7 @@
         "KJGAPGGOBNB": 942221008,
         "refreshCond": []
     },
-    {
+    "20013": {
         "configId": 20013,
         "monsterId": 21020101,
         "affix": [
@@ -1475,7 +1475,7 @@
         "KJGAPGGOBNB": 778974112,
         "refreshCond": []
     },
-    {
+    "20014": {
         "configId": 20014,
         "monsterId": 21020101,
         "affix": [
@@ -1508,7 +1508,7 @@
         "KJGAPGGOBNB": 431911744,
         "refreshCond": []
     },
-    {
+    "20015": {
         "configId": 20015,
         "monsterId": 21020201,
         "affix": [
@@ -1541,7 +1541,7 @@
         "KJGAPGGOBNB": 2179795848,
         "refreshCond": []
     },
-    {
+    "20016": {
         "configId": 20016,
         "monsterId": 21020201,
         "affix": [
@@ -1574,7 +1574,7 @@
         "KJGAPGGOBNB": 750484040,
         "refreshCond": []
     },
-    {
+    "20017": {
         "configId": 20017,
         "monsterId": 21020301,
         "affix": [
@@ -1606,7 +1606,7 @@
         "KJGAPGGOBNB": 3504548424,
         "refreshCond": []
     },
-    {
+    "20018": {
         "configId": 20018,
         "monsterId": 21020301,
         "affix": [
@@ -1638,7 +1638,7 @@
         "KJGAPGGOBNB": 4006006024,
         "refreshCond": []
     },
-    {
+    "20019": {
         "configId": 20019,
         "monsterId": 21020101,
         "affix": [
@@ -1676,7 +1676,7 @@
         "KJGAPGGOBNB": 79563496,
         "refreshCond": []
     },
-    {
+    "20020": {
         "configId": 20020,
         "monsterId": 21020201,
         "affix": [
@@ -1714,7 +1714,7 @@
         "KJGAPGGOBNB": 3891734776,
         "refreshCond": []
     },
-    {
+    "20021": {
         "configId": 20021,
         "monsterId": 21020301,
         "affix": [
@@ -1751,7 +1751,7 @@
         "KJGAPGGOBNB": 856731224,
         "refreshCond": []
     },
-    {
+    "23001": {
         "configId": 23001,
         "monsterId": 21020701,
         "affix": [
@@ -1782,7 +1782,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321300027
     },
-    {
+    "23002": {
         "configId": 23002,
         "monsterId": 21020201,
         "affix": [
@@ -1813,7 +1813,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321300028
     },
-    {
+    "23003": {
         "configId": 23003,
         "monsterId": 22010301,
         "affix": [
@@ -1844,7 +1844,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "23004": {
         "configId": 23004,
         "monsterId": 21020701,
         "affix": [
@@ -1875,7 +1875,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "23005": {
         "configId": 23005,
         "monsterId": 22010401,
         "affix": [
@@ -1906,7 +1906,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321200092
     },
-    {
+    "23006": {
         "configId": 23006,
         "monsterId": 24010101,
         "affix": [
@@ -1936,7 +1936,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000112
     },
-    {
+    "24001": {
         "configId": 24001,
         "monsterId": 24010101,
         "affix": [
@@ -1965,7 +1965,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "24002": {
         "configId": 24002,
         "monsterId": 22050201,
         "affix": [
@@ -1994,7 +1994,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "24003": {
         "configId": 24003,
         "monsterId": 25310101,
         "affix": [
@@ -2023,7 +2023,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "24004": {
         "configId": 24004,
         "monsterId": 26120201,
         "affix": [
@@ -2052,7 +2052,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "24005": {
         "configId": 24005,
         "monsterId": 25310201,
         "affix": [
@@ -2082,7 +2082,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 330300072
     },
-    {
+    "24006": {
         "configId": 24006,
         "monsterId": 26120101,
         "affix": [
@@ -2111,7 +2111,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "24007": {
         "configId": 24007,
         "monsterId": 23020101,
         "affix": [
@@ -2141,7 +2141,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 330400105
     },
-    {
+    "24008": {
         "configId": 24008,
         "monsterId": 25310301,
         "affix": [
@@ -2170,7 +2170,7 @@
         "refreshCond": [],
         "NEHMLKCAFIF": true
     },
-    {
+    "30001": {
         "configId": 30001,
         "monsterId": 24010101,
         "affix": [
@@ -2210,7 +2210,7 @@
         "KJGAPGGOBNB": 1341498200,
         "refreshCond": []
     },
-    {
+    "30002": {
         "configId": 30002,
         "monsterId": 24010101,
         "affix": [
@@ -2248,7 +2248,7 @@
         "KJGAPGGOBNB": 3550624248,
         "refreshCond": []
     },
-    {
+    "30003": {
         "configId": 30003,
         "monsterId": 24010101,
         "affix": [
@@ -2285,7 +2285,7 @@
         "KJGAPGGOBNB": 599949480,
         "refreshCond": []
     },
-    {
+    "30004": {
         "configId": 30004,
         "monsterId": 24010201,
         "affix": [
@@ -2322,7 +2322,7 @@
         "KJGAPGGOBNB": 1472581864,
         "refreshCond": []
     },
-    {
+    "30005": {
         "configId": 30005,
         "monsterId": 24010201,
         "affix": [
@@ -2361,7 +2361,7 @@
         "KJGAPGGOBNB": 3090649616,
         "refreshCond": []
     },
-    {
+    "30006": {
         "configId": 30006,
         "monsterId": 24010201,
         "affix": [
@@ -2402,7 +2402,7 @@
         "KJGAPGGOBNB": 4079353256,
         "refreshCond": []
     },
-    {
+    "30007": {
         "configId": 30007,
         "monsterId": 24010201,
         "affix": [
@@ -2440,7 +2440,7 @@
         "KJGAPGGOBNB": 1987034504,
         "refreshCond": []
     },
-    {
+    "30008": {
         "configId": 30008,
         "monsterId": 21020501,
         "affix": [
@@ -2479,7 +2479,7 @@
         "KJGAPGGOBNB": 4009284104,
         "refreshCond": []
     },
-    {
+    "30009": {
         "configId": 30009,
         "monsterId": 21020501,
         "affix": [
@@ -2512,7 +2512,7 @@
         "KJGAPGGOBNB": 484410320,
         "refreshCond": []
     },
-    {
+    "30010": {
         "configId": 30010,
         "monsterId": 21020501,
         "affix": [
@@ -2547,7 +2547,7 @@
         "KJGAPGGOBNB": 2029997112,
         "refreshCond": []
     },
-    {
+    "30011": {
         "configId": 30011,
         "monsterId": 21020501,
         "affix": [
@@ -2580,7 +2580,7 @@
         "KJGAPGGOBNB": 163124424,
         "refreshCond": []
     },
-    {
+    "30012": {
         "configId": 30012,
         "monsterId": 21020501,
         "affix": [
@@ -2613,7 +2613,7 @@
         "KJGAPGGOBNB": 4022672048,
         "refreshCond": []
     },
-    {
+    "33001": {
         "configId": 33001,
         "monsterId": 21020801,
         "affix": [
@@ -2647,7 +2647,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321300027
     },
-    {
+    "33003": {
         "configId": 33003,
         "monsterId": 25100101,
         "affix": [
@@ -2681,7 +2681,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321300027
     },
-    {
+    "33004": {
         "configId": 33004,
         "monsterId": 25100101,
         "affix": [
@@ -2715,7 +2715,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321300027
     },
-    {
+    "33005": {
         "configId": 33005,
         "monsterId": 25100101,
         "affix": [
@@ -2750,7 +2750,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321300027
     },
-    {
+    "33006": {
         "configId": 33006,
         "monsterId": 25100201,
         "affix": [
@@ -2783,7 +2783,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "33007": {
         "configId": 33007,
         "monsterId": 25100201,
         "affix": [
@@ -2817,7 +2817,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "33008": {
         "configId": 33008,
         "monsterId": 25100201,
         "affix": [
@@ -2852,7 +2852,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "33009": {
         "configId": 33009,
         "monsterId": 21020801,
         "affix": [
@@ -2886,7 +2886,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321200092
     },
-    {
+    "33010": {
         "configId": 33010,
         "monsterId": 21020801,
         "affix": [
@@ -2920,7 +2920,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 321200092
     },
-    {
+    "33011": {
         "configId": 33011,
         "monsterId": 24010301,
         "affix": [
@@ -2957,7 +2957,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "33012": {
         "configId": 33012,
         "monsterId": 24010301,
         "affix": [
@@ -2994,7 +2994,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "33013": {
         "configId": 33013,
         "monsterId": 24010301,
         "affix": [
@@ -3027,7 +3027,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000102
     },
-    {
+    "33014": {
         "configId": 33014,
         "monsterId": 24020101,
         "affix": [
@@ -3059,7 +3059,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000112
     },
-    {
+    "33015": {
         "configId": 33015,
         "monsterId": 24020201,
         "affix": [
@@ -3091,7 +3091,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000112
     },
-    {
+    "33016": {
         "configId": 33016,
         "monsterId": 24020301,
         "affix": [
@@ -3123,7 +3123,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000112
     },
-    {
+    "33017": {
         "configId": 33017,
         "monsterId": 24020401,
         "affix": [
@@ -3155,7 +3155,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 322000112
     },
-    {
+    "34001": {
         "configId": 34001,
         "monsterId": 24030201,
         "affix": [
@@ -3187,7 +3187,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34002": {
         "configId": 34002,
         "monsterId": 24030201,
         "affix": [
@@ -3219,7 +3219,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34003": {
         "configId": 34003,
         "monsterId": 22050201,
         "affix": [
@@ -3251,7 +3251,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34004": {
         "configId": 34004,
         "monsterId": 22050101,
         "affix": [
@@ -3283,7 +3283,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34005": {
         "configId": 34005,
         "monsterId": 25310101,
         "affix": [
@@ -3315,7 +3315,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34006": {
         "configId": 34006,
         "monsterId": 25310201,
         "affix": [
@@ -3347,7 +3347,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34007": {
         "configId": 34007,
         "monsterId": 26120301,
         "affix": [
@@ -3379,7 +3379,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34008": {
         "configId": 34008,
         "monsterId": 26120301,
         "affix": [
@@ -3411,7 +3411,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34009": {
         "configId": 34009,
         "monsterId": 24030201,
         "affix": [
@@ -3444,7 +3444,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 330300072
     },
-    {
+    "34010": {
         "configId": 34010,
         "monsterId": 24010301,
         "affix": [
@@ -3477,7 +3477,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 330300072
     },
-    {
+    "34011": {
         "configId": 34011,
         "monsterId": 26120101,
         "affix": [
@@ -3509,7 +3509,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34012": {
         "configId": 34012,
         "monsterId": 26120201,
         "affix": [
@@ -3540,7 +3540,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34013": {
         "configId": 34013,
         "monsterId": 24030201,
         "affix": [
@@ -3573,7 +3573,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 330400105
     },
-    {
+    "34014": {
         "configId": 34014,
         "monsterId": 24010301,
         "affix": [
@@ -3606,7 +3606,7 @@
         "NEHMLKCAFIF": true,
         "BADMANIEIAA": 330400105
     },
-    {
+    "34015": {
         "configId": 34015,
         "monsterId": 25310301,
         "affix": [
@@ -3638,7 +3638,7 @@
         ],
         "NEHMLKCAFIF": true
     },
-    {
+    "34016": {
         "configId": 34016,
         "monsterId": 25310201,
         "affix": [
@@ -3670,4 +3670,4 @@
         ],
         "NEHMLKCAFIF": true
     }
-]
+}

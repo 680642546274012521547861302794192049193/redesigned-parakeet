@@ -1,26 +1,26 @@
-[
-    {
+{
+    "133003613": {
         "groupId": 133003613,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133003614": {
         "groupId": 133003614,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133003615": {
         "groupId": 133003615,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133003618": {
         "groupId": 133003618,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -32,7 +32,7 @@
             1005
         ]
     },
-    {
+    "133003619": {
         "groupId": 133003619,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -44,7 +44,7 @@
             1005
         ]
     },
-    {
+    "133003620": {
         "groupId": 133003620,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -56,7 +56,7 @@
             1005
         ]
     },
-    {
+    "133003621": {
         "groupId": 133003621,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -68,7 +68,7 @@
             1005
         ]
     },
-    {
+    "133003622": {
         "groupId": 133003622,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -80,7 +80,7 @@
             1005
         ]
     },
-    {
+    "133003623": {
         "groupId": 133003623,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -92,7 +92,7 @@
             1005
         ]
     },
-    {
+    "133003624": {
         "groupId": 133003624,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -104,7 +104,7 @@
             1005
         ]
     },
-    {
+    "133003625": {
         "groupId": 133003625,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -116,7 +116,7 @@
             1005
         ]
     },
-    {
+    "133003680": {
         "groupId": 133003680,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -128,7 +128,7 @@
             1005
         ]
     },
-    {
+    "133003681": {
         "groupId": 133003681,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -140,7 +140,7 @@
             1005
         ]
     },
-    {
+    "133003682": {
         "groupId": 133003682,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -152,7 +152,7 @@
             1005
         ]
     },
-    {
+    "133003683": {
         "groupId": 133003683,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -164,7 +164,7 @@
             1005
         ]
     },
-    {
+    "133003684": {
         "groupId": 133003684,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -176,7 +176,7 @@
             1005
         ]
     },
-    {
+    "133003685": {
         "groupId": 133003685,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -188,7 +188,7 @@
             1005
         ]
     },
-    {
+    "133003686": {
         "groupId": 133003686,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -200,7 +200,7 @@
             1005
         ]
     },
-    {
+    "133003626": {
         "groupId": 133003626,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -210,7 +210,7 @@
             2003
         ]
     },
-    {
+    "133003627": {
         "groupId": 133003627,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -220,7 +220,7 @@
             2003
         ]
     },
-    {
+    "133003628": {
         "groupId": 133003628,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -230,7 +230,7 @@
             2003
         ]
     },
-    {
+    "133003630": {
         "groupId": 133003630,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -240,7 +240,7 @@
             2003
         ]
     },
-    {
+    "133003631": {
         "groupId": 133003631,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -250,7 +250,7 @@
             2003
         ]
     },
-    {
+    "133003670": {
         "groupId": 133003670,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -260,7 +260,7 @@
             2003
         ]
     },
-    {
+    "133003671": {
         "groupId": 133003671,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -270,7 +270,7 @@
             2003
         ]
     },
-    {
+    "133003672": {
         "groupId": 133003672,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -280,7 +280,7 @@
             2003
         ]
     },
-    {
+    "133003673": {
         "groupId": 133003673,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -290,7 +290,7 @@
             2003
         ]
     },
-    {
+    "133003674": {
         "groupId": 133003674,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -300,7 +300,7 @@
             2003
         ]
     },
-    {
+    "133003675": {
         "groupId": 133003675,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -310,7 +310,7 @@
             2003
         ]
     },
-    {
+    "133003676": {
         "groupId": 133003676,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -320,7 +320,7 @@
             2003
         ]
     },
-    {
+    "133003677": {
         "groupId": 133003677,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -330,7 +330,7 @@
             2003
         ]
     },
-    {
+    "133003678": {
         "groupId": 133003678,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -340,7 +340,7 @@
             2003
         ]
     },
-    {
+    "133003679": {
         "groupId": 133003679,
         "regionId": 101,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -350,157 +350,157 @@
             2003
         ]
     },
-    {
+    "133003640": {
         "groupId": 133003640,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003641": {
         "groupId": 133003641,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003642": {
         "groupId": 133003642,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003643": {
         "groupId": 133003643,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003644": {
         "groupId": 133003644,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003645": {
         "groupId": 133003645,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003646": {
         "groupId": 133003646,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003647": {
         "groupId": 133003647,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003648": {
         "groupId": 133003648,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003649": {
         "groupId": 133003649,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003650": {
         "groupId": 133003650,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003651": {
         "groupId": 133003651,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003652": {
         "groupId": 133003652,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003653": {
         "groupId": 133003653,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003654": {
         "groupId": 133003654,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003655": {
         "groupId": 133003655,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003656": {
         "groupId": 133003656,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003657": {
         "groupId": 133003657,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003658": {
         "groupId": 133003658,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003659": {
         "groupId": 133003659,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003660": {
         "groupId": 133003660,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003661": {
         "groupId": 133003661,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003662": {
         "groupId": 133003662,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003663": {
         "groupId": 133003663,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003664": {
         "groupId": 133003664,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003665": {
         "groupId": 133003665,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003666": {
         "groupId": 133003666,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003667": {
         "groupId": 133003667,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003668": {
         "groupId": 133003668,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133003669": {
         "groupId": 133003669,
         "regionId": 101,
         "refIndex": []
     },
-    {
+    "133104714": {
         "groupId": 133104714,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -510,7 +510,7 @@
             2003
         ]
     },
-    {
+    "133104715": {
         "groupId": 133104715,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -520,7 +520,7 @@
             2003
         ]
     },
-    {
+    "133104716": {
         "groupId": 133104716,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -530,7 +530,7 @@
             2003
         ]
     },
-    {
+    "133104717": {
         "groupId": 133104717,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -540,7 +540,7 @@
             2003
         ]
     },
-    {
+    "133104718": {
         "groupId": 133104718,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -550,7 +550,7 @@
             2003
         ]
     },
-    {
+    "133104719": {
         "groupId": 133104719,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -560,7 +560,7 @@
             2003
         ]
     },
-    {
+    "133104720": {
         "groupId": 133104720,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -570,7 +570,7 @@
             2003
         ]
     },
-    {
+    "133104721": {
         "groupId": 133104721,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -580,7 +580,7 @@
             2003
         ]
     },
-    {
+    "133104722": {
         "groupId": 133104722,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -590,7 +590,7 @@
             2003
         ]
     },
-    {
+    "133104723": {
         "groupId": 133104723,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -600,7 +600,7 @@
             2003
         ]
     },
-    {
+    "133104724": {
         "groupId": 133104724,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -610,7 +610,7 @@
             2003
         ]
     },
-    {
+    "133104725": {
         "groupId": 133104725,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -620,7 +620,7 @@
             2003
         ]
     },
-    {
+    "133104726": {
         "groupId": 133104726,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -630,7 +630,7 @@
             2003
         ]
     },
-    {
+    "133104727": {
         "groupId": 133104727,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -640,7 +640,7 @@
             2003
         ]
     },
-    {
+    "133104729": {
         "groupId": 133104729,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -650,42 +650,42 @@
             2003
         ]
     },
-    {
+    "133104694": {
         "groupId": 133104694,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133104695": {
         "groupId": 133104695,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133104696": {
         "groupId": 133104696,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133104697": {
         "groupId": 133104697,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133104698": {
         "groupId": 133104698,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133104700": {
         "groupId": 133104700,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -697,7 +697,7 @@
             1005
         ]
     },
-    {
+    "133104701": {
         "groupId": 133104701,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -709,7 +709,7 @@
             1005
         ]
     },
-    {
+    "133104702": {
         "groupId": 133104702,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -721,7 +721,7 @@
             1005
         ]
     },
-    {
+    "133104703": {
         "groupId": 133104703,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -733,7 +733,7 @@
             1005
         ]
     },
-    {
+    "133104704": {
         "groupId": 133104704,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -745,7 +745,7 @@
             1005
         ]
     },
-    {
+    "133104705": {
         "groupId": 133104705,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -757,7 +757,7 @@
             1005
         ]
     },
-    {
+    "133104706": {
         "groupId": 133104706,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -769,7 +769,7 @@
             1005
         ]
     },
-    {
+    "133104707": {
         "groupId": 133104707,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -781,7 +781,7 @@
             1005
         ]
     },
-    {
+    "133104708": {
         "groupId": 133104708,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -793,7 +793,7 @@
             1005
         ]
     },
-    {
+    "133104709": {
         "groupId": 133104709,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -805,7 +805,7 @@
             1005
         ]
     },
-    {
+    "133104710": {
         "groupId": 133104710,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -817,7 +817,7 @@
             1005
         ]
     },
-    {
+    "133104711": {
         "groupId": 133104711,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -829,7 +829,7 @@
             1005
         ]
     },
-    {
+    "133104712": {
         "groupId": 133104712,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -841,7 +841,7 @@
             1005
         ]
     },
-    {
+    "133104713": {
         "groupId": 133104713,
         "regionId": 201,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -853,177 +853,177 @@
             1005
         ]
     },
-    {
+    "133104730": {
         "groupId": 133104730,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104731": {
         "groupId": 133104731,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104732": {
         "groupId": 133104732,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104733": {
         "groupId": 133104733,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104734": {
         "groupId": 133104734,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104735": {
         "groupId": 133104735,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104736": {
         "groupId": 133104736,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104737": {
         "groupId": 133104737,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104738": {
         "groupId": 133104738,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104739": {
         "groupId": 133104739,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104740": {
         "groupId": 133104740,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104741": {
         "groupId": 133104741,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104743": {
         "groupId": 133104743,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104744": {
         "groupId": 133104744,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104745": {
         "groupId": 133104745,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104746": {
         "groupId": 133104746,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104747": {
         "groupId": 133104747,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104748": {
         "groupId": 133104748,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104749": {
         "groupId": 133104749,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104750": {
         "groupId": 133104750,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104751": {
         "groupId": 133104751,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104752": {
         "groupId": 133104752,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104753": {
         "groupId": 133104753,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104754": {
         "groupId": 133104754,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104755": {
         "groupId": 133104755,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104756": {
         "groupId": 133104756,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104757": {
         "groupId": 133104757,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104758": {
         "groupId": 133104758,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104759": {
         "groupId": 133104759,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133104760": {
         "groupId": 133104760,
         "regionId": 201,
         "refIndex": []
     },
-    {
+    "133001434": {
         "groupId": 133001434,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_SHOAL_WATER"
     },
-    {
+    "133001436": {
         "groupId": 133001436,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133001437": {
         "groupId": 133001437,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": []
     },
-    {
+    "133001438": {
         "groupId": 133001438,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1035,7 +1035,7 @@
             1005
         ]
     },
-    {
+    "133001439": {
         "groupId": 133001439,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1047,7 +1047,7 @@
             1005
         ]
     },
-    {
+    "133001440": {
         "groupId": 133001440,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1059,7 +1059,7 @@
             1005
         ]
     },
-    {
+    "133001441": {
         "groupId": 133001441,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1071,7 +1071,7 @@
             1005
         ]
     },
-    {
+    "133001442": {
         "groupId": 133001442,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1083,7 +1083,7 @@
             1005
         ]
     },
-    {
+    "133001443": {
         "groupId": 133001443,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1095,7 +1095,7 @@
             1005
         ]
     },
-    {
+    "133001444": {
         "groupId": 133001444,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1107,7 +1107,7 @@
             1005
         ]
     },
-    {
+    "133001445": {
         "groupId": 133001445,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1119,7 +1119,7 @@
             1005
         ]
     },
-    {
+    "133001446": {
         "groupId": 133001446,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1131,7 +1131,7 @@
             1005
         ]
     },
-    {
+    "133001447": {
         "groupId": 133001447,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1143,7 +1143,7 @@
             1005
         ]
     },
-    {
+    "133001448": {
         "groupId": 133001448,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1155,7 +1155,7 @@
             1005
         ]
     },
-    {
+    "133001449": {
         "groupId": 133001449,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1167,7 +1167,7 @@
             1005
         ]
     },
-    {
+    "133001450": {
         "groupId": 133001450,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1179,7 +1179,7 @@
             1005
         ]
     },
-    {
+    "133001451": {
         "groupId": 133001451,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1191,7 +1191,7 @@
             1005
         ]
     },
-    {
+    "133001452": {
         "groupId": 133001452,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1203,7 +1203,7 @@
             1005
         ]
     },
-    {
+    "133001453": {
         "groupId": 133001453,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1213,7 +1213,7 @@
             2003
         ]
     },
-    {
+    "133001454": {
         "groupId": 133001454,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1223,7 +1223,7 @@
             2003
         ]
     },
-    {
+    "133001455": {
         "groupId": 133001455,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1233,7 +1233,7 @@
             2003
         ]
     },
-    {
+    "133001456": {
         "groupId": 133001456,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1243,7 +1243,7 @@
             2003
         ]
     },
-    {
+    "133001457": {
         "groupId": 133001457,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1253,7 +1253,7 @@
             2003
         ]
     },
-    {
+    "133001458": {
         "groupId": 133001458,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1263,7 +1263,7 @@
             2003
         ]
     },
-    {
+    "133001459": {
         "groupId": 133001459,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1273,7 +1273,7 @@
             2003
         ]
     },
-    {
+    "133001460": {
         "groupId": 133001460,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1283,7 +1283,7 @@
             2003
         ]
     },
-    {
+    "133001461": {
         "groupId": 133001461,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1293,7 +1293,7 @@
             2003
         ]
     },
-    {
+    "133001462": {
         "groupId": 133001462,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1303,7 +1303,7 @@
             2003
         ]
     },
-    {
+    "133001463": {
         "groupId": 133001463,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1313,7 +1313,7 @@
             2003
         ]
     },
-    {
+    "133001464": {
         "groupId": 133001464,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1323,7 +1323,7 @@
             2003
         ]
     },
-    {
+    "133001465": {
         "groupId": 133001465,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1333,7 +1333,7 @@
             2003
         ]
     },
-    {
+    "133001466": {
         "groupId": 133001466,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1343,7 +1343,7 @@
             2003
         ]
     },
-    {
+    "133001467": {
         "groupId": 133001467,
         "regionId": 102,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1353,249 +1353,249 @@
             2003
         ]
     },
-    {
+    "133001468": {
         "groupId": 133001468,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001469": {
         "groupId": 133001469,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001470": {
         "groupId": 133001470,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001471": {
         "groupId": 133001471,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001472": {
         "groupId": 133001472,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001473": {
         "groupId": 133001473,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001474": {
         "groupId": 133001474,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001475": {
         "groupId": 133001475,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001476": {
         "groupId": 133001476,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001477": {
         "groupId": 133001477,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001478": {
         "groupId": 133001478,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001479": {
         "groupId": 133001479,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001480": {
         "groupId": 133001480,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001481": {
         "groupId": 133001481,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001482": {
         "groupId": 133001482,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001483": {
         "groupId": 133001483,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001484": {
         "groupId": 133001484,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001485": {
         "groupId": 133001485,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001486": {
         "groupId": 133001486,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001487": {
         "groupId": 133001487,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001488": {
         "groupId": 133001488,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001489": {
         "groupId": 133001489,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001490": {
         "groupId": 133001490,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001491": {
         "groupId": 133001491,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001492": {
         "groupId": 133001492,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001493": {
         "groupId": 133001493,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001494": {
         "groupId": 133001494,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001495": {
         "groupId": 133001495,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001496": {
         "groupId": 133001496,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133001497": {
         "groupId": 133001497,
         "regionId": 102,
         "refIndex": []
     },
-    {
+    "133104002": {
         "groupId": 133104002,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104007": {
         "groupId": 133104007,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104009": {
         "groupId": 133104009,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104013": {
         "groupId": 133104013,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104014": {
         "groupId": 133104014,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104015": {
         "groupId": 133104015,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104016": {
         "groupId": 133104016,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104017": {
         "groupId": 133104017,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104018": {
         "groupId": 133104018,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104019": {
         "groupId": 133104019,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104020": {
         "groupId": 133104020,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104021": {
         "groupId": 133104021,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104023": {
         "groupId": 133104023,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104024": {
         "groupId": 133104024,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104025": {
         "groupId": 133104025,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104027": {
         "groupId": 133104027,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104028": {
         "groupId": 133104028,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104762": {
         "groupId": 133104762,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_SHOAL_WATER"
     },
-    {
+    "133104763": {
         "groupId": 133104763,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1607,7 +1607,7 @@
             1005
         ]
     },
-    {
+    "133104764": {
         "groupId": 133104764,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1619,7 +1619,7 @@
             1005
         ]
     },
-    {
+    "133104765": {
         "groupId": 133104765,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1631,7 +1631,7 @@
             1005
         ]
     },
-    {
+    "133104766": {
         "groupId": 133104766,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1643,7 +1643,7 @@
             1005
         ]
     },
-    {
+    "133104767": {
         "groupId": 133104767,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1655,7 +1655,7 @@
             1005
         ]
     },
-    {
+    "133104768": {
         "groupId": 133104768,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1667,7 +1667,7 @@
             1005
         ]
     },
-    {
+    "133104769": {
         "groupId": 133104769,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1679,7 +1679,7 @@
             1005
         ]
     },
-    {
+    "133104770": {
         "groupId": 133104770,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1691,7 +1691,7 @@
             1005
         ]
     },
-    {
+    "133104771": {
         "groupId": 133104771,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1703,7 +1703,7 @@
             1005
         ]
     },
-    {
+    "133104772": {
         "groupId": 133104772,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1715,7 +1715,7 @@
             1005
         ]
     },
-    {
+    "133104773": {
         "groupId": 133104773,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1727,7 +1727,7 @@
             1005
         ]
     },
-    {
+    "133104774": {
         "groupId": 133104774,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1739,7 +1739,7 @@
             1005
         ]
     },
-    {
+    "133104775": {
         "groupId": 133104775,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1749,7 +1749,7 @@
             2003
         ]
     },
-    {
+    "133104776": {
         "groupId": 133104776,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1759,7 +1759,7 @@
             2003
         ]
     },
-    {
+    "133104777": {
         "groupId": 133104777,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1769,7 +1769,7 @@
             2003
         ]
     },
-    {
+    "133104778": {
         "groupId": 133104778,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1779,7 +1779,7 @@
             2003
         ]
     },
-    {
+    "133104779": {
         "groupId": 133104779,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1789,7 +1789,7 @@
             2003
         ]
     },
-    {
+    "133104780": {
         "groupId": 133104780,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1799,7 +1799,7 @@
             2003
         ]
     },
-    {
+    "133104781": {
         "groupId": 133104781,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1809,7 +1809,7 @@
             2003
         ]
     },
-    {
+    "133104782": {
         "groupId": 133104782,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1819,7 +1819,7 @@
             2003
         ]
     },
-    {
+    "133104783": {
         "groupId": 133104783,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1829,7 +1829,7 @@
             2003
         ]
     },
-    {
+    "133104784": {
         "groupId": 133104784,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1841,7 +1841,7 @@
             1005
         ]
     },
-    {
+    "133104785": {
         "groupId": 133104785,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1851,7 +1851,7 @@
             2003
         ]
     },
-    {
+    "133104786": {
         "groupId": 133104786,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1861,7 +1861,7 @@
             2003
         ]
     },
-    {
+    "133104787": {
         "groupId": 133104787,
         "regionId": 202,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -1871,93 +1871,93 @@
             2003
         ]
     },
-    {
+    "133104788": {
         "groupId": 133104788,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104789": {
         "groupId": 133104789,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104790": {
         "groupId": 133104790,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104791": {
         "groupId": 133104791,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104792": {
         "groupId": 133104792,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104793": {
         "groupId": 133104793,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104794": {
         "groupId": 133104794,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104795": {
         "groupId": 133104795,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104796": {
         "groupId": 133104796,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104797": {
         "groupId": 133104797,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104798": {
         "groupId": 133104798,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104799": {
         "groupId": 133104799,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133104800": {
         "groupId": 133104800,
         "regionId": 202,
         "refIndex": []
     },
-    {
+    "133003690": {
         "groupId": 133003690,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133003691": {
         "groupId": 133003691,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133003692": {
         "groupId": 133003692,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133003693": {
         "groupId": 133003693,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1969,7 +1969,7 @@
             1005
         ]
     },
-    {
+    "133003694": {
         "groupId": 133003694,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1981,7 +1981,7 @@
             1005
         ]
     },
-    {
+    "133003695": {
         "groupId": 133003695,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -1993,7 +1993,7 @@
             1005
         ]
     },
-    {
+    "133003696": {
         "groupId": 133003696,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2005,7 +2005,7 @@
             1005
         ]
     },
-    {
+    "133003697": {
         "groupId": 133003697,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2017,7 +2017,7 @@
             1005
         ]
     },
-    {
+    "133003698": {
         "groupId": 133003698,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2029,7 +2029,7 @@
             1005
         ]
     },
-    {
+    "133003699": {
         "groupId": 133003699,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2041,7 +2041,7 @@
             1005
         ]
     },
-    {
+    "133003700": {
         "groupId": 133003700,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2053,7 +2053,7 @@
             1005
         ]
     },
-    {
+    "133003701": {
         "groupId": 133003701,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2065,7 +2065,7 @@
             1005
         ]
     },
-    {
+    "133003702": {
         "groupId": 133003702,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2077,7 +2077,7 @@
             1005
         ]
     },
-    {
+    "133003703": {
         "groupId": 133003703,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2089,7 +2089,7 @@
             1005
         ]
     },
-    {
+    "133003704": {
         "groupId": 133003704,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2101,7 +2101,7 @@
             1005
         ]
     },
-    {
+    "133003705": {
         "groupId": 133003705,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2113,7 +2113,7 @@
             1005
         ]
     },
-    {
+    "133003706": {
         "groupId": 133003706,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2125,7 +2125,7 @@
             1005
         ]
     },
-    {
+    "133003707": {
         "groupId": 133003707,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2137,7 +2137,7 @@
             1005
         ]
     },
-    {
+    "133003708": {
         "groupId": 133003708,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2147,7 +2147,7 @@
             2003
         ]
     },
-    {
+    "133003709": {
         "groupId": 133003709,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2157,7 +2157,7 @@
             2003
         ]
     },
-    {
+    "133003710": {
         "groupId": 133003710,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2167,7 +2167,7 @@
             2003
         ]
     },
-    {
+    "133003711": {
         "groupId": 133003711,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2177,7 +2177,7 @@
             2003
         ]
     },
-    {
+    "133003712": {
         "groupId": 133003712,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2187,7 +2187,7 @@
             2003
         ]
     },
-    {
+    "133003713": {
         "groupId": 133003713,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2197,7 +2197,7 @@
             2003
         ]
     },
-    {
+    "133003714": {
         "groupId": 133003714,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2207,7 +2207,7 @@
             2003
         ]
     },
-    {
+    "133003715": {
         "groupId": 133003715,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2217,7 +2217,7 @@
             2003
         ]
     },
-    {
+    "133003716": {
         "groupId": 133003716,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2227,7 +2227,7 @@
             2003
         ]
     },
-    {
+    "133003717": {
         "groupId": 133003717,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2237,7 +2237,7 @@
             2003
         ]
     },
-    {
+    "133003718": {
         "groupId": 133003718,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2247,7 +2247,7 @@
             2003
         ]
     },
-    {
+    "133003719": {
         "groupId": 133003719,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2257,7 +2257,7 @@
             2003
         ]
     },
-    {
+    "133003720": {
         "groupId": 133003720,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2267,7 +2267,7 @@
             2003
         ]
     },
-    {
+    "133003721": {
         "groupId": 133003721,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2277,7 +2277,7 @@
             2003
         ]
     },
-    {
+    "133003722": {
         "groupId": 133003722,
         "regionId": 103,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2287,183 +2287,183 @@
             2003
         ]
     },
-    {
+    "133003723": {
         "groupId": 133003723,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003724": {
         "groupId": 133003724,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003725": {
         "groupId": 133003725,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003726": {
         "groupId": 133003726,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003727": {
         "groupId": 133003727,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003728": {
         "groupId": 133003728,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003729": {
         "groupId": 133003729,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003730": {
         "groupId": 133003730,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003731": {
         "groupId": 133003731,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003732": {
         "groupId": 133003732,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003733": {
         "groupId": 133003733,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003734": {
         "groupId": 133003734,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003735": {
         "groupId": 133003735,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003736": {
         "groupId": 133003736,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003737": {
         "groupId": 133003737,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003738": {
         "groupId": 133003738,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003739": {
         "groupId": 133003739,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003740": {
         "groupId": 133003740,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003741": {
         "groupId": 133003741,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003742": {
         "groupId": 133003742,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003743": {
         "groupId": 133003743,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003744": {
         "groupId": 133003744,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003745": {
         "groupId": 133003745,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003746": {
         "groupId": 133003746,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003747": {
         "groupId": 133003747,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003748": {
         "groupId": 133003748,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003749": {
         "groupId": 133003749,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003750": {
         "groupId": 133003750,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003751": {
         "groupId": 133003751,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003752": {
         "groupId": 133003752,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133003753": {
         "groupId": 133003753,
         "regionId": 103,
         "refIndex": []
     },
-    {
+    "133004371": {
         "groupId": 133004371,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133004372": {
         "groupId": 133004372,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133004373": {
         "groupId": 133004373,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133004374": {
         "groupId": 133004374,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2475,7 +2475,7 @@
             1005
         ]
     },
-    {
+    "133004375": {
         "groupId": 133004375,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2487,7 +2487,7 @@
             1005
         ]
     },
-    {
+    "133004376": {
         "groupId": 133004376,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2499,7 +2499,7 @@
             1005
         ]
     },
-    {
+    "133004377": {
         "groupId": 133004377,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2511,7 +2511,7 @@
             1005
         ]
     },
-    {
+    "133004378": {
         "groupId": 133004378,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2523,7 +2523,7 @@
             1005
         ]
     },
-    {
+    "133004379": {
         "groupId": 133004379,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2535,7 +2535,7 @@
             1005
         ]
     },
-    {
+    "133004380": {
         "groupId": 133004380,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2547,7 +2547,7 @@
             1005
         ]
     },
-    {
+    "133004381": {
         "groupId": 133004381,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2559,7 +2559,7 @@
             1005
         ]
     },
-    {
+    "133004382": {
         "groupId": 133004382,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2571,7 +2571,7 @@
             1005
         ]
     },
-    {
+    "133004383": {
         "groupId": 133004383,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2583,7 +2583,7 @@
             1005
         ]
     },
-    {
+    "133004384": {
         "groupId": 133004384,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2595,7 +2595,7 @@
             1005
         ]
     },
-    {
+    "133004385": {
         "groupId": 133004385,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2607,7 +2607,7 @@
             1005
         ]
     },
-    {
+    "133004386": {
         "groupId": 133004386,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2619,7 +2619,7 @@
             1005
         ]
     },
-    {
+    "133004387": {
         "groupId": 133004387,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2631,7 +2631,7 @@
             1005
         ]
     },
-    {
+    "133004388": {
         "groupId": 133004388,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2641,7 +2641,7 @@
             2003
         ]
     },
-    {
+    "133004389": {
         "groupId": 133004389,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2651,7 +2651,7 @@
             2003
         ]
     },
-    {
+    "133004390": {
         "groupId": 133004390,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2661,7 +2661,7 @@
             2003
         ]
     },
-    {
+    "133004391": {
         "groupId": 133004391,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2671,7 +2671,7 @@
             2003
         ]
     },
-    {
+    "133004392": {
         "groupId": 133004392,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2681,7 +2681,7 @@
             2003
         ]
     },
-    {
+    "133004393": {
         "groupId": 133004393,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2691,7 +2691,7 @@
             2003
         ]
     },
-    {
+    "133004394": {
         "groupId": 133004394,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2701,7 +2701,7 @@
             2003
         ]
     },
-    {
+    "133004395": {
         "groupId": 133004395,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2711,7 +2711,7 @@
             2003
         ]
     },
-    {
+    "133004396": {
         "groupId": 133004396,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2721,7 +2721,7 @@
             2003
         ]
     },
-    {
+    "133004397": {
         "groupId": 133004397,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2731,7 +2731,7 @@
             2003
         ]
     },
-    {
+    "133004398": {
         "groupId": 133004398,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2741,7 +2741,7 @@
             2003
         ]
     },
-    {
+    "133004399": {
         "groupId": 133004399,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2751,7 +2751,7 @@
             2003
         ]
     },
-    {
+    "133004400": {
         "groupId": 133004400,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2761,7 +2761,7 @@
             2003
         ]
     },
-    {
+    "133004401": {
         "groupId": 133004401,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2771,7 +2771,7 @@
             2003
         ]
     },
-    {
+    "133004402": {
         "groupId": 133004402,
         "regionId": 104,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -2781,171 +2781,171 @@
             2003
         ]
     },
-    {
+    "133004403": {
         "groupId": 133004403,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004404": {
         "groupId": 133004404,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004405": {
         "groupId": 133004405,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004406": {
         "groupId": 133004406,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004407": {
         "groupId": 133004407,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004408": {
         "groupId": 133004408,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004409": {
         "groupId": 133004409,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004410": {
         "groupId": 133004410,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004411": {
         "groupId": 133004411,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004412": {
         "groupId": 133004412,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004413": {
         "groupId": 133004413,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004414": {
         "groupId": 133004414,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004415": {
         "groupId": 133004415,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004416": {
         "groupId": 133004416,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004417": {
         "groupId": 133004417,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004418": {
         "groupId": 133004418,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004419": {
         "groupId": 133004419,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004420": {
         "groupId": 133004420,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004421": {
         "groupId": 133004421,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004422": {
         "groupId": 133004422,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004423": {
         "groupId": 133004423,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004424": {
         "groupId": 133004424,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004425": {
         "groupId": 133004425,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004426": {
         "groupId": 133004426,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004427": {
         "groupId": 133004427,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004428": {
         "groupId": 133004428,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004429": {
         "groupId": 133004429,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004430": {
         "groupId": 133004430,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004431": {
         "groupId": 133004431,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133004432": {
         "groupId": 133004432,
         "regionId": 104,
         "refIndex": []
     },
-    {
+    "133102019": {
         "groupId": 133102019,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133102021": {
         "groupId": 133102021,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133102022": {
         "groupId": 133102022,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2957,7 +2957,7 @@
             1005
         ]
     },
-    {
+    "133102023": {
         "groupId": 133102023,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2969,7 +2969,7 @@
             1005
         ]
     },
-    {
+    "133102024": {
         "groupId": 133102024,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2981,7 +2981,7 @@
             1005
         ]
     },
-    {
+    "133102025": {
         "groupId": 133102025,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -2993,7 +2993,7 @@
             1005
         ]
     },
-    {
+    "133102026": {
         "groupId": 133102026,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3005,7 +3005,7 @@
             1005
         ]
     },
-    {
+    "133102027": {
         "groupId": 133102027,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3017,7 +3017,7 @@
             1005
         ]
     },
-    {
+    "133102028": {
         "groupId": 133102028,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3029,7 +3029,7 @@
             1005
         ]
     },
-    {
+    "133102029": {
         "groupId": 133102029,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3041,7 +3041,7 @@
             1005
         ]
     },
-    {
+    "133102030": {
         "groupId": 133102030,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3053,7 +3053,7 @@
             1005
         ]
     },
-    {
+    "133102031": {
         "groupId": 133102031,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3065,7 +3065,7 @@
             1005
         ]
     },
-    {
+    "133102032": {
         "groupId": 133102032,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3075,7 +3075,7 @@
             2003
         ]
     },
-    {
+    "133102033": {
         "groupId": 133102033,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3085,7 +3085,7 @@
             2003
         ]
     },
-    {
+    "133102034": {
         "groupId": 133102034,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3095,7 +3095,7 @@
             2003
         ]
     },
-    {
+    "133102035": {
         "groupId": 133102035,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3105,7 +3105,7 @@
             2003
         ]
     },
-    {
+    "133102036": {
         "groupId": 133102036,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3115,7 +3115,7 @@
             2003
         ]
     },
-    {
+    "133102038": {
         "groupId": 133102038,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3125,7 +3125,7 @@
             2003
         ]
     },
-    {
+    "133102039": {
         "groupId": 133102039,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3135,7 +3135,7 @@
             2003
         ]
     },
-    {
+    "133102040": {
         "groupId": 133102040,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3145,7 +3145,7 @@
             2003
         ]
     },
-    {
+    "133102041": {
         "groupId": 133102041,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3155,7 +3155,7 @@
             2003
         ]
     },
-    {
+    "133102042": {
         "groupId": 133102042,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3165,7 +3165,7 @@
             2003
         ]
     },
-    {
+    "133102043": {
         "groupId": 133102043,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3175,7 +3175,7 @@
             2003
         ]
     },
-    {
+    "133102044": {
         "groupId": 133102044,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3185,7 +3185,7 @@
             2003
         ]
     },
-    {
+    "133102046": {
         "groupId": 133102046,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3195,7 +3195,7 @@
             2003
         ]
     },
-    {
+    "133102047": {
         "groupId": 133102047,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3205,7 +3205,7 @@
             2003
         ]
     },
-    {
+    "133102048": {
         "groupId": 133102048,
         "regionId": 203,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3215,163 +3215,163 @@
             2003
         ]
     },
-    {
+    "133102049": {
         "groupId": 133102049,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102050": {
         "groupId": 133102050,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102051": {
         "groupId": 133102051,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102052": {
         "groupId": 133102052,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102053": {
         "groupId": 133102053,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102054": {
         "groupId": 133102054,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102055": {
         "groupId": 133102055,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102057": {
         "groupId": 133102057,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102058": {
         "groupId": 133102058,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102059": {
         "groupId": 133102059,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102060": {
         "groupId": 133102060,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102061": {
         "groupId": 133102061,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102062": {
         "groupId": 133102062,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102064": {
         "groupId": 133102064,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102065": {
         "groupId": 133102065,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102066": {
         "groupId": 133102066,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102069": {
         "groupId": 133102069,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102070": {
         "groupId": 133102070,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102075": {
         "groupId": 133102075,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102078": {
         "groupId": 133102078,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102079": {
         "groupId": 133102079,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102080": {
         "groupId": 133102080,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102081": {
         "groupId": 133102081,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102082": {
         "groupId": 133102082,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102083": {
         "groupId": 133102083,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102084": {
         "groupId": 133102084,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133102087": {
         "groupId": 133102087,
         "regionId": 203,
         "refIndex": []
     },
-    {
+    "133106325": {
         "groupId": 133106325,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133106326": {
         "groupId": 133106326,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133106327": {
         "groupId": 133106327,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133106328": {
         "groupId": 133106328,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3383,7 +3383,7 @@
             1005
         ]
     },
-    {
+    "133106329": {
         "groupId": 133106329,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3395,7 +3395,7 @@
             1005
         ]
     },
-    {
+    "133106330": {
         "groupId": 133106330,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3407,7 +3407,7 @@
             1005
         ]
     },
-    {
+    "133106331": {
         "groupId": 133106331,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3419,7 +3419,7 @@
             1005
         ]
     },
-    {
+    "133106332": {
         "groupId": 133106332,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3431,7 +3431,7 @@
             1005
         ]
     },
-    {
+    "133106333": {
         "groupId": 133106333,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3443,7 +3443,7 @@
             1005
         ]
     },
-    {
+    "133106334": {
         "groupId": 133106334,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3455,7 +3455,7 @@
             1005
         ]
     },
-    {
+    "133106335": {
         "groupId": 133106335,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3467,7 +3467,7 @@
             1005
         ]
     },
-    {
+    "133106336": {
         "groupId": 133106336,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3479,7 +3479,7 @@
             1005
         ]
     },
-    {
+    "133106337": {
         "groupId": 133106337,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3491,7 +3491,7 @@
             1005
         ]
     },
-    {
+    "133106338": {
         "groupId": 133106338,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3503,7 +3503,7 @@
             1005
         ]
     },
-    {
+    "133106339": {
         "groupId": 133106339,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3515,7 +3515,7 @@
             1005
         ]
     },
-    {
+    "133106340": {
         "groupId": 133106340,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3527,7 +3527,7 @@
             1005
         ]
     },
-    {
+    "133106341": {
         "groupId": 133106341,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_MONSTER",
@@ -3539,7 +3539,7 @@
             1005
         ]
     },
-    {
+    "133106342": {
         "groupId": 133106342,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3549,7 +3549,7 @@
             2003
         ]
     },
-    {
+    "133106343": {
         "groupId": 133106343,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3559,7 +3559,7 @@
             2003
         ]
     },
-    {
+    "133106344": {
         "groupId": 133106344,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3569,7 +3569,7 @@
             2003
         ]
     },
-    {
+    "133106345": {
         "groupId": 133106345,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3579,7 +3579,7 @@
             2003
         ]
     },
-    {
+    "133106346": {
         "groupId": 133106346,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3589,7 +3589,7 @@
             2003
         ]
     },
-    {
+    "133106347": {
         "groupId": 133106347,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3599,7 +3599,7 @@
             2003
         ]
     },
-    {
+    "133106348": {
         "groupId": 133106348,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3609,7 +3609,7 @@
             2003
         ]
     },
-    {
+    "133106349": {
         "groupId": 133106349,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3619,7 +3619,7 @@
             2003
         ]
     },
-    {
+    "133106350": {
         "groupId": 133106350,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3629,7 +3629,7 @@
             2003
         ]
     },
-    {
+    "133106351": {
         "groupId": 133106351,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3639,7 +3639,7 @@
             2003
         ]
     },
-    {
+    "133106352": {
         "groupId": 133106352,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3649,7 +3649,7 @@
             2003
         ]
     },
-    {
+    "133106353": {
         "groupId": 133106353,
         "regionId": 204,
         "pointType": "HUNTING_CLUE_GATHER",
@@ -3659,350 +3659,350 @@
             2003
         ]
     },
-    {
+    "133106354": {
         "groupId": 133106354,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106355": {
         "groupId": 133106355,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106356": {
         "groupId": 133106356,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106357": {
         "groupId": 133106357,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106358": {
         "groupId": 133106358,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106359": {
         "groupId": 133106359,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106360": {
         "groupId": 133106360,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106361": {
         "groupId": 133106361,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106362": {
         "groupId": 133106362,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106363": {
         "groupId": 133106363,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106364": {
         "groupId": 133106364,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106365": {
         "groupId": 133106365,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106366": {
         "groupId": 133106366,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106367": {
         "groupId": 133106367,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106368": {
         "groupId": 133106368,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106369": {
         "groupId": 133106369,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106370": {
         "groupId": 133106370,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106371": {
         "groupId": 133106371,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106372": {
         "groupId": 133106372,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106373": {
         "groupId": 133106373,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106374": {
         "groupId": 133106374,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106375": {
         "groupId": 133106375,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106376": {
         "groupId": 133106376,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106377": {
         "groupId": 133106377,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106378": {
         "groupId": 133106378,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106379": {
         "groupId": 133106379,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106380": {
         "groupId": 133106380,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106381": {
         "groupId": 133106381,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106382": {
         "groupId": 133106382,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133106383": {
         "groupId": 133106383,
         "regionId": 204,
         "refIndex": []
     },
-    {
+    "133213175": {
         "groupId": 133213175,
         "regionId": 301,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133213050": {
         "groupId": 133213050,
         "regionId": 301,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133213542": {
         "groupId": 133213542,
         "regionId": 301,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133220203": {
         "groupId": 133220203,
         "regionId": 302,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133220388": {
         "groupId": 133220388,
         "regionId": 302,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133220663": {
         "groupId": 133220663,
         "regionId": 302,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133212187": {
         "groupId": 133212187,
         "regionId": 303,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133212105": {
         "groupId": 133212105,
         "regionId": 303,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133212556": {
         "groupId": 133212556,
         "regionId": 303,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133220279": {
         "groupId": 133220279,
         "regionId": 304,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133220389": {
         "groupId": 133220389,
         "regionId": 304,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133220664": {
         "groupId": 133220664,
         "regionId": 304,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133301214": {
         "groupId": 133301214,
         "regionId": 401,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133301653": {
         "groupId": 133301653,
         "regionId": 401,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133301218": {
         "groupId": 133301218,
         "regionId": 402,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133301654": {
         "groupId": 133301654,
         "regionId": 402,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133302179": {
         "groupId": 133302179,
         "regionId": 403,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133302641": {
         "groupId": 133302641,
         "regionId": 403,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133315064": {
         "groupId": 133315064,
         "regionId": 404,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133315262": {
         "groupId": 133315262,
         "regionId": 404,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133303063": {
         "groupId": 133303063,
         "regionId": 405,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133303592": {
         "groupId": 133303592,
         "regionId": 405,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133303179": {
         "groupId": 133303179,
         "regionId": 406,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133303591": {
         "groupId": 133303591,
         "regionId": 406,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133304096": {
         "groupId": 133304096,
         "regionId": 407,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133304405": {
         "groupId": 133304405,
         "regionId": 407,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133304097": {
         "groupId": 133304097,
         "regionId": 408,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     },
-    {
+    "133304406": {
         "groupId": 133304406,
         "regionId": 408,
         "pointType": "HUNTING_CLUE_FINAL",
         "refIndex": [],
         "posType": "HUNTING_POS_GROUND"
     }
-]
+}

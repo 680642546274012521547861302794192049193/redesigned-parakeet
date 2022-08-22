@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "dayIndex": 1,
         "MDKCJIEDIPE": 726495150,
@@ -22,7 +22,7 @@
         "BPDPICIEJMA": 50790101,
         "pushTipsID": 11054
     },
-    {
+    "2": {
         "stageId": 2,
         "dayIndex": 2,
         "MDKCJIEDIPE": 2959184374,
@@ -45,7 +45,7 @@
         "BPDPICIEJMA": 50790102,
         "pushTipsID": 11055
     },
-    {
+    "3": {
         "stageId": 3,
         "dayIndex": 3,
         "MDKCJIEDIPE": 1673221838,
@@ -68,7 +68,7 @@
         "BPDPICIEJMA": 50790103,
         "pushTipsID": 11056
     },
-    {
+    "4": {
         "stageId": 4,
         "dayIndex": 4,
         "MDKCJIEDIPE": 990204454,
@@ -91,7 +91,7 @@
         "BPDPICIEJMA": 50790104,
         "pushTipsID": 11057
     },
-    {
+    "5": {
         "stageId": 5,
         "dayIndex": 5,
         "MDKCJIEDIPE": 3801696622,
@@ -116,4 +116,4 @@
         "BPDPICIEJMA": 50790105,
         "pushTipsID": 11058
     }
-]
+}

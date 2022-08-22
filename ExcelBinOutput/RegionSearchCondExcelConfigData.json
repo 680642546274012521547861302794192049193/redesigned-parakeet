@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10010101": {
         "id": 10010101,
         "searchNameTextMapHash": 2574141246,
         "searchDescTextMapHash": 1199144944,
@@ -28,7 +28,7 @@
         "totalProgress": 15,
         "reminderId": 600018
     },
-    {
+    "10010102": {
         "id": 10010102,
         "searchNameTextMapHash": 103706502,
         "searchDescTextMapHash": 2113245480,
@@ -58,7 +58,7 @@
         "totalProgress": 15,
         "reminderId": 600020
     },
-    {
+    "10010103": {
         "id": 10010103,
         "searchNameTextMapHash": 3420015438,
         "searchDescTextMapHash": 1398222568,
@@ -88,7 +88,7 @@
         "totalProgress": 15,
         "reminderId": 600022
     },
-    {
+    "10010104": {
         "id": 10010104,
         "searchNameTextMapHash": 3911306934,
         "searchDescTextMapHash": 2267120984,
@@ -118,7 +118,7 @@
         "totalProgress": 15,
         "reminderId": 600024
     },
-    {
+    "10010105": {
         "id": 10010105,
         "searchNameTextMapHash": 3072707206,
         "searchDescTextMapHash": 30987984,
@@ -148,4 +148,4 @@
         "totalProgress": 15,
         "reminderId": 600026
     }
-]
+}

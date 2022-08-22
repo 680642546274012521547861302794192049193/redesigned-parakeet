@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "dayIndex": 2,
         "prevDungeonId": 7703,
@@ -42,7 +42,7 @@
         "LLANBCJLHGO": 3,
         "JLGHGGKJHAA": 3489285431
     },
-    {
+    "2": {
         "stageId": 2,
         "dayIndex": 3,
         "prevDungeonId": 7701,
@@ -83,7 +83,7 @@
         "LLANBCJLHGO": 6,
         "JLGHGGKJHAA": 368164895
     },
-    {
+    "3": {
         "stageId": 3,
         "dayIndex": 4,
         "prevDungeonId": 7705,
@@ -127,7 +127,7 @@
         "LLANBCJLHGO": 9,
         "JLGHGGKJHAA": 2904264967
     },
-    {
+    "4": {
         "stageId": 4,
         "dayIndex": 5,
         "prevDungeonId": 7707,
@@ -167,4 +167,4 @@
         "LLANBCJLHGO": 12,
         "JLGHGGKJHAA": 3793637511
     }
-]
+}

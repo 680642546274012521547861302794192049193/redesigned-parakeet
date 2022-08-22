@@ -1,5 +1,5 @@
-[
-    {
+{
+    "2": {
         "id": 2,
         "type": "HomeWorld",
         "nameTextMapHash": 3071628724,
@@ -13,7 +13,7 @@
             2003
         ]
     },
-    {
+    "3": {
         "id": 3,
         "type": "Islands",
         "nameTextMapHash": 2157852924,
@@ -27,7 +27,7 @@
         "HGDJEEHHEFK": -335.3139953613281,
         "HKEPCDFEEGM": -655.7260131835938
     },
-    {
+    "4": {
         "id": 4,
         "nameTextMapHash": 706446876,
         "EOOMJLKMNGH": 49482922,
@@ -40,7 +40,7 @@
             3
         ]
     },
-    {
+    "5": {
         "id": 5,
         "nameTextMapHash": 1982412604,
         "EOOMJLKMNGH": 1428887970,
@@ -53,7 +53,7 @@
             3
         ]
     },
-    {
+    "6": {
         "id": 6,
         "nameTextMapHash": 869248244,
         "EOOMJLKMNGH": 853904250,
@@ -66,7 +66,7 @@
             3
         ]
     },
-    {
+    "7": {
         "id": 7,
         "type": "Abyssalisle",
         "nameTextMapHash": 1862653596,
@@ -79,7 +79,7 @@
             5
         ]
     },
-    {
+    "8": {
         "id": 8,
         "type": "MichiaeMatsuri",
         "nameTextMapHash": 2887066388,
@@ -92,7 +92,7 @@
             7
         ]
     },
-    {
+    "9": {
         "id": 9,
         "type": "TheChasm",
         "nameTextMapHash": 297471884,
@@ -105,7 +105,7 @@
             6
         ]
     },
-    {
+    "10": {
         "id": 10,
         "type": "DreamIsland",
         "nameTextMapHash": 3682200372,
@@ -118,7 +118,7 @@
             9
         ]
     },
-    {
+    "11": {
         "id": 11,
         "nameTextMapHash": 1074864084,
         "EOOMJLKMNGH": 2308207546,
@@ -131,4 +131,4 @@
             3
         ]
     }
-]
+}

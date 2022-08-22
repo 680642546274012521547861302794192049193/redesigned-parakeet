@@ -1,5 +1,5 @@
-[
-    {
+{
+    "9998": {
         "id": 9998,
         "titleNameTextMapHash": 1552491205,
         "beginDateStr": "2020-09-13 00:00:00",
@@ -44,7 +44,7 @@
         ],
         "storyId": 1001
     },
-    {
+    "1100": {
         "id": 1100,
         "titleNameTextMapHash": 884867269,
         "beginDateStr": "1998-03-23",
@@ -85,7 +85,7 @@
         ],
         "storyId": 1001
     },
-    {
+    "1200": {
         "id": 1200,
         "titleNameTextMapHash": 1141465421,
         "beginDateStr": "1998-03-23",
@@ -126,7 +126,7 @@
         ],
         "storyId": 1001
     },
-    {
+    "1300": {
         "id": 1300,
         "titleNameTextMapHash": 1907474829,
         "beginDateStr": "1998-03-23",
@@ -167,7 +167,7 @@
         ],
         "storyId": 1001
     },
-    {
+    "1400": {
         "id": 1400,
         "titleNameTextMapHash": 802926677,
         "beginDateStr": "1998-03-23",
@@ -208,7 +208,7 @@
         ],
         "storyId": 1001
     },
-    {
+    "1500": {
         "id": 1500,
         "titleNameTextMapHash": 1280030717,
         "beginDateStr": "1998-03-23",
@@ -251,7 +251,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "1600": {
         "id": 1600,
         "titleNameTextMapHash": 4202761925,
         "beginDateStr": "1998-03-23",
@@ -294,7 +294,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2000": {
         "id": 2000,
         "titleNameTextMapHash": 60894341,
         "beginDateStr": "1998-03-23",
@@ -337,7 +337,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2100": {
         "id": 2100,
         "titleNameTextMapHash": 4006890629,
         "beginDateStr": "1998-03-23",
@@ -380,7 +380,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2200": {
         "id": 2200,
         "titleNameTextMapHash": 261418861,
         "beginDateStr": "1998-03-23",
@@ -423,7 +423,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2300": {
         "id": 2300,
         "titleNameTextMapHash": 1419846149,
         "beginDateStr": "1998-03-23",
@@ -466,7 +466,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2400": {
         "id": 2400,
         "titleNameTextMapHash": 2945472757,
         "beginDateStr": "1998-03-23",
@@ -509,7 +509,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2500": {
         "id": 2500,
         "titleNameTextMapHash": 3005590109,
         "beginDateStr": "1998-03-23",
@@ -552,7 +552,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2600": {
         "id": 2600,
         "titleNameTextMapHash": 3387379765,
         "beginDateStr": "1998-03-23",
@@ -595,7 +595,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2700": {
         "id": 2700,
         "titleNameTextMapHash": 879966141,
         "beginDateStr": "1998-03-23",
@@ -638,7 +638,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "2800": {
         "id": 2800,
         "titleNameTextMapHash": 1115027005,
         "beginDateStr": "1998-03-23",
@@ -681,7 +681,7 @@
         "mailDayCount": 39,
         "mailConfigId": 14
     },
-    {
+    "3000": {
         "id": 3000,
         "titleNameTextMapHash": 252405549,
         "beginDateStr": "1998-03-23",
@@ -724,4 +724,4 @@
         "mailDayCount": 32,
         "mailConfigId": 14
     }
-]
+}

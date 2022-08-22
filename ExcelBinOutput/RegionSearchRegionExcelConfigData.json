@@ -1,5 +1,5 @@
-[
-    {
+{
+    "3102001": {
         "id": 3102001,
         "regionCenter": [
             1756.800048828125,
@@ -23,7 +23,7 @@
         "recycleType": "REGION_SEARCH_RECYCLE_PROGRESS",
         "recycleParam": 8
     },
-    {
+    "3002001": {
         "id": 3002001,
         "regionCenter": [
             1268.300048828125,
@@ -48,7 +48,7 @@
         "recycleType": "REGION_SEARCH_RECYCLE_PROGRESS",
         "recycleParam": 8
     },
-    {
+    "3105001": {
         "id": 3105001,
         "regionCenter": [
             459.8999938964844,
@@ -73,7 +73,7 @@
         "recycleType": "REGION_SEARCH_RECYCLE_PROGRESS",
         "recycleParam": 8
     },
-    {
+    "3104001": {
         "id": 3104001,
         "regionCenter": [
             170.39999389648438,
@@ -97,7 +97,7 @@
         "recycleType": "REGION_SEARCH_RECYCLE_PROGRESS",
         "recycleParam": 8
     },
-    {
+    "3101001": {
         "id": 3101001,
         "regionCenter": [
             1377.5999755859375,
@@ -123,4 +123,4 @@
         "recycleType": "REGION_SEARCH_RECYCLE_PROGRESS",
         "recycleParam": 8
     }
-]
+}

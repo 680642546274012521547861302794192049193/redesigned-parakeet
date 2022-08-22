@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "id": 1001,
         "trophicLevel": 3,
         "enemyCampList": [
@@ -14,12 +14,12 @@
             4002
         ]
     },
-    {
+    "2001": {
         "id": 2001,
         "trophicLevel": 3,
         "enemyCampList": []
     },
-    {
+    "3001": {
         "id": 3001,
         "trophicLevel": 4,
         "enemyCampList": [
@@ -30,7 +30,7 @@
             5005
         ]
     },
-    {
+    "4001": {
         "id": 4001,
         "trophicLevel": 5,
         "enemyCampList": [
@@ -43,14 +43,14 @@
             5005
         ]
     },
-    {
+    "4002": {
         "id": 4002,
         "trophicLevel": 5,
         "enemyCampList": [
             4001
         ]
     },
-    {
+    "5001": {
         "id": 5001,
         "trophicLevel": 5,
         "enemyCampList": [
@@ -63,7 +63,7 @@
             5003
         ]
     },
-    {
+    "5002": {
         "id": 5002,
         "trophicLevel": 5,
         "enemyCampList": [
@@ -76,7 +76,7 @@
             5003
         ]
     },
-    {
+    "5003": {
         "id": 5003,
         "trophicLevel": 5,
         "enemyCampList": [
@@ -89,7 +89,7 @@
             9002
         ]
     },
-    {
+    "5004": {
         "id": 5004,
         "trophicLevel": 5,
         "enemyCampList": [
@@ -101,7 +101,7 @@
             5003
         ]
     },
-    {
+    "5005": {
         "id": 5005,
         "trophicLevel": 5,
         "enemyCampList": [
@@ -113,12 +113,12 @@
             5003
         ]
     },
-    {
+    "5006": {
         "id": 5006,
         "trophicLevel": 3,
         "enemyCampList": []
     },
-    {
+    "5007": {
         "id": 5007,
         "trophicLevel": 5,
         "enemyCampList": [
@@ -128,7 +128,7 @@
             5003
         ]
     },
-    {
+    "9001": {
         "id": 9001,
         "enemyCampList": [
             1001,
@@ -139,7 +139,7 @@
             5003
         ]
     },
-    {
+    "9002": {
         "id": 9002,
         "enemyCampList": [
             1001,
@@ -150,7 +150,7 @@
             5003
         ]
     },
-    {
+    "9999": {
         "id": 9999,
         "enemyCampList": [
             1001,
@@ -161,4 +161,4 @@
             5003
         ]
     }
-]
+}

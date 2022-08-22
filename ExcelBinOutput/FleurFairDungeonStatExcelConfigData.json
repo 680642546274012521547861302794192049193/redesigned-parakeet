@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "galleryId": 6001,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -12,7 +12,7 @@
         "titleTextMapHash": 3530890196,
         "descTextMapHash": 349141607
     },
-    {
+    "2": {
         "id": 2,
         "galleryId": 6001,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -26,7 +26,7 @@
         "titleTextMapHash": 282389796,
         "descTextMapHash": 2504676135
     },
-    {
+    "3": {
         "id": 3,
         "galleryId": 6002,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -40,7 +40,7 @@
         "titleTextMapHash": 360365460,
         "descTextMapHash": 4188262519
     },
-    {
+    "4": {
         "id": 4,
         "galleryId": 6003,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -53,7 +53,7 @@
         "titleTextMapHash": 2124861716,
         "descTextMapHash": 2887601527
     },
-    {
+    "5": {
         "id": 5,
         "galleryId": 6004,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -67,7 +67,7 @@
         "titleTextMapHash": 3328915044,
         "descTextMapHash": 2099990407
     },
-    {
+    "6": {
         "id": 6,
         "galleryId": 6004,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -80,7 +80,7 @@
         "titleTextMapHash": 2826720404,
         "descTextMapHash": 64841543
     },
-    {
+    "7": {
         "id": 7,
         "galleryId": 6005,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -93,7 +93,7 @@
         "titleTextMapHash": 1503550876,
         "descTextMapHash": 3674423551
     },
-    {
+    "8": {
         "id": 8,
         "galleryId": 6006,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -106,7 +106,7 @@
         "titleTextMapHash": 60254708,
         "descTextMapHash": 1681168127
     },
-    {
+    "9": {
         "id": 9,
         "galleryId": 6006,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -119,7 +119,7 @@
         "titleTextMapHash": 870854676,
         "descTextMapHash": 621480151
     },
-    {
+    "10": {
         "id": 10,
         "galleryId": 6007,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -132,7 +132,7 @@
         "titleTextMapHash": 2289631348,
         "descTextMapHash": 3571701471
     },
-    {
+    "11": {
         "id": 11,
         "galleryId": 6007,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -145,7 +145,7 @@
         "titleTextMapHash": 1814692116,
         "descTextMapHash": 649401495
     },
-    {
+    "12": {
         "id": 12,
         "galleryId": 6008,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -158,7 +158,7 @@
         "titleTextMapHash": 686080196,
         "descTextMapHash": 429689671
     },
-    {
+    "13": {
         "id": 13,
         "galleryId": 6008,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_GROUP_VARIABLE",
@@ -171,7 +171,7 @@
         "titleTextMapHash": 2155524332,
         "descTextMapHash": 1997820103
     },
-    {
+    "14": {
         "id": 14,
         "statType": "FLEUR_FAIR_DUNGEON_STAT_MONSTER_HURT",
         "statParamList": [
@@ -184,4 +184,4 @@
         "titleTextMapHash": 1307763140,
         "descTextMapHash": 3658180055
     }
-]
+}

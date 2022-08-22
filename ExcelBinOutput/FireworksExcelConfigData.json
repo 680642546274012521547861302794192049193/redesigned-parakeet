@@ -1,5 +1,5 @@
-[
-    {
+{
+    "223001": {
         "materialID": 223001,
         "BNKFGPDLHEB": [
             {
@@ -49,7 +49,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_01",
         "BMDBFGBNEKN": 860837618
     },
-    {
+    "223002": {
         "materialID": 223002,
         "BNKFGPDLHEB": [
             {
@@ -99,7 +99,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_02",
         "BMDBFGBNEKN": 1654748746
     },
-    {
+    "223003": {
         "materialID": 223003,
         "BNKFGPDLHEB": [
             {
@@ -149,7 +149,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_03",
         "BMDBFGBNEKN": 414667370
     },
-    {
+    "223004": {
         "materialID": 223004,
         "BNKFGPDLHEB": [
             {
@@ -199,7 +199,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_04",
         "BMDBFGBNEKN": 188220194
     },
-    {
+    "223005": {
         "materialID": 223005,
         "BNKFGPDLHEB": [
             {
@@ -249,7 +249,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_05",
         "BMDBFGBNEKN": 1680932714
     },
-    {
+    "223006": {
         "materialID": 223006,
         "BNKFGPDLHEB": [
             {
@@ -299,7 +299,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_06",
         "BMDBFGBNEKN": 2645318090
     },
-    {
+    "223007": {
         "materialID": 223007,
         "BNKFGPDLHEB": [
             {
@@ -349,7 +349,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_Shape_01",
         "BMDBFGBNEKN": 1916046458
     },
-    {
+    "223008": {
         "materialID": 223008,
         "BNKFGPDLHEB": [
             {
@@ -399,7 +399,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_Shape_02",
         "BMDBFGBNEKN": 3178253162
     },
-    {
+    "223009": {
         "materialID": 223009,
         "BNKFGPDLHEB": [
             {
@@ -449,7 +449,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_Shape_03",
         "BMDBFGBNEKN": 2544560218
     },
-    {
+    "223010": {
         "materialID": 223010,
         "BNKFGPDLHEB": [
             {
@@ -499,7 +499,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_Shape_04",
         "BMDBFGBNEKN": 3374634530
     },
-    {
+    "223011": {
         "materialID": 223011,
         "BNKFGPDLHEB": [
             {
@@ -549,7 +549,7 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_Shape_05",
         "BMDBFGBNEKN": 1269098234
     },
-    {
+    "223012": {
         "materialID": 223012,
         "BNKFGPDLHEB": [
             {
@@ -599,4 +599,4 @@
         "FJLOMFLALHD": "Eff_SceneObj_Fireworks_Shape_06",
         "BMDBFGBNEKN": 2726657050
     }
-]
+}

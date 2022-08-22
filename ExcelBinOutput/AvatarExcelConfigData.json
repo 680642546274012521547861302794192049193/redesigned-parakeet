@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10000001": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -75,7 +75,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "10000002": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -152,7 +152,7 @@
         "controllerPathRemoteHashPre": 110,
         "LODPatternName": ""
     },
-    {
+    "10000003": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -229,7 +229,7 @@
         "controllerPathRemoteHashPre": 248,
         "LODPatternName": ""
     },
-    {
+    "10000005": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -314,7 +314,7 @@
         "controllerPathRemoteHashPre": 141,
         "LODPatternName": ""
     },
-    {
+    "10000006": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -391,7 +391,7 @@
         "controllerPathRemoteHashPre": 251,
         "LODPatternName": ""
     },
-    {
+    "10000007": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -476,7 +476,7 @@
         "controllerPathRemoteHashPre": 228,
         "LODPatternName": ""
     },
-    {
+    "10000014": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -555,7 +555,7 @@
         "controllerPathRemoteHashPre": 50,
         "LODPatternName": ""
     },
-    {
+    "10000015": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_MALE",
         "scriptDataPathHashSuffix": 444157555,
@@ -632,7 +632,7 @@
         "controllerPathRemoteHashPre": 173,
         "LODPatternName": ""
     },
-    {
+    "10000016": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_MALE",
         "scriptDataPathHashSuffix": 444157555,
@@ -709,7 +709,7 @@
         "controllerPathRemoteHashPre": 216,
         "LODPatternName": ""
     },
-    {
+    "10000020": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -786,7 +786,7 @@
         "controllerPathRemoteHashPre": 172,
         "LODPatternName": ""
     },
-    {
+    "10000021": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -864,7 +864,7 @@
         "controllerPathRemoteHashPre": 191,
         "LODPatternName": ""
     },
-    {
+    "10000022": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -942,7 +942,7 @@
         "controllerPathRemoteHashPre": 158,
         "LODPatternName": ""
     },
-    {
+    "10000023": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -1019,7 +1019,7 @@
         "controllerPathRemoteHashPre": 71,
         "LODPatternName": ""
     },
-    {
+    "10000024": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -1098,7 +1098,7 @@
         "controllerPathRemoteHashPre": 85,
         "LODPatternName": ""
     },
-    {
+    "10000025": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -1175,7 +1175,7 @@
         "controllerPathRemoteHashPre": 39,
         "LODPatternName": ""
     },
-    {
+    "10000026": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -1252,7 +1252,7 @@
         "controllerPathRemoteHashPre": 207,
         "LODPatternName": ""
     },
-    {
+    "10000027": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -1331,7 +1331,7 @@
         "controllerPathRemoteHashPre": 59,
         "LODPatternName": ""
     },
-    {
+    "10000029": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
@@ -1408,7 +1408,7 @@
         "controllerPathRemoteHashPre": 230,
         "LODPatternName": ""
     },
-    {
+    "10000030": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_MALE",
         "scriptDataPathHashSuffix": 444157555,
@@ -1485,7 +1485,7 @@
         "controllerPathRemoteHashPre": 237,
         "LODPatternName": ""
     },
-    {
+    "10000031": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -1563,7 +1563,7 @@
         "controllerPathRemoteHashPre": 182,
         "LODPatternName": ""
     },
-    {
+    "10000032": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -1642,7 +1642,7 @@
         "controllerPathRemoteHashPre": 100,
         "LODPatternName": ""
     },
-    {
+    "10000033": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_MALE",
         "scriptDataPathHashSuffix": 444157555,
@@ -1720,7 +1720,7 @@
         "controllerPathRemoteHashPre": 24,
         "LODPatternName": ""
     },
-    {
+    "10000034": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -1799,7 +1799,7 @@
         "controllerPathRemoteHashPre": 101,
         "LODPatternName": ""
     },
-    {
+    "10000035": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
@@ -1876,7 +1876,7 @@
         "controllerPathRemoteHashPre": 100,
         "LODPatternName": ""
     },
-    {
+    "10000036": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -1955,7 +1955,7 @@
         "controllerPathRemoteHashPre": 245,
         "LODPatternName": ""
     },
-    {
+    "10000037": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -2033,7 +2033,7 @@
         "controllerPathRemoteHashPre": 34,
         "LODPatternName": ""
     },
-    {
+    "10000038": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -2110,7 +2110,7 @@
         "controllerPathRemoteHashPre": 207,
         "LODPatternName": ""
     },
-    {
+    "10000039": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
@@ -2190,7 +2190,7 @@
         "controllerPathRemoteHashPre": 16,
         "LODPatternName": ""
     },
-    {
+    "10000041": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -2267,7 +2267,7 @@
         "controllerPathRemoteHashPre": 164,
         "LODPatternName": ""
     },
-    {
+    "10000042": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -2344,7 +2344,7 @@
         "controllerPathRemoteHashPre": 240,
         "LODPatternName": ""
     },
-    {
+    "10000043": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -2421,7 +2421,7 @@
         "controllerPathRemoteHashPre": 66,
         "LODPatternName": ""
     },
-    {
+    "10000044": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -2498,7 +2498,7 @@
         "controllerPathRemoteHashPre": 92,
         "LODPatternName": ""
     },
-    {
+    "10000045": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -2575,7 +2575,7 @@
         "controllerPathRemoteHashPre": 228,
         "LODPatternName": ""
     },
-    {
+    "10000046": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -2652,7 +2652,7 @@
         "controllerPathRemoteHashPre": 152,
         "LODPatternName": ""
     },
-    {
+    "10000047": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -2729,7 +2729,7 @@
         "controllerPathRemoteHashPre": 61,
         "LODPatternName": ""
     },
-    {
+    "10000048": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -2806,7 +2806,7 @@
         "controllerPathRemoteHashPre": 245,
         "LODPatternName": ""
     },
-    {
+    "10000049": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -2884,7 +2884,7 @@
         "controllerPathRemoteHashPre": 24,
         "LODPatternName": ""
     },
-    {
+    "10000050": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_MALE",
         "scriptDataPathHashSuffix": 444157555,
@@ -2963,7 +2963,7 @@
         "controllerPathRemoteHashPre": 179,
         "LODPatternName": ""
     },
-    {
+    "10000051": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -3040,7 +3040,7 @@
         "controllerPathRemoteHashPre": 32,
         "LODPatternName": ""
     },
-    {
+    "10000052": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -3117,7 +3117,7 @@
         "controllerPathRemoteHashPre": 60,
         "LODPatternName": ""
     },
-    {
+    "10000053": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
@@ -3198,7 +3198,7 @@
         "controllerPathRemoteHashPre": 60,
         "LODPatternName": ""
     },
-    {
+    "10000054": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -3275,7 +3275,7 @@
         "controllerPathRemoteHashPre": 218,
         "LODPatternName": ""
     },
-    {
+    "10000055": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -3355,7 +3355,7 @@
         "controllerPathRemoteHashPre": 227,
         "LODPatternName": ""
     },
-    {
+    "10000056": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -3433,7 +3433,7 @@
         "controllerPathRemoteHashPre": 232,
         "LODPatternName": ""
     },
-    {
+    "10000057": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_MALE",
         "scriptDataPathHashSuffix": 444157555,
@@ -3510,7 +3510,7 @@
         "controllerPathRemoteHashPre": 53,
         "LODPatternName": ""
     },
-    {
+    "10000058": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -3587,7 +3587,7 @@
         "controllerPathRemoteHashPre": 181,
         "LODPatternName": ""
     },
-    {
+    "10000059": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -3666,7 +3666,7 @@
         "controllerPathRemoteHashPre": 19,
         "LODPatternName": ""
     },
-    {
+    "10000060": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -3744,7 +3744,7 @@
         "controllerPathRemoteHashPre": 155,
         "LODPatternName": ""
     },
-    {
+    "10000062": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -3822,7 +3822,7 @@
         "controllerPathRemoteHashPre": 158,
         "LODPatternName": ""
     },
-    {
+    "10000063": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
@@ -3899,7 +3899,7 @@
         "controllerPathRemoteHashPre": 101,
         "LODPatternName": ""
     },
-    {
+    "10000064": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -3978,7 +3978,7 @@
         "controllerPathRemoteHashPre": 195,
         "LODPatternName": ""
     },
-    {
+    "10000065": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -4057,7 +4057,7 @@
         "controllerPathRemoteHashPre": 51,
         "LODPatternName": ""
     },
-    {
+    "10000066": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_MALE",
         "scriptDataPathHashSuffix": 444157555,
@@ -4134,7 +4134,7 @@
         "controllerPathRemoteHashPre": 5,
         "LODPatternName": ""
     },
-    {
+    "10000067": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -4212,7 +4212,7 @@
         "controllerPathRemoteHashPre": 241,
         "LODPatternName": ""
     },
-    {
+    "10000068": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
@@ -4293,7 +4293,7 @@
         "controllerPathRemoteHashPre": 162,
         "LODPatternName": ""
     },
-    {
+    "10000069": {
         "useType": "AVATAR_FORMAL",
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
@@ -4371,7 +4371,7 @@
         "controllerPathRemoteHashPre": 150,
         "LODPatternName": ""
     },
-    {
+    "11000008": {
         "useType": "AVATAR_ABANDON",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -4436,7 +4436,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000009": {
         "useType": "AVATAR_ABANDON",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -4501,7 +4501,7 @@
         "controllerPathRemoteHashPre": 186,
         "LODPatternName": ""
     },
-    {
+    "11000010": {
         "useType": "AVATAR_ABANDON",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -4566,7 +4566,7 @@
         "controllerPathRemoteHashPre": 60,
         "LODPatternName": ""
     },
-    {
+    "11000011": {
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
         "scriptDataPathHashPre": 255,
@@ -4630,7 +4630,7 @@
         "controllerPathRemoteHashPre": 206,
         "LODPatternName": ""
     },
-    {
+    "11000013": {
         "useType": "AVATAR_SYNC_TEST",
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
@@ -4695,7 +4695,7 @@
         "controllerPathRemoteHashPre": 189,
         "LODPatternName": ""
     },
-    {
+    "11000017": {
         "bodyType": "BODY_MALE",
         "scriptDataPathHashSuffix": 444157555,
         "scriptDataPathHashPre": 151,
@@ -4759,7 +4759,7 @@
         "controllerPathRemoteHashPre": 32,
         "LODPatternName": ""
     },
-    {
+    "11000018": {
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
         "scriptDataPathHashPre": 7,
@@ -4823,7 +4823,7 @@
         "controllerPathRemoteHashPre": 190,
         "LODPatternName": ""
     },
-    {
+    "11000019": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -4887,7 +4887,7 @@
         "controllerPathRemoteHashPre": 45,
         "LODPatternName": ""
     },
-    {
+    "11000025": {
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
         "scriptDataPathHashPre": 255,
@@ -4952,7 +4952,7 @@
         "controllerPathRemoteHashPre": 61,
         "LODPatternName": ""
     },
-    {
+    "11000026": {
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
         "scriptDataPathHashPre": 234,
@@ -5016,7 +5016,7 @@
         "controllerPathRemoteHashPre": 169,
         "LODPatternName": ""
     },
-    {
+    "11000027": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5080,7 +5080,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000028": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5144,7 +5144,7 @@
         "controllerPathRemoteHashPre": 66,
         "LODPatternName": ""
     },
-    {
+    "11000030": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5208,7 +5208,7 @@
         "controllerPathRemoteHashPre": 17,
         "LODPatternName": ""
     },
-    {
+    "11000031": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5272,7 +5272,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000032": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5336,7 +5336,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000033": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5400,7 +5400,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000034": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5464,7 +5464,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000035": {
         "bodyType": "BODY_LADY",
         "scriptDataPathHashSuffix": 3838113912,
         "scriptDataPathHashPre": 7,
@@ -5528,7 +5528,7 @@
         "controllerPathRemoteHashPre": 143,
         "LODPatternName": ""
     },
-    {
+    "11000036": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5592,7 +5592,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000037": {
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
         "scriptDataPathHashPre": 255,
@@ -5657,7 +5657,7 @@
         "controllerPathRemoteHashPre": 160,
         "LODPatternName": ""
     },
-    {
+    "11000038": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5721,7 +5721,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000039": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5785,7 +5785,7 @@
         "controllerPathRemoteHashPre": 213,
         "LODPatternName": ""
     },
-    {
+    "11000040": {
         "bodyType": "BODY_GIRL",
         "scriptDataPathHashSuffix": 236955362,
         "scriptDataPathHashPre": 37,
@@ -5849,7 +5849,7 @@
         "controllerPathRemoteHashPre": 28,
         "LODPatternName": ""
     },
-    {
+    "11000041": {
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
         "scriptDataPathHashPre": 255,
@@ -5913,7 +5913,7 @@
         "controllerPathRemoteHashPre": 188,
         "LODPatternName": ""
     },
-    {
+    "11000042": {
         "bodyType": "BODY_BOY",
         "scriptDataPathHashSuffix": 1826953020,
         "scriptDataPathHashPre": 255,
@@ -5977,7 +5977,7 @@
         "controllerPathRemoteHashPre": 188,
         "LODPatternName": ""
     },
-    {
+    "11000043": {
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
         "scriptDataPathHashPre": 234,
@@ -6041,7 +6041,7 @@
         "controllerPathRemoteHashPre": 60,
         "LODPatternName": ""
     },
-    {
+    "11000044": {
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
         "scriptDataPathHashPre": 234,
@@ -6105,7 +6105,7 @@
         "controllerPathRemoteHashPre": 100,
         "LODPatternName": ""
     },
-    {
+    "11000045": {
         "bodyType": "BODY_LOLI",
         "scriptDataPathHashSuffix": 3179442474,
         "scriptDataPathHashPre": 234,
@@ -6169,4 +6169,4 @@
         "controllerPathRemoteHashPre": 16,
         "LODPatternName": ""
     }
-]
+}

@@ -1,162 +1,162 @@
-[
-    {
+{
+    "1001": {
         "id": 1001,
         "descTextMapHash": 1200963578,
         "score": 150
     },
-    {
+    "1002": {
         "id": 1002,
         "descTextMapHash": 1569576042,
         "score": 100
     },
-    {
+    "1003": {
         "id": 1003,
         "descTextMapHash": 3308236274,
         "score": 100
     },
-    {
+    "1004": {
         "id": 1004,
         "descTextMapHash": 375576810,
         "score": 1
     },
-    {
+    "1005": {
         "id": 1005,
         "descTextMapHash": 3779168394,
         "score": 1
     },
-    {
+    "1006": {
         "id": 1006,
         "descTextMapHash": 1737363778,
         "score": 50
     },
-    {
+    "1007": {
         "id": 1007,
         "descTextMapHash": 2033584178,
         "score": 150
     },
-    {
+    "1008": {
         "id": 1008,
         "descTextMapHash": 1591025938,
         "score": 100
     },
-    {
+    "1009": {
         "id": 1009,
         "descTextMapHash": 3264360618,
         "score": 50
     },
-    {
+    "1010": {
         "id": 1010,
         "descTextMapHash": 1756635242,
         "score": 50
     },
-    {
+    "1011": {
         "id": 1011,
         "descTextMapHash": 4082588410,
         "score": 50
     },
-    {
+    "1012": {
         "id": 1012,
         "descTextMapHash": 475763026,
         "score": 100
     },
-    {
+    "1013": {
         "id": 1013,
         "descTextMapHash": 925431386,
         "score": 50
     },
-    {
+    "1014": {
         "id": 1014,
         "descTextMapHash": 2888711570,
         "score": 100
     },
-    {
+    "1015": {
         "id": 1015,
         "descTextMapHash": 3687939658,
         "score": 50
     },
-    {
+    "1016": {
         "id": 1016,
         "descTextMapHash": 925340074,
         "score": 100
     },
-    {
+    "1017": {
         "id": 1017,
         "descTextMapHash": 3575721154,
         "score": 50
     },
-    {
+    "1018": {
         "id": 1018,
         "descTextMapHash": 2994224242,
         "score": 50
     },
-    {
+    "1019": {
         "id": 1019,
         "descTextMapHash": 1526055874,
         "score": 50
     },
-    {
+    "1020": {
         "id": 1020,
         "descTextMapHash": 913727258,
         "score": 50
     },
-    {
+    "1021": {
         "id": 1021,
         "descTextMapHash": 2872439058,
         "score": 50
     },
-    {
+    "1022": {
         "id": 1022,
         "descTextMapHash": 4276580914,
         "score": 50
     },
-    {
+    "1023": {
         "id": 1023,
         "descTextMapHash": 51343890,
         "score": 50
     },
-    {
+    "1024": {
         "id": 1024,
         "descTextMapHash": 3497412690,
         "score": 50
     },
-    {
+    "1025": {
         "id": 1025,
         "descTextMapHash": 862322714,
         "score": 50
     },
-    {
+    "1026": {
         "id": 1026,
         "descTextMapHash": 1559268530,
         "score": 50
     },
-    {
+    "1027": {
         "id": 1027,
         "descTextMapHash": 3987489138,
         "score": 50
     },
-    {
+    "1028": {
         "id": 1028,
         "descTextMapHash": 451748562,
         "score": 50
     },
-    {
+    "1029": {
         "id": 1029,
         "descTextMapHash": 2042626890,
         "score": 50
     },
-    {
+    "1030": {
         "id": 1030,
         "descTextMapHash": 3650065434,
         "score": 100
     },
-    {
+    "1031": {
         "id": 1031,
         "descTextMapHash": 2408621786,
         "score": 50
     },
-    {
+    "1032": {
         "id": 1032,
         "descTextMapHash": 84109970,
         "score": 50
     }
-]
+}

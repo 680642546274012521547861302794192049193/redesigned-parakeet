@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5006001": {
         "scheduleId": 5006001,
         "dailyConfigIdList": [
             1,
@@ -12,4 +12,4 @@
         ],
         "needPlayerLevel": 20
     }
-]
+}

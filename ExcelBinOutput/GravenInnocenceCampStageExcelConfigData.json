@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "openDay": 1,
         "NGFAPIFHCCP": [
@@ -11,7 +11,7 @@
         ],
         "titleTextMapHash": 186113478
     },
-    {
+    "2": {
         "id": 2,
         "openDay": 5,
         "NGFAPIFHCCP": [
@@ -23,7 +23,7 @@
         ],
         "titleTextMapHash": 3677697790
     },
-    {
+    "3": {
         "id": 3,
         "openDay": 8,
         "NGFAPIFHCCP": [
@@ -35,7 +35,7 @@
         ],
         "titleTextMapHash": 3049522286
     },
-    {
+    "4": {
         "id": 4,
         "openDay": 11,
         "NGFAPIFHCCP": [
@@ -47,4 +47,4 @@
         ],
         "titleTextMapHash": 3442544550
     }
-]
+}

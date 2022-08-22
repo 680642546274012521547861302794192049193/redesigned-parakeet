@@ -1,5 +1,5 @@
-[
-    {
+{
+    "CONST_VALUE_GAME_TIME_PER_DAY": {
         "name": "CONST_VALUE_GAME_TIME_PER_DAY",
         "value": [
             "24",
@@ -10,7 +10,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_INIT_GAME_TIME": {
         "name": "CONST_VALUE_INIT_GAME_TIME",
         "value": [
             "7.31",
@@ -21,7 +21,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_INIT_TEAM_AVATAR": {
         "name": "CONST_VALUE_INIT_TEAM_AVATAR",
         "value": [
             "10000005",
@@ -32,7 +32,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CHANGE_AVATAR_CD": {
         "name": "CONST_VALUE_CHANGE_AVATAR_CD",
         "value": [
             "1",
@@ -43,7 +43,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_AVATAR_HP_RECOVER": {
         "name": "CONST_VALUE_AVATAR_HP_RECOVER",
         "value": [
             "10",
@@ -54,7 +54,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DASH_COST_STAMINA": {
         "name": "CONST_VALUE_DASH_COST_STAMINA",
         "value": [
             "18",
@@ -65,7 +65,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CLIMB_COST_STAMINA": {
         "name": "CONST_VALUE_CLIMB_COST_STAMINA",
         "value": [
             "59",
@@ -76,7 +76,7 @@
             "3"
         ]
     },
-    {
+    "CONST_VALUE_CLIMB_JUMP_COST_STAMINA": {
         "name": "CONST_VALUE_CLIMB_JUMP_COST_STAMINA",
         "value": [
             "25",
@@ -87,7 +87,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CLIMB_COST_STAMINA_FORMULA": {
         "name": "CONST_VALUE_CLIMB_COST_STAMINA_FORMULA",
         "value": [
             "0.8",
@@ -98,7 +98,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CLIMB_JUMP_COST_STAMINA_FORMULA": {
         "name": "CONST_VALUE_CLIMB_JUMP_COST_STAMINA_FORMULA",
         "value": [
             "20",
@@ -109,7 +109,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SWIM_COST_STAMINA": {
         "name": "CONST_VALUE_SWIM_COST_STAMINA",
         "value": [
             "4",
@@ -120,7 +120,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SWIM_DASH_COST_STAMINA": {
         "name": "CONST_VALUE_SWIM_DASH_COST_STAMINA",
         "value": [
             "1",
@@ -131,7 +131,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SWIM_DASH_COST_STAMINA_PER_SECOND": {
         "name": "CONST_VALUE_SWIM_DASH_COST_STAMINA_PER_SECOND",
         "value": [
             "10.2",
@@ -142,7 +142,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FLY_COST_STAMINA": {
         "name": "CONST_VALUE_FLY_COST_STAMINA",
         "value": [
             "3",
@@ -153,7 +153,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CROUCH_ROLL_COST_STAMINA": {
         "name": "CONST_VALUE_CROUCH_ROLL_COST_STAMINA",
         "value": [
             "50",
@@ -164,7 +164,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DASH_BS_COST_STAMINA": {
         "name": "CONST_VALUE_DASH_BS_COST_STAMINA",
         "value": [
             "18",
@@ -175,7 +175,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_WALK_TO_SWIM_ADD_STAMINA": {
         "name": "CONST_VALUE_WALK_TO_SWIM_ADD_STAMINA",
         "value": [
             "10",
@@ -186,7 +186,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_STAMINA_RECOVER_WAIT_TIME": {
         "name": "CONST_VALUE_STAMINA_RECOVER_WAIT_TIME",
         "value": [
             "1.5",
@@ -197,7 +197,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_STAMINA_LIMIT": {
         "name": "CONST_VALUE_STAMINA_LIMIT",
         "value": [
             "100",
@@ -208,7 +208,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_EXTRA_STAMINA_LIMIT": {
         "name": "CONST_VALUE_EXTRA_STAMINA_LIMIT",
         "value": [
             "200",
@@ -219,7 +219,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FALL_HURT": {
         "name": "CONST_VALUE_FALL_HURT",
         "value": [
             "-24",
@@ -230,7 +230,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PACK_MAX_WEIGHT": {
         "name": "CONST_VALUE_PACK_MAX_WEIGHT",
         "value": [
             "30000",
@@ -241,7 +241,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEPOT_MAX_WEIGHT": {
         "name": "CONST_VALUE_DEPOT_MAX_WEIGHT",
         "value": [
             "2000",
@@ -252,7 +252,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_KILL_MONSTER_EXP": {
         "name": "CONST_VALUE_KILL_MONSTER_EXP",
         "value": [
             "100",
@@ -263,7 +263,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PLAYER_WORLD_SCENE_ID": {
         "name": "CONST_VALUE_PLAYER_WORLD_SCENE_ID",
         "value": [
             "3",
@@ -274,7 +274,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PLAYER_PICKUP_RANGE": {
         "name": "CONST_VALUE_PLAYER_PICKUP_RANGE",
         "value": [
             "2",
@@ -285,7 +285,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ITEM_STACK_MAX": {
         "name": "CONST_VALUE_ITEM_STACK_MAX",
         "value": [
             "255",
@@ -296,7 +296,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_AVATAR_DIE_MAX_TIME": {
         "name": "CONST_VALUE_AVATAR_DIE_MAX_TIME",
         "value": [
             "10",
@@ -307,7 +307,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEFENSE_RESIST_RATIO": {
         "name": "CONST_VALUE_DEFENSE_RESIST_RATIO",
         "value": [
             "5",
@@ -318,7 +318,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CRITICAL_LIMIT": {
         "name": "CONST_VALUE_CRITICAL_LIMIT",
         "value": [
             "0",
@@ -329,7 +329,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BLOCK_REFRESH_PARAM": {
         "name": "CONST_VALUE_BLOCK_REFRESH_PARAM",
         "value": [
             "60",
@@ -340,7 +340,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DUNGEON_KEEP_TIME": {
         "name": "CONST_VALUE_DUNGEON_KEEP_TIME",
         "value": [
             "30",
@@ -351,7 +351,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ADSORBATE_PICKUP_RANGE": {
         "name": "CONST_VALUE_ADSORBATE_PICKUP_RANGE",
         "value": [
             "10",
@@ -362,7 +362,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ADSORBATE_STAY_TIME": {
         "name": "CONST_VALUE_ADSORBATE_STAY_TIME",
         "value": [
             "2",
@@ -373,7 +373,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ELEMENT_OVERLOAD_REDUCE": {
         "name": "CONST_VALUE_ELEMENT_OVERLOAD_REDUCE",
         "value": [
             "1",
@@ -384,7 +384,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PURGE_DECREMENT": {
         "name": "CONST_VALUE_PURGE_DECREMENT",
         "value": [
             "0.5",
@@ -395,7 +395,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_WATER_FIRE_DECRATE": {
         "name": "CONST_VALUE_WATER_FIRE_DECRATE",
         "value": [
             "2",
@@ -406,7 +406,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ICE_FIRE_DECRATE": {
         "name": "CONST_VALUE_ICE_FIRE_DECRATE",
         "value": [
             "0.5",
@@ -417,7 +417,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_EFFECT_RESIST_LEVEL_FIX": {
         "name": "CONST_VALUE_EFFECT_RESIST_LEVEL_FIX",
         "value": [
             "0.05",
@@ -428,7 +428,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DUNGEON_REVIVE_WAIT_TIME": {
         "name": "CONST_VALUE_DUNGEON_REVIVE_WAIT_TIME",
         "value": [
             "30",
@@ -439,7 +439,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FOOD_WEAPON_EXP_DISCOUNT_PARAM": {
         "name": "CONST_VALUE_FOOD_WEAPON_EXP_DISCOUNT_PARAM",
         "value": [
             "0.8",
@@ -450,7 +450,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FOOD_RELIQUARY_EXP_DISCOUNT_PARAM": {
         "name": "CONST_VALUE_FOOD_RELIQUARY_EXP_DISCOUNT_PARAM",
         "value": [
             "0.8",
@@ -461,7 +461,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DAMAGE_LEVEL_FIX": {
         "name": "CONST_VALUE_DAMAGE_LEVEL_FIX",
         "value": [
             "1.5",
@@ -472,7 +472,7 @@
             "10"
         ]
     },
-    {
+    "CONST_VALUE_DUNGEON_CANCEL_WAIT_TIME": {
         "name": "CONST_VALUE_DUNGEON_CANCEL_WAIT_TIME",
         "value": [
             "30",
@@ -483,7 +483,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ENDURE_LEVEL_FIX": {
         "name": "CONST_VALUE_ENDURE_LEVEL_FIX",
         "value": [
             "40",
@@ -494,7 +494,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SECRET_CHEST_DAY_LIMIT": {
         "name": "CONST_VALUE_SECRET_CHEST_DAY_LIMIT",
         "value": [
             "3",
@@ -505,7 +505,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HURT_REVIVE_HP_PERCENT": {
         "name": "CONST_VALUE_HURT_REVIVE_HP_PERCENT",
         "value": [
             "35",
@@ -516,7 +516,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_NO_HURT_DIE_SUB_HP_PERCENT": {
         "name": "CONST_VALUE_NO_HURT_DIE_SUB_HP_PERCENT",
         "value": [
             "10",
@@ -527,7 +527,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SPRING_RECOVER_TIME": {
         "name": "CONST_VALUE_SPRING_RECOVER_TIME",
         "value": [
             "1500",
@@ -538,7 +538,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SPRING_RECOVER_PARAM": {
         "name": "CONST_VALUE_SPRING_RECOVER_PARAM",
         "value": [
             "1",
@@ -549,7 +549,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SPRING_AUTO_RECOVER_DELAY": {
         "name": "CONST_VALUE_SPRING_AUTO_RECOVER_DELAY",
         "value": [
             "2",
@@ -560,7 +560,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BACK_AVATAR_AUTO_RECOVER_PARAM": {
         "name": "CONST_VALUE_BACK_AVATAR_AUTO_RECOVER_PARAM",
         "value": [
             "3600",
@@ -571,7 +571,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BORED_LIMIT": {
         "name": "CONST_VALUE_BORED_LIMIT",
         "value": [
             "50",
@@ -582,7 +582,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BORED_CREATE_MONSTER": {
         "name": "CONST_VALUE_BORED_CREATE_MONSTER",
         "value": [
             "200",
@@ -593,7 +593,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SKILL_CD_MIN_PRESERVE_TIME": {
         "name": "CONST_VALUE_SKILL_CD_MIN_PRESERVE_TIME",
         "value": [
             "5",
@@ -604,7 +604,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_TALENT_POINT_LIMIT": {
         "name": "CONST_VALUE_TALENT_POINT_LIMIT",
         "value": [
             "16",
@@ -615,7 +615,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ELEMENTREACTION_AREALEVELDELTA_LIMIT": {
         "name": "CONST_VALUE_ELEMENTREACTION_AREALEVELDELTA_LIMIT",
         "value": [
             "10",
@@ -626,7 +626,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MODIFIER_MIN_PRESERVE_TIME": {
         "name": "CONST_VALUE_MODIFIER_MIN_PRESERVE_TIME",
         "value": [
             "5",
@@ -637,7 +637,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_AREA_CHECK_CD": {
         "name": "CONST_VALUE_AREA_CHECK_CD",
         "value": [
             "6",
@@ -648,7 +648,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_NICKNAME_MAX_LENGTH": {
         "name": "CONST_VALUE_NICKNAME_MAX_LENGTH",
         "value": [
             "14",
@@ -659,7 +659,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_TEAMNAME_MAX_LENGTH": {
         "name": "CONST_VALUE_TEAMNAME_MAX_LENGTH",
         "value": [
             "16",
@@ -670,7 +670,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PORTAL_TRANSPORT_TIME": {
         "name": "CONST_VALUE_PORTAL_TRANSPORT_TIME",
         "value": [
             "5",
@@ -681,7 +681,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ENV_ANIMAL_REFRESH": {
         "name": "CONST_VALUE_ENV_ANIMAL_REFRESH",
         "value": [
             "6",
@@ -692,7 +692,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ENV_ANIMAL_GROUP": {
         "name": "CONST_VALUE_ENV_ANIMAL_GROUP",
         "value": [
             "50",
@@ -703,7 +703,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BUSH_DROP": {
         "name": "CONST_VALUE_BUSH_DROP",
         "value": [
             "8",
@@ -714,7 +714,7 @@
             "300"
         ]
     },
-    {
+    "CONST_VALUE_COOK_AUTO_QUALITY": {
         "name": "CONST_VALUE_COOK_AUTO_QUALITY",
         "value": [
             "5",
@@ -725,7 +725,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_COOK_QTE_PERFECT_RANGE_VALUE": {
         "name": "CONST_VALUE_COOK_QTE_PERFECT_RANGE_VALUE",
         "value": [
             "0.25",
@@ -736,7 +736,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_KILL_DROP_EXP_CONFIG": {
         "name": "CONST_VALUE_KILL_DROP_EXP_CONFIG",
         "value": [
             "100",
@@ -747,7 +747,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_AVATAR_MAX_PROMOTE_LEVEL": {
         "name": "CONST_VALUE_AVATAR_MAX_PROMOTE_LEVEL",
         "value": [
             "6",
@@ -758,7 +758,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_VIOLIN_LIST": {
         "name": "CONST_VALUE_VIOLIN_LIST",
         "value": [
             "100161",
@@ -769,7 +769,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FIREWORM_ESCAPE_PARMA": {
         "name": "CONST_VALUE_FIREWORM_ESCAPE_PARMA",
         "value": [
             "3",
@@ -780,7 +780,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_TIMEOUT_SECOND_PARMA": {
         "name": "CONST_VALUE_TIMEOUT_SECOND_PARMA",
         "value": [
             "5",
@@ -791,7 +791,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_TIMEOUT_COUND_PARMA": {
         "name": "CONST_VALUE_TIMEOUT_COUND_PARMA",
         "value": [
             "3",
@@ -802,7 +802,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MAIL_MAX_NUM": {
         "name": "CONST_VALUE_MAIL_MAX_NUM",
         "value": [
             "1000",
@@ -813,7 +813,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RECORD_MONSTER_DIS": {
         "name": "CONST_VALUE_RECORD_MONSTER_DIS",
         "value": [
             "15",
@@ -824,7 +824,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RECORD_MONSTER_ANGLE": {
         "name": "CONST_VALUE_RECORD_MONSTER_ANGLE",
         "value": [
             "120",
@@ -835,7 +835,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_COMPOUND_QUEUE_MAX_COUNT": {
         "name": "CONST_VALUE_COMPOUND_QUEUE_MAX_COUNT",
         "value": [
             "999",
@@ -846,7 +846,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_WEAPON_AUTO_HIDE_TIME": {
         "name": "CONST_VALUE_WEAPON_AUTO_HIDE_TIME",
         "value": [
             "10",
@@ -857,7 +857,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_WEAPON_LEVELUP_COST": {
         "name": "CONST_VALUE_WEAPON_LEVELUP_COST",
         "value": [
             "0.1",
@@ -868,7 +868,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RELIQUARY_LEVELUP_COST": {
         "name": "CONST_VALUE_RELIQUARY_LEVELUP_COST",
         "value": [
             "1",
@@ -879,7 +879,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_AVATAR_UPGRADE_COST_RATIO": {
         "name": "CONST_VALUE_AVATAR_UPGRADE_COST_RATIO",
         "value": [
             "0.2",
@@ -890,7 +890,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CLIMB_MIN_STAMINA": {
         "name": "CONST_VALUE_CLIMB_MIN_STAMINA",
         "value": [
             "5",
@@ -901,7 +901,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ELEMENT_SHOW_DISTANCE": {
         "name": "CONST_VALUE_ELEMENT_SHOW_DISTANCE",
         "value": [
             "20",
@@ -912,7 +912,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_QUESTGUIDE_SHOW_DISTANCE": {
         "name": "CONST_VALUE_QUESTGUIDE_SHOW_DISTANCE",
         "value": [
             "300",
@@ -923,7 +923,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_LIMIT_QUALITY_ONDROP": {
         "name": "CONST_VALUE_LIMIT_QUALITY_ONDROP",
         "value": [
             "1",
@@ -934,7 +934,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_STEER_MIN_ANGLE": {
         "name": "CONST_VALUE_STEER_MIN_ANGLE",
         "value": [
             "70",
@@ -945,7 +945,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MAP_WARNING_DISTANCE": {
         "name": "CONST_VALUE_MAP_WARNING_DISTANCE",
         "value": [
             "80",
@@ -956,7 +956,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MAP_WARNING_INTERVAL": {
         "name": "CONST_VALUE_MAP_WARNING_INTERVAL",
         "value": [
             "20",
@@ -967,7 +967,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_AREA_LEVEL_WARNING_THR": {
         "name": "CONST_VALUE_AREA_LEVEL_WARNING_THR",
         "value": [
             "5",
@@ -978,7 +978,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ELEMENT_OVERLOAD_MAX": {
         "name": "CONST_VALUE_ELEMENT_OVERLOAD_MAX",
         "value": [
             "1",
@@ -989,7 +989,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SUPERCONDUCTOR_DURABILITY": {
         "name": "CONST_VALUE_SUPERCONDUCTOR_DURABILITY",
         "value": [
             "1",
@@ -1000,7 +1000,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SWIRL_PARAM": {
         "name": "CONST_VALUE_SWIRL_PARAM",
         "value": [
             "1",
@@ -1011,7 +1011,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_IS_MP_OPEN": {
         "name": "CONST_VALUE_IS_MP_OPEN",
         "value": [
             "1",
@@ -1022,7 +1022,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CRASH_PARAM": {
         "name": "CONST_VALUE_CRASH_PARAM",
         "value": [
             "10",
@@ -1033,7 +1033,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ELEMENT_MASTERY_PARAM": {
         "name": "CONST_VALUE_ELEMENT_MASTERY_PARAM",
         "value": [
             "16.00",
@@ -1044,7 +1044,7 @@
             "1400"
         ]
     },
-    {
+    "CONST_VALUE_ELEMENT_MASTERY_PARAM_OVERDOSE": {
         "name": "CONST_VALUE_ELEMENT_MASTERY_PARAM_OVERDOSE",
         "value": [
             "5",
@@ -1055,7 +1055,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DAILY_TASK_PARAM": {
         "name": "CONST_VALUE_DAILY_TASK_PARAM",
         "value": [
             "4",
@@ -1066,7 +1066,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DAILY_TASK_PARAM2": {
         "name": "CONST_VALUE_DAILY_TASK_PARAM2",
         "value": [
             "5",
@@ -1077,7 +1077,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DAILY_TASK_OPEN_CUSTOM_POOL": {
         "name": "CONST_VALUE_DAILY_TASK_OPEN_CUSTOM_POOL",
         "value": [
             "10106,10107,10204,21700",
@@ -1088,7 +1088,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_NEXT_DAY": {
         "name": "CONST_VALUE_NEXT_DAY",
         "value": [
             "4",
@@ -1099,7 +1099,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RAND_TASK_COMP_PARAM": {
         "name": "CONST_VALUE_RAND_TASK_COMP_PARAM",
         "value": [
             "1",
@@ -1110,7 +1110,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RAND_TASK_REFRESH_PARAM": {
         "name": "CONST_VALUE_RAND_TASK_REFRESH_PARAM",
         "value": [
             "1",
@@ -1121,7 +1121,7 @@
             "10"
         ]
     },
-    {
+    "CONST_VALUE_RAND_TASK_POS_PARAM": {
         "name": "CONST_VALUE_RAND_TASK_POS_PARAM",
         "value": [
             "60",
@@ -1132,7 +1132,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RAND_TASK_POINT_PARAM": {
         "name": "CONST_VALUE_RAND_TASK_POINT_PARAM",
         "value": [
             "40",
@@ -1143,7 +1143,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RAND_TASK_QEST_PARAM": {
         "name": "CONST_VALUE_RAND_TASK_QEST_PARAM",
         "value": [
             "1",
@@ -1154,7 +1154,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ENERGY_RECHANGE_RATIO": {
         "name": "CONST_VALUE_ENERGY_RECHANGE_RATIO",
         "value": [
             "1,1",
@@ -1165,7 +1165,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEFAULT_WORLD_ID": {
         "name": "CONST_VALUE_DEFAULT_WORLD_ID",
         "value": [
             "1",
@@ -1176,7 +1176,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_EXPEDITION_INIT_LIMIT": {
         "name": "CONST_VALUE_EXPEDITION_INIT_LIMIT",
         "value": [
             "2",
@@ -1187,7 +1187,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_WORLD_LEVEL_FORMULA": {
         "name": "CONST_VALUE_WORLD_LEVEL_FORMULA",
         "value": [
             "-15",
@@ -1198,7 +1198,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_WEATHER_INTERVAL": {
         "name": "CONST_VALUE_WEATHER_INTERVAL",
         "value": [
             "8",
@@ -1209,7 +1209,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_AVATAR_COMBAT_FORCE_PARAM": {
         "name": "CONST_VALUE_AVATAR_COMBAT_FORCE_PARAM",
         "value": [
             "1,15,25,20000,10000,4000,40,14000,10000",
@@ -1220,7 +1220,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PLAYER_COMBAT_FORCE_PARAM": {
         "name": "CONST_VALUE_PLAYER_COMBAT_FORCE_PARAM",
         "value": [
             "5,3,1",
@@ -1231,7 +1231,7 @@
             "5,3,1"
         ]
     },
-    {
+    "CONST_VALUE_CORE_PROUD_SKILL_MAX_LEVEL": {
         "name": "CONST_VALUE_CORE_PROUD_SKILL_MAX_LEVEL",
         "value": [
             "10",
@@ -1242,7 +1242,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_INHERENT_PROUD_SKILL_MAX_LEVEL": {
         "name": "CONST_VALUE_INHERENT_PROUD_SKILL_MAX_LEVEL",
         "value": [
             "1",
@@ -1253,7 +1253,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVE_SKILL_MAX_LEVEL": {
         "name": "CONST_VALUE_ACTIVE_SKILL_MAX_LEVEL",
         "value": [
             "10",
@@ -1264,7 +1264,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DUNGEON_OEPN_QUEST": {
         "name": "CONST_VALUE_DUNGEON_OEPN_QUEST",
         "value": [
             "20501",
@@ -1275,7 +1275,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MP_CHAT_PARAM": {
         "name": "CONST_VALUE_MP_CHAT_PARAM",
         "value": [
             "200",
@@ -1286,7 +1286,7 @@
             "60"
         ]
     },
-    {
+    "CONST_VALUE_DUNGEON_CANDIDATE_INVITE_VAILD_TIME_SEC": {
         "name": "CONST_VALUE_DUNGEON_CANDIDATE_INVITE_VAILD_TIME_SEC",
         "value": [
             "10",
@@ -1297,7 +1297,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SET_STRUGGLE_LEVEL_DIFFERENCE_THRESHOLD": {
         "name": "CONST_VALUE_SET_STRUGGLE_LEVEL_DIFFERENCE_THRESHOLD",
         "value": [
             "20",
@@ -1308,7 +1308,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DUNGEON_INVITE_NEED_TRANS_DISTANCE": {
         "name": "CONST_VALUE_DUNGEON_INVITE_NEED_TRANS_DISTANCE",
         "value": [
             "10",
@@ -1319,7 +1319,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PLAYER_LEVEL_REWARD_UNLOCK_PREVIEW_LIMIT": {
         "name": "CONST_VALUE_PLAYER_LEVEL_REWARD_UNLOCK_PREVIEW_LIMIT",
         "value": [
             "5",
@@ -1330,7 +1330,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DROP_SUBFIELD_PARAM": {
         "name": "CONST_VALUE_DROP_SUBFIELD_PARAM",
         "value": [
             "9999",
@@ -1341,7 +1341,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_NPC_CONFLICT_DISTANCE": {
         "name": "CONST_VALUE_NPC_CONFLICT_DISTANCE",
         "value": [
             "200",
@@ -1352,7 +1352,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SEA_LAMP_ACTIVITY": {
         "name": "CONST_VALUE_SEA_LAMP_ACTIVITY",
         "value": [
             "200004",
@@ -1363,7 +1363,7 @@
             "70800017"
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY": {
         "name": "CONST_VALUE_ACTIVITY",
         "value": [
             "7",
@@ -1374,7 +1374,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SEA_LAMP_PRAY_URL": {
         "name": "CONST_VALUE_SEA_LAMP_PRAY_URL",
         "value": [
             "https://api-takumi.mihoyo.com/event/e20200203lantern/addbless?authkey_ver=1",
@@ -1385,7 +1385,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SEA_LAMP_ACTIVITY2": {
         "name": "CONST_VALUE_SEA_LAMP_ACTIVITY2",
         "value": [
             "30000",
@@ -1396,7 +1396,7 @@
             "151"
         ]
     },
-    {
+    "CONST_VALUE_SEA_LAMP_QUEST": {
         "name": "CONST_VALUE_SEA_LAMP_QUEST",
         "value": [
             "40001",
@@ -1407,7 +1407,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RESIN_PARAM": {
         "name": "CONST_VALUE_RESIN_PARAM",
         "value": [
             "2000",
@@ -1418,7 +1418,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_TOWER_DAILY_MAIL_ID": {
         "name": "CONST_VALUE_TOWER_DAILY_MAIL_ID",
         "value": [
             "1",
@@ -1429,7 +1429,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_TOWER_MONTHLY_MAIL_ID": {
         "name": "CONST_VALUE_TOWER_MONTHLY_MAIL_ID",
         "value": [
             "2",
@@ -1440,7 +1440,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_TOWER_OVERFLOW_FIRST_PASS": {
         "name": "CONST_VALUE_TOWER_OVERFLOW_FIRST_PASS",
         "value": [
             "3",
@@ -1451,7 +1451,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_LIMIT_REGION_PATH": {
         "name": "CONST_VALUE_LIMIT_REGION_PATH",
         "value": [
             "47,FreshmeatRegion,48,GlobalOpenArea",
@@ -1462,7 +1462,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SEA_LAMP_ACTIVITY3": {
         "name": "CONST_VALUE_SEA_LAMP_ACTIVITY3",
         "value": [
             "-492.42,203.78,285.7",
@@ -1473,7 +1473,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEFAULT_MATERIAL_GADGET_ID": {
         "name": "CONST_VALUE_DEFAULT_MATERIAL_GADGET_ID",
         "value": [
             "70300001",
@@ -1484,7 +1484,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DISTANCE_CHECK": {
         "name": "CONST_VALUE_DISTANCE_CHECK",
         "value": [
             "50",
@@ -1495,7 +1495,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PROFICIENT_PLAYER_CHILD_QUEST": {
         "name": "CONST_VALUE_PROFICIENT_PLAYER_CHILD_QUEST",
         "value": [
             "35802",
@@ -1506,7 +1506,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GACHA_GUARANTEE_START_COEFFICIENT": {
         "name": "CONST_VALUE_GACHA_GUARANTEE_START_COEFFICIENT",
         "value": [
             "0.44",
@@ -1517,7 +1517,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GACHA_GUARANTEE_INCREASE_COEFFICIENT": {
         "name": "CONST_VALUE_GACHA_GUARANTEE_INCREASE_COEFFICIENT",
         "value": [
             "10",
@@ -1528,7 +1528,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GACHA_DYNAMIC_UP_BASE": {
         "name": "CONST_VALUE_GACHA_DYNAMIC_UP_BASE",
         "value": [
             "3",
@@ -1539,7 +1539,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_QUEST_TRIAL_AVATAR_COMBAT_FORCE_CONVERT_RATIO": {
         "name": "CONST_VALUE_QUEST_TRIAL_AVATAR_COMBAT_FORCE_CONVERT_RATIO",
         "value": [
             "0.9",
@@ -1550,7 +1550,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_OUTPUT_LIMIT_SWITCH": {
         "name": "CONST_VALUE_OUTPUT_LIMIT_SWITCH",
         "value": [
             "",
@@ -1561,7 +1561,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_OUTPUT_CONTROL_SWITCH": {
         "name": "CONST_VALUE_OUTPUT_CONTROL_SWITCH",
         "value": [
             "1",
@@ -1572,7 +1572,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FROMBACK_LIMITTIME": {
         "name": "CONST_VALUE_FROMBACK_LIMITTIME",
         "value": [
             "5",
@@ -1583,7 +1583,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FROMBACK_LIMITRATIO": {
         "name": "CONST_VALUE_FROMBACK_LIMITRATIO",
         "value": [
             "2",
@@ -1594,7 +1594,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FROMBACK_RECONNECT_DURATION": {
         "name": "CONST_VALUE_FROMBACK_RECONNECT_DURATION",
         "value": [
             "3",
@@ -1605,7 +1605,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RECONNECT_DELAY_BASE": {
         "name": "CONST_VALUE_RECONNECT_DELAY_BASE",
         "value": [
             "2.5",
@@ -1616,7 +1616,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FORCE_RECONNECT_DURATION": {
         "name": "CONST_VALUE_FORCE_RECONNECT_DURATION",
         "value": [
             "30",
@@ -1627,7 +1627,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SOCIAL_CONFIG": {
         "name": "CONST_VALUE_SOCIAL_CONFIG",
         "value": [
             "60",
@@ -1638,7 +1638,7 @@
             "10"
         ]
     },
-    {
+    "CONST_VALUE_BATTLE_PASS_MISSION_REFRESH": {
         "name": "CONST_VALUE_BATTLE_PASS_MISSION_REFRESH",
         "value": [
             "99",
@@ -1649,7 +1649,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PRODUCT_PARAM": {
         "name": "CONST_VALUE_PRODUCT_PARAM",
         "value": [
             "2020-04-26 19:00:00",
@@ -1660,7 +1660,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SATIATION_PARAM": {
         "name": "CONST_VALUE_SATIATION_PARAM",
         "value": [
             "100",
@@ -1671,7 +1671,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MALL_LIMITTIMEPT_SHOWTIME": {
         "name": "CONST_VALUE_MALL_LIMITTIMEPT_SHOWTIME",
         "value": [
             "14",
@@ -1682,10 +1682,10 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GAGDET_CREATION_LIMIT_DROP_TAG": {
         "name": "CONST_VALUE_GAGDET_CREATION_LIMIT_DROP_TAG",
         "value": [
-            "\u641c\u522e\u70b9\u89e3\u8c1c",
+            "搜刮点解谜",
             "100",
             "",
             "",
@@ -1693,7 +1693,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_LOADING_LIGHT_BG_PERIOD": {
         "name": "CONST_VALUE_LOADING_LIGHT_BG_PERIOD",
         "value": [
             "6",
@@ -1704,7 +1704,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MOVE_SPEED_CHECK_PARAM": {
         "name": "CONST_VALUE_MOVE_SPEED_CHECK_PARAM",
         "value": [
             "1000",
@@ -1715,7 +1715,7 @@
             "40"
         ]
     },
-    {
+    "CONST_VALUE_DEFAULT_FLYCLOAK_CONFIG": {
         "name": "CONST_VALUE_DEFAULT_FLYCLOAK_CONFIG",
         "value": [
             "140001",
@@ -1726,7 +1726,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_CRUCIBLE_QUEST_ID": {
         "name": "CONST_VALUE_ACTIVITY_CRUCIBLE_QUEST_ID",
         "value": [
             "40911",
@@ -1737,7 +1737,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MP_PLAY_CONFIG": {
         "name": "CONST_VALUE_MP_PLAY_CONFIG",
         "value": [
             "70330039",
@@ -1748,7 +1748,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_REBATE_MAIL_ID": {
         "name": "CONST_VALUE_REBATE_MAIL_ID",
         "value": [
             "8",
@@ -1759,7 +1759,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEFAULT_NAME_CARD_ID": {
         "name": "CONST_VALUE_DEFAULT_NAME_CARD_ID",
         "value": [
             "210001",
@@ -1770,7 +1770,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CRUCIBLE_CONFIG": {
         "name": "CONST_VALUE_CRUCIBLE_CONFIG",
         "value": [
             "900",
@@ -1781,7 +1781,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BATTLEPASS_VIDEO_CONFIG": {
         "name": "CONST_VALUE_BATTLEPASS_VIDEO_CONFIG",
         "value": [
             "battlePass.usm",
@@ -1792,7 +1792,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MATERIAL_DESTROY_RETURN_MATERIAL_LIMIT": {
         "name": "CONST_VALUE_MATERIAL_DESTROY_RETURN_MATERIAL_LIMIT",
         "value": [
             "9",
@@ -1803,7 +1803,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BATTLE_PASS_ITEM_USE_CONFIG": {
         "name": "CONST_VALUE_BATTLE_PASS_ITEM_USE_CONFIG",
         "value": [
             "20",
@@ -1814,7 +1814,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PERSONAL_LINE_CONFIG": {
         "name": "CONST_VALUE_PERSONAL_LINE_CONFIG",
         "value": [
             "3",
@@ -1825,7 +1825,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RTT_LOW": {
         "name": "CONST_VALUE_RTT_LOW",
         "value": [
             "100",
@@ -1836,7 +1836,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RTT_MID": {
         "name": "CONST_VALUE_RTT_MID",
         "value": [
             "200",
@@ -1847,7 +1847,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RTT_HIGH": {
         "name": "CONST_VALUE_RTT_HIGH",
         "value": [
             "999",
@@ -1858,7 +1858,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RTT_REFRESH_TIME": {
         "name": "CONST_VALUE_RTT_REFRESH_TIME",
         "value": [
             "1",
@@ -1869,7 +1869,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SPEECH_BUBBLE_DEFAULT_DURATION": {
         "name": "CONST_VALUE_SPEECH_BUBBLE_DEFAULT_DURATION",
         "value": [
             "2",
@@ -1880,7 +1880,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SPEECH_BUBBLE_EXTRA_DURATION": {
         "name": "CONST_VALUE_SPEECH_BUBBLE_EXTRA_DURATION",
         "value": [
             "0.5",
@@ -1891,7 +1891,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FORGE_POINT_DAY_LIMIT": {
         "name": "CONST_VALUE_FORGE_POINT_DAY_LIMIT",
         "value": [
             "300000",
@@ -1902,7 +1902,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FIRST_SHARE_REWARD": {
         "name": "CONST_VALUE_FIRST_SHARE_REWARD",
         "value": [
             "240001",
@@ -1913,7 +1913,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_POINT_CARD_RECHARGE": {
         "name": "CONST_VALUE_POINT_CARD_RECHARGE",
         "value": [
             "hk4e_glb_pointcard_tierx",
@@ -1924,7 +1924,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MATERIAL_ITEM_LIMIT": {
         "name": "CONST_VALUE_MATERIAL_ITEM_LIMIT",
         "value": [
             "2000",
@@ -1935,7 +1935,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_RELIQUARY_ITEM_LIMIT": {
         "name": "CONST_VALUE_RELIQUARY_ITEM_LIMIT",
         "value": [
             "1500",
@@ -1946,7 +1946,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_WEAPON_ITEM_LIMIT": {
         "name": "CONST_VALUE_WEAPON_ITEM_LIMIT",
         "value": [
             "2000",
@@ -1957,7 +1957,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FURNITURE_ITEM_LIMIT": {
         "name": "CONST_VALUE_FURNITURE_ITEM_LIMIT",
         "value": [
             "2000",
@@ -1968,7 +1968,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MAP_MARK_MAX_LENGTH": {
         "name": "CONST_VALUE_MAP_MARK_MAX_LENGTH",
         "value": [
             "100",
@@ -1979,7 +1979,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_EXPLORE": {
         "name": "CONST_VALUE_EXPLORE",
         "value": [
             "4",
@@ -1990,7 +1990,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GUIDE_RATING_CHAPTERID": {
         "name": "CONST_VALUE_GUIDE_RATING_CHAPTERID",
         "value": [
             "2003",
@@ -2001,7 +2001,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PS4_TROPHY_SWITCH": {
         "name": "CONST_VALUE_PS4_TROPHY_SWITCH",
         "value": [
             "1",
@@ -2012,7 +2012,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_REMINDER_INTERRUPT_SHOW_DELAY": {
         "name": "CONST_VALUE_REMINDER_INTERRUPT_SHOW_DELAY",
         "value": [
             "1",
@@ -2023,7 +2023,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_UPGRADE_WEAPON_RETURN_MATERIAL_ID": {
         "name": "CONST_VALUE_UPGRADE_WEAPON_RETURN_MATERIAL_ID",
         "value": [
             "104013",
@@ -2034,7 +2034,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CITY_REPUTATION_PARAM": {
         "name": "CONST_VALUE_CITY_REPUTATION_PARAM",
         "value": [
             "12",
@@ -2045,7 +2045,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HUNTING_REVISE_LEVEL": {
         "name": "CONST_VALUE_HUNTING_REVISE_LEVEL",
         "value": [
             "0",
@@ -2056,7 +2056,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_REPORT_PARAM": {
         "name": "CONST_VALUE_REPORT_PARAM",
         "value": [
             "250",
@@ -2067,7 +2067,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DRAGON_SPINE_CONFIG": {
         "name": "CONST_VALUE_DRAGON_SPINE_CONFIG",
         "value": [
             "11413",
@@ -2078,7 +2078,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DUNGEON_RESTART_INVITE_VAILD_TIME_SEC": {
         "name": "CONST_VALUE_DUNGEON_RESTART_INVITE_VAILD_TIME_SEC",
         "value": [
             "10",
@@ -2089,7 +2089,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_TOWER_RESET": {
         "name": "CONST_VALUE_TOWER_RESET",
         "value": [
             "3",
@@ -2100,7 +2100,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ELEMENT_TRIAL_MARK_SHOW_LEVEL_LIMIT": {
         "name": "CONST_VALUE_ELEMENT_TRIAL_MARK_SHOW_LEVEL_LIMIT",
         "value": [
             "20",
@@ -2111,7 +2111,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SNOW_MOUNTAIN_ROUTINE": {
         "name": "CONST_VALUE_SNOW_MOUNTAIN_ROUTINE",
         "value": [
             "209",
@@ -2122,7 +2122,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_REUNION_PARAM": {
         "name": "CONST_VALUE_REUNION_PARAM",
         "value": [
             "45",
@@ -2133,7 +2133,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ANTI_HARASSMENT_CONFIG": {
         "name": "CONST_VALUE_ANTI_HARASSMENT_CONFIG",
         "value": [
             "10",
@@ -2144,7 +2144,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DIE_INVINCIBLE_CONFIG": {
         "name": "CONST_VALUE_DIE_INVINCIBLE_CONFIG",
         "value": [
             "5000",
@@ -2155,7 +2155,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GRASS_TILE_ELEMENT_REACTION_POS_OFFSET": {
         "name": "CONST_VALUE_GRASS_TILE_ELEMENT_REACTION_POS_OFFSET",
         "value": [
             "0.8",
@@ -2166,7 +2166,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ASK_ADD_FRIEND_FREQUENCY_CONFIG": {
         "name": "CONST_VALUE_ASK_ADD_FRIEND_FREQUENCY_CONFIG",
         "value": [
             "20",
@@ -2177,7 +2177,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CHAT_PARAM": {
         "name": "CONST_VALUE_CHAT_PARAM",
         "value": [
             "4",
@@ -2188,7 +2188,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MIRACLE_RING_CD": {
         "name": "CONST_VALUE_MIRACLE_RING_CD",
         "value": [
             "597600",
@@ -2199,7 +2199,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MIRACLE_RING_DROP_COUNT": {
         "name": "CONST_VALUE_MIRACLE_RING_DROP_COUNT",
         "value": [
             "5",
@@ -2210,7 +2210,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MIRACLE_RING_DELIVER_VALUE": {
         "name": "CONST_VALUE_MIRACLE_RING_DELIVER_VALUE",
         "value": [
             "150",
@@ -2221,7 +2221,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BLESSING_CONFIG": {
         "name": "CONST_VALUE_BLESSING_CONFIG",
         "value": [
             "7",
@@ -2232,7 +2232,7 @@
             "30603"
         ]
     },
-    {
+    "CONST_VALUE_MIRACLE_RING_RANDOM_DROP_PROB": {
         "name": "CONST_VALUE_MIRACLE_RING_RANDOM_DROP_PROB",
         "value": [
             "0.5",
@@ -2243,7 +2243,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MIRACLE_RING_ITEM_ADD_PACK": {
         "name": "CONST_VALUE_MIRACLE_RING_ITEM_ADD_PACK",
         "value": [
             "104001,104002,104003,104011,104012,104013",
@@ -2254,7 +2254,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MP_REWARD_RESERVED_TIME_CONFIG": {
         "name": "CONST_VALUE_MP_REWARD_RESERVED_TIME_CONFIG",
         "value": [
             "30",
@@ -2265,7 +2265,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_MONSTER_BANNER_DRAKE_PRIMO_ROCK": {
         "name": "CONST_VALUE_ACTIVITY_MONSTER_BANNER_DRAKE_PRIMO_ROCK",
         "value": [
             "71022",
@@ -2276,7 +2276,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MECHANICUS_ROTATION_PARAM": {
         "name": "CONST_VALUE_MECHANICUS_ROTATION_PARAM",
         "value": [
             "180",
@@ -2287,7 +2287,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SHOP_OUTPUT_SWITCH": {
         "name": "CONST_VALUE_SHOP_OUTPUT_SWITCH",
         "value": [
             "1",
@@ -2298,7 +2298,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MECHANICUS_CARD_PARAM": {
         "name": "CONST_VALUE_MECHANICUS_CARD_PARAM",
         "value": [
             "1",
@@ -2309,7 +2309,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FORCE_DRAG_BACK_PARAM": {
         "name": "CONST_VALUE_FORCE_DRAG_BACK_PARAM",
         "value": [
             "10",
@@ -2320,7 +2320,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MUIP_MAIL_REWARD_LIMIT": {
         "name": "CONST_VALUE_MUIP_MAIL_REWARD_LIMIT",
         "value": [
             "1000",
@@ -2331,7 +2331,7 @@
             "1"
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_WATER_SPRITE_PARA": {
         "name": "CONST_VALUE_ACTIVITY_WATER_SPRITE_PARA",
         "value": [
             "120",
@@ -2342,7 +2342,7 @@
             "220023"
         ]
     },
-    {
+    "CONST_VALUE_WORLD_LEVEL_ADJUST": {
         "name": "CONST_VALUE_WORLD_LEVEL_ADJUST",
         "value": [
             "4",
@@ -2353,7 +2353,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_NECHANICUS_OPEN_QUESTID": {
         "name": "CONST_VALUE_NECHANICUS_OPEN_QUESTID",
         "value": [
             "41311",
@@ -2364,7 +2364,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ARENA_CHALLENGE_REWARD_WORKTOP": {
         "name": "CONST_VALUE_ARENA_CHALLENGE_REWARD_WORKTOP",
         "value": [
             "3",
@@ -2375,7 +2375,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_WATER_SPRITE_PARA_SECONDPART": {
         "name": "CONST_VALUE_ACTIVITY_WATER_SPRITE_PARA_SECONDPART",
         "value": [
             "4142205",
@@ -2386,7 +2386,7 @@
             "10010102,4142110"
         ]
     },
-    {
+    "CONST_VALUE_COOP_QUESTID_INTERVAL": {
         "name": "CONST_VALUE_COOP_QUESTID_INTERVAL",
         "value": [
             "19000",
@@ -2397,7 +2397,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MULTI_PLAY_FETTER_EXP_RATIO": {
         "name": "CONST_VALUE_MULTI_PLAY_FETTER_EXP_RATIO",
         "value": [
             "2",
@@ -2408,7 +2408,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ROOM_MINIMAP_DEFAULT_SCALE": {
         "name": "CONST_VALUE_ROOM_MINIMAP_DEFAULT_SCALE",
         "value": [
             "3",
@@ -2419,7 +2419,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_EFFIGY_ICE": {
         "name": "CONST_VALUE_ACTIVITY_EFFIGY_ICE",
         "value": [
             "70143",
@@ -2430,7 +2430,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_HOMEWORLD": {
         "name": "CONST_VALUE_ACTIVITY_HOMEWORLD",
         "value": [
             "11008",
@@ -2441,7 +2441,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_WEEKLY_BOSS_RESIN_DISCOUNT_PARAM": {
         "name": "CONST_VALUE_WEEKLY_BOSS_RESIN_DISCOUNT_PARAM",
         "value": [
             "3",
@@ -2452,7 +2452,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BUSH_DROP_CACHA_NUM": {
         "name": "CONST_VALUE_BUSH_DROP_CACHA_NUM",
         "value": [
             "10",
@@ -2463,7 +2463,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GENERAL_MATCH": {
         "name": "CONST_VALUE_GENERAL_MATCH",
         "value": [
             "2",
@@ -2474,10 +2474,10 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CAN_NOT_DESTROY_MATERIAL_TYPE_LIST": {
         "name": "CONST_VALUE_CAN_NOT_DESTROY_MATERIAL_TYPE_LIST",
         "value": [
-            "\u5047\u5438\u9644\u7269;\u5438\u9644\u7269;\u89d2\u8272\u5361;\u547d\u661f;\u5b9d\u7bb1;\u4efb\u52a1\u7269\u54c1;\u86d0\u86d0;\u5143\u7d20\u7ed3\u6676;\u53ef\u6279\u91cf\u4f7f\u7528\u5b9d\u7bb1;\u53ef\u9009\u5b9d\u7bb1;\u6d77\u706f\u8282\u82b1\u706f;\u5bfc\u80fd\u539f\u76d8buff;\u540d\u7247;\u5c0f\u529f\u80fd\u9053\u5177;\u65f6\u88c5\u5361;\u5bb6\u5177\u5957\u88c5\u56fe\u7eb8;\u5bb6\u5177\u56fe\u7eb8",
+            "假吸附物;吸附物;角色卡;命星;宝箱;任务物品;蛐蛐;元素结晶;可批量使用宝箱;可选宝箱;海灯节花灯;导能原盘buff;名片;小功能道具;时装卡;家具套装图纸;家具图纸",
             "",
             "",
             "",
@@ -2485,7 +2485,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SKIFF_SPRINT_COST_STAMINA": {
         "name": "CONST_VALUE_SKIFF_SPRINT_COST_STAMINA",
         "value": [
             "1",
@@ -2496,7 +2496,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SKIFF_DASH_COST_STAMINA": {
         "name": "CONST_VALUE_SKIFF_DASH_COST_STAMINA",
         "value": [
             "10.2",
@@ -2507,7 +2507,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEFAULT_COSTUME_ICON": {
         "name": "CONST_VALUE_DEFAULT_COSTUME_ICON",
         "value": [
             "UI_AvatarIcon_Costume_Card",
@@ -2518,7 +2518,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BATTLEPASS_PURCHASE_ABOUT_TO_CLOSE_THRESHOLD": {
         "name": "CONST_VALUE_BATTLEPASS_PURCHASE_ABOUT_TO_CLOSE_THRESHOLD",
         "value": [
             "1440",
@@ -2529,7 +2529,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BATTLEPASS_PURCHASE_CLOSE_AHEAD_MINUTES": {
         "name": "CONST_VALUE_BATTLEPASS_PURCHASE_CLOSE_AHEAD_MINUTES",
         "value": [
             "60",
@@ -2540,7 +2540,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_VEHICLE_CONFIG": {
         "name": "CONST_VALUE_VEHICLE_CONFIG",
         "value": [
             "30",
@@ -2551,7 +2551,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GATHER_SAVETYPE_TO_GATHERID": {
         "name": "CONST_VALUE_GATHER_SAVETYPE_TO_GATHERID",
         "value": [
             "990000",
@@ -2562,7 +2562,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MAP_MARK_PARAM": {
         "name": "CONST_VALUE_MAP_MARK_PARAM",
         "value": [
             "3,4,5",
@@ -2573,7 +2573,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_DAOQI_ADVERTISEMENT": {
         "name": "CONST_VALUE_ACTIVITY_DAOQI_ADVERTISEMENT",
         "value": [
             "1201",
@@ -2584,7 +2584,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MECHANICUS_2_ATTACK": {
         "name": "CONST_VALUE_MECHANICUS_2_ATTACK",
         "value": [
             "8000",
@@ -2595,7 +2595,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MECHANICUS_2_MASTERY": {
         "name": "CONST_VALUE_MECHANICUS_2_MASTERY",
         "value": [
             "0",
@@ -2606,7 +2606,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MECHANICUS_2_ATTACK_SPEED": {
         "name": "CONST_VALUE_MECHANICUS_2_ATTACK_SPEED",
         "value": [
             "0.2",
@@ -2617,7 +2617,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MECHANICUS_2_ALERT_RANGE": {
         "name": "CONST_VALUE_MECHANICUS_2_ALERT_RANGE",
         "value": [
             "8",
@@ -2628,7 +2628,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CONDENSE_RESINRE_PLACE_RESIN_COUNT": {
         "name": "CONST_VALUE_CONDENSE_RESINRE_PLACE_RESIN_COUNT",
         "value": [
             "220007",
@@ -2639,7 +2639,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_BLOSSOM_BAG_REWARD_RADIUS": {
         "name": "CONST_VALUE_BLOSSOM_BAG_REWARD_RADIUS",
         "value": [
             "80",
@@ -2650,7 +2650,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CHESS_CARD_CONFIG": {
         "name": "CONST_VALUE_CHESS_CARD_CONFIG",
         "value": [
             "0.5",
@@ -2661,7 +2661,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PSN_SOCIAL_CONFIG": {
         "name": "CONST_VALUE_PSN_SOCIAL_CONFIG",
         "value": [
             "50",
@@ -2672,7 +2672,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_EMOJI_COLLECT_NUM_LIMIT": {
         "name": "CONST_VALUE_EMOJI_COLLECT_NUM_LIMIT",
         "value": [
             "16",
@@ -2683,7 +2683,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_EFFIGY_FIRE": {
         "name": "CONST_VALUE_ACTIVITY_EFFIGY_FIRE",
         "value": [
             "1202",
@@ -2694,7 +2694,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CHESS_PARAMS": {
         "name": "CONST_VALUE_CHESS_PARAMS",
         "value": [
             "0.6",
@@ -2705,7 +2705,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_EXPEDITION_2_PARAMS": {
         "name": "CONST_VALUE_ACTIVITY_EXPEDITION_2_PARAMS",
         "value": [
             "3",
@@ -2716,7 +2716,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GENSHIN_RELEASE_TIME": {
         "name": "CONST_VALUE_GENSHIN_RELEASE_TIME",
         "value": [
             "1601258340",
@@ -2727,7 +2727,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_SUITE_FURNITURE_ID": {
         "name": "CONST_VALUE_HOME_SUITE_FURNITURE_ID",
         "value": [
             "377101",
@@ -2738,7 +2738,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FISHING": {
         "name": "CONST_VALUE_FISHING",
         "value": [
             "10",
@@ -2749,7 +2749,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CUSTOM_GADGET_PARTS_MAX_NUM": {
         "name": "CONST_VALUE_CUSTOM_GADGET_PARTS_MAX_NUM",
         "value": [
             "20",
@@ -2760,7 +2760,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MINORS_GACHA_PARAM": {
         "name": "CONST_VALUE_MINORS_GACHA_PARAM",
         "value": [
             "999999999",
@@ -2771,7 +2771,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_COLLECTIBLE_MAIL_PARAM": {
         "name": "CONST_VALUE_COLLECTIBLE_MAIL_PARAM",
         "value": [
             "1641337200",
@@ -2782,7 +2782,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SHARECD_SERVER_BUFFER_TIME": {
         "name": "CONST_VALUE_SHARECD_SERVER_BUFFER_TIME",
         "value": [
             "1000",
@@ -2793,7 +2793,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CUSTOM_DUNGEON_RECOMMEND_1": {
         "name": "CONST_VALUE_CUSTOM_DUNGEON_RECOMMEND_1",
         "value": [
             "600;100",
@@ -2804,7 +2804,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CUSTOM_DUNGEON_RECOMMEND_2": {
         "name": "CONST_VALUE_CUSTOM_DUNGEON_RECOMMEND_2",
         "value": [
             "600;100",
@@ -2815,7 +2815,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CUSTOM_DUNGEON_RECOMMEND_FILT": {
         "name": "CONST_VALUE_CUSTOM_DUNGEON_RECOMMEND_FILT",
         "value": [
             "20",
@@ -2826,7 +2826,7 @@
             "600"
         ]
     },
-    {
+    "CONST_VALUE_CUSTOMLEVEL_CUSTOMSUITE_BLOCK_MAX_NUM": {
         "name": "CONST_VALUE_CUSTOMLEVEL_CUSTOMSUITE_BLOCK_MAX_NUM",
         "value": [
             "100",
@@ -2837,7 +2837,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CUSTOM_DUNGEON": {
         "name": "CONST_VALUE_CUSTOM_DUNGEON",
         "value": [
             "50",
@@ -2848,7 +2848,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CODEX_GUIDE_PAPAM": {
         "name": "CONST_VALUE_CODEX_GUIDE_PAPAM",
         "value": [
             "29",
@@ -2859,7 +2859,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_GADGET_INTERACT_CHECK_DISTANCE": {
         "name": "CONST_VALUE_GADGET_INTERACT_CHECK_DISTANCE",
         "value": [
             "5",
@@ -2870,7 +2870,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEFAULT_WEATHER_AREA_ID": {
         "name": "CONST_VALUE_DEFAULT_WEATHER_AREA_ID",
         "value": [
             "1000",
@@ -2881,7 +2881,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PACKET_LOSS_WARNING_THRESHOLD": {
         "name": "CONST_VALUE_PACKET_LOSS_WARNING_THRESHOLD",
         "value": [
             "50",
@@ -2892,7 +2892,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_PACKET_LOSS_WARNING_INTERVAL": {
         "name": "CONST_VALUE_PACKET_LOSS_WARNING_INTERVAL",
         "value": [
             "60000",
@@ -2903,7 +2903,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACHIEVEMENT_SEARCH_PATTERN_LIMIT": {
         "name": "CONST_VALUE_ACHIEVEMENT_SEARCH_PATTERN_LIMIT",
         "value": [
             "100",
@@ -2914,7 +2914,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SEND_QUESTIONNAIRE_MAIL_LOGOUT_TIME": {
         "name": "CONST_VALUE_SEND_QUESTIONNAIRE_MAIL_LOGOUT_TIME",
         "value": [
             "1209600",
@@ -2925,7 +2925,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SEND_QUESTIONNAIRE_MAIL_CD_TIME": {
         "name": "CONST_VALUE_SEND_QUESTIONNAIRE_MAIL_CD_TIME",
         "value": [
             "7257600",
@@ -2936,7 +2936,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_NIGHT_CROW_CONFIG": {
         "name": "CONST_VALUE_NIGHT_CROW_CONFIG",
         "value": [
             "101",
@@ -2947,7 +2947,7 @@
             "102"
         ]
     },
-    {
+    "CONST_VALUE_HANDBOOK_QUEST_GUIDE_MAX_NUM": {
         "name": "CONST_VALUE_HANDBOOK_QUEST_GUIDE_MAX_NUM",
         "value": [
             "5",
@@ -2958,7 +2958,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEATH_ZONE_PARAM": {
         "name": "CONST_VALUE_DEATH_ZONE_PARAM",
         "value": [
             "100",
@@ -2969,7 +2969,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SUMMER_TIME_PORTAL_LOADING": {
         "name": "CONST_VALUE_SUMMER_TIME_PORTAL_LOADING",
         "value": [
             "1",
@@ -2980,7 +2980,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_COMPOUND_BOOST_ITEM_ID": {
         "name": "CONST_VALUE_COMPOUND_BOOST_ITEM_ID",
         "value": [
             "220060",
@@ -2991,7 +2991,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_COMPOUND_BOOST_TIME_TOLERANCE": {
         "name": "CONST_VALUE_COMPOUND_BOOST_TIME_TOLERANCE",
         "value": [
             "1",
@@ -3002,7 +3002,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACHIEVEMENT_SEARCH_LIMIT": {
         "name": "CONST_VALUE_ACHIEVEMENT_SEARCH_LIMIT",
         "value": [
             "0,3,1,1,3,3,3,3,3,2,2,4,3,3,0,0",
@@ -3013,7 +3013,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACHIEVEMENT_RESULT_AMOUNT_PER_PAGE": {
         "name": "CONST_VALUE_ACHIEVEMENT_RESULT_AMOUNT_PER_PAGE",
         "value": [
             "30",
@@ -3024,7 +3024,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DAILY_TASK_RELATED_TAG_EFFECT_PROB": {
         "name": "CONST_VALUE_DAILY_TASK_RELATED_TAG_EFFECT_PROB",
         "value": [
             "0.15",
@@ -3035,7 +3035,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ASTER_MIDDLE_RECOVER": {
         "name": "CONST_VALUE_ASTER_MIDDLE_RECOVER",
         "value": [
             "3600",
@@ -3046,7 +3046,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ASTER_MIDDLE_NPC_TALK_ID": {
         "name": "CONST_VALUE_ASTER_MIDDLE_NPC_TALK_ID",
         "value": [
             "4111502",
@@ -3057,7 +3057,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_EXPEDITION_DAILY_REFRESH_PATH_LIMIT": {
         "name": "CONST_VALUE_ACTIVITY_EXPEDITION_DAILY_REFRESH_PATH_LIMIT",
         "value": [
             "7",
@@ -3068,7 +3068,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_EXPEDITION_DAILY_COUNT_LIMIT": {
         "name": "CONST_VALUE_ACTIVITY_EXPEDITION_DAILY_COUNT_LIMIT",
         "value": [
             "4",
@@ -3079,7 +3079,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_EXPEDITION_SUPER_ELEM_COEF": {
         "name": "CONST_VALUE_ACTIVITY_EXPEDITION_SUPER_ELEM_COEF",
         "value": [
             "2",
@@ -3090,7 +3090,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_EXPEDITION_CONTENT_DURATION": {
         "name": "CONST_VALUE_ACTIVITY_EXPEDITION_CONTENT_DURATION",
         "value": [
             "7",
@@ -3101,7 +3101,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_EXPEDITION_CHALLENGE_HINT_CD": {
         "name": "CONST_VALUE_ACTIVITY_EXPEDITION_CHALLENGE_HINT_CD",
         "value": [
             "60",
@@ -3112,7 +3112,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CHANNELLER_SLAB_SINGLE_BUFF_ENERGY_LIMIT": {
         "name": "CONST_VALUE_CHANNELLER_SLAB_SINGLE_BUFF_ENERGY_LIMIT",
         "value": [
             "1000",
@@ -3123,7 +3123,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_CHANNELLER_SLAB_MP_BUFF_ENERGY_LIMIT": {
         "name": "CONST_VALUE_CHANNELLER_SLAB_MP_BUFF_ENERGY_LIMIT",
         "value": [
             "1250",
@@ -3134,7 +3134,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DANGERZONE_GET_LOST_COUNTDOWN": {
         "name": "CONST_VALUE_DANGERZONE_GET_LOST_COUNTDOWN",
         "value": [
             "300",
@@ -3145,7 +3145,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_SIGNAL_ACTIVE_DISTANCE": {
         "name": "CONST_VALUE_SIGNAL_ACTIVE_DISTANCE",
         "value": [
             "60",
@@ -3156,7 +3156,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HERO_COURSE_TRANSFER_CONFIG": {
         "name": "CONST_VALUE_HERO_COURSE_TRANSFER_CONFIG",
         "value": [
             "144005002",
@@ -3167,7 +3167,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ACTIVITY_PERPETUAL": {
         "name": "CONST_VALUE_ACTIVITY_PERPETUAL",
         "value": [
             "1202",
@@ -3178,7 +3178,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DIG_ACTIVITY_HINT_RAND_DEGREE": {
         "name": "CONST_VALUE_DIG_ACTIVITY_HINT_RAND_DEGREE",
         "value": [
             "30",
@@ -3189,7 +3189,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_ROGUELIKE_ACTIVITY_PARAMS": {
         "name": "CONST_VALUE_ROGUELIKE_ACTIVITY_PARAMS",
         "value": [
             "100",
@@ -3200,7 +3200,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_MICHIAE_MATSURI_ACTIVITY_REGIONAL_PLAY_PARAMS": {
         "name": "CONST_VALUE_MICHIAE_MATSURI_ACTIVITY_REGIONAL_PLAY_PARAMS",
         "value": [
             "0.013117",
@@ -3211,7 +3211,7 @@
             "-0.0035"
         ]
     },
-    {
+    "CONST_VALUE_MICHIAE_MATSURI_ACTIVITY_DARK_PRESURE_MAX_PARAMS": {
         "name": "CONST_VALUE_MICHIAE_MATSURI_ACTIVITY_DARK_PRESURE_MAX_PARAMS",
         "value": [
             "100",
@@ -3222,7 +3222,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HIT_TREE_DROP_PARAM": {
         "name": "CONST_VALUE_HIT_TREE_DROP_PARAM",
         "value": [
             "10",
@@ -3233,7 +3233,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HIT_TREE_DROP_PROB": {
         "name": "CONST_VALUE_HIT_TREE_DROP_PROB",
         "value": [
             "100",
@@ -3244,7 +3244,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_DEFAULT_HOME_WORLD_ID": {
         "name": "CONST_VALUE_DEFAULT_HOME_WORLD_ID",
         "value": [
             "2",
@@ -3255,7 +3255,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_FURNITURE_TYPE_LIMIT": {
         "name": "CONST_VALUE_HOME_FURNITURE_TYPE_LIMIT",
         "value": [
             "200",
@@ -3266,7 +3266,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_FURNITURE_ARRANGEMENT_COST_LEVEL": {
         "name": "CONST_VALUE_HOME_FURNITURE_ARRANGEMENT_COST_LEVEL",
         "value": [
             "6000",
@@ -3277,7 +3277,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_LEGO_HEIGHT": {
         "name": "CONST_VALUE_HOME_LEGO_HEIGHT",
         "value": [
             "30",
@@ -3288,7 +3288,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_ACCELERATE_PARAM": {
         "name": "CONST_VALUE_HOME_ACCELERATE_PARAM",
         "value": [
             "1",
@@ -3299,7 +3299,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_WEEKEND_DJINN_PARAM": {
         "name": "CONST_VALUE_HOME_WEEKEND_DJINN_PARAM",
         "value": [
             "77015005",
@@ -3310,7 +3310,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_RESOURCE_PRODUCE_INTERVAL": {
         "name": "CONST_VALUE_HOME_RESOURCE_PRODUCE_INTERVAL",
         "value": [
             "3600",
@@ -3321,7 +3321,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOMEWORLD_TUTRIAL_QUEST": {
         "name": "CONST_VALUE_HOMEWORLD_TUTRIAL_QUEST",
         "value": [
             "7165404",
@@ -3332,7 +3332,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_CD_LIMIT": {
         "name": "CONST_VALUE_HOME_CD_LIMIT",
         "value": [
             "10",
@@ -3343,7 +3343,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_FURNITURE_NUM_LIMIT": {
         "name": "CONST_VALUE_HOME_FURNITURE_NUM_LIMIT",
         "value": [
             "300",
@@ -3354,7 +3354,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_FURNITURE_ARRANGEMENT_COST_LEVEL_HALL": {
         "name": "CONST_VALUE_HOME_FURNITURE_ARRANGEMENT_COST_LEVEL_HALL",
         "value": [
             "6000",
@@ -3365,7 +3365,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_FURNITURE_ARRANGEMENT_COST_LEVEL_ROOM": {
         "name": "CONST_VALUE_HOME_FURNITURE_ARRANGEMENT_COST_LEVEL_ROOM",
         "value": [
             "2000",
@@ -3376,7 +3376,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_RESOURCE_BASE_VALUE": {
         "name": "CONST_VALUE_HOME_RESOURCE_BASE_VALUE",
         "value": [
             "100",
@@ -3387,7 +3387,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_PRIOR_CHECK_TIME_RANGE": {
         "name": "CONST_VALUE_HOME_PRIOR_CHECK_TIME_RANGE",
         "value": [
             "120",
@@ -3398,7 +3398,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_SPEECHBUBBLE_DEFAULT_DELAY": {
         "name": "CONST_VALUE_HOME_SPEECHBUBBLE_DEFAULT_DELAY",
         "value": [
             "0",
@@ -3409,7 +3409,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_SPEECHBUBBLE_DEFAULT_INTERVAL": {
         "name": "CONST_VALUE_HOME_SPEECHBUBBLE_DEFAULT_INTERVAL",
         "value": [
             "1",
@@ -3420,7 +3420,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_SPEECHBUBBLE_PRIORITY": {
         "name": "CONST_VALUE_HOME_SPEECHBUBBLE_PRIORITY",
         "value": [
             "20",
@@ -3431,7 +3431,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_GREET_DIST_MIN": {
         "name": "CONST_VALUE_HOME_GREET_DIST_MIN",
         "value": [
             "1.3",
@@ -3442,7 +3442,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_GREET_DIST_MAX": {
         "name": "CONST_VALUE_HOME_GREET_DIST_MAX",
         "value": [
             "2.6",
@@ -3453,7 +3453,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_GREET_ANGLE_MAX": {
         "name": "CONST_VALUE_HOME_GREET_ANGLE_MAX",
         "value": [
             "90",
@@ -3464,7 +3464,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_GREET_TURN_ANGLE": {
         "name": "CONST_VALUE_HOME_GREET_TURN_ANGLE",
         "value": [
             "5",
@@ -3475,7 +3475,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_GREET_TURN_DURATION": {
         "name": "CONST_VALUE_HOME_GREET_TURN_DURATION",
         "value": [
             "1",
@@ -3486,7 +3486,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_GREET_LEAVE_DELAY": {
         "name": "CONST_VALUE_HOME_GREET_LEAVE_DELAY",
         "value": [
             "1",
@@ -3497,7 +3497,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_NPC_EVENT_TRANSFER_TIME": {
         "name": "CONST_VALUE_HOME_NPC_EVENT_TRANSFER_TIME",
         "value": [
             "1.5",
@@ -3508,7 +3508,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_PLANT_BOX": {
         "name": "CONST_VALUE_HOME_PLANT_BOX",
         "value": [
             "220033",
@@ -3519,7 +3519,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_COMFORT_MODIFER": {
         "name": "CONST_VALUE_HOME_COMFORT_MODIFER",
         "value": [
             "5",
@@ -3530,7 +3530,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_INIT_HOME_TIME": {
         "name": "CONST_VALUE_INIT_HOME_TIME",
         "value": [
             "8",
@@ -3541,7 +3541,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_FURNITURE_GROUP_NUM_LIMIT": {
         "name": "CONST_VALUE_HOME_FURNITURE_GROUP_NUM_LIMIT",
         "value": [
             "20",
@@ -3552,7 +3552,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_FURNITURE_GROUP_RECORD_NUM_LIMIT": {
         "name": "CONST_VALUE_HOME_FURNITURE_GROUP_RECORD_NUM_LIMIT",
         "value": [
             "20",
@@ -3563,7 +3563,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_FURNITURE_CUSTOM_SUITE_PARAM": {
         "name": "CONST_VALUE_HOME_FURNITURE_CUSTOM_SUITE_PARAM",
         "value": [
             "150",
@@ -3574,7 +3574,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_FIREWORKS_LAUNCH_PARAM": {
         "name": "CONST_VALUE_FIREWORKS_LAUNCH_PARAM",
         "value": [
             "10",
@@ -3585,7 +3585,7 @@
             ""
         ]
     },
-    {
+    "CONST_VALUE_HOME_WAIT_ENTER_EDIT_FINISH_RSP": {
         "name": "CONST_VALUE_HOME_WAIT_ENTER_EDIT_FINISH_RSP",
         "value": [
             "2",
@@ -3596,4 +3596,4 @@
             ""
         ]
     }
-]
+}

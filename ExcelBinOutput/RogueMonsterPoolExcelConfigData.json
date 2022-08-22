@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "dungeonId": 3017,
         "CFOHPGOHIDG": [
@@ -13,7 +13,7 @@
             23013
         ]
     },
-    {
+    "2": {
         "id": 2,
         "dungeonId": 3017,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -26,7 +26,7 @@
             23014
         ]
     },
-    {
+    "3": {
         "id": 3,
         "dungeonId": 3017,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -40,7 +40,7 @@
             23022
         ]
     },
-    {
+    "4": {
         "id": 4,
         "dungeonId": 3018,
         "CFOHPGOHIDG": [
@@ -58,7 +58,7 @@
             24028
         ]
     },
-    {
+    "5": {
         "id": 5,
         "dungeonId": 3018,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -75,7 +75,7 @@
             24027
         ]
     },
-    {
+    "6": {
         "id": 6,
         "dungeonId": 3018,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -88,7 +88,7 @@
             24017
         ]
     },
-    {
+    "7": {
         "id": 7,
         "dungeonId": 3020,
         "CFOHPGOHIDG": [
@@ -109,7 +109,7 @@
             19015
         ]
     },
-    {
+    "8": {
         "id": 8,
         "dungeonId": 3020,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -124,7 +124,7 @@
             19023
         ]
     },
-    {
+    "9": {
         "id": 9,
         "dungeonId": 3020,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -139,7 +139,7 @@
             19032
         ]
     },
-    {
+    "10": {
         "id": 10,
         "dungeonId": 3021,
         "CFOHPGOHIDG": [
@@ -157,7 +157,7 @@
             24028
         ]
     },
-    {
+    "11": {
         "id": 11,
         "dungeonId": 3021,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -174,7 +174,7 @@
             24027
         ]
     },
-    {
+    "12": {
         "id": 12,
         "dungeonId": 3021,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -186,7 +186,7 @@
             24007
         ]
     },
-    {
+    "13": {
         "id": 13,
         "dungeonId": 3022,
         "CFOHPGOHIDG": [
@@ -202,7 +202,7 @@
             25011
         ]
     },
-    {
+    "14": {
         "id": 14,
         "dungeonId": 3022,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -217,7 +217,7 @@
             25019
         ]
     },
-    {
+    "15": {
         "id": 15,
         "dungeonId": 3022,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -232,7 +232,7 @@
             25027
         ]
     },
-    {
+    "16": {
         "id": 16,
         "dungeonId": 3019,
         "CFOHPGOHIDG": [
@@ -247,7 +247,7 @@
             27010
         ]
     },
-    {
+    "17": {
         "id": 17,
         "dungeonId": 3019,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -261,7 +261,7 @@
             27017
         ]
     },
-    {
+    "18": {
         "id": 18,
         "dungeonId": 3019,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -275,7 +275,7 @@
             27024
         ]
     },
-    {
+    "19": {
         "id": 19,
         "dungeonId": 3023,
         "CFOHPGOHIDG": [
@@ -297,7 +297,7 @@
             28016
         ]
     },
-    {
+    "20": {
         "id": 20,
         "dungeonId": 3023,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -314,7 +314,7 @@
             28026
         ]
     },
-    {
+    "21": {
         "id": 21,
         "dungeonId": 3023,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -331,7 +331,7 @@
             28036
         ]
     },
-    {
+    "22": {
         "id": 22,
         "dungeonId": 3024,
         "CFOHPGOHIDG": [
@@ -353,7 +353,7 @@
             29016
         ]
     },
-    {
+    "23": {
         "id": 23,
         "dungeonId": 3024,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -372,7 +372,7 @@
             29028
         ]
     },
-    {
+    "24": {
         "id": 24,
         "dungeonId": 3024,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -391,7 +391,7 @@
             29040
         ]
     },
-    {
+    "25": {
         "id": 25,
         "dungeonId": 3025,
         "CFOHPGOHIDG": [
@@ -413,7 +413,7 @@
             28016
         ]
     },
-    {
+    "26": {
         "id": 26,
         "dungeonId": 3025,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -431,7 +431,7 @@
             28063
         ]
     },
-    {
+    "27": {
         "id": 27,
         "dungeonId": 3025,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -451,7 +451,7 @@
             28064
         ]
     },
-    {
+    "28": {
         "id": 28,
         "dungeonId": 3026,
         "CFOHPGOHIDG": [
@@ -473,7 +473,7 @@
             29016
         ]
     },
-    {
+    "29": {
         "id": 29,
         "dungeonId": 3026,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
@@ -502,7 +502,7 @@
             29070
         ]
     },
-    {
+    "30": {
         "id": 30,
         "dungeonId": 3026,
         "difficulty": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
@@ -527,4 +527,4 @@
             29082
         ]
     }
-]
+}

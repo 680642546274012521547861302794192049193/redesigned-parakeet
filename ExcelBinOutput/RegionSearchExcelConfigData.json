@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "id": 1001,
         "searchNameTextMapHash": 1384726379,
         "searchDescTextMapHash": 3188054445,
@@ -11,4 +11,4 @@
         "reviseLevel": 10,
         "abilityGroup": "AbilityGroup_Activity_Endora"
     }
-]
+}

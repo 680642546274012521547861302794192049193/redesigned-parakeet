@@ -1,741 +1,741 @@
-[
-    {
+{
+    "30211101": {
         "Id": 30211101,
         "weaponId": 11101,
         "SortOrder": 1101
     },
-    {
+    "30212101": {
         "Id": 30212101,
         "weaponId": 12101,
         "SortOrder": 1201
     },
-    {
+    "30213101": {
         "Id": 30213101,
         "weaponId": 13101,
         "SortOrder": 1301
     },
-    {
+    "30214101": {
         "Id": 30214101,
         "weaponId": 14101,
         "SortOrder": 1401
     },
-    {
+    "30215101": {
         "Id": 30215101,
         "weaponId": 15101,
         "SortOrder": 1501
     },
-    {
+    "30211201": {
         "Id": 30211201,
         "weaponId": 11201,
         "SortOrder": 2101
     },
-    {
+    "30212201": {
         "Id": 30212201,
         "weaponId": 12201,
         "SortOrder": 2201
     },
-    {
+    "30213201": {
         "Id": 30213201,
         "weaponId": 13201,
         "SortOrder": 2301
     },
-    {
+    "30214201": {
         "Id": 30214201,
         "weaponId": 14201,
         "SortOrder": 2401
     },
-    {
+    "30215201": {
         "Id": 30215201,
         "weaponId": 15201,
         "SortOrder": 2501
     },
-    {
+    "30211301": {
         "Id": 30211301,
         "weaponId": 11301,
         "SortOrder": 3101
     },
-    {
+    "30211302": {
         "Id": 30211302,
         "weaponId": 11302,
         "SortOrder": 3102
     },
-    {
+    "30211303": {
         "Id": 30211303,
         "weaponId": 11303,
         "SortOrder": 3103
     },
-    {
+    "30211304": {
         "Id": 30211304,
         "weaponId": 11304,
         "SortOrder": 3104,
         "isDisuse": true
     },
-    {
+    "30211305": {
         "Id": 30211305,
         "weaponId": 11305,
         "SortOrder": 3105
     },
-    {
+    "30211306": {
         "Id": 30211306,
         "weaponId": 11306,
         "SortOrder": 3106
     },
-    {
+    "30212301": {
         "Id": 30212301,
         "weaponId": 12301,
         "SortOrder": 3201
     },
-    {
+    "30212302": {
         "Id": 30212302,
         "weaponId": 12302,
         "SortOrder": 3202
     },
-    {
+    "30212303": {
         "Id": 30212303,
         "weaponId": 12303,
         "SortOrder": 3203
     },
-    {
+    "30212305": {
         "Id": 30212305,
         "weaponId": 12305,
         "SortOrder": 3204
     },
-    {
+    "30212306": {
         "Id": 30212306,
         "weaponId": 12306,
         "SortOrder": 3205
     },
-    {
+    "30213301": {
         "Id": 30213301,
         "weaponId": 13301,
         "SortOrder": 3301
     },
-    {
+    "30213302": {
         "Id": 30213302,
         "weaponId": 13302,
         "SortOrder": 3302
     },
-    {
+    "30213303": {
         "Id": 30213303,
         "weaponId": 13303,
         "SortOrder": 3303
     },
-    {
+    "30214301": {
         "Id": 30214301,
         "weaponId": 14301,
         "SortOrder": 3401
     },
-    {
+    "30214302": {
         "Id": 30214302,
         "weaponId": 14302,
         "SortOrder": 3402
     },
-    {
+    "30214303": {
         "Id": 30214303,
         "weaponId": 14303,
         "SortOrder": 3403
     },
-    {
+    "30214304": {
         "Id": 30214304,
         "weaponId": 14304,
         "SortOrder": 3404
     },
-    {
+    "30214305": {
         "Id": 30214305,
         "weaponId": 14305,
         "SortOrder": 3405
     },
-    {
+    "30215301": {
         "Id": 30215301,
         "weaponId": 15301,
         "SortOrder": 3501
     },
-    {
+    "30215302": {
         "Id": 30215302,
         "weaponId": 15302,
         "SortOrder": 3502
     },
-    {
+    "30215303": {
         "Id": 30215303,
         "weaponId": 15303,
         "SortOrder": 3503
     },
-    {
+    "30215304": {
         "Id": 30215304,
         "weaponId": 15304,
         "SortOrder": 3504
     },
-    {
+    "30215305": {
         "Id": 30215305,
         "weaponId": 15305,
         "SortOrder": 3505
     },
-    {
+    "30211401": {
         "Id": 30211401,
         "weaponId": 11401,
         "SortOrder": 4101
     },
-    {
+    "30211402": {
         "Id": 30211402,
         "weaponId": 11402,
         "SortOrder": 4102
     },
-    {
+    "30211403": {
         "Id": 30211403,
         "weaponId": 11403,
         "SortOrder": 4103
     },
-    {
+    "30211404": {
         "Id": 30211404,
         "weaponId": 11404,
         "SortOrder": 4104
     },
-    {
+    "30211405": {
         "Id": 30211405,
         "weaponId": 11405,
         "SortOrder": 4105
     },
-    {
+    "30211406": {
         "Id": 30211406,
         "weaponId": 11406,
         "SortOrder": 4106
     },
-    {
+    "30211407": {
         "Id": 30211407,
         "weaponId": 11407,
         "SortOrder": 4107
     },
-    {
+    "30211408": {
         "Id": 30211408,
         "weaponId": 11408,
         "SortOrder": 4108
     },
-    {
+    "30211409": {
         "Id": 30211409,
         "weaponId": 11409,
         "SortOrder": 4109
     },
-    {
+    "30211412": {
         "Id": 30211412,
         "weaponId": 11412,
         "SortOrder": 4110
     },
-    {
+    "30211413": {
         "Id": 30211413,
         "weaponId": 11413,
         "SortOrder": 4111,
         "showOnlyUnlocked": true
     },
-    {
+    "30211410": {
         "Id": 30211410,
         "weaponId": 11410,
         "SortOrder": 4112
     },
-    {
+    "30211414": {
         "Id": 30211414,
         "weaponId": 11414,
         "SortOrder": 4113
     },
-    {
+    "30211415": {
         "Id": 30211415,
         "weaponId": 11415,
         "SortOrder": 4114,
         "showOnlyUnlocked": true
     },
-    {
+    "30211416": {
         "Id": 30211416,
         "weaponId": 11416,
         "SortOrder": 4115,
         "showOnlyUnlocked": true
     },
-    {
+    "30211417": {
         "Id": 30211417,
         "weaponId": 11417,
         "SortOrder": 4116
     },
-    {
+    "30212401": {
         "Id": 30212401,
         "weaponId": 12401,
         "SortOrder": 4201
     },
-    {
+    "30212402": {
         "Id": 30212402,
         "weaponId": 12402,
         "SortOrder": 4202
     },
-    {
+    "30212403": {
         "Id": 30212403,
         "weaponId": 12403,
         "SortOrder": 4203
     },
-    {
+    "30212404": {
         "Id": 30212404,
         "weaponId": 12404,
         "SortOrder": 4204
     },
-    {
+    "30212405": {
         "Id": 30212405,
         "weaponId": 12405,
         "SortOrder": 4205
     },
-    {
+    "30212406": {
         "Id": 30212406,
         "weaponId": 12406,
         "SortOrder": 4206
     },
-    {
+    "30212407": {
         "Id": 30212407,
         "weaponId": 12407,
         "SortOrder": 4207
     },
-    {
+    "30212408": {
         "Id": 30212408,
         "weaponId": 12408,
         "SortOrder": 4208
     },
-    {
+    "30212409": {
         "Id": 30212409,
         "weaponId": 12409,
         "SortOrder": 4209
     },
-    {
+    "30212411": {
         "Id": 30212411,
         "weaponId": 12411,
         "SortOrder": 4210
     },
-    {
+    "30212410": {
         "Id": 30212410,
         "weaponId": 12410,
         "SortOrder": 4211
     },
-    {
+    "30212414": {
         "Id": 30212414,
         "weaponId": 12414,
         "SortOrder": 4212
     },
-    {
+    "30212412": {
         "Id": 30212412,
         "weaponId": 12412,
         "SortOrder": 4213,
         "showOnlyUnlocked": true
     },
-    {
+    "30212416": {
         "Id": 30212416,
         "weaponId": 12416,
         "SortOrder": 4214
     },
-    {
+    "30212417": {
         "Id": 30212417,
         "weaponId": 12417,
         "SortOrder": 4215
     },
-    {
+    "30213401": {
         "Id": 30213401,
         "weaponId": 13401,
         "SortOrder": 4301
     },
-    {
+    "30213402": {
         "Id": 30213402,
         "weaponId": 13402,
         "SortOrder": 4302
     },
-    {
+    "30213403": {
         "Id": 30213403,
         "weaponId": 13403,
         "SortOrder": 4303
     },
-    {
+    "30213404": {
         "Id": 30213404,
         "weaponId": 13404,
         "SortOrder": 4304
     },
-    {
+    "30213405": {
         "Id": 30213405,
         "weaponId": 13405,
         "SortOrder": 4305
     },
-    {
+    "30213407": {
         "Id": 30213407,
         "weaponId": 13407,
         "SortOrder": 4306
     },
-    {
+    "30213408": {
         "Id": 30213408,
         "weaponId": 13408,
         "SortOrder": 4307
     },
-    {
+    "30213409": {
         "Id": 30213409,
         "weaponId": 13409,
         "SortOrder": 4308
     },
-    {
+    "30213406": {
         "Id": 30213406,
         "weaponId": 13406,
         "SortOrder": 4309
     },
-    {
+    "30213414": {
         "Id": 30213414,
         "weaponId": 13414,
         "SortOrder": 4310
     },
-    {
+    "30213415": {
         "Id": 30213415,
         "weaponId": 13415,
         "SortOrder": 4311
     },
-    {
+    "30213416": {
         "Id": 30213416,
         "weaponId": 13416,
         "SortOrder": 4312
     },
-    {
+    "30213417": {
         "Id": 30213417,
         "weaponId": 13417,
         "SortOrder": 4313
     },
-    {
+    "30214401": {
         "Id": 30214401,
         "weaponId": 14401,
         "SortOrder": 4401
     },
-    {
+    "30214402": {
         "Id": 30214402,
         "weaponId": 14402,
         "SortOrder": 4402
     },
-    {
+    "30214403": {
         "Id": 30214403,
         "weaponId": 14403,
         "SortOrder": 4403
     },
-    {
+    "30214404": {
         "Id": 30214404,
         "weaponId": 14404,
         "SortOrder": 4404
     },
-    {
+    "30214405": {
         "Id": 30214405,
         "weaponId": 14405,
         "SortOrder": 4405
     },
-    {
+    "30214406": {
         "Id": 30214406,
         "weaponId": 14406,
         "SortOrder": 4406
     },
-    {
+    "30214407": {
         "Id": 30214407,
         "weaponId": 14407,
         "SortOrder": 4407
     },
-    {
+    "30214408": {
         "Id": 30214408,
         "weaponId": 14408,
         "SortOrder": 4408
     },
-    {
+    "30214409": {
         "Id": 30214409,
         "weaponId": 14409,
         "SortOrder": 4409
     },
-    {
+    "30214412": {
         "Id": 30214412,
         "weaponId": 14412,
         "SortOrder": 4410
     },
-    {
+    "30214410": {
         "Id": 30214410,
         "weaponId": 14410,
         "SortOrder": 4411
     },
-    {
+    "30214413": {
         "Id": 30214413,
         "weaponId": 14413,
         "SortOrder": 4412,
         "showOnlyUnlocked": true
     },
-    {
+    "30214414": {
         "Id": 30214414,
         "weaponId": 14414,
         "SortOrder": 4414
     },
-    {
+    "30214415": {
         "Id": 30214415,
         "weaponId": 14415,
         "SortOrder": 4415,
         "showOnlyUnlocked": true
     },
-    {
+    "30214417": {
         "Id": 30214417,
         "weaponId": 14417,
         "SortOrder": 4416
     },
-    {
+    "30215401": {
         "Id": 30215401,
         "weaponId": 15401,
         "SortOrder": 4501
     },
-    {
+    "30215402": {
         "Id": 30215402,
         "weaponId": 15402,
         "SortOrder": 4502
     },
-    {
+    "30215403": {
         "Id": 30215403,
         "weaponId": 15403,
         "SortOrder": 4503
     },
-    {
+    "30215404": {
         "Id": 30215404,
         "weaponId": 15404,
         "SortOrder": 4504
     },
-    {
+    "30215405": {
         "Id": 30215405,
         "weaponId": 15405,
         "SortOrder": 4505
     },
-    {
+    "30215406": {
         "Id": 30215406,
         "weaponId": 15406,
         "SortOrder": 4506
     },
-    {
+    "30215407": {
         "Id": 30215407,
         "weaponId": 15407,
         "SortOrder": 4507
     },
-    {
+    "30215408": {
         "Id": 30215408,
         "weaponId": 15408,
         "SortOrder": 4508
     },
-    {
+    "30215409": {
         "Id": 30215409,
         "weaponId": 15409,
         "SortOrder": 4509
     },
-    {
+    "30215410": {
         "Id": 30215410,
         "weaponId": 15410,
         "SortOrder": 4510
     },
-    {
+    "30215413": {
         "Id": 30215413,
         "weaponId": 15413,
         "SortOrder": 4511,
         "showOnlyUnlocked": true
     },
-    {
+    "30215412": {
         "Id": 30215412,
         "weaponId": 15412,
         "SortOrder": 4512
     },
-    {
+    "30215414": {
         "Id": 30215414,
         "weaponId": 15414,
         "SortOrder": 4513
     },
-    {
+    "30215415": {
         "Id": 30215415,
         "weaponId": 15415,
         "SortOrder": 4514,
         "showOnlyUnlocked": true
     },
-    {
+    "30215416": {
         "Id": 30215416,
         "weaponId": 15416,
         "SortOrder": 4515
     },
-    {
+    "30215411": {
         "Id": 30215411,
         "weaponId": 15411,
         "SortOrder": 4516,
         "showOnlyUnlocked": true
     },
-    {
+    "30215417": {
         "Id": 30215417,
         "weaponId": 15417,
         "SortOrder": 4517
     },
-    {
+    "30215418": {
         "Id": 30215418,
         "weaponId": 15418,
         "SortOrder": 4518
     },
-    {
+    "30211501": {
         "Id": 30211501,
         "weaponId": 11501,
         "SortOrder": 5101
     },
-    {
+    "30211502": {
         "Id": 30211502,
         "weaponId": 11502,
         "SortOrder": 5102
     },
-    {
+    "30211504": {
         "Id": 30211504,
         "weaponId": 11504,
         "SortOrder": 5103
     },
-    {
+    "30211505": {
         "Id": 30211505,
         "weaponId": 11505,
         "SortOrder": 5104
     },
-    {
+    "30211503": {
         "Id": 30211503,
         "weaponId": 11503,
         "SortOrder": 5105
     },
-    {
+    "30211509": {
         "Id": 30211509,
         "weaponId": 11509,
         "SortOrder": 5106
     },
-    {
+    "30211510": {
         "Id": 30211510,
         "weaponId": 11510,
         "SortOrder": 5107
     },
-    {
+    "30212501": {
         "Id": 30212501,
         "weaponId": 12501,
         "SortOrder": 5201
     },
-    {
+    "30212502": {
         "Id": 30212502,
         "weaponId": 12502,
         "SortOrder": 5202
     },
-    {
+    "30212504": {
         "Id": 30212504,
         "weaponId": 12504,
         "SortOrder": 5203
     },
-    {
+    "30212505": {
         "Id": 30212505,
         "weaponId": 12505,
         "SortOrder": 5204,
         "isDisuse": true
     },
-    {
+    "30212503": {
         "Id": 30212503,
         "weaponId": 12503,
         "SortOrder": 5205
     },
-    {
+    "30212510": {
         "Id": 30212510,
         "weaponId": 12510,
         "SortOrder": 5206
     },
-    {
+    "30213505": {
         "Id": 30213505,
         "weaponId": 13505,
         "SortOrder": 5301
     },
-    {
+    "30213502": {
         "Id": 30213502,
         "weaponId": 13502,
         "SortOrder": 5302
     },
-    {
+    "30213504": {
         "Id": 30213504,
         "weaponId": 13504,
         "SortOrder": 5303
     },
-    {
+    "30213501": {
         "Id": 30213501,
         "weaponId": 13501,
         "SortOrder": 5304
     },
-    {
+    "30213509": {
         "Id": 30213509,
         "weaponId": 13509,
         "SortOrder": 5305
     },
-    {
+    "30213507": {
         "Id": 30213507,
         "weaponId": 13507,
         "SortOrder": 5306
     },
-    {
+    "30214501": {
         "Id": 30214501,
         "weaponId": 14501,
         "SortOrder": 5401
     },
-    {
+    "30214502": {
         "Id": 30214502,
         "weaponId": 14502,
         "SortOrder": 5402
     },
-    {
+    "30214504": {
         "Id": 30214504,
         "weaponId": 14504,
         "SortOrder": 5403
     },
-    {
+    "30214505": {
         "Id": 30214505,
         "weaponId": 14505,
         "SortOrder": 5404,
         "isDisuse": true
     },
-    {
+    "30214506": {
         "Id": 30214506,
         "weaponId": 14506,
         "SortOrder": 5405
     },
-    {
+    "30214509": {
         "Id": 30214509,
         "weaponId": 14509,
         "SortOrder": 5406
     },
-    {
+    "30215501": {
         "Id": 30215501,
         "weaponId": 15501,
         "SortOrder": 5501
     },
-    {
+    "30215502": {
         "Id": 30215502,
         "weaponId": 15502,
         "SortOrder": 5502
     },
-    {
+    "30215504": {
         "Id": 30215504,
         "weaponId": 15504,
         "SortOrder": 5503,
         "isDisuse": true
     },
-    {
+    "30215505": {
         "Id": 30215505,
         "weaponId": 15505,
         "SortOrder": 5504,
         "isDisuse": true
     },
-    {
+    "30215503": {
         "Id": 30215503,
         "weaponId": 15503,
         "SortOrder": 5505
     },
-    {
+    "30215509": {
         "Id": 30215509,
         "weaponId": 15509,
         "SortOrder": 5506
     },
-    {
+    "30215507": {
         "Id": 30215507,
         "weaponId": 15507,
         "SortOrder": 5507
     },
-    {
+    "30215508": {
         "Id": 30215508,
         "weaponId": 15508,
         "SortOrder": 5508
     },
-    {
+    "30215511": {
         "Id": 30215511,
         "weaponId": 15511,
         "SortOrder": 5509
     }
-]
+}

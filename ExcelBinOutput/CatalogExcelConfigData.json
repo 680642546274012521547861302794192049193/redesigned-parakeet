@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "type": "CATALOG_TYPE_ARANARA",
         "JBPKDCKAAHK": [
@@ -39,4 +39,4 @@
             ]
         ]
     }
-]
+}

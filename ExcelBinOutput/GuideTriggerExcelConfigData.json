@@ -1,318 +1,318 @@
-[
-    {
+{
+    "GuideWeaponChange": {
         "guideName": "GuideWeaponChange",
         "type": "GET_NEW_ITEM",
         "openState": "OPEN_STATE_WEAPON_CHANGE_GUIDE"
     },
-    {
+    "GuideAvatarUpgrade": {
         "guideName": "GuideAvatarUpgrade",
         "type": "GET_NEW_ITEM",
         "openState": "OPEN_STATE_PLAYER_LVUP_GUIDE"
     },
-    {
+    "GuideRelic": {
         "guideName": "GuideRelic",
         "type": "GET_NEW_ITEM",
         "openState": "OPEN_STATE_GUIDE_RELIC"
     },
-    {
+    "GuideWeaponUpgrade": {
         "guideName": "GuideWeaponUpgrade",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_WEAPON_PROMOTE_GUIDE"
     },
-    {
+    "GuideTalent": {
         "guideName": "GuideTalent",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_TALENT"
     },
-    {
+    "GuideRelicPromote": {
         "guideName": "GuideRelicPromote",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_RELIC_PROM"
     },
-    {
+    "GuideGacha": {
         "guideName": "GuideGacha",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_GACHA"
     },
-    {
+    "GuideTeam": {
         "guideName": "GuideTeam",
         "type": "HAS_AVATAR_NUM",
         "param1": 5
     },
-    {
+    "GuideAvatarPromote": {
         "guideName": "GuideAvatarPromote",
         "type": "ANY_AVATAR_LEVEL",
         "param1": 20
     },
-    {
+    "GuideBag": {
         "guideName": "GuideBag",
         "type": "GET_NEW_ITEM",
         "openState": "OPEN_STATE_GUIDE_BAG"
     },
-    {
+    "GuideMultiplayer": {
         "guideName": "GuideMultiplayer",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_MULTIPLAYER"
     },
-    {
+    "GuideDungeonReward": {
         "guideName": "GuideDungeonReward",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_DUNGEONREWARD"
     },
-    {
+    "GuidePersonalLine": {
         "guideName": "GuidePersonalLine",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_PERSONAL_LINE"
     },
-    {
+    "GuideAppearance": {
         "guideName": "GuideAppearance",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_APPEARANCE"
     },
-    {
+    "GuidePersonalLineKey": {
         "guideName": "GuidePersonalLineKey",
         "type": "PERSONALLINE_KEY",
         "openState": "OPEN_STATE_GUIDE_PERSONAL_LINE_KEY"
     },
-    {
+    "GuideProcess": {
         "guideName": "GuideProcess",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_PROCESS"
     },
-    {
+    "GuideWidget": {
         "guideName": "GuideWidget",
         "type": "GET_NEW_ITEM",
         "openState": "OPEN_STATE_GUIDE_WIDGET"
     },
-    {
+    "GuideExitMultiplayer": {
         "guideName": "GuideExitMultiplayer",
         "type": "WORLDPLAYER_UPDATE",
         "openState": "OPEN_STATE_GUIDE_EXITMULTIPLAYER"
     },
-    {
+    "GuideColdClimateEntry": {
         "guideName": "GuideColdClimateEntry",
         "type": "CLIMATE_TYPE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_COLDCLIMATE"
     },
-    {
+    "GuideTheatreMachanicusBuildios": {
         "guideName": "GuideTheatreMachanicusBuildios",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD"
     },
-    {
+    "GuideTheatreMachanicusRebuildios": {
         "guideName": "GuideTheatreMachanicusRebuildios",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_REBUILD"
     },
-    {
+    "GuideTheatreMachanicusCardios": {
         "guideName": "GuideTheatreMachanicusCardios",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CARD"
     },
-    {
+    "GuideTheatreMachanicusMissionCheck": {
         "guideName": "GuideTheatreMachanicusMissionCheck",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MISSION_CHECK"
     },
-    {
+    "GuideTheatreMachanicusBuildSelect": {
         "guideName": "GuideTheatreMachanicusBuildSelect",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD_SELECT"
     },
-    {
+    "GuideTheatreMachanicusChallegeStart": {
         "guideName": "GuideTheatreMachanicusChallegeStart",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CHALLENGE_START"
     },
-    {
+    "GuideTheatreMachanicusMonsterios": {
         "guideName": "GuideTheatreMachanicusMonsterios",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MONSTER"
     },
-    {
+    "GuideSynthesisConvert": {
         "guideName": "GuideSynthesisConvert",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CONVERT"
     },
-    {
+    "GuideTheatreMachanicusMultiplayerios": {
         "guideName": "GuideTheatreMachanicusMultiplayerios",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MULTIPLAYER"
     },
-    {
+    "GuideCoopTask": {
         "guideName": "GuideCoopTask",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_COOP_TASK"
     },
-    {
+    "GuideAdeptiAbode": {
         "guideName": "GuideAdeptiAbode",
         "type": "GET_NEW_ITEM",
         "openState": "OPEN_STATE_GUIDE_HOMEWORLD_ADEPTIABODE"
     },
-    {
+    "GuideChannellerSlabEquip": {
         "guideName": "GuideChannellerSlabEquip",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_EQUIP"
     },
-    {
+    "GuideChannellerSlabMpSolution": {
         "guideName": "GuideChannellerSlabMpSolution",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_MP_SOLUTION"
     },
-    {
+    "GuideChannellerSlabPower": {
         "guideName": "GuideChannellerSlabPower",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_POWER"
     },
-    {
+    "GuideHideandSeekSkill": {
         "guideName": "GuideHideandSeekSkill",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_HIDEANDSEEK_SKILL"
     },
-    {
+    "GuideHomeMapList": {
         "guideName": "GuideHomeMapList",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_HOMEWORLD_MAPLIST"
     },
-    {
+    "GuideRelicResolve": {
         "guideName": "GuideRelicResolve",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_RELICRESOLVE"
     },
-    {
+    "GuideGguideHint": {
         "guideName": "GuideGguideHint",
         "type": "PUSHTIPS_NOTIFY_FINISH",
         "openState": "OPEN_STATE_GUIDE_GGUIDE_HINT"
     },
-    {
+    "GuideGguide": {
         "guideName": "GuideGguide",
         "type": "NEW_PUSHTIPS",
         "openState": "OPEN_STATE_GUIDE_GGUIDE"
     },
-    {
+    "GuildChessMissonCheck": {
         "guideName": "GuildChessMissonCheck",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHESS_MISSION_CHECK"
     },
-    {
+    "GuideChessBuild": {
         "guideName": "GuideChessBuild",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHESS_BUILD"
     },
-    {
+    "GuideChessWindTowerCircle": {
         "guideName": "GuideChessWindTowerCircle",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHESS_WIND_TOWER_CIRCLE"
     },
-    {
+    "GuideChessCardSelect": {
         "guideName": "GuideChessCardSelect",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHESS_CARD_SELECT"
     },
-    {
+    "GuidePlayerLvInfo": {
         "guideName": "GuidePlayerLvInfo",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_PAIMON_LVINFO"
     },
-    {
+    "GuideFlyStart": {
         "guideName": "GuideFlyStart",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_FLY_SECOND"
     },
-    {
+    "GuideSumoTeamSkill": {
         "guideName": "GuideSumoTeamSkill",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_SUMO_TEAM_SKILL"
     },
-    {
+    "GuideFishRecipe": {
         "guideName": "GuideFishRecipe",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_FISH_RECIPE"
     },
-    {
+    "GuideRogueMap": {
         "guideName": "GuideRogueMap",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_ROGUE_MAP"
     },
-    {
+    "GuideRogueRune": {
         "guideName": "GuideRogueRune",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_ROGUE_RUNE"
     },
-    {
+    "GuideChannellerSlabEquip_V2": {
         "guideName": "GuideChannellerSlabEquip_V2",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_EQUIP_V2"
     },
-    {
+    "GuideChannellerSlabMpSolution_V2": {
         "guideName": "GuideChannellerSlabMpSolution_V2",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_MP_SOLUTION_V2"
     },
-    {
+    "GuideChannellerSlabPower_V2": {
         "guideName": "GuideChannellerSlabPower_V2",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_POWER_V2"
     },
-    {
+    "GuidePotionConfigure": {
         "guideName": "GuidePotionConfigure",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_POTION_CONFIGURE"
     },
-    {
+    "GuideLanV2Firework": {
         "guideName": "GuideLanV2Firework",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_LANV2_FIREWORK"
     },
-    {
+    "GuideBartenderFormula": {
         "guideName": "GuideBartenderFormula",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_BARTENDER_FORMULA"
     },
-    {
+    "GuideBartenderMix": {
         "guideName": "GuideBartenderMix",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_BARTENDER_MIX"
     },
-    {
+    "GuideBartenderCup": {
         "guideName": "GuideBartenderCup",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_BARTENDER_CUP"
     },
-    {
+    "GuideQuickTeamMemberChange": {
         "guideName": "GuideQuickTeamMemberChange",
         "type": "HAS_AVATAR_NUM",
         "param1": 5,
         "openState": "OPEN_STATE_GUIDE_QUICK_TEAMMEMBERCHANGE"
     },
-    {
+    "GuideCrystalLink": {
         "guideName": "GuideCrystalLink",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_CRYSTALLINK_BUFF"
     },
-    {
+    "GuideMusicUgc_01": {
         "guideName": "GuideMusicUgc_01",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_V3_REAL_TIME_EDIT"
     },
-    {
+    "GuideMusicUgc_02": {
         "guideName": "GuideMusicUgc_02",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_V3_TIMELINE_EDIT"
     },
-    {
+    "GuideMusicSetting": {
         "guideName": "GuideMusicSetting",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_V3_SETTING"
     },
-    {
+    "GuideFragileResin": {
         "guideName": "GuideFragileResin",
         "type": "GET_NEW_ITEM",
         "openState": "OPEN_STATE_GUIDE_FRAGILE_RESIN"
     },
-    {
+    "GuideRobotGacha": {
         "guideName": "GuideRobotGacha",
         "type": "OPENSTATE_CHANGE",
         "openState": "OPEN_STATE_GUIDE_ROBOTGACHA"
     }
-]
+}

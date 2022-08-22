@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "buffId": 1,
         "MPGLOPJFENJ": "Activity_Potion_SwirlIncreaseTeamAtk",
         "LGGLOCFGEFI": 4,
@@ -16,7 +16,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Add"
     },
-    {
+    "2": {
         "buffId": 2,
         "MPGLOPJFENJ": "Activity_Potion_DamageUp_SubHurtDown",
         "LGGLOCFGEFI": 4,
@@ -33,7 +33,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Add"
     },
-    {
+    "3": {
         "buffId": 3,
         "MPGLOPJFENJ": "Activity_Potion_ElementalBurstDamageUp",
         "LGGLOCFGEFI": 4,
@@ -50,7 +50,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "4": {
         "buffId": 4,
         "MPGLOPJFENJ": "Activity_Potion_ElemMasteryDeltaUp",
         "LGGLOCFGEFI": 4,
@@ -67,7 +67,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "5": {
         "buffId": 5,
         "MPGLOPJFENJ": "Activity_Potion_Explode_Superconductor_Shock_IncreaseDmg",
         "LGGLOCFGEFI": 4,
@@ -84,7 +84,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "6": {
         "buffId": 6,
         "MPGLOPJFENJ": "Activity_Potion_Purple_After_Steam_Melt",
         "LGGLOCFGEFI": 4,
@@ -101,7 +101,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "7": {
         "buffId": 7,
         "MPGLOPJFENJ": "Activity_Potion_AttackFrozenEnemy_IncreaseDamage",
         "LGGLOCFGEFI": 4,
@@ -118,7 +118,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "8": {
         "buffId": 8,
         "MPGLOPJFENJ": "Activity_Potion_AllElementalDmgUp_AfterNormalAttack",
         "LGGLOCFGEFI": 4,
@@ -135,7 +135,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "9": {
         "buffId": 9,
         "MPGLOPJFENJ": "Activity_Potion_SkillCDMinusRatioUp_AfterSkill",
         "LGGLOCFGEFI": 4,
@@ -152,7 +152,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "10": {
         "buffId": 10,
         "MPGLOPJFENJ": "Activity_Potion_ExtraAttackAtkUpAfterUseUltimateSkill",
         "LGGLOCFGEFI": 4,
@@ -169,7 +169,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Nomal"
     },
-    {
+    "11": {
         "buffId": 11,
         "MPGLOPJFENJ": "Activity_Potion_ThumDamageUp",
         "LGGLOCFGEFI": 4,
@@ -186,7 +186,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Nomal"
     },
-    {
+    "12": {
         "buffId": 12,
         "MPGLOPJFENJ": "Activity_Potion_NormalAttackUp",
         "LGGLOCFGEFI": 4,
@@ -203,7 +203,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Nomal"
     },
-    {
+    "13": {
         "buffId": 13,
         "MPGLOPJFENJ": "Activity_Potion_ElemnentalArt_GenerateBall",
         "LGGLOCFGEFI": 4,
@@ -220,7 +220,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Energy"
     },
-    {
+    "14": {
         "buffId": 14,
         "MPGLOPJFENJ": "Activity_Potion_ThumpCostReduce",
         "LGGLOCFGEFI": 4,
@@ -237,7 +237,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Other_SPReduceConsume"
     },
-    {
+    "15": {
         "buffId": 15,
         "MPGLOPJFENJ": "Activity_Potion_DashStaminaReduce",
         "LGGLOCFGEFI": 4,
@@ -254,7 +254,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Other_SPReduceConsume"
     },
-    {
+    "16": {
         "buffId": 16,
         "MPGLOPJFENJ": "Activity_Potion_DefenceUp_Team",
         "LGGLOCFGEFI": 4,
@@ -271,7 +271,7 @@
         "KFDMJGAILCC": 89,
         "MHCADPFLADN": "UI_Buff_Item_Def_Add"
     },
-    {
+    "17": {
         "buffId": 17,
         "MPGLOPJFENJ": "Activity_Potion_HealAttackUp",
         "LGGLOCFGEFI": 5,
@@ -288,7 +288,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Add"
     },
-    {
+    "18": {
         "buffId": 18,
         "MPGLOPJFENJ": "Activity_Potion_HightHP_IncreaseDamage",
         "LGGLOCFGEFI": 5,
@@ -305,7 +305,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Add"
     },
-    {
+    "19": {
         "buffId": 19,
         "MPGLOPJFENJ": "Activity_Potion_ATKSpeedUp_AfterDash",
         "LGGLOCFGEFI": 5,
@@ -322,7 +322,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Nomal"
     },
-    {
+    "20": {
         "buffId": 20,
         "MPGLOPJFENJ": "Activity_Potion_ContinuousNormalAtk_HealEffectUp",
         "LGGLOCFGEFI": 5,
@@ -339,7 +339,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Recovery_HpAdd"
     },
-    {
+    "21": {
         "buffId": 21,
         "MPGLOPJFENJ": "Activity_Potion_AtkUp_OnAvatarIn",
         "LGGLOCFGEFI": 5,
@@ -356,7 +356,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Add"
     },
-    {
+    "22": {
         "buffId": 22,
         "MPGLOPJFENJ": "Activity_Potion_UltimateSkill_UltimateSkillDamageUp",
         "LGGLOCFGEFI": 5,
@@ -373,7 +373,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "23": {
         "buffId": 23,
         "MPGLOPJFENJ": "Activity_Potion_HitTheTarget_GenerateBall_AfterUltimateSkill",
         "LGGLOCFGEFI": 5,
@@ -390,7 +390,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Energy"
     },
-    {
+    "24": {
         "buffId": 24,
         "MPGLOPJFENJ": "Activity_Potion_LowEnergy_ChargeEfficiencyUp",
         "LGGLOCFGEFI": 5,
@@ -407,7 +407,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Energy"
     },
-    {
+    "25": {
         "buffId": 25,
         "MPGLOPJFENJ": "Activity_Potion_ElementalDamageUp_AfterSkill",
         "LGGLOCFGEFI": 5,
@@ -424,7 +424,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Atk_ElementHurt_All"
     },
-    {
+    "26": {
         "buffId": 26,
         "MPGLOPJFENJ": "Activity_Potion_AtkSpeedUp_MoveSpeedUp_OnKillEnemies",
         "LGGLOCFGEFI": 5,
@@ -441,7 +441,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Nomal"
     },
-    {
+    "27": {
         "buffId": 27,
         "MPGLOPJFENJ": "Activity_Potion_AddAtkUpLevelOnStage_SubAtkLevelOffStage",
         "LGGLOCFGEFI": 5,
@@ -458,7 +458,7 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Atk_Nomal"
     },
-    {
+    "28": {
         "buffId": 28,
         "MPGLOPJFENJ": "Activity_Potion_RecoverEnergy_HitDamage",
         "LGGLOCFGEFI": 5,
@@ -475,4 +475,4 @@
         "KFDMJGAILCC": 195,
         "MHCADPFLADN": "UI_Buff_Item_Energy"
     }
-]
+}

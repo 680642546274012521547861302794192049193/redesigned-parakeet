@@ -1,5 +1,5 @@
-[
-    {
+{
+    "101": {
         "id": 101,
         "energySkill": 10014,
         "skills": [
@@ -37,7 +37,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "201": {
         "id": 201,
         "energySkill": 10019,
         "skills": [
@@ -87,7 +87,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "301": {
         "id": 301,
         "energySkill": 10034,
         "skills": [
@@ -134,7 +134,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "501": {
         "id": 501,
         "skills": [
             100540,
@@ -172,7 +172,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Common"
     },
-    {
+    "502": {
         "id": 502,
         "skills": [
             100541,
@@ -210,7 +210,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "503": {
         "id": 503,
         "skills": [
             100542,
@@ -248,7 +248,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "504": {
         "id": 504,
         "energySkill": 10068,
         "skills": [
@@ -294,7 +294,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Wind"
     },
-    {
+    "505": {
         "id": 505,
         "skills": [
             100544,
@@ -332,7 +332,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "506": {
         "id": 506,
         "energySkill": 10078,
         "skills": [
@@ -377,7 +377,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Rock"
     },
-    {
+    "507": {
         "id": 507,
         "energySkill": 10605,
         "skills": [
@@ -420,7 +420,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Electric"
     },
-    {
+    "508": {
         "id": 508,
         "energySkill": 10118,
         "skills": [
@@ -463,7 +463,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Grass"
     },
-    {
+    "601": {
         "id": 601,
         "energySkill": 10062,
         "skills": [
@@ -510,7 +510,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "701": {
         "id": 701,
         "skills": [
             100550,
@@ -548,7 +548,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Common"
     },
-    {
+    "702": {
         "id": 702,
         "skills": [
             100551,
@@ -586,7 +586,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "703": {
         "id": 703,
         "skills": [
             100552,
@@ -624,7 +624,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "704": {
         "id": 704,
         "energySkill": 10068,
         "skills": [
@@ -670,7 +670,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Wind"
     },
-    {
+    "705": {
         "id": 705,
         "skills": [
             100554,
@@ -708,7 +708,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "706": {
         "id": 706,
         "energySkill": 10078,
         "skills": [
@@ -753,7 +753,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Rock"
     },
-    {
+    "707": {
         "id": 707,
         "energySkill": 10605,
         "skills": [
@@ -796,7 +796,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Electric"
     },
-    {
+    "708": {
         "id": 708,
         "energySkill": 10118,
         "skills": [
@@ -839,7 +839,7 @@
         ],
         "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Grass"
     },
-    {
+    "1401": {
         "id": 1401,
         "energySkill": 10072,
         "skills": [
@@ -889,7 +889,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "1501": {
         "id": 1501,
         "energySkill": 10075,
         "skills": [
@@ -937,7 +937,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "1601": {
         "id": 1601,
         "energySkill": 10165,
         "skills": [
@@ -985,7 +985,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2001": {
         "id": 2001,
         "energySkill": 10203,
         "skills": [
@@ -1032,7 +1032,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2101": {
         "id": 2101,
         "energySkill": 10017,
         "skills": [
@@ -1082,7 +1082,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2201": {
         "id": 2201,
         "energySkill": 10225,
         "skills": [
@@ -1131,7 +1131,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2301": {
         "id": 2301,
         "energySkill": 10235,
         "skills": [
@@ -1178,7 +1178,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2401": {
         "id": 2401,
         "energySkill": 10245,
         "skills": [
@@ -1223,7 +1223,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2501": {
         "id": 2501,
         "energySkill": 10385,
         "skills": [
@@ -1269,7 +1269,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2601": {
         "id": 2601,
         "energySkill": 10265,
         "skills": [
@@ -1316,7 +1316,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2701": {
         "id": 2701,
         "energySkill": 10274,
         "skills": [
@@ -1364,7 +1364,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "2901": {
         "id": 2901,
         "energySkill": 10295,
         "skills": [
@@ -1411,7 +1411,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3001": {
         "id": 3001,
         "energySkill": 10303,
         "skills": [
@@ -1457,7 +1457,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3101": {
         "id": 3101,
         "energySkill": 10313,
         "skills": [
@@ -1506,7 +1506,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3201": {
         "id": 3201,
         "energySkill": 10323,
         "skills": [
@@ -1552,7 +1552,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3301": {
         "id": 3301,
         "energySkill": 10333,
         "skills": [
@@ -1603,7 +1603,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3401": {
         "id": 3401,
         "energySkill": 10343,
         "skills": [
@@ -1649,7 +1649,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3501": {
         "id": 3501,
         "energySkill": 10353,
         "skills": [
@@ -1696,7 +1696,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3601": {
         "id": 3601,
         "energySkill": 10403,
         "skills": [
@@ -1741,7 +1741,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3701": {
         "id": 3701,
         "energySkill": 10373,
         "skills": [
@@ -1788,7 +1788,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3801": {
         "id": 3801,
         "energySkill": 10388,
         "skills": [
@@ -1834,7 +1834,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "3901": {
         "id": 3901,
         "energySkill": 10395,
         "skills": [
@@ -1882,7 +1882,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4101": {
         "id": 4101,
         "energySkill": 10415,
         "skills": [
@@ -1928,7 +1928,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4201": {
         "id": 4201,
         "energySkill": 10425,
         "skills": [
@@ -1975,7 +1975,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4301": {
         "id": 4301,
         "energySkill": 10435,
         "skills": [
@@ -2022,7 +2022,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4401": {
         "id": 4401,
         "energySkill": 10443,
         "skills": [
@@ -2067,7 +2067,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4501": {
         "id": 4501,
         "energySkill": 10453,
         "skills": [
@@ -2113,7 +2113,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4601": {
         "id": 4601,
         "energySkill": 10463,
         "skills": [
@@ -2160,7 +2160,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4701": {
         "id": 4701,
         "energySkill": 10475,
         "skills": [
@@ -2208,7 +2208,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4801": {
         "id": 4801,
         "energySkill": 10485,
         "skills": [
@@ -2255,7 +2255,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "4901": {
         "id": 4901,
         "energySkill": 10495,
         "skills": [
@@ -2300,7 +2300,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5001": {
         "id": 5001,
         "energySkill": 10505,
         "skills": [
@@ -2344,7 +2344,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5101": {
         "id": 5101,
         "energySkill": 10515,
         "skills": [
@@ -2389,7 +2389,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5201": {
         "id": 5201,
         "energySkill": 10525,
         "skills": [
@@ -2436,7 +2436,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5301": {
         "id": 5301,
         "energySkill": 10535,
         "skills": [
@@ -2480,7 +2480,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5401": {
         "id": 5401,
         "energySkill": 10545,
         "skills": [
@@ -2526,7 +2526,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5501": {
         "id": 5501,
         "energySkill": 10555,
         "skills": [
@@ -2572,7 +2572,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5601": {
         "id": 5601,
         "energySkill": 10565,
         "skills": [
@@ -2618,7 +2618,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5701": {
         "id": 5701,
         "energySkill": 10575,
         "skills": [
@@ -2663,7 +2663,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5801": {
         "id": 5801,
         "energySkill": 10585,
         "skills": [
@@ -2708,7 +2708,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "5901": {
         "id": 5901,
         "energySkill": 10595,
         "skills": [
@@ -2752,7 +2752,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6001": {
         "id": 6001,
         "energySkill": 10610,
         "skills": [
@@ -2798,7 +2798,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6201": {
         "id": 6201,
         "energySkill": 10625,
         "skills": [
@@ -2844,7 +2844,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6401": {
         "id": 6401,
         "energySkill": 10643,
         "skills": [
@@ -2888,7 +2888,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6301": {
         "id": 6301,
         "energySkill": 10635,
         "skills": [
@@ -2934,7 +2934,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6501": {
         "id": 6501,
         "energySkill": 10655,
         "skills": [
@@ -2982,7 +2982,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6601": {
         "id": 6601,
         "energySkill": 10665,
         "skills": [
@@ -3027,7 +3027,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6701": {
         "id": 6701,
         "energySkill": 10675,
         "skills": [
@@ -3072,7 +3072,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6801": {
         "id": 6801,
         "energySkill": 10685,
         "skills": [
@@ -3115,7 +3115,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "6901": {
         "id": 6901,
         "energySkill": 10695,
         "skills": [
@@ -3160,7 +3160,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "8011": {
         "id": 8011,
         "skills": [
             0,
@@ -3192,7 +3192,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "9011": {
         "id": 9011,
         "skills": [
             0,
@@ -3224,7 +3224,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "10011": {
         "id": 10011,
         "skills": [
             0,
@@ -3256,7 +3256,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "12011": {
         "id": 12011,
         "skills": [
             0,
@@ -3288,7 +3288,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "13011": {
         "id": 13011,
         "skills": [
             0,
@@ -3320,7 +3320,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "25011": {
         "id": 25011,
         "energySkill": 10255,
         "skills": [
@@ -3359,7 +3359,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "28011": {
         "id": 28011,
         "energySkill": 10283,
         "skills": [
@@ -3395,7 +3395,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "30011": {
         "id": 30011,
         "energySkill": 11305,
         "skills": [
@@ -3437,7 +3437,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "37011": {
         "id": 37011,
         "energySkill": 11373,
         "skills": [
@@ -3476,7 +3476,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "38001": {
         "id": 38001,
         "energySkill": 10362,
         "skills": [
@@ -3513,7 +3513,7 @@
         ],
         "skillDepotAbilityGroup": ""
     },
-    {
+    "46011": {
         "id": 46011,
         "energySkill": 10463,
         "skills": [
@@ -3551,4 +3551,4 @@
         ],
         "skillDepotAbilityGroup": ""
     }
-]
+}

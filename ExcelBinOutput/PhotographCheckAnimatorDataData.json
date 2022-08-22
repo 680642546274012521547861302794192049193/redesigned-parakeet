@@ -1,5 +1,5 @@
-[
-    {
+{
+    "100201": {
         "id": 100201,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [
@@ -11,7 +11,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100202": {
         "id": 100202,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [],
@@ -22,7 +22,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "100203": {
         "id": 100203,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [
@@ -31,7 +31,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100204": {
         "id": 100204,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [
@@ -40,7 +40,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100205": {
         "id": 100205,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [
@@ -49,7 +49,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100206": {
         "id": 100206,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [],
@@ -58,7 +58,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "100207": {
         "id": 100207,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [],
@@ -67,7 +67,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "100208": {
         "id": 100208,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [
@@ -84,7 +84,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100209": {
         "id": 100209,
         "HEOCPOGJGNA": 10000002,
         "POCFDIDAKHG": [
@@ -93,7 +93,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100301": {
         "id": 100301,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [
@@ -105,7 +105,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100302": {
         "id": 100302,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [],
@@ -116,7 +116,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "100303": {
         "id": 100303,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [
@@ -125,7 +125,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100304": {
         "id": 100304,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [
@@ -137,7 +137,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100305": {
         "id": 100305,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [
@@ -146,7 +146,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100306": {
         "id": 100306,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [],
@@ -155,7 +155,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "100307": {
         "id": 100307,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [],
@@ -164,7 +164,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "100308": {
         "id": 100308,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [],
@@ -175,7 +175,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "100309": {
         "id": 100309,
         "HEOCPOGJGNA": 10000003,
         "POCFDIDAKHG": [
@@ -184,7 +184,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100501": {
         "id": 100501,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -196,7 +196,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100502": {
         "id": 100502,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [],
@@ -207,7 +207,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "100503": {
         "id": 100503,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -216,7 +216,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100504": {
         "id": 100504,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -230,7 +230,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100505": {
         "id": 100505,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -239,7 +239,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100506": {
         "id": 100506,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -252,7 +252,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100507": {
         "id": 100507,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -261,7 +261,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100508": {
         "id": 100508,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -270,7 +270,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100509": {
         "id": 100509,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -279,7 +279,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100510": {
         "id": 100510,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [],
@@ -288,7 +288,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "100511": {
         "id": 100511,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [],
@@ -297,7 +297,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "100512": {
         "id": 100512,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [],
@@ -308,7 +308,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "100513": {
         "id": 100513,
         "HEOCPOGJGNA": 10000005,
         "POCFDIDAKHG": [
@@ -317,7 +317,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100601": {
         "id": 100601,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [
@@ -328,7 +328,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100602": {
         "id": 100602,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [],
@@ -339,7 +339,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "100603": {
         "id": 100603,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [
@@ -349,7 +349,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100604": {
         "id": 100604,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [
@@ -362,7 +362,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100605": {
         "id": 100605,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [
@@ -371,7 +371,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100606": {
         "id": 100606,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [],
@@ -380,7 +380,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "100607": {
         "id": 100607,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [],
@@ -389,7 +389,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "100608": {
         "id": 100608,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [],
@@ -400,7 +400,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "100609": {
         "id": 100609,
         "HEOCPOGJGNA": 10000006,
         "POCFDIDAKHG": [
@@ -409,7 +409,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100701": {
         "id": 100701,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -421,7 +421,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100702": {
         "id": 100702,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [],
@@ -432,7 +432,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "100703": {
         "id": 100703,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -441,7 +441,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100704": {
         "id": 100704,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -455,7 +455,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100705": {
         "id": 100705,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -464,7 +464,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100706": {
         "id": 100706,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -477,7 +477,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100707": {
         "id": 100707,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -486,7 +486,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100708": {
         "id": 100708,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -495,7 +495,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100709": {
         "id": 100709,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -504,7 +504,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "100710": {
         "id": 100710,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [],
@@ -513,7 +513,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "100711": {
         "id": 100711,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [],
@@ -522,7 +522,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "100712": {
         "id": 100712,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [],
@@ -533,7 +533,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "100713": {
         "id": 100713,
         "HEOCPOGJGNA": 10000007,
         "POCFDIDAKHG": [
@@ -542,7 +542,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101401": {
         "id": 101401,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [
@@ -553,7 +553,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101402": {
         "id": 101402,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [],
@@ -564,7 +564,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "101403": {
         "id": 101403,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [
@@ -574,7 +574,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101404": {
         "id": 101404,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [
@@ -583,7 +583,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101405": {
         "id": 101405,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [
@@ -592,7 +592,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101406": {
         "id": 101406,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [],
@@ -601,7 +601,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "101407": {
         "id": 101407,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [],
@@ -610,7 +610,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "101408": {
         "id": 101408,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [],
@@ -621,7 +621,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "101409": {
         "id": 101409,
         "HEOCPOGJGNA": 10000014,
         "POCFDIDAKHG": [
@@ -630,7 +630,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101501": {
         "id": 101501,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [
@@ -642,7 +642,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101502": {
         "id": 101502,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [],
@@ -653,7 +653,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "101503": {
         "id": 101503,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [
@@ -662,7 +662,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101504": {
         "id": 101504,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [
@@ -671,7 +671,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101505": {
         "id": 101505,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [
@@ -680,7 +680,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101506": {
         "id": 101506,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [],
@@ -689,7 +689,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "101507": {
         "id": 101507,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [],
@@ -698,7 +698,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "101508": {
         "id": 101508,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [],
@@ -709,7 +709,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "101509": {
         "id": 101509,
         "HEOCPOGJGNA": 10000015,
         "POCFDIDAKHG": [
@@ -718,7 +718,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101601": {
         "id": 101601,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [
@@ -730,7 +730,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101602": {
         "id": 101602,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [],
@@ -741,7 +741,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "101603": {
         "id": 101603,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [
@@ -752,7 +752,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101604": {
         "id": 101604,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [
@@ -765,7 +765,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101605": {
         "id": 101605,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [
@@ -774,7 +774,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "101606": {
         "id": 101606,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [],
@@ -783,7 +783,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "101607": {
         "id": 101607,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [],
@@ -792,7 +792,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "101608": {
         "id": 101608,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [],
@@ -803,7 +803,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "101609": {
         "id": 101609,
         "HEOCPOGJGNA": 10000016,
         "POCFDIDAKHG": [
@@ -812,7 +812,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102001": {
         "id": 102001,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [
@@ -824,7 +824,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102002": {
         "id": 102002,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [],
@@ -835,7 +835,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102003": {
         "id": 102003,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [
@@ -846,7 +846,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102004": {
         "id": 102004,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [
@@ -861,7 +861,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102005": {
         "id": 102005,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [
@@ -870,7 +870,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102006": {
         "id": 102006,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [],
@@ -879,7 +879,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102007": {
         "id": 102007,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [],
@@ -888,7 +888,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102008": {
         "id": 102008,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [],
@@ -899,7 +899,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102009": {
         "id": 102009,
         "HEOCPOGJGNA": 10000020,
         "POCFDIDAKHG": [
@@ -908,7 +908,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102101": {
         "id": 102101,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [
@@ -920,7 +920,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102102": {
         "id": 102102,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [],
@@ -931,7 +931,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102103": {
         "id": 102103,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [
@@ -940,7 +940,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102104": {
         "id": 102104,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [
@@ -959,7 +959,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102105": {
         "id": 102105,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [
@@ -967,7 +967,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102106": {
         "id": 102106,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [],
@@ -976,7 +976,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102107": {
         "id": 102107,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [],
@@ -985,7 +985,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102108": {
         "id": 102108,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [],
@@ -996,7 +996,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102109": {
         "id": 102109,
         "HEOCPOGJGNA": 10000021,
         "POCFDIDAKHG": [
@@ -1005,7 +1005,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102201": {
         "id": 102201,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [
@@ -1018,7 +1018,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102202": {
         "id": 102202,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [],
@@ -1029,7 +1029,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102203": {
         "id": 102203,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [
@@ -1038,7 +1038,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102204": {
         "id": 102204,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [
@@ -1052,7 +1052,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102205": {
         "id": 102205,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [
@@ -1062,7 +1062,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102206": {
         "id": 102206,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [],
@@ -1071,7 +1071,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102207": {
         "id": 102207,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [],
@@ -1080,7 +1080,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102208": {
         "id": 102208,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [],
@@ -1091,7 +1091,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102209": {
         "id": 102209,
         "HEOCPOGJGNA": 10000022,
         "POCFDIDAKHG": [
@@ -1100,7 +1100,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102301": {
         "id": 102301,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [
@@ -1112,7 +1112,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102302": {
         "id": 102302,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [],
@@ -1123,7 +1123,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102303": {
         "id": 102303,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [
@@ -1133,7 +1133,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102304": {
         "id": 102304,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [
@@ -1143,7 +1143,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102305": {
         "id": 102305,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [
@@ -1152,7 +1152,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102306": {
         "id": 102306,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [],
@@ -1161,7 +1161,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102307": {
         "id": 102307,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [],
@@ -1170,7 +1170,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102308": {
         "id": 102308,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [],
@@ -1181,7 +1181,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102309": {
         "id": 102309,
         "HEOCPOGJGNA": 10000023,
         "POCFDIDAKHG": [
@@ -1190,7 +1190,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102401": {
         "id": 102401,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [
@@ -1203,7 +1203,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102402": {
         "id": 102402,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [],
@@ -1214,7 +1214,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102403": {
         "id": 102403,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [
@@ -1225,7 +1225,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102404": {
         "id": 102404,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [
@@ -1240,7 +1240,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102405": {
         "id": 102405,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [
@@ -1249,7 +1249,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102406": {
         "id": 102406,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [],
@@ -1258,7 +1258,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102407": {
         "id": 102407,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [],
@@ -1267,7 +1267,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102408": {
         "id": 102408,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [],
@@ -1278,7 +1278,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102409": {
         "id": 102409,
         "HEOCPOGJGNA": 10000024,
         "POCFDIDAKHG": [
@@ -1287,7 +1287,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102501": {
         "id": 102501,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [
@@ -1299,7 +1299,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102502": {
         "id": 102502,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [],
@@ -1310,7 +1310,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102503": {
         "id": 102503,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [
@@ -1319,7 +1319,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102504": {
         "id": 102504,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [
@@ -1328,7 +1328,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102505": {
         "id": 102505,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [
@@ -1337,7 +1337,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102506": {
         "id": 102506,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [],
@@ -1346,7 +1346,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102507": {
         "id": 102507,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [],
@@ -1355,7 +1355,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102508": {
         "id": 102508,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [],
@@ -1366,7 +1366,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102509": {
         "id": 102509,
         "HEOCPOGJGNA": 10000025,
         "POCFDIDAKHG": [
@@ -1375,7 +1375,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102601": {
         "id": 102601,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [
@@ -1388,7 +1388,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102602": {
         "id": 102602,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [],
@@ -1399,7 +1399,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102603": {
         "id": 102603,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [
@@ -1409,7 +1409,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102604": {
         "id": 102604,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [
@@ -1421,7 +1421,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102605": {
         "id": 102605,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [
@@ -1430,7 +1430,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102606": {
         "id": 102606,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [],
@@ -1439,7 +1439,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102607": {
         "id": 102607,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [],
@@ -1448,7 +1448,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102608": {
         "id": 102608,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [],
@@ -1459,7 +1459,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102609": {
         "id": 102609,
         "HEOCPOGJGNA": 10000026,
         "POCFDIDAKHG": [
@@ -1468,7 +1468,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102701": {
         "id": 102701,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [
@@ -1478,7 +1478,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102702": {
         "id": 102702,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [],
@@ -1489,7 +1489,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102703": {
         "id": 102703,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [
@@ -1499,7 +1499,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102704": {
         "id": 102704,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [
@@ -1508,7 +1508,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102705": {
         "id": 102705,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [
@@ -1517,7 +1517,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102706": {
         "id": 102706,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [],
@@ -1526,7 +1526,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102707": {
         "id": 102707,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [],
@@ -1535,7 +1535,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102708": {
         "id": 102708,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [],
@@ -1546,7 +1546,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102709": {
         "id": 102709,
         "HEOCPOGJGNA": 10000027,
         "POCFDIDAKHG": [
@@ -1555,7 +1555,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102901": {
         "id": 102901,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [
@@ -1565,7 +1565,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102902": {
         "id": 102902,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [],
@@ -1576,7 +1576,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "102903": {
         "id": 102903,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [
@@ -1586,7 +1586,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102904": {
         "id": 102904,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [
@@ -1595,7 +1595,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102905": {
         "id": 102905,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [
@@ -1604,7 +1604,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "102906": {
         "id": 102906,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [],
@@ -1613,7 +1613,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "102907": {
         "id": 102907,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [],
@@ -1622,7 +1622,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "102908": {
         "id": 102908,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [],
@@ -1633,7 +1633,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "102909": {
         "id": 102909,
         "HEOCPOGJGNA": 10000029,
         "POCFDIDAKHG": [
@@ -1642,7 +1642,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103001": {
         "id": 103001,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [
@@ -1655,7 +1655,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103002": {
         "id": 103002,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [],
@@ -1666,7 +1666,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103003": {
         "id": 103003,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [
@@ -1675,7 +1675,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103004": {
         "id": 103004,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [
@@ -1688,7 +1688,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103005": {
         "id": 103005,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [
@@ -1697,7 +1697,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103006": {
         "id": 103006,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [],
@@ -1706,7 +1706,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103007": {
         "id": 103007,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [],
@@ -1715,7 +1715,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103008": {
         "id": 103008,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [],
@@ -1726,7 +1726,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103009": {
         "id": 103009,
         "HEOCPOGJGNA": 10000030,
         "POCFDIDAKHG": [
@@ -1735,7 +1735,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103101": {
         "id": 103101,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [
@@ -1747,7 +1747,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103102": {
         "id": 103102,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [],
@@ -1758,7 +1758,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103103": {
         "id": 103103,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [
@@ -1767,7 +1767,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103104": {
         "id": 103104,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [
@@ -1783,7 +1783,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103105": {
         "id": 103105,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [
@@ -1796,7 +1796,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103106": {
         "id": 103106,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [],
@@ -1805,7 +1805,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103107": {
         "id": 103107,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [],
@@ -1814,7 +1814,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103108": {
         "id": 103108,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [],
@@ -1825,7 +1825,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103109": {
         "id": 103109,
         "HEOCPOGJGNA": 10000031,
         "POCFDIDAKHG": [
@@ -1834,7 +1834,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103201": {
         "id": 103201,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [
@@ -1846,7 +1846,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103202": {
         "id": 103202,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [],
@@ -1857,7 +1857,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103203": {
         "id": 103203,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [
@@ -1866,7 +1866,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103204": {
         "id": 103204,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [
@@ -1887,13 +1887,13 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103205": {
         "id": 103205,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [],
         "HPGBEMBLCOA": []
     },
-    {
+    "103206": {
         "id": 103206,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [],
@@ -1902,7 +1902,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103207": {
         "id": 103207,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [],
@@ -1911,7 +1911,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103208": {
         "id": 103208,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [],
@@ -1922,7 +1922,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103209": {
         "id": 103209,
         "HEOCPOGJGNA": 10000032,
         "POCFDIDAKHG": [
@@ -1931,7 +1931,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103301": {
         "id": 103301,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [
@@ -1950,7 +1950,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103302": {
         "id": 103302,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [],
@@ -1961,7 +1961,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103303": {
         "id": 103303,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [
@@ -1972,7 +1972,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103304": {
         "id": 103304,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [
@@ -1981,7 +1981,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103305": {
         "id": 103305,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [
@@ -1992,7 +1992,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103306": {
         "id": 103306,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [],
@@ -2001,7 +2001,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103307": {
         "id": 103307,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [],
@@ -2010,7 +2010,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103308": {
         "id": 103308,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [],
@@ -2021,7 +2021,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103309": {
         "id": 103309,
         "HEOCPOGJGNA": 10000033,
         "POCFDIDAKHG": [
@@ -2030,7 +2030,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103401": {
         "id": 103401,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [
@@ -2041,7 +2041,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103402": {
         "id": 103402,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [],
@@ -2052,7 +2052,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103403": {
         "id": 103403,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [
@@ -2063,7 +2063,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103404": {
         "id": 103404,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [
@@ -2073,7 +2073,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103405": {
         "id": 103405,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [
@@ -2082,7 +2082,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103406": {
         "id": 103406,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [],
@@ -2091,7 +2091,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103407": {
         "id": 103407,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [],
@@ -2100,7 +2100,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103408": {
         "id": 103408,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [],
@@ -2111,7 +2111,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103409": {
         "id": 103409,
         "HEOCPOGJGNA": 10000034,
         "POCFDIDAKHG": [
@@ -2120,7 +2120,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103501": {
         "id": 103501,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [
@@ -2132,7 +2132,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103502": {
         "id": 103502,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [],
@@ -2143,7 +2143,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103503": {
         "id": 103503,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [
@@ -2152,7 +2152,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103504": {
         "id": 103504,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [
@@ -2161,7 +2161,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103505": {
         "id": 103505,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [
@@ -2170,7 +2170,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103506": {
         "id": 103506,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [],
@@ -2179,7 +2179,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103507": {
         "id": 103507,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [],
@@ -2188,7 +2188,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103508": {
         "id": 103508,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [],
@@ -2199,7 +2199,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103509": {
         "id": 103509,
         "HEOCPOGJGNA": 10000035,
         "POCFDIDAKHG": [
@@ -2208,7 +2208,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103601": {
         "id": 103601,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [
@@ -2219,7 +2219,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103602": {
         "id": 103602,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [],
@@ -2230,7 +2230,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103603": {
         "id": 103603,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [
@@ -2241,7 +2241,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103604": {
         "id": 103604,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [
@@ -2250,7 +2250,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103605": {
         "id": 103605,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [
@@ -2259,7 +2259,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103606": {
         "id": 103606,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [],
@@ -2268,7 +2268,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103607": {
         "id": 103607,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [],
@@ -2277,7 +2277,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103608": {
         "id": 103608,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [],
@@ -2288,7 +2288,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103609": {
         "id": 103609,
         "HEOCPOGJGNA": 10000036,
         "POCFDIDAKHG": [
@@ -2297,7 +2297,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103701": {
         "id": 103701,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [
@@ -2310,7 +2310,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103702": {
         "id": 103702,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [],
@@ -2321,7 +2321,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103703": {
         "id": 103703,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [
@@ -2330,7 +2330,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103704": {
         "id": 103704,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [
@@ -2340,7 +2340,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103705": {
         "id": 103705,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [
@@ -2349,7 +2349,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103706": {
         "id": 103706,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [],
@@ -2358,7 +2358,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103707": {
         "id": 103707,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [],
@@ -2367,7 +2367,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103708": {
         "id": 103708,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [],
@@ -2378,7 +2378,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103709": {
         "id": 103709,
         "HEOCPOGJGNA": 10000037,
         "POCFDIDAKHG": [
@@ -2387,7 +2387,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103801": {
         "id": 103801,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [
@@ -2399,7 +2399,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103802": {
         "id": 103802,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [],
@@ -2410,7 +2410,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103803": {
         "id": 103803,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [
@@ -2419,7 +2419,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103804": {
         "id": 103804,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [
@@ -2432,7 +2432,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103805": {
         "id": 103805,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [
@@ -2441,7 +2441,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103806": {
         "id": 103806,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [],
@@ -2450,7 +2450,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103807": {
         "id": 103807,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [],
@@ -2459,7 +2459,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103808": {
         "id": 103808,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [],
@@ -2470,7 +2470,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103809": {
         "id": 103809,
         "HEOCPOGJGNA": 10000038,
         "POCFDIDAKHG": [
@@ -2479,7 +2479,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103901": {
         "id": 103901,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [
@@ -2491,7 +2491,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103902": {
         "id": 103902,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [],
@@ -2502,7 +2502,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "103903": {
         "id": 103903,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [
@@ -2511,7 +2511,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103904": {
         "id": 103904,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [
@@ -2523,7 +2523,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103905": {
         "id": 103905,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [
@@ -2532,7 +2532,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "103906": {
         "id": 103906,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [],
@@ -2541,7 +2541,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "103907": {
         "id": 103907,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [],
@@ -2550,7 +2550,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "103908": {
         "id": 103908,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [],
@@ -2561,7 +2561,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "103909": {
         "id": 103909,
         "HEOCPOGJGNA": 10000039,
         "POCFDIDAKHG": [
@@ -2570,7 +2570,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104101": {
         "id": 104101,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [
@@ -2583,7 +2583,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104102": {
         "id": 104102,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [],
@@ -2594,7 +2594,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104103": {
         "id": 104103,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [
@@ -2604,7 +2604,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104104": {
         "id": 104104,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [
@@ -2618,7 +2618,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104105": {
         "id": 104105,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [
@@ -2627,7 +2627,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104106": {
         "id": 104106,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [],
@@ -2636,7 +2636,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104107": {
         "id": 104107,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [],
@@ -2645,7 +2645,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104108": {
         "id": 104108,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [
@@ -2659,7 +2659,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104109": {
         "id": 104109,
         "HEOCPOGJGNA": 10000041,
         "POCFDIDAKHG": [
@@ -2668,7 +2668,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104201": {
         "id": 104201,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [
@@ -2680,7 +2680,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104202": {
         "id": 104202,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [],
@@ -2691,7 +2691,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104203": {
         "id": 104203,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [
@@ -2700,7 +2700,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104204": {
         "id": 104204,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [
@@ -2719,7 +2719,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104205": {
         "id": 104205,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [
@@ -2729,7 +2729,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104206": {
         "id": 104206,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [],
@@ -2738,7 +2738,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104207": {
         "id": 104207,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [],
@@ -2747,7 +2747,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104208": {
         "id": 104208,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [],
@@ -2758,7 +2758,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "104209": {
         "id": 104209,
         "HEOCPOGJGNA": 10000042,
         "POCFDIDAKHG": [
@@ -2767,7 +2767,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104301": {
         "id": 104301,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [
@@ -2778,7 +2778,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104302": {
         "id": 104302,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [],
@@ -2789,7 +2789,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104303": {
         "id": 104303,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [
@@ -2798,7 +2798,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104304": {
         "id": 104304,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [
@@ -2807,7 +2807,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104305": {
         "id": 104305,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [
@@ -2816,7 +2816,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104306": {
         "id": 104306,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [],
@@ -2825,7 +2825,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104307": {
         "id": 104307,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [],
@@ -2834,7 +2834,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104308": {
         "id": 104308,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [],
@@ -2845,7 +2845,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "104309": {
         "id": 104309,
         "HEOCPOGJGNA": 10000043,
         "POCFDIDAKHG": [
@@ -2854,7 +2854,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104401": {
         "id": 104401,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [
@@ -2865,7 +2865,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104402": {
         "id": 104402,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [],
@@ -2876,7 +2876,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104403": {
         "id": 104403,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [
@@ -2887,7 +2887,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104404": {
         "id": 104404,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [
@@ -2896,7 +2896,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104405": {
         "id": 104405,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [
@@ -2905,7 +2905,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104406": {
         "id": 104406,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [],
@@ -2914,7 +2914,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104407": {
         "id": 104407,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [],
@@ -2923,7 +2923,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104408": {
         "id": 104408,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [],
@@ -2934,7 +2934,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "104409": {
         "id": 104409,
         "HEOCPOGJGNA": 10000044,
         "POCFDIDAKHG": [
@@ -2943,7 +2943,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104501": {
         "id": 104501,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [
@@ -2955,7 +2955,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104502": {
         "id": 104502,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [],
@@ -2966,7 +2966,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104503": {
         "id": 104503,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [
@@ -2976,7 +2976,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104504": {
         "id": 104504,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [
@@ -2987,7 +2987,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104505": {
         "id": 104505,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [
@@ -2997,7 +2997,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104506": {
         "id": 104506,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [],
@@ -3006,7 +3006,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104507": {
         "id": 104507,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [],
@@ -3015,7 +3015,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104508": {
         "id": 104508,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [],
@@ -3026,7 +3026,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "104509": {
         "id": 104509,
         "HEOCPOGJGNA": 10000045,
         "POCFDIDAKHG": [
@@ -3035,7 +3035,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104601": {
         "id": 104601,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [
@@ -3048,7 +3048,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104602": {
         "id": 104602,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [],
@@ -3059,7 +3059,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104603": {
         "id": 104603,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [
@@ -3071,7 +3071,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104604": {
         "id": 104604,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [
@@ -3080,7 +3080,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104605": {
         "id": 104605,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [
@@ -3089,7 +3089,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104606": {
         "id": 104606,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [],
@@ -3098,7 +3098,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104607": {
         "id": 104607,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [],
@@ -3107,7 +3107,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104608": {
         "id": 104608,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [],
@@ -3118,7 +3118,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "104609": {
         "id": 104609,
         "HEOCPOGJGNA": 10000046,
         "POCFDIDAKHG": [
@@ -3127,7 +3127,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104701": {
         "id": 104701,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [
@@ -3139,7 +3139,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104702": {
         "id": 104702,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [],
@@ -3150,7 +3150,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104703": {
         "id": 104703,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [
@@ -3159,7 +3159,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104704": {
         "id": 104704,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [
@@ -3172,7 +3172,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104705": {
         "id": 104705,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [
@@ -3181,7 +3181,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104706": {
         "id": 104706,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [],
@@ -3190,7 +3190,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104707": {
         "id": 104707,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [],
@@ -3199,7 +3199,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104708": {
         "id": 104708,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [],
@@ -3210,7 +3210,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "104709": {
         "id": 104709,
         "HEOCPOGJGNA": 10000047,
         "POCFDIDAKHG": [
@@ -3219,7 +3219,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104801": {
         "id": 104801,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [
@@ -3229,7 +3229,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104802": {
         "id": 104802,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [],
@@ -3240,7 +3240,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104803": {
         "id": 104803,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [
@@ -3250,7 +3250,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104804": {
         "id": 104804,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [
@@ -3260,7 +3260,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104805": {
         "id": 104805,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [
@@ -3270,7 +3270,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104806": {
         "id": 104806,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [],
@@ -3279,7 +3279,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104807": {
         "id": 104807,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [],
@@ -3288,7 +3288,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104808": {
         "id": 104808,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [],
@@ -3299,7 +3299,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "104809": {
         "id": 104809,
         "HEOCPOGJGNA": 10000048,
         "POCFDIDAKHG": [
@@ -3308,7 +3308,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104901": {
         "id": 104901,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [
@@ -3320,7 +3320,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104902": {
         "id": 104902,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [],
@@ -3331,7 +3331,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "104903": {
         "id": 104903,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [
@@ -3340,7 +3340,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104904": {
         "id": 104904,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [
@@ -3349,7 +3349,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104905": {
         "id": 104905,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [
@@ -3360,7 +3360,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "104906": {
         "id": 104906,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [],
@@ -3369,7 +3369,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "104907": {
         "id": 104907,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [],
@@ -3378,7 +3378,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "104908": {
         "id": 104908,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [],
@@ -3389,7 +3389,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "104909": {
         "id": 104909,
         "HEOCPOGJGNA": 10000049,
         "POCFDIDAKHG": [
@@ -3398,7 +3398,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105001": {
         "id": 105001,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [
@@ -3409,7 +3409,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105002": {
         "id": 105002,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [],
@@ -3420,7 +3420,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105003": {
         "id": 105003,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [
@@ -3430,7 +3430,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105004": {
         "id": 105004,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [
@@ -3439,7 +3439,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105005": {
         "id": 105005,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [
@@ -3448,7 +3448,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105006": {
         "id": 105006,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [],
@@ -3457,7 +3457,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105007": {
         "id": 105007,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [],
@@ -3466,7 +3466,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105008": {
         "id": 105008,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [],
@@ -3477,7 +3477,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105009": {
         "id": 105009,
         "HEOCPOGJGNA": 10000050,
         "POCFDIDAKHG": [
@@ -3486,7 +3486,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105101": {
         "id": 105101,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [
@@ -3498,7 +3498,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105102": {
         "id": 105102,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [],
@@ -3509,7 +3509,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105103": {
         "id": 105103,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [
@@ -3520,7 +3520,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105104": {
         "id": 105104,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [
@@ -3532,7 +3532,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105105": {
         "id": 105105,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [
@@ -3541,7 +3541,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105106": {
         "id": 105106,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [],
@@ -3550,7 +3550,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105107": {
         "id": 105107,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [],
@@ -3559,7 +3559,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105108": {
         "id": 105108,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [],
@@ -3570,7 +3570,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105109": {
         "id": 105109,
         "HEOCPOGJGNA": 10000051,
         "POCFDIDAKHG": [
@@ -3579,7 +3579,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105201": {
         "id": 105201,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [
@@ -3596,7 +3596,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105202": {
         "id": 105202,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [],
@@ -3607,7 +3607,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105203": {
         "id": 105203,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [
@@ -3618,7 +3618,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105204": {
         "id": 105204,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [
@@ -3627,7 +3627,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105205": {
         "id": 105205,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [
@@ -3636,7 +3636,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105206": {
         "id": 105206,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [],
@@ -3645,7 +3645,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105207": {
         "id": 105207,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [],
@@ -3654,7 +3654,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105208": {
         "id": 105208,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [],
@@ -3665,7 +3665,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105209": {
         "id": 105209,
         "HEOCPOGJGNA": 10000052,
         "POCFDIDAKHG": [
@@ -3674,7 +3674,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105301": {
         "id": 105301,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [
@@ -3685,7 +3685,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105302": {
         "id": 105302,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [],
@@ -3696,7 +3696,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105303": {
         "id": 105303,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [
@@ -3707,7 +3707,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105304": {
         "id": 105304,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [
@@ -3722,7 +3722,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105305": {
         "id": 105305,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [
@@ -3731,7 +3731,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105306": {
         "id": 105306,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [],
@@ -3740,7 +3740,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105307": {
         "id": 105307,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [],
@@ -3749,7 +3749,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105308": {
         "id": 105308,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [],
@@ -3760,7 +3760,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105309": {
         "id": 105309,
         "HEOCPOGJGNA": 10000053,
         "POCFDIDAKHG": [
@@ -3769,7 +3769,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105401": {
         "id": 105401,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [
@@ -3779,7 +3779,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105402": {
         "id": 105402,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [],
@@ -3790,7 +3790,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105403": {
         "id": 105403,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [
@@ -3800,7 +3800,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105404": {
         "id": 105404,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [
@@ -3809,7 +3809,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105405": {
         "id": 105405,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [
@@ -3818,7 +3818,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105406": {
         "id": 105406,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [],
@@ -3827,7 +3827,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105407": {
         "id": 105407,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [],
@@ -3836,7 +3836,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105408": {
         "id": 105408,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [],
@@ -3847,7 +3847,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105409": {
         "id": 105409,
         "HEOCPOGJGNA": 10000054,
         "POCFDIDAKHG": [
@@ -3856,7 +3856,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105501": {
         "id": 105501,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [
@@ -3867,7 +3867,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105502": {
         "id": 105502,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [],
@@ -3878,7 +3878,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105503": {
         "id": 105503,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [
@@ -3887,7 +3887,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105504": {
         "id": 105504,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [
@@ -3900,7 +3900,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105505": {
         "id": 105505,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [
@@ -3910,7 +3910,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105506": {
         "id": 105506,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [],
@@ -3919,7 +3919,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105507": {
         "id": 105507,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [],
@@ -3928,7 +3928,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105508": {
         "id": 105508,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [],
@@ -3939,7 +3939,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105509": {
         "id": 105509,
         "HEOCPOGJGNA": 10000055,
         "POCFDIDAKHG": [
@@ -3948,7 +3948,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105601": {
         "id": 105601,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [
@@ -3960,7 +3960,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105602": {
         "id": 105602,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [],
@@ -3971,7 +3971,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105603": {
         "id": 105603,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [
@@ -3980,7 +3980,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105604": {
         "id": 105604,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [
@@ -3990,7 +3990,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105605": {
         "id": 105605,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [
@@ -3999,7 +3999,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105606": {
         "id": 105606,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [],
@@ -4008,7 +4008,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105607": {
         "id": 105607,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [],
@@ -4017,7 +4017,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105608": {
         "id": 105608,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [],
@@ -4028,7 +4028,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105609": {
         "id": 105609,
         "HEOCPOGJGNA": 10000056,
         "POCFDIDAKHG": [
@@ -4037,7 +4037,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105701": {
         "id": 105701,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [
@@ -4048,7 +4048,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105702": {
         "id": 105702,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [],
@@ -4059,7 +4059,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105703": {
         "id": 105703,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [
@@ -4072,7 +4072,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105704": {
         "id": 105704,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [
@@ -4084,7 +4084,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105705": {
         "id": 105705,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [
@@ -4093,7 +4093,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105706": {
         "id": 105706,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [],
@@ -4102,7 +4102,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105707": {
         "id": 105707,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [],
@@ -4111,7 +4111,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105708": {
         "id": 105708,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [],
@@ -4122,7 +4122,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105709": {
         "id": 105709,
         "HEOCPOGJGNA": 10000057,
         "POCFDIDAKHG": [
@@ -4131,7 +4131,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105801": {
         "id": 105801,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [
@@ -4141,7 +4141,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105802": {
         "id": 105802,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [],
@@ -4152,7 +4152,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105803": {
         "id": 105803,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [
@@ -4162,7 +4162,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105804": {
         "id": 105804,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [
@@ -4173,7 +4173,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105805": {
         "id": 105805,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [
@@ -4182,7 +4182,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105806": {
         "id": 105806,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [],
@@ -4191,7 +4191,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105807": {
         "id": 105807,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [],
@@ -4200,7 +4200,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105808": {
         "id": 105808,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [],
@@ -4211,7 +4211,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105809": {
         "id": 105809,
         "HEOCPOGJGNA": 10000058,
         "POCFDIDAKHG": [
@@ -4220,7 +4220,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105901": {
         "id": 105901,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [
@@ -4232,7 +4232,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105902": {
         "id": 105902,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [],
@@ -4243,7 +4243,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "105903": {
         "id": 105903,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [
@@ -4252,7 +4252,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105904": {
         "id": 105904,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [
@@ -4266,7 +4266,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105905": {
         "id": 105905,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [
@@ -4276,7 +4276,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "105906": {
         "id": 105906,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [],
@@ -4285,7 +4285,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "105907": {
         "id": 105907,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [],
@@ -4294,7 +4294,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "105908": {
         "id": 105908,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [],
@@ -4305,7 +4305,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "105909": {
         "id": 105909,
         "HEOCPOGJGNA": 10000059,
         "POCFDIDAKHG": [
@@ -4314,7 +4314,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106001": {
         "id": 106001,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [
@@ -4325,7 +4325,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106002": {
         "id": 106002,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [],
@@ -4336,7 +4336,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106003": {
         "id": 106003,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [
@@ -4345,7 +4345,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106004": {
         "id": 106004,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [
@@ -4358,7 +4358,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106005": {
         "id": 106005,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [
@@ -4367,7 +4367,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106006": {
         "id": 106006,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [],
@@ -4376,7 +4376,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106007": {
         "id": 106007,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [],
@@ -4385,7 +4385,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106008": {
         "id": 106008,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [],
@@ -4396,7 +4396,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106009": {
         "id": 106009,
         "HEOCPOGJGNA": 10000060,
         "POCFDIDAKHG": [
@@ -4405,7 +4405,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106201": {
         "id": 106201,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [
@@ -4416,7 +4416,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106202": {
         "id": 106202,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [],
@@ -4427,7 +4427,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106203": {
         "id": 106203,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [
@@ -4436,7 +4436,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106204": {
         "id": 106204,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [
@@ -4446,7 +4446,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106205": {
         "id": 106205,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [
@@ -4455,7 +4455,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106206": {
         "id": 106206,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [],
@@ -4464,7 +4464,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106207": {
         "id": 106207,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [],
@@ -4473,7 +4473,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106208": {
         "id": 106208,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [],
@@ -4484,7 +4484,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106209": {
         "id": 106209,
         "HEOCPOGJGNA": 10000062,
         "POCFDIDAKHG": [
@@ -4493,7 +4493,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106301": {
         "id": 106301,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [
@@ -4505,7 +4505,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106302": {
         "id": 106302,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [],
@@ -4516,7 +4516,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106303": {
         "id": 106303,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [
@@ -4526,7 +4526,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106304": {
         "id": 106304,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [
@@ -4538,7 +4538,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106305": {
         "id": 106305,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [
@@ -4547,7 +4547,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106306": {
         "id": 106306,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [],
@@ -4556,7 +4556,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106307": {
         "id": 106307,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [],
@@ -4565,7 +4565,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106308": {
         "id": 106308,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [],
@@ -4576,7 +4576,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106309": {
         "id": 106309,
         "HEOCPOGJGNA": 10000063,
         "POCFDIDAKHG": [
@@ -4585,7 +4585,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106401": {
         "id": 106401,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [
@@ -4597,7 +4597,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106402": {
         "id": 106402,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [],
@@ -4608,7 +4608,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106403": {
         "id": 106403,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [
@@ -4618,7 +4618,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106404": {
         "id": 106404,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [
@@ -4631,7 +4631,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106405": {
         "id": 106405,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [
@@ -4640,7 +4640,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106406": {
         "id": 106406,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [],
@@ -4649,7 +4649,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106407": {
         "id": 106407,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [],
@@ -4658,7 +4658,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106408": {
         "id": 106408,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [],
@@ -4669,7 +4669,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106409": {
         "id": 106409,
         "HEOCPOGJGNA": 10000064,
         "POCFDIDAKHG": [
@@ -4678,7 +4678,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106501": {
         "id": 106501,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [
@@ -4689,7 +4689,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106502": {
         "id": 106502,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [],
@@ -4700,7 +4700,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106503": {
         "id": 106503,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [
@@ -4709,7 +4709,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106504": {
         "id": 106504,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [
@@ -4718,7 +4718,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106505": {
         "id": 106505,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [
@@ -4727,7 +4727,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106506": {
         "id": 106506,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [],
@@ -4736,7 +4736,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106507": {
         "id": 106507,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [],
@@ -4745,7 +4745,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106508": {
         "id": 106508,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [],
@@ -4756,7 +4756,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106509": {
         "id": 106509,
         "HEOCPOGJGNA": 10000065,
         "POCFDIDAKHG": [
@@ -4765,7 +4765,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106601": {
         "id": 106601,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [
@@ -4780,7 +4780,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106602": {
         "id": 106602,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [],
@@ -4791,7 +4791,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106603": {
         "id": 106603,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [
@@ -4800,7 +4800,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106604": {
         "id": 106604,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [
@@ -4813,7 +4813,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106605": {
         "id": 106605,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [
@@ -4822,7 +4822,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106606": {
         "id": 106606,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [],
@@ -4831,7 +4831,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106607": {
         "id": 106607,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [],
@@ -4840,7 +4840,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106608": {
         "id": 106608,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [],
@@ -4851,7 +4851,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106609": {
         "id": 106609,
         "HEOCPOGJGNA": 10000066,
         "POCFDIDAKHG": [
@@ -4860,7 +4860,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106701": {
         "id": 106701,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [
@@ -4871,7 +4871,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106702": {
         "id": 106702,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [],
@@ -4882,7 +4882,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106703": {
         "id": 106703,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [
@@ -4891,7 +4891,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106704": {
         "id": 106704,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [
@@ -4900,7 +4900,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106705": {
         "id": 106705,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [
@@ -4909,7 +4909,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106706": {
         "id": 106706,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [],
@@ -4918,7 +4918,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106707": {
         "id": 106707,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [],
@@ -4927,7 +4927,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106708": {
         "id": 106708,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [],
@@ -4938,7 +4938,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106709": {
         "id": 106709,
         "HEOCPOGJGNA": 10000067,
         "POCFDIDAKHG": [
@@ -4947,7 +4947,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106801": {
         "id": 106801,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [
@@ -4958,7 +4958,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106802": {
         "id": 106802,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [],
@@ -4969,7 +4969,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106803": {
         "id": 106803,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [
@@ -4980,7 +4980,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106804": {
         "id": 106804,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [
@@ -4989,7 +4989,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106805": {
         "id": 106805,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [
@@ -4998,7 +4998,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106806": {
         "id": 106806,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [],
@@ -5007,7 +5007,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106807": {
         "id": 106807,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [],
@@ -5016,7 +5016,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106808": {
         "id": 106808,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [],
@@ -5027,7 +5027,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106809": {
         "id": 106809,
         "HEOCPOGJGNA": 10000068,
         "POCFDIDAKHG": [
@@ -5036,7 +5036,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106901": {
         "id": 106901,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [
@@ -5047,7 +5047,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106902": {
         "id": 106902,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [],
@@ -5058,7 +5058,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "106903": {
         "id": 106903,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [
@@ -5067,7 +5067,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106904": {
         "id": 106904,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [
@@ -5076,7 +5076,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106905": {
         "id": 106905,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [
@@ -5085,7 +5085,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "106906": {
         "id": 106906,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [],
@@ -5094,7 +5094,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "106907": {
         "id": 106907,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [],
@@ -5103,7 +5103,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "106908": {
         "id": 106908,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [],
@@ -5114,7 +5114,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "106909": {
         "id": 106909,
         "HEOCPOGJGNA": 10000069,
         "POCFDIDAKHG": [
@@ -5123,7 +5123,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107001": {
         "id": 107001,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [
@@ -5133,7 +5133,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107002": {
         "id": 107002,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [],
@@ -5144,7 +5144,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "107003": {
         "id": 107003,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [
@@ -5153,7 +5153,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107004": {
         "id": 107004,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [
@@ -5171,7 +5171,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107005": {
         "id": 107005,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [
@@ -5180,7 +5180,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107006": {
         "id": 107006,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [],
@@ -5189,7 +5189,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "107007": {
         "id": 107007,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [],
@@ -5198,7 +5198,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "107008": {
         "id": 107008,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [],
@@ -5209,7 +5209,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "107009": {
         "id": 107009,
         "HEOCPOGJGNA": 10000070,
         "POCFDIDAKHG": [
@@ -5218,7 +5218,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107101": {
         "id": 107101,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [
@@ -5234,7 +5234,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107102": {
         "id": 107102,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [],
@@ -5245,7 +5245,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "107103": {
         "id": 107103,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [
@@ -5258,7 +5258,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107104": {
         "id": 107104,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [
@@ -5269,7 +5269,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107105": {
         "id": 107105,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [
@@ -5278,7 +5278,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107106": {
         "id": 107106,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [],
@@ -5287,7 +5287,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "107107": {
         "id": 107107,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [],
@@ -5296,7 +5296,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "107108": {
         "id": 107108,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [],
@@ -5307,7 +5307,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "107109": {
         "id": 107109,
         "HEOCPOGJGNA": 10000071,
         "POCFDIDAKHG": [
@@ -5316,7 +5316,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107201": {
         "id": 107201,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [
@@ -5327,7 +5327,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107202": {
         "id": 107202,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [],
@@ -5338,7 +5338,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "107203": {
         "id": 107203,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [
@@ -5348,7 +5348,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107204": {
         "id": 107204,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [
@@ -5363,7 +5363,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107205": {
         "id": 107205,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [
@@ -5372,7 +5372,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107206": {
         "id": 107206,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [],
@@ -5381,7 +5381,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "107207": {
         "id": 107207,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [],
@@ -5390,7 +5390,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "107208": {
         "id": 107208,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [],
@@ -5401,7 +5401,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "107209": {
         "id": 107209,
         "HEOCPOGJGNA": 10000072,
         "POCFDIDAKHG": [
@@ -5410,7 +5410,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107301": {
         "id": 107301,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [
@@ -5421,7 +5421,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107302": {
         "id": 107302,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [],
@@ -5432,7 +5432,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "107303": {
         "id": 107303,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [
@@ -5442,7 +5442,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107304": {
         "id": 107304,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [
@@ -5456,7 +5456,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107305": {
         "id": 107305,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [
@@ -5465,7 +5465,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107306": {
         "id": 107306,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [],
@@ -5474,7 +5474,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "107307": {
         "id": 107307,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [],
@@ -5483,7 +5483,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "107308": {
         "id": 107308,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [],
@@ -5494,7 +5494,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "107309": {
         "id": 107309,
         "HEOCPOGJGNA": 10000073,
         "POCFDIDAKHG": [
@@ -5503,7 +5503,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107401": {
         "id": 107401,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [
@@ -5514,7 +5514,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107402": {
         "id": 107402,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [],
@@ -5525,7 +5525,7 @@
             "AVATAR_SWIM_JUMP_TO_WATER"
         ]
     },
-    {
+    "107403": {
         "id": 107403,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [
@@ -5534,7 +5534,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107404": {
         "id": 107404,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [
@@ -5543,7 +5543,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107405": {
         "id": 107405,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [
@@ -5552,7 +5552,7 @@
         ],
         "HPGBEMBLCOA": []
     },
-    {
+    "107406": {
         "id": 107406,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [],
@@ -5561,7 +5561,7 @@
             "AVATAR_WALK_TO_IDLE"
         ]
     },
-    {
+    "107407": {
         "id": 107407,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [],
@@ -5570,7 +5570,7 @@
             "AVATAR_RUN_TO_IDLE"
         ]
     },
-    {
+    "107408": {
         "id": 107408,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [],
@@ -5581,7 +5581,7 @@
             "AVATAR_SPRINT_TO_RUN"
         ]
     },
-    {
+    "107409": {
         "id": 107409,
         "HEOCPOGJGNA": 10000074,
         "POCFDIDAKHG": [
@@ -5590,4 +5590,4 @@
         ],
         "HPGBEMBLCOA": []
     }
-]
+}

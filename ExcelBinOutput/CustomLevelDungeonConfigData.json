@@ -1,5 +1,5 @@
-[
-    {
+{
+    "2115": {
         "dungeonID": 2115,
         "order": 1,
         "jsonPath": "dungeon2115_customLevel_config.json",
@@ -33,7 +33,7 @@
             5003
         ]
     },
-    {
+    "2113": {
         "dungeonID": 2113,
         "order": 2,
         "jsonPath": "dungeon2113_customLevel_config.json",
@@ -67,7 +67,7 @@
             5003
         ]
     },
-    {
+    "2114": {
         "dungeonID": 2114,
         "order": 3,
         "jsonPath": "dungeon2114_customLevel_config.json",
@@ -101,7 +101,7 @@
             5003
         ]
     },
-    {
+    "2112": {
         "dungeonID": 2112,
         "order": 4,
         "jsonPath": "dungeon2112_customLevel_config.json",
@@ -135,7 +135,7 @@
             5003
         ]
     },
-    {
+    "2116": {
         "dungeonID": 2116,
         "order": 5,
         "jsonPath": "dungeon2116_customLevel_config.json",
@@ -169,7 +169,7 @@
             5003
         ]
     },
-    {
+    "2122": {
         "dungeonID": 2122,
         "order": 1,
         "jsonPath": "dungeon2122_customLevel_config.json",
@@ -199,7 +199,7 @@
             5003
         ]
     },
-    {
+    "2120": {
         "dungeonID": 2120,
         "order": 2,
         "jsonPath": "dungeon2120_customLevel_config.json",
@@ -229,7 +229,7 @@
             5003
         ]
     },
-    {
+    "2121": {
         "dungeonID": 2121,
         "order": 3,
         "jsonPath": "dungeon2121_customLevel_config.json",
@@ -259,7 +259,7 @@
             5003
         ]
     },
-    {
+    "2119": {
         "dungeonID": 2119,
         "order": 4,
         "jsonPath": "dungeon2119_customLevel_config.json",
@@ -289,7 +289,7 @@
             5003
         ]
     },
-    {
+    "2123": {
         "dungeonID": 2123,
         "order": 5,
         "jsonPath": "dungeon2123_customLevel_config.json",
@@ -323,4 +323,4 @@
             5003
         ]
     }
-]
+}

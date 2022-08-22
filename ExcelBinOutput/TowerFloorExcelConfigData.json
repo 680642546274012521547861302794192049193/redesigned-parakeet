@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "floorId": 1001,
         "floorIndex": 1,
         "levelGroupId": 1,
@@ -15,7 +15,7 @@
         "floorLevelConfigId": 1200,
         "bgImage": "UI_TowerPic_1"
     },
-    {
+    "1002": {
         "floorId": 1002,
         "floorIndex": 2,
         "levelGroupId": 2,
@@ -31,7 +31,7 @@
         "floorLevelConfigId": 1201,
         "bgImage": "UI_TowerPic_1"
     },
-    {
+    "1003": {
         "floorId": 1003,
         "floorIndex": 3,
         "levelGroupId": 3,
@@ -47,7 +47,7 @@
         "floorLevelConfigId": 1202,
         "bgImage": "UI_TowerPic_2"
     },
-    {
+    "1004": {
         "floorId": 1004,
         "floorIndex": 4,
         "levelGroupId": 4,
@@ -63,7 +63,7 @@
         "floorLevelConfigId": 1203,
         "bgImage": "UI_TowerPic_2"
     },
-    {
+    "1005": {
         "floorId": 1005,
         "floorIndex": 5,
         "levelGroupId": 5,
@@ -79,7 +79,7 @@
         "floorLevelConfigId": 1306,
         "bgImage": "UI_TowerPic_2"
     },
-    {
+    "1006": {
         "floorId": 1006,
         "floorIndex": 6,
         "levelGroupId": 6,
@@ -95,7 +95,7 @@
         "floorLevelConfigId": 1307,
         "bgImage": "UI_TowerPic_3"
     },
-    {
+    "1007": {
         "floorId": 1007,
         "floorIndex": 7,
         "levelGroupId": 7,
@@ -111,7 +111,7 @@
         "floorLevelConfigId": 1308,
         "bgImage": "UI_TowerPic_3"
     },
-    {
+    "1008": {
         "floorId": 1008,
         "floorIndex": 8,
         "levelGroupId": 8,
@@ -127,7 +127,7 @@
         "floorLevelConfigId": 1309,
         "bgImage": "UI_TowerPic_3"
     },
-    {
+    "1009": {
         "floorId": 1009,
         "floorIndex": 9,
         "levelGroupId": 9,
@@ -143,7 +143,7 @@
         "floorLevelConfigId": 1219,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1010": {
         "floorId": 1010,
         "floorIndex": 10,
         "levelGroupId": 10,
@@ -159,7 +159,7 @@
         "floorLevelConfigId": 1220,
         "bgImage": "UI_TowerPic_8"
     },
-    {
+    "1011": {
         "floorId": 1011,
         "floorIndex": 11,
         "levelGroupId": 11,
@@ -175,7 +175,7 @@
         "floorLevelConfigId": 1221,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1012": {
         "floorId": 1012,
         "floorIndex": 12,
         "levelGroupId": 12,
@@ -191,7 +191,7 @@
         "floorLevelConfigId": 1222,
         "bgImage": "UI_TowerPic_9"
     },
-    {
+    "1013": {
         "floorId": 1013,
         "floorIndex": 9,
         "levelGroupId": 13,
@@ -207,7 +207,7 @@
         "floorLevelConfigId": 1313,
         "bgImage": "UI_TowerPic_9"
     },
-    {
+    "1014": {
         "floorId": 1014,
         "floorIndex": 10,
         "levelGroupId": 14,
@@ -223,7 +223,7 @@
         "floorLevelConfigId": 1314,
         "bgImage": "UI_TowerPic_9"
     },
-    {
+    "1015": {
         "floorId": 1015,
         "floorIndex": 11,
         "levelGroupId": 15,
@@ -239,7 +239,7 @@
         "floorLevelConfigId": 1316,
         "bgImage": "UI_TowerPic_10"
     },
-    {
+    "1016": {
         "floorId": 1016,
         "floorIndex": 12,
         "levelGroupId": 16,
@@ -255,7 +255,7 @@
         "floorLevelConfigId": 1315,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1017": {
         "floorId": 1017,
         "floorIndex": 12,
         "levelGroupId": 17,
@@ -271,7 +271,7 @@
         "floorLevelConfigId": 1363,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1018": {
         "floorId": 1018,
         "floorIndex": 11,
         "levelGroupId": 18,
@@ -287,7 +287,7 @@
         "floorLevelConfigId": 1380,
         "bgImage": "UI_TowerPic_11"
     },
-    {
+    "1019": {
         "floorId": 1019,
         "floorIndex": 12,
         "levelGroupId": 19,
@@ -303,7 +303,7 @@
         "floorLevelConfigId": 1381,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1020": {
         "floorId": 1020,
         "floorIndex": 9,
         "levelGroupId": 20,
@@ -319,7 +319,7 @@
         "floorLevelConfigId": 1313,
         "bgImage": "UI_TowerPic_9"
     },
-    {
+    "1021": {
         "floorId": 1021,
         "floorIndex": 10,
         "levelGroupId": 21,
@@ -335,7 +335,7 @@
         "floorLevelConfigId": 1314,
         "bgImage": "UI_TowerPic_9"
     },
-    {
+    "1022": {
         "floorId": 1022,
         "floorIndex": 11,
         "levelGroupId": 22,
@@ -351,7 +351,7 @@
         "floorLevelConfigId": 1385,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1023": {
         "floorId": 1023,
         "floorIndex": 12,
         "levelGroupId": 23,
@@ -367,7 +367,7 @@
         "floorLevelConfigId": 1381,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1024": {
         "floorId": 1024,
         "floorIndex": 9,
         "levelGroupId": 24,
@@ -383,7 +383,7 @@
         "floorLevelConfigId": 1600,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1025": {
         "floorId": 1025,
         "floorIndex": 10,
         "levelGroupId": 25,
@@ -399,7 +399,7 @@
         "floorLevelConfigId": 1601,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1026": {
         "floorId": 1026,
         "floorIndex": 11,
         "levelGroupId": 26,
@@ -415,7 +415,7 @@
         "floorLevelConfigId": 1602,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1027": {
         "floorId": 1027,
         "floorIndex": 12,
         "levelGroupId": 27,
@@ -431,7 +431,7 @@
         "floorLevelConfigId": 1603,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1028": {
         "floorId": 1028,
         "floorIndex": 11,
         "levelGroupId": 28,
@@ -447,7 +447,7 @@
         "floorLevelConfigId": 1608,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1029": {
         "floorId": 1029,
         "floorIndex": 12,
         "levelGroupId": 29,
@@ -463,7 +463,7 @@
         "floorLevelConfigId": 1618,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1030": {
         "floorId": 1030,
         "floorIndex": 11,
         "levelGroupId": 30,
@@ -479,7 +479,7 @@
         "floorLevelConfigId": 1627,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1031": {
         "floorId": 1031,
         "floorIndex": 12,
         "levelGroupId": 31,
@@ -495,7 +495,7 @@
         "floorLevelConfigId": 1628,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1032": {
         "floorId": 1032,
         "floorIndex": 11,
         "levelGroupId": 32,
@@ -511,7 +511,7 @@
         "floorLevelConfigId": 1634,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1033": {
         "floorId": 1033,
         "floorIndex": 12,
         "levelGroupId": 33,
@@ -527,7 +527,7 @@
         "floorLevelConfigId": 1635,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1034": {
         "floorId": 1034,
         "floorIndex": 11,
         "levelGroupId": 34,
@@ -543,7 +543,7 @@
         "floorLevelConfigId": 1678,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1035": {
         "floorId": 1035,
         "floorIndex": 12,
         "levelGroupId": 35,
@@ -559,7 +559,7 @@
         "floorLevelConfigId": 1679,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1036": {
         "floorId": 1036,
         "floorIndex": 11,
         "levelGroupId": 36,
@@ -575,7 +575,7 @@
         "floorLevelConfigId": 1686,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1037": {
         "floorId": 1037,
         "floorIndex": 12,
         "levelGroupId": 37,
@@ -591,7 +591,7 @@
         "floorLevelConfigId": 1687,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1038": {
         "floorId": 1038,
         "floorIndex": 11,
         "levelGroupId": 38,
@@ -607,7 +607,7 @@
         "floorLevelConfigId": 1698,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1039": {
         "floorId": 1039,
         "floorIndex": 12,
         "levelGroupId": 39,
@@ -623,7 +623,7 @@
         "floorLevelConfigId": 1699,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1040": {
         "floorId": 1040,
         "floorIndex": 11,
         "levelGroupId": 40,
@@ -639,7 +639,7 @@
         "floorLevelConfigId": 1705,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1041": {
         "floorId": 1041,
         "floorIndex": 12,
         "levelGroupId": 41,
@@ -655,7 +655,7 @@
         "floorLevelConfigId": 1706,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1042": {
         "floorId": 1042,
         "floorIndex": 11,
         "levelGroupId": 42,
@@ -671,7 +671,7 @@
         "floorLevelConfigId": 1711,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1043": {
         "floorId": 1043,
         "floorIndex": 12,
         "levelGroupId": 43,
@@ -687,7 +687,7 @@
         "floorLevelConfigId": 1712,
         "bgImage": "UI_TowerPic_5"
     },
-    {
+    "1044": {
         "floorId": 1044,
         "floorIndex": 9,
         "levelGroupId": 44,
@@ -703,7 +703,7 @@
         "floorLevelConfigId": 1714,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1045": {
         "floorId": 1045,
         "floorIndex": 10,
         "levelGroupId": 45,
@@ -719,7 +719,7 @@
         "floorLevelConfigId": 1715,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1046": {
         "floorId": 1046,
         "floorIndex": 11,
         "levelGroupId": 46,
@@ -735,7 +735,7 @@
         "floorLevelConfigId": 1716,
         "bgImage": "UI_TowerPic_4"
     },
-    {
+    "1047": {
         "floorId": 1047,
         "floorIndex": 12,
         "levelGroupId": 47,
@@ -751,4 +751,4 @@
         "floorLevelConfigId": 1717,
         "bgImage": "UI_TowerPic_5"
     }
-]
+}

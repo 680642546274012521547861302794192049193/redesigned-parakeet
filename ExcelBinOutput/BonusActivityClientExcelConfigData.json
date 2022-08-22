@@ -1,5 +1,5 @@
-[
-    {
+{
+    "50001": {
         "id": 50001,
         "bonusActivityType": "BONUS_XIANGLING",
         "avatarConfigId": 10000023,
@@ -12,7 +12,7 @@
         "perfabPath": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter",
         "unlockTipsTextMapHash": 3225904765
     },
-    {
+    "50002": {
         "id": 50002,
         "bonusActivityType": "BONUS_BABALA",
         "avatarConfigId": 10000014,
@@ -25,4 +25,4 @@
         "perfabPath": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter_Barbara",
         "unlockTipsTextMapHash": 818002645
     }
-]
+}

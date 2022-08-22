@@ -1,5 +1,5 @@
-[
-    {
+{
+    "MICHIAE_MATSURI_RADAR_MARK_TYPE_CHEST": {
         "HNIAABMMFAE": "MICHIAE_MATSURI_RADAR_MARK_TYPE_CHEST",
         "HLCNPONAGLA": [
             70211152,
@@ -13,7 +13,7 @@
             70211022
         ]
     },
-    {
+    "MICHIAE_MATSURI_RADAR_MARK_TYPE_CHALLENGE": {
         "HNIAABMMFAE": "MICHIAE_MATSURI_RADAR_MARK_TYPE_CHALLENGE",
         "HLCNPONAGLA": [
             70330138,
@@ -27,4 +27,4 @@
             70350094
         ]
     }
-]
+}

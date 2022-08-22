@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "typeId": 1001,
         "priority": 1,
@@ -11,7 +11,7 @@
         "typeNameTextMapHash": 2026795815,
         "typeNameWithColorTextMapHash": 3247214795
     },
-    {
+    "2": {
         "id": 2,
         "typeId": 1004,
         "priority": 2,
@@ -23,7 +23,7 @@
         "typeNameTextMapHash": 2110382287,
         "typeNameWithColorTextMapHash": 3441537955
     },
-    {
+    "3": {
         "id": 3,
         "typeId": 1002,
         "priority": 3,
@@ -35,7 +35,7 @@
         "typeNameTextMapHash": 79498591,
         "typeNameWithColorTextMapHash": 3697564691
     },
-    {
+    "4": {
         "id": 4,
         "typeId": 1003,
         "priority": 4,
@@ -47,7 +47,7 @@
         "typeNameTextMapHash": 980400007,
         "typeNameWithColorTextMapHash": 2712695787
     },
-    {
+    "5": {
         "id": 5,
         "typeId": 1005,
         "priority": 5,
@@ -59,7 +59,7 @@
         "typeNameTextMapHash": 777142271,
         "typeNameWithColorTextMapHash": 3671974955
     },
-    {
+    "6": {
         "id": 6,
         "typeId": 1006,
         "priority": 6,
@@ -71,7 +71,7 @@
         "typeNameTextMapHash": 2795697519,
         "typeNameWithColorTextMapHash": 3615068699
     },
-    {
+    "7": {
         "id": 7,
         "typeId": 1007,
         "priority": 7,
@@ -83,4 +83,4 @@
         "typeNameTextMapHash": 1919111351,
         "typeNameWithColorTextMapHash": 1358466587
     }
-]
+}

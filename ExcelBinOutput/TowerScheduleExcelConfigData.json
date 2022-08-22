@@ -1,5 +1,5 @@
-[
-    {
+{
+    "52": {
         "scheduleId": 52,
         "entranceFloorId": [
             1001,
@@ -58,7 +58,7 @@
         "buffnameTextMapHash": 3191142583,
         "icon": "UI_TowerBlessing_47"
     },
-    {
+    "53": {
         "scheduleId": 53,
         "entranceFloorId": [
             1001,
@@ -117,7 +117,7 @@
         "buffnameTextMapHash": 2865497535,
         "icon": "UI_TowerBlessing_49"
     },
-    {
+    "54": {
         "scheduleId": 54,
         "entranceFloorId": [
             1001,
@@ -176,7 +176,7 @@
         "buffnameTextMapHash": 3941562903,
         "icon": "UI_TowerBlessing_48"
     },
-    {
+    "1": {
         "scheduleId": 1,
         "entranceFloorId": [
             1001,
@@ -235,7 +235,7 @@
         "buffnameTextMapHash": 2483837807,
         "icon": "UI_TowerBlessing_1"
     },
-    {
+    "2": {
         "scheduleId": 2,
         "entranceFloorId": [
             1001,
@@ -294,7 +294,7 @@
         "buffnameTextMapHash": 4104607615,
         "icon": "UI_TowerBlessing_1"
     },
-    {
+    "3": {
         "scheduleId": 3,
         "entranceFloorId": [
             1001,
@@ -353,7 +353,7 @@
         "buffnameTextMapHash": 3934571015,
         "icon": "UI_TowerBlessing_1"
     },
-    {
+    "4": {
         "scheduleId": 4,
         "entranceFloorId": [
             1001,
@@ -412,7 +412,7 @@
         "buffnameTextMapHash": 3767984887,
         "icon": "UI_TowerBlessing_1"
     },
-    {
+    "5": {
         "scheduleId": 5,
         "entranceFloorId": [
             1001,
@@ -471,7 +471,7 @@
         "buffnameTextMapHash": 1663768071,
         "icon": "UI_TowerBlessing_1"
     },
-    {
+    "6": {
         "scheduleId": 6,
         "entranceFloorId": [
             1001,
@@ -530,7 +530,7 @@
         "buffnameTextMapHash": 2744295383,
         "icon": "UI_TowerBlessing_1"
     },
-    {
+    "7": {
         "scheduleId": 7,
         "entranceFloorId": [
             1001,
@@ -589,7 +589,7 @@
         "buffnameTextMapHash": 1304554391,
         "icon": "UI_TowerBlessing_2"
     },
-    {
+    "8": {
         "scheduleId": 8,
         "entranceFloorId": [
             1001,
@@ -648,7 +648,7 @@
         "buffnameTextMapHash": 1948496735,
         "icon": "UI_TowerBlessing_2"
     },
-    {
+    "9": {
         "scheduleId": 9,
         "entranceFloorId": [
             1001,
@@ -707,7 +707,7 @@
         "buffnameTextMapHash": 2667635327,
         "icon": "UI_TowerBlessing_3"
     },
-    {
+    "10": {
         "scheduleId": 10,
         "entranceFloorId": [
             1001,
@@ -766,7 +766,7 @@
         "buffnameTextMapHash": 1307677487,
         "icon": "UI_TowerBlessing_5"
     },
-    {
+    "11": {
         "scheduleId": 11,
         "entranceFloorId": [
             1001,
@@ -825,7 +825,7 @@
         "buffnameTextMapHash": 298652839,
         "icon": "UI_TowerBlessing_6"
     },
-    {
+    "12": {
         "scheduleId": 12,
         "entranceFloorId": [
             1001,
@@ -884,7 +884,7 @@
         "buffnameTextMapHash": 1144171311,
         "icon": "UI_TowerBlessing_7"
     },
-    {
+    "13": {
         "scheduleId": 13,
         "entranceFloorId": [
             1001,
@@ -943,7 +943,7 @@
         "buffnameTextMapHash": 3750899287,
         "icon": "UI_TowerBlessing_8"
     },
-    {
+    "14": {
         "scheduleId": 14,
         "entranceFloorId": [
             1001,
@@ -1002,7 +1002,7 @@
         "buffnameTextMapHash": 876199503,
         "icon": "UI_TowerBlessing_9"
     },
-    {
+    "15": {
         "scheduleId": 15,
         "entranceFloorId": [
             1001,
@@ -1061,7 +1061,7 @@
         "buffnameTextMapHash": 2960906167,
         "icon": "UI_TowerBlessing_10"
     },
-    {
+    "16": {
         "scheduleId": 16,
         "entranceFloorId": [
             1001,
@@ -1120,7 +1120,7 @@
         "buffnameTextMapHash": 3167709383,
         "icon": "UI_TowerBlessing_11"
     },
-    {
+    "17": {
         "scheduleId": 17,
         "entranceFloorId": [
             1001,
@@ -1179,7 +1179,7 @@
         "buffnameTextMapHash": 3750552135,
         "icon": "UI_TowerBlessing_12"
     },
-    {
+    "18": {
         "scheduleId": 18,
         "entranceFloorId": [
             1001,
@@ -1238,7 +1238,7 @@
         "buffnameTextMapHash": 1465384935,
         "icon": "UI_TowerBlessing_13"
     },
-    {
+    "19": {
         "scheduleId": 19,
         "entranceFloorId": [
             1001,
@@ -1297,7 +1297,7 @@
         "buffnameTextMapHash": 2544420919,
         "icon": "UI_TowerBlessing_14"
     },
-    {
+    "20": {
         "scheduleId": 20,
         "entranceFloorId": [
             1001,
@@ -1356,7 +1356,7 @@
         "buffnameTextMapHash": 2366130095,
         "icon": "UI_TowerBlessing_15"
     },
-    {
+    "21": {
         "scheduleId": 21,
         "entranceFloorId": [
             1001,
@@ -1415,7 +1415,7 @@
         "buffnameTextMapHash": 2390794311,
         "icon": "UI_TowerBlessing_17"
     },
-    {
+    "22": {
         "scheduleId": 22,
         "entranceFloorId": [
             1001,
@@ -1474,7 +1474,7 @@
         "buffnameTextMapHash": 1791218063,
         "icon": "UI_TowerBlessing_18"
     },
-    {
+    "23": {
         "scheduleId": 23,
         "entranceFloorId": [
             1001,
@@ -1533,7 +1533,7 @@
         "buffnameTextMapHash": 3150799983,
         "icon": "UI_TowerBlessing_19"
     },
-    {
+    "24": {
         "scheduleId": 24,
         "entranceFloorId": [
             1001,
@@ -1592,7 +1592,7 @@
         "buffnameTextMapHash": 3984762959,
         "icon": "UI_TowerBlessing_20"
     },
-    {
+    "25": {
         "scheduleId": 25,
         "entranceFloorId": [
             1001,
@@ -1651,7 +1651,7 @@
         "buffnameTextMapHash": 4188956975,
         "icon": "UI_TowerBlessing_21"
     },
-    {
+    "26": {
         "scheduleId": 26,
         "entranceFloorId": [
             1001,
@@ -1710,7 +1710,7 @@
         "buffnameTextMapHash": 419672767,
         "icon": "UI_TowerBlessing_22"
     },
-    {
+    "27": {
         "scheduleId": 27,
         "entranceFloorId": [
             1001,
@@ -1769,7 +1769,7 @@
         "buffnameTextMapHash": 2708000879,
         "icon": "UI_TowerBlessing_23"
     },
-    {
+    "28": {
         "scheduleId": 28,
         "entranceFloorId": [
             1001,
@@ -1828,7 +1828,7 @@
         "buffnameTextMapHash": 3534915711,
         "icon": "UI_TowerBlessing_24"
     },
-    {
+    "29": {
         "scheduleId": 29,
         "entranceFloorId": [
             1001,
@@ -1887,7 +1887,7 @@
         "buffnameTextMapHash": 541315511,
         "icon": "UI_TowerBlessing_25"
     },
-    {
+    "30": {
         "scheduleId": 30,
         "entranceFloorId": [
             1001,
@@ -1946,7 +1946,7 @@
         "buffnameTextMapHash": 94587591,
         "icon": "UI_TowerBlessing_26"
     },
-    {
+    "31": {
         "scheduleId": 31,
         "entranceFloorId": [
             1001,
@@ -2005,7 +2005,7 @@
         "buffnameTextMapHash": 3926336327,
         "icon": "UI_TowerBlessing_27"
     },
-    {
+    "32": {
         "scheduleId": 32,
         "entranceFloorId": [
             1001,
@@ -2064,7 +2064,7 @@
         "buffnameTextMapHash": 2549142351,
         "icon": "UI_TowerBlessing_28"
     },
-    {
+    "33": {
         "scheduleId": 33,
         "entranceFloorId": [
             1001,
@@ -2123,7 +2123,7 @@
         "buffnameTextMapHash": 3924112607,
         "icon": "UI_TowerBlessing_29"
     },
-    {
+    "34": {
         "scheduleId": 34,
         "entranceFloorId": [
             1001,
@@ -2182,7 +2182,7 @@
         "buffnameTextMapHash": 2557380463,
         "icon": "UI_TowerBlessing_30"
     },
-    {
+    "35": {
         "scheduleId": 35,
         "entranceFloorId": [
             1001,
@@ -2241,7 +2241,7 @@
         "buffnameTextMapHash": 213736503,
         "icon": "UI_TowerBlessing_31"
     },
-    {
+    "36": {
         "scheduleId": 36,
         "entranceFloorId": [
             1001,
@@ -2300,7 +2300,7 @@
         "buffnameTextMapHash": 3790593591,
         "icon": "UI_TowerBlessing_33"
     },
-    {
+    "37": {
         "scheduleId": 37,
         "entranceFloorId": [
             1001,
@@ -2359,7 +2359,7 @@
         "buffnameTextMapHash": 136119151,
         "icon": "UI_TowerBlessing_32"
     },
-    {
+    "38": {
         "scheduleId": 38,
         "entranceFloorId": [
             1001,
@@ -2418,7 +2418,7 @@
         "buffnameTextMapHash": 3267149039,
         "icon": "UI_TowerBlessing_34"
     },
-    {
+    "39": {
         "scheduleId": 39,
         "entranceFloorId": [
             1001,
@@ -2477,7 +2477,7 @@
         "buffnameTextMapHash": 2384794223,
         "icon": "UI_TowerBlessing_35"
     },
-    {
+    "40": {
         "scheduleId": 40,
         "entranceFloorId": [
             1001,
@@ -2536,7 +2536,7 @@
         "buffnameTextMapHash": 3459590631,
         "icon": "UI_TowerBlessing_36"
     },
-    {
+    "41": {
         "scheduleId": 41,
         "entranceFloorId": [
             1001,
@@ -2595,7 +2595,7 @@
         "buffnameTextMapHash": 3857382799,
         "icon": "UI_TowerBlessing_37"
     },
-    {
+    "42": {
         "scheduleId": 42,
         "entranceFloorId": [
             1001,
@@ -2654,7 +2654,7 @@
         "buffnameTextMapHash": 3979498663,
         "icon": "UI_TowerBlessing_38"
     },
-    {
+    "43": {
         "scheduleId": 43,
         "entranceFloorId": [
             1001,
@@ -2713,7 +2713,7 @@
         "buffnameTextMapHash": 308868759,
         "icon": "UI_TowerBlessing_39"
     },
-    {
+    "44": {
         "scheduleId": 44,
         "entranceFloorId": [
             1001,
@@ -2772,7 +2772,7 @@
         "buffnameTextMapHash": 3765651311,
         "icon": "UI_TowerBlessing_40"
     },
-    {
+    "45": {
         "scheduleId": 45,
         "entranceFloorId": [
             1001,
@@ -2831,7 +2831,7 @@
         "buffnameTextMapHash": 1006225063,
         "icon": "UI_TowerBlessing_41"
     },
-    {
+    "46": {
         "scheduleId": 46,
         "entranceFloorId": [
             1001,
@@ -2890,7 +2890,7 @@
         "buffnameTextMapHash": 1524950183,
         "icon": "UI_TowerBlessing_39"
     },
-    {
+    "47": {
         "scheduleId": 47,
         "entranceFloorId": [
             1001,
@@ -2949,7 +2949,7 @@
         "buffnameTextMapHash": 3798870831,
         "icon": "UI_TowerBlessing_42"
     },
-    {
+    "48": {
         "scheduleId": 48,
         "entranceFloorId": [
             1001,
@@ -3008,7 +3008,7 @@
         "buffnameTextMapHash": 2844754367,
         "icon": "UI_TowerBlessing_43"
     },
-    {
+    "49": {
         "scheduleId": 49,
         "entranceFloorId": [
             1001,
@@ -3067,7 +3067,7 @@
         "buffnameTextMapHash": 429441167,
         "icon": "UI_TowerBlessing_44"
     },
-    {
+    "50": {
         "scheduleId": 50,
         "entranceFloorId": [
             1001,
@@ -3126,7 +3126,7 @@
         "buffnameTextMapHash": 4098020663,
         "icon": "UI_TowerBlessing_45"
     },
-    {
+    "51": {
         "scheduleId": 51,
         "entranceFloorId": [
             1001,
@@ -3185,4 +3185,4 @@
         "buffnameTextMapHash": 3472863927,
         "icon": "UI_TowerBlessing_46"
     }
-]
+}

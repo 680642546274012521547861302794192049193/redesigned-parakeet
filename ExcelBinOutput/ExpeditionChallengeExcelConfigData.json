@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "groupId": 133209058,
         "rewardChallengeIndex": 233,
@@ -14,7 +14,7 @@
         ],
         "centerRadius": 40
     },
-    {
+    "2": {
         "id": 2,
         "unlockTime": 24,
         "groupId": 133209052,
@@ -30,7 +30,7 @@
         ],
         "centerRadius": 40
     },
-    {
+    "3": {
         "id": 3,
         "unlockTime": 48,
         "groupId": 133209057,
@@ -46,7 +46,7 @@
         ],
         "centerRadius": 40
     },
-    {
+    "4": {
         "id": 4,
         "unlockTime": 72,
         "groupId": 133213536,
@@ -62,7 +62,7 @@
         ],
         "centerRadius": 40
     },
-    {
+    "5": {
         "id": 5,
         "unlockTime": 96,
         "groupId": 133213538,
@@ -78,7 +78,7 @@
         ],
         "centerRadius": 40
     },
-    {
+    "6": {
         "id": 6,
         "unlockTime": 120,
         "groupId": 133211015,
@@ -94,7 +94,7 @@
         ],
         "centerRadius": 40
     },
-    {
+    "7": {
         "id": 7,
         "unlockTime": 144,
         "groupId": 133211014,
@@ -110,4 +110,4 @@
         ],
         "centerRadius": 40
     }
-]
+}

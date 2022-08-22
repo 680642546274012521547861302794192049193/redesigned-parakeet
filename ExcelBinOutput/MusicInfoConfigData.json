@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "musicID": 1,
         "musicTime": 97,
         "levelId": [
@@ -20,7 +20,7 @@
         "pointID": 30076,
         "DPKGACLEKLB": 3
     },
-    {
+    "2": {
         "musicID": 2,
         "musicTime": 89,
         "levelId": [
@@ -41,7 +41,7 @@
         "pointID": 30076,
         "DPKGACLEKLB": 3
     },
-    {
+    "3": {
         "musicID": 3,
         "musicTime": 88,
         "levelId": [
@@ -62,7 +62,7 @@
         "pointID": 30076,
         "DPKGACLEKLB": 3
     },
-    {
+    "4": {
         "musicID": 4,
         "musicTime": 63,
         "levelId": [
@@ -83,7 +83,7 @@
         "pointID": 30076,
         "DPKGACLEKLB": 3
     },
-    {
+    "5": {
         "musicID": 5,
         "musicTime": 88,
         "levelId": [
@@ -104,7 +104,7 @@
         "pointID": 30076,
         "DPKGACLEKLB": 3
     },
-    {
+    "6": {
         "musicID": 6,
         "musicTime": 91,
         "levelId": [
@@ -125,7 +125,7 @@
         "pointID": 30076,
         "DPKGACLEKLB": 3
     },
-    {
+    "7": {
         "musicID": 7,
         "musicTime": 83,
         "levelId": [
@@ -146,4 +146,4 @@
         "pointID": 30076,
         "DPKGACLEKLB": 3
     }
-]
+}

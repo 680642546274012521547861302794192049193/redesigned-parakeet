@@ -1,5 +1,5 @@
-[
-    {
+{
+    "60901": {
         "id": 60901,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -8,26 +8,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u8548\u517d",
+                "NIFPFMCBJEE": "蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "60902": {
         "id": 60902,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -36,26 +36,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u8548\u517d",
+                "NIFPFMCBJEE": "蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "60904": {
         "id": 60904,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -64,26 +64,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u8548\u517d",
+                "NIFPFMCBJEE": "蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "60905": {
         "id": 60905,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -92,26 +92,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u8548\u517d",
+                "NIFPFMCBJEE": "蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "60907": {
         "id": 60907,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -120,26 +120,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u8548\u517d",
+                "NIFPFMCBJEE": "蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "60908": {
         "id": 60908,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -148,26 +148,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u8548\u517d",
+                "NIFPFMCBJEE": "蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "60909": {
         "id": 60909,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -176,26 +176,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u8548\u517d",
+                "NIFPFMCBJEE": "蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "61201": {
         "id": 61201,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -204,26 +204,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u5927\u8548\u517d",
+                "NIFPFMCBJEE": "大蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5927\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "大异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5927\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "大异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "61202": {
         "id": 61202,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -232,26 +232,26 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u5927\u8548\u517d",
+                "NIFPFMCBJEE": "大蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5927\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "大异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5927\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "大异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     },
-    {
+    "61203": {
         "id": 61203,
         "DJHIHENGEGK": "MONSTER_POLY_DROP_GV",
         "KMOGPMKJHHH": "_MONSTER_FUNGUSSTATE_",
@@ -260,23 +260,23 @@
                 "paramList": [
                     0
                 ],
-                "NIFPFMCBJEE": "\u5927\u8548\u517d",
+                "NIFPFMCBJEE": "大蕈兽",
                 "monsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
             },
             {
                 "paramList": [
                     1
                 ],
-                "NIFPFMCBJEE": "\u5927\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "大异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             },
             {
                 "paramList": [
                     2
                 ],
-                "NIFPFMCBJEE": "\u5927\u5f02\u5316\u8548\u517d",
+                "NIFPFMCBJEE": "大异化蕈兽",
                 "monsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
             }
         ]
     }
-]
+}

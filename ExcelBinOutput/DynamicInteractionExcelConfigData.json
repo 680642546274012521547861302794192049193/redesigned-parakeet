@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "id": 1001,
         "HIHENHHPEIK": 3774456411,
         "ANFELGJELMD": 1375562431,
@@ -8,7 +8,7 @@
         "FCONMIFELMG": "",
         "DONCELAFGON": true
     },
-    {
+    "1002": {
         "id": 1002,
         "HIHENHHPEIK": 4021807587,
         "ANFELGJELMD": 2013927447,
@@ -17,4 +17,4 @@
         "FCONMIFELMG": "",
         "DONCELAFGON": true
     }
-]
+}

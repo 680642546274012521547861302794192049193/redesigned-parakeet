@@ -1,5 +1,5 @@
-[
-    {
+{
+    "30069": {
         "PBDBLKDFBNK": 30069,
         "LGDNGKKBKML": [
             0.0,
@@ -12,7 +12,7 @@
         "BOPCCAJDKBN": 4090,
         "KNIDCHGFEFL": "MusicGameEvent2"
     },
-    {
+    "30070": {
         "PBDBLKDFBNK": 30070,
         "LGDNGKKBKML": [
             0.0,
@@ -25,7 +25,7 @@
         "BOPCCAJDKBN": 4090,
         "KNIDCHGFEFL": "MusicGameEvent2"
     },
-    {
+    "30071": {
         "PBDBLKDFBNK": 30071,
         "LGDNGKKBKML": [
             0.0,
@@ -38,7 +38,7 @@
         "BOPCCAJDKBN": 4090,
         "KNIDCHGFEFL": "MusicGameEvent2"
     },
-    {
+    "30072": {
         "PBDBLKDFBNK": 30072,
         "LGDNGKKBKML": [
             0.0,
@@ -51,7 +51,7 @@
         "BOPCCAJDKBN": 4090,
         "KNIDCHGFEFL": "MusicGameEvent2"
     },
-    {
+    "30073": {
         "PBDBLKDFBNK": 30073,
         "LGDNGKKBKML": [
             0.0,
@@ -64,7 +64,7 @@
         "BOPCCAJDKBN": 4090,
         "KNIDCHGFEFL": "MusicGameEvent2"
     },
-    {
+    "30074": {
         "PBDBLKDFBNK": 30074,
         "LGDNGKKBKML": [
             0.0,
@@ -77,7 +77,7 @@
         "BOPCCAJDKBN": 4090,
         "KNIDCHGFEFL": "MusicGameEvent2"
     },
-    {
+    "30075": {
         "PBDBLKDFBNK": 30075,
         "LGDNGKKBKML": [
             0.0,
@@ -90,9 +90,9 @@
         "BOPCCAJDKBN": 4090,
         "KNIDCHGFEFL": "MusicGameEvent2"
     },
-    {
+    "30076": {
         "PBDBLKDFBNK": 30076,
         "LGDNGKKBKML": [],
         "KNIDCHGFEFL": "MusicGameEvent3"
     }
-]
+}

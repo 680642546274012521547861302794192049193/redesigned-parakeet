@@ -1,5 +1,5 @@
-[
-    {
+{
+    "101": {
         "id": 101,
         "OIMAIBICBEH": 1,
         "questId": 73090,
@@ -8,7 +8,7 @@
         "descTextMapHash": 3024437596,
         "icon": "UI_AranaraBook_Album_Pic_1"
     },
-    {
+    "102": {
         "id": 102,
         "OIMAIBICBEH": 2,
         "questId": 73091,
@@ -17,7 +17,7 @@
         "descTextMapHash": 1028954196,
         "icon": "UI_AranaraBook_Album_Pic_3"
     },
-    {
+    "103": {
         "id": 103,
         "OIMAIBICBEH": 3,
         "questId": 73092,
@@ -26,7 +26,7 @@
         "descTextMapHash": 2402841860,
         "icon": "UI_AranaraBook_Album_Pic_2"
     },
-    {
+    "104": {
         "id": 104,
         "OIMAIBICBEH": 4,
         "questId": 73093,
@@ -35,7 +35,7 @@
         "descTextMapHash": 4018012012,
         "icon": "UI_AranaraBook_Album_Pic_6"
     },
-    {
+    "105": {
         "id": 105,
         "OIMAIBICBEH": 5,
         "questId": 73094,
@@ -44,7 +44,7 @@
         "descTextMapHash": 413870332,
         "icon": "UI_AranaraBook_Album_Pic_5"
     },
-    {
+    "106": {
         "id": 106,
         "OIMAIBICBEH": 6,
         "questId": 73095,
@@ -53,7 +53,7 @@
         "descTextMapHash": 27986820,
         "icon": "UI_AranaraBook_Album_Pic_7"
     },
-    {
+    "107": {
         "id": 107,
         "OIMAIBICBEH": 7,
         "questId": 73096,
@@ -62,7 +62,7 @@
         "descTextMapHash": 3096127324,
         "icon": "UI_AranaraBook_Album_Pic_8"
     },
-    {
+    "108": {
         "id": 108,
         "OIMAIBICBEH": 8,
         "questId": 73097,
@@ -71,7 +71,7 @@
         "descTextMapHash": 3313933748,
         "icon": "UI_AranaraBook_Album_Pic_4"
     },
-    {
+    "109": {
         "id": 109,
         "OIMAIBICBEH": 9,
         "questId": 73099,
@@ -79,7 +79,7 @@
         "descTextMapHash": 2492781940,
         "icon": "UI_AranaraBook_Album_Pic_9"
     },
-    {
+    "110": {
         "id": 110,
         "OIMAIBICBEH": 10,
         "questId": 73234,
@@ -87,39 +87,39 @@
         "descTextMapHash": 2823344796,
         "icon": "UI_AranaraBook_Album_Pic_10"
     },
-    {
+    "111": {
         "id": 111,
         "OIMAIBICBEH": 11,
         "titleTextMapHash": 2358312073,
         "descTextMapHash": 4241813740,
         "icon": "UI_AranaraBook_Album_Pic_13"
     },
-    {
+    "112": {
         "id": 112,
         "OIMAIBICBEH": 12,
         "titleTextMapHash": 3275573433,
         "descTextMapHash": 2154013412,
         "icon": "UI_AranaraBook_Album_Pic_14"
     },
-    {
+    "113": {
         "id": 113,
         "OIMAIBICBEH": 13,
         "titleTextMapHash": 1176549457,
         "descTextMapHash": 1024711748,
         "icon": "UI_AranaraBook_Album_Pic_15"
     },
-    {
+    "114": {
         "id": 114,
         "OIMAIBICBEH": 14,
         "titleTextMapHash": 1530653993,
         "descTextMapHash": 4149713844,
         "icon": "UI_AranaraBook_Album_Pic_12"
     },
-    {
+    "115": {
         "id": 115,
         "OIMAIBICBEH": 15,
         "titleTextMapHash": 2120777569,
         "descTextMapHash": 1750840252,
         "icon": "UI_AranaraBook_Album_Pic_11"
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "101": {
         "id": 101,
         "centerPosList": [
             2775.10009765625,
@@ -84,7 +84,7 @@
         "regionInfoTextMapHash": 3322729397,
         "CBCINHELOPI": []
     },
-    {
+    "102": {
         "id": 102,
         "centerPosList": [
             1385.5999755859375,
@@ -169,7 +169,7 @@
         "regionInfoTextMapHash": 1156075805,
         "CBCINHELOPI": []
     },
-    {
+    "103": {
         "id": 103,
         "centerPosList": [
             2198.0,
@@ -255,7 +255,7 @@
         "regionInfoTextMapHash": 3039451365,
         "CBCINHELOPI": []
     },
-    {
+    "104": {
         "id": 104,
         "centerPosList": [
             2581.199951171875,
@@ -339,7 +339,7 @@
         "regionInfoTextMapHash": 1085800661,
         "CBCINHELOPI": []
     },
-    {
+    "201": {
         "id": 201,
         "centerPosList": [
             656.5999755859375,
@@ -425,7 +425,7 @@
         "regionInfoTextMapHash": 579660645,
         "CBCINHELOPI": []
     },
-    {
+    "202": {
         "id": 202,
         "centerPosList": [
             386.8999938964844,
@@ -503,7 +503,7 @@
         "regionInfoTextMapHash": 594885349,
         "CBCINHELOPI": []
     },
-    {
+    "203": {
         "id": 203,
         "centerPosList": [
             1621.5999755859375,
@@ -579,7 +579,7 @@
         "regionInfoTextMapHash": 1742560301,
         "CBCINHELOPI": []
     },
-    {
+    "204": {
         "id": 204,
         "centerPosList": [
             -672.5999755859375,
@@ -660,7 +660,7 @@
         "regionInfoTextMapHash": 802073661,
         "CBCINHELOPI": []
     },
-    {
+    "301": {
         "id": 301,
         "centerPosList": [
             -3517.0,
@@ -751,7 +751,7 @@
             23002
         ]
     },
-    {
+    "302": {
         "id": 302,
         "centerPosList": [
             -2877.0,
@@ -843,7 +843,7 @@
             23004
         ]
     },
-    {
+    "303": {
         "id": 303,
         "centerPosList": [
             -3507.0,
@@ -923,7 +923,7 @@
             23005
         ]
     },
-    {
+    "304": {
         "id": 304,
         "centerPosList": [
             -2326.0,
@@ -1009,7 +1009,7 @@
             23006
         ]
     },
-    {
+    "401": {
         "id": 401,
         "centerPosList": [
             -547.0,
@@ -1096,7 +1096,7 @@
             14001
         ]
     },
-    {
+    "402": {
         "id": 402,
         "centerPosList": [
             -1014.0,
@@ -1182,7 +1182,7 @@
             14002
         ]
     },
-    {
+    "403": {
         "id": 403,
         "centerPosList": [
             -698.0,
@@ -1262,7 +1262,7 @@
             14003
         ]
     },
-    {
+    "404": {
         "id": 404,
         "centerPosList": [
             423.0,
@@ -1346,7 +1346,7 @@
             14004
         ]
     },
-    {
+    "405": {
         "id": 405,
         "centerPosList": [
             -1537.0,
@@ -1433,7 +1433,7 @@
             14005
         ]
     },
-    {
+    "406": {
         "id": 406,
         "centerPosList": [
             -1562.0,
@@ -1519,7 +1519,7 @@
             14006
         ]
     },
-    {
+    "407": {
         "id": 407,
         "centerPosList": [
             -1276.0,
@@ -1599,7 +1599,7 @@
             14007
         ]
     },
-    {
+    "408": {
         "id": 408,
         "centerPosList": [
             -1739.0,
@@ -1683,4 +1683,4 @@
             14008
         ]
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "firstPassRewardId": 3025101,
         "DOFAEANJNKM": 32802,
@@ -95,7 +95,7 @@
         "NJKDMGBNMAF": [],
         "KFBOLGFIOHH": true
     },
-    {
+    "2": {
         "stageId": 2,
         "firstPassRewardId": 3025102,
         "DOFAEANJNKM": 32802,
@@ -178,7 +178,7 @@
         "NJKDMGBNMAF": [],
         "KFBOLGFIOHH": true
     },
-    {
+    "3": {
         "stageId": 3,
         "firstPassRewardId": 3025103,
         "DOFAEANJNKM": 32802,
@@ -267,7 +267,7 @@
         "NJKDMGBNMAF": [],
         "KFBOLGFIOHH": true
     },
-    {
+    "4": {
         "stageId": 4,
         "firstPassRewardId": 3025104,
         "DOFAEANJNKM": 32802,
@@ -393,7 +393,7 @@
         "EOEEHMPOEPJ": 4002301,
         "NJKDMGBNMAF": []
     },
-    {
+    "5": {
         "stageId": 5,
         "DMCMMBMNECG": 10,
         "maxLevel": 2,
@@ -515,4 +515,4 @@
         "EOEEHMPOEPJ": 4002301,
         "NJKDMGBNMAF": []
     }
-]
+}

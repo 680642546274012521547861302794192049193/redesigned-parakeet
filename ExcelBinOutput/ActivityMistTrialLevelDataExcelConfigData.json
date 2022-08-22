@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "scheduleId": 5022001,
         "levelId": 1,
@@ -73,7 +73,7 @@
         "NENFOHCLJMP": [],
         "IPLEPGPHIDF": []
     },
-    {
+    "2": {
         "Id": 2,
         "scheduleId": 5022001,
         "levelId": 2,
@@ -127,7 +127,7 @@
         "NENFOHCLJMP": [],
         "IPLEPGPHIDF": []
     },
-    {
+    "3": {
         "Id": 3,
         "scheduleId": 5022001,
         "levelId": 3,
@@ -183,7 +183,7 @@
         "NENFOHCLJMP": [],
         "IPLEPGPHIDF": []
     },
-    {
+    "4": {
         "Id": 4,
         "scheduleId": 5022001,
         "levelId": 4,
@@ -234,7 +234,7 @@
         "NENFOHCLJMP": [],
         "IPLEPGPHIDF": []
     },
-    {
+    "5": {
         "Id": 5,
         "scheduleId": 5022001,
         "levelId": 5,
@@ -284,7 +284,7 @@
         "NENFOHCLJMP": [],
         "IPLEPGPHIDF": []
     },
-    {
+    "6": {
         "Id": 6,
         "scheduleId": 5022001,
         "levelId": 6,
@@ -334,7 +334,7 @@
         "NENFOHCLJMP": [],
         "IPLEPGPHIDF": []
     },
-    {
+    "7": {
         "Id": 7,
         "scheduleId": 5054001,
         "levelId": 1,
@@ -401,7 +401,7 @@
             10701008
         ]
     },
-    {
+    "8": {
         "Id": 8,
         "scheduleId": 5054001,
         "levelId": 2,
@@ -478,7 +478,7 @@
             10701004
         ]
     },
-    {
+    "9": {
         "Id": 9,
         "scheduleId": 5054001,
         "levelId": 3,
@@ -555,7 +555,7 @@
             10701024
         ]
     },
-    {
+    "10": {
         "Id": 10,
         "scheduleId": 5054001,
         "levelId": 4,
@@ -625,7 +625,7 @@
             10701020
         ]
     },
-    {
+    "11": {
         "Id": 11,
         "scheduleId": 5054001,
         "levelId": 5,
@@ -707,7 +707,7 @@
             10701012
         ]
     },
-    {
+    "12": {
         "Id": 12,
         "scheduleId": 5054001,
         "levelId": 6,
@@ -775,7 +775,7 @@
             10701016
         ]
     },
-    {
+    "13": {
         "Id": 13,
         "scheduleId": 5054001,
         "levelId": 7,
@@ -877,4 +877,4 @@
             10701028
         ]
     }
-]
+}

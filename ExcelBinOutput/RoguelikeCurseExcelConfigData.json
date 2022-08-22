@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "level": 1,
         "groupId": 1,
         "EHOHHAGDFLF": 1035603933,
@@ -21,7 +21,7 @@
             false
         ]
     },
-    {
+    "2": {
         "level": 1,
         "groupId": 2,
         "EHOHHAGDFLF": 54219069,
@@ -43,7 +43,7 @@
             false
         ]
     },
-    {
+    "3": {
         "level": 5,
         "groupId": 3,
         "EHOHHAGDFLF": 2034801749,
@@ -65,7 +65,7 @@
             false
         ]
     },
-    {
+    "4": {
         "level": 4,
         "groupId": 4,
         "EHOHHAGDFLF": 2241608685,
@@ -87,7 +87,7 @@
             false
         ]
     },
-    {
+    "5": {
         "level": 1,
         "groupId": 5,
         "EHOHHAGDFLF": 3838913645,
@@ -108,7 +108,7 @@
             false
         ]
     },
-    {
+    "6": {
         "level": 5,
         "groupId": 6,
         "EHOHHAGDFLF": 3068832069,
@@ -129,4 +129,4 @@
             false
         ]
     }
-]
+}

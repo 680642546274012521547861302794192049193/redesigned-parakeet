@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "EKDIPBBKAOM": "STAGE_TYPE_DOWN_HILL",
         "galleryId": 21300,
@@ -30,7 +30,7 @@
         ],
         "pushTipsID": 6066
     },
-    {
+    "2": {
         "id": 2,
         "EKDIPBBKAOM": "STAGE_TYPE_DOWN_HILL",
         "galleryId": 21301,
@@ -61,7 +61,7 @@
         ],
         "pushTipsID": 6066
     },
-    {
+    "3": {
         "id": 3,
         "EKDIPBBKAOM": "STAGE_TYPE_SAIL",
         "galleryId": 21200,
@@ -91,7 +91,7 @@
         ],
         "pushTipsID": 6065
     },
-    {
+    "4": {
         "id": 4,
         "EKDIPBBKAOM": "STAGE_TYPE_SAIL",
         "galleryId": 21201,
@@ -121,7 +121,7 @@
         ],
         "pushTipsID": 6065
     },
-    {
+    "5": {
         "id": 5,
         "EKDIPBBKAOM": "STAGE_TYPE_RAFT",
         "galleryId": 21101,
@@ -151,7 +151,7 @@
         ],
         "pushTipsID": 6064
     },
-    {
+    "6": {
         "id": 6,
         "EKDIPBBKAOM": "STAGE_TYPE_RAFT",
         "galleryId": 21100,
@@ -181,4 +181,4 @@
         ],
         "pushTipsID": 6064
     }
-]
+}

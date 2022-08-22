@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5090": {
         "activityId": 5090,
         "ABGKGJPFGOG": 180,
         "energyLimit": 1000,
@@ -24,4 +24,4 @@
         "HBOFOICMPDL": 0.4000000059604645,
         "BCKBHGEEICO": 5
     }
-]
+}

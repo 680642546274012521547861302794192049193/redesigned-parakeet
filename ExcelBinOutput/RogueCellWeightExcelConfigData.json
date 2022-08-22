@@ -1,14 +1,14 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "FPOACGBHPCJ": 10,
         "KOFBGDCAKGG": 10,
         "EOHJDANDAPM": 10
     },
-    {
+    "2": {
         "id": 2,
         "FPOACGBHPCJ": 20,
         "KOFBGDCAKGG": 20,
         "EOHJDANDAPM": 20
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "openDay": 1,
         "challengeIdList": [
@@ -13,7 +13,7 @@
         ],
         "ODLANPICHGA": 33311
     },
-    {
+    "2": {
         "stageId": 2,
         "openDay": 3,
         "challengeIdList": [
@@ -28,7 +28,7 @@
         ],
         "ODLANPICHGA": 33312
     },
-    {
+    "3": {
         "stageId": 3,
         "openDay": 7,
         "challengeIdList": [
@@ -42,4 +42,4 @@
         ],
         "ODLANPICHGA": 33313
     }
-]
+}

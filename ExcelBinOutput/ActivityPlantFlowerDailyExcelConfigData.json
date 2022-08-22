@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "dailyConfigId": 1,
         "costItemList": [
             {
@@ -13,7 +13,7 @@
             3027107
         ]
     },
-    {
+    "2": {
         "dailyConfigId": 2,
         "costItemList": [
             {
@@ -27,7 +27,7 @@
             3027107
         ]
     },
-    {
+    "3": {
         "dailyConfigId": 3,
         "costItemList": [
             {
@@ -41,7 +41,7 @@
             3027107
         ]
     },
-    {
+    "4": {
         "dailyConfigId": 4,
         "costItemList": [
             {
@@ -55,7 +55,7 @@
             3027107
         ]
     },
-    {
+    "5": {
         "dailyConfigId": 5,
         "costItemList": [
             {
@@ -69,7 +69,7 @@
             3027107
         ]
     },
-    {
+    "6": {
         "dailyConfigId": 6,
         "costItemList": [
             {
@@ -83,4 +83,4 @@
             3027107
         ]
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "PBOLIOJHJEA": [
             1200501,
@@ -23,7 +23,7 @@
         "CMDGDLPLBCI": 108096,
         "NCJJONCGNKN": 108100
     },
-    {
+    "2": {
         "Id": 2,
         "PBOLIOJHJEA": [
             1200504,
@@ -47,7 +47,7 @@
         "CMDGDLPLBCI": 63139,
         "NCJJONCGNKN": 63022
     },
-    {
+    "3": {
         "Id": 3,
         "PBOLIOJHJEA": [
             1200507,
@@ -71,7 +71,7 @@
         "CMDGDLPLBCI": 127093,
         "NCJJONCGNKN": 127011
     },
-    {
+    "4": {
         "Id": 4,
         "PBOLIOJHJEA": [
             1200510,
@@ -95,7 +95,7 @@
         "CMDGDLPLBCI": 65070,
         "NCJJONCGNKN": 65045
     },
-    {
+    "5": {
         "Id": 5,
         "PBOLIOJHJEA": [
             1200513,
@@ -119,7 +119,7 @@
         "CMDGDLPLBCI": 130099,
         "NCJJONCGNKN": 130026
     },
-    {
+    "6": {
         "Id": 6,
         "PBOLIOJHJEA": [
             1200516,
@@ -143,4 +143,4 @@
         "CMDGDLPLBCI": 49058,
         "NCJJONCGNKN": 49039
     }
-]
+}

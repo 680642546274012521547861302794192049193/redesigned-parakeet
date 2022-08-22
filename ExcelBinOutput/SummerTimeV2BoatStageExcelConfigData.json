@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "dayIndex": 1,
         "watcherList": [
@@ -31,7 +31,7 @@
             1435373360
         ]
     },
-    {
+    "2": {
         "stageId": 2,
         "dayIndex": 1,
         "watcherList": [
@@ -63,7 +63,7 @@
             1310166200
         ]
     },
-    {
+    "3": {
         "stageId": 3,
         "dayIndex": 1,
         "watcherList": [
@@ -95,7 +95,7 @@
             95133600
         ]
     },
-    {
+    "4": {
         "stageId": 4,
         "dayIndex": 2,
         "watcherList": [
@@ -127,7 +127,7 @@
             2370913896
         ]
     },
-    {
+    "5": {
         "stageId": 5,
         "dayIndex": 2,
         "watcherList": [
@@ -159,7 +159,7 @@
             3812806240
         ]
     },
-    {
+    "6": {
         "stageId": 6,
         "dayIndex": 3,
         "watcherList": [
@@ -191,4 +191,4 @@
             3329133536
         ]
     }
-]
+}

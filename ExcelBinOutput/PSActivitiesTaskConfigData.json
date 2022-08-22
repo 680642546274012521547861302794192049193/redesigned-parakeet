@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "activityID": 1,
         "taskNameTextMapHash": 4123016973,
         "isRequiredForCompletion": true,
@@ -7,7 +7,7 @@
         "objectID": "quest1_1",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "2": {
         "activityID": 1,
         "taskNameTextMapHash": 3761040189,
         "isRequiredForCompletion": true,
@@ -16,7 +16,7 @@
         "objectID": "quest1_2",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "3": {
         "activityID": 1,
         "taskNameTextMapHash": 1941639781,
         "isRequiredForCompletion": true,
@@ -25,7 +25,7 @@
         "objectID": "quest1_3",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "4": {
         "activityID": 2,
         "taskNameTextMapHash": 3832365885,
         "isRequiredForCompletion": true,
@@ -34,7 +34,7 @@
         "objectID": "quest2_1",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "5": {
         "activityID": 2,
         "taskNameTextMapHash": 3848168861,
         "isRequiredForCompletion": true,
@@ -43,7 +43,7 @@
         "objectID": "quest2_2",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "6": {
         "activityID": 2,
         "taskNameTextMapHash": 2837333837,
         "isRequiredForCompletion": true,
@@ -52,7 +52,7 @@
         "objectID": "quest2_3",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "7": {
         "activityID": 2,
         "taskNameTextMapHash": 1511167597,
         "isRequiredForCompletion": true,
@@ -61,7 +61,7 @@
         "objectID": "quest2_4",
         "LCDICEJLIJL": "1.5.0"
     },
-    {
+    "8": {
         "activityID": 3,
         "taskNameTextMapHash": 3687366901,
         "isRequiredForCompletion": true,
@@ -70,7 +70,7 @@
         "objectID": "quest3_1",
         "LCDICEJLIJL": "1.6.0"
     },
-    {
+    "9": {
         "activityID": 3,
         "taskNameTextMapHash": 301635173,
         "isRequiredForCompletion": true,
@@ -79,7 +79,7 @@
         "objectID": "quest3_2",
         "LCDICEJLIJL": "2.0.0"
     },
-    {
+    "10": {
         "activityID": 3,
         "taskNameTextMapHash": 4170838189,
         "isRequiredForCompletion": true,
@@ -88,7 +88,7 @@
         "objectID": "quest3_3",
         "LCDICEJLIJL": "2.0.0"
     },
-    {
+    "11": {
         "activityID": 3,
         "taskNameTextMapHash": 586395669,
         "isRequiredForCompletion": true,
@@ -97,7 +97,7 @@
         "objectID": "quest3_4",
         "LCDICEJLIJL": "2.1.0"
     },
-    {
+    "12": {
         "activityID": 3,
         "taskNameTextMapHash": 1754904781,
         "isRequiredForCompletion": true,
@@ -106,7 +106,7 @@
         "objectID": "quest3_5",
         "LCDICEJLIJL": "2.6.0"
     },
-    {
+    "13": {
         "activityID": 4,
         "taskNameTextMapHash": 3599863365,
         "isRequiredForCompletion": true,
@@ -115,7 +115,7 @@
         "objectID": "quest4_1",
         "LCDICEJLIJL": "3.0.0"
     },
-    {
+    "14": {
         "activityID": 4,
         "taskNameTextMapHash": 3723541941,
         "isRequiredForCompletion": true,
@@ -124,4 +124,4 @@
         "objectID": "quest4_2",
         "LCDICEJLIJL": "3.0.0"
     }
-]
+}

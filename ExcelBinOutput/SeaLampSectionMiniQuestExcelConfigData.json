@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "sectionId": 1,
         "openDay": 1,
@@ -7,7 +7,7 @@
         "nameTextMapHash": 3459075263,
         "descTextMapHash": 1591042157
     },
-    {
+    "2": {
         "id": 2,
         "sectionId": 1,
         "openDay": 1,
@@ -15,7 +15,7 @@
         "nameTextMapHash": 352197511,
         "descTextMapHash": 2969857237
     },
-    {
+    "3": {
         "id": 3,
         "sectionId": 1,
         "openDay": 1,
@@ -24,7 +24,7 @@
         "nameTextMapHash": 2821836543,
         "descTextMapHash": 1569043133
     },
-    {
+    "4": {
         "id": 4,
         "sectionId": 1,
         "openDay": 2,
@@ -32,7 +32,7 @@
         "nameTextMapHash": 1444716703,
         "descTextMapHash": 480582677
     },
-    {
+    "5": {
         "id": 5,
         "sectionId": 1,
         "openDay": 2,
@@ -40,7 +40,7 @@
         "nameTextMapHash": 753361327,
         "descTextMapHash": 3601466077
     },
-    {
+    "6": {
         "id": 6,
         "sectionId": 1,
         "openDay": 3,
@@ -48,7 +48,7 @@
         "nameTextMapHash": 1274293615,
         "descTextMapHash": 629430621
     },
-    {
+    "7": {
         "id": 7,
         "sectionId": 1,
         "openDay": 3,
@@ -56,7 +56,7 @@
         "nameTextMapHash": 2340460911,
         "descTextMapHash": 736003245
     },
-    {
+    "8": {
         "id": 8,
         "sectionId": 1,
         "openDay": 4,
@@ -64,7 +64,7 @@
         "nameTextMapHash": 3965551423,
         "descTextMapHash": 1231765461
     },
-    {
+    "9": {
         "id": 9,
         "sectionId": 1,
         "openDay": 4,
@@ -72,7 +72,7 @@
         "nameTextMapHash": 1959108383,
         "descTextMapHash": 2974376669
     },
-    {
+    "10": {
         "id": 10,
         "sectionId": 2,
         "openDay": 5,
@@ -81,7 +81,7 @@
         "nameTextMapHash": 2966512519,
         "descTextMapHash": 3152444173
     },
-    {
+    "11": {
         "id": 11,
         "sectionId": 2,
         "openDay": 5,
@@ -89,7 +89,7 @@
         "nameTextMapHash": 969567159,
         "descTextMapHash": 3464551237
     },
-    {
+    "12": {
         "id": 12,
         "sectionId": 2,
         "openDay": 5,
@@ -97,7 +97,7 @@
         "nameTextMapHash": 1506522679,
         "descTextMapHash": 3847570677
     },
-    {
+    "13": {
         "id": 13,
         "sectionId": 2,
         "openDay": 6,
@@ -105,7 +105,7 @@
         "nameTextMapHash": 3988398439,
         "descTextMapHash": 2963551189
     },
-    {
+    "14": {
         "id": 14,
         "sectionId": 2,
         "openDay": 6,
@@ -113,7 +113,7 @@
         "nameTextMapHash": 3886074943,
         "descTextMapHash": 1010319213
     },
-    {
+    "15": {
         "id": 15,
         "sectionId": 2,
         "openDay": 7,
@@ -121,7 +121,7 @@
         "nameTextMapHash": 1115153959,
         "descTextMapHash": 2206559085
     },
-    {
+    "16": {
         "id": 16,
         "sectionId": 2,
         "openDay": 7,
@@ -129,7 +129,7 @@
         "nameTextMapHash": 1654558215,
         "descTextMapHash": 2650366085
     },
-    {
+    "17": {
         "id": 17,
         "sectionId": 2,
         "openDay": 8,
@@ -137,7 +137,7 @@
         "nameTextMapHash": 3126299575,
         "descTextMapHash": 2089662685
     },
-    {
+    "18": {
         "id": 18,
         "sectionId": 2,
         "openDay": 8,
@@ -145,7 +145,7 @@
         "nameTextMapHash": 1291371223,
         "descTextMapHash": 1166485253
     },
-    {
+    "19": {
         "id": 19,
         "sectionId": 3,
         "openDay": 9,
@@ -154,7 +154,7 @@
         "nameTextMapHash": 3194501479,
         "descTextMapHash": 1188920597
     },
-    {
+    "20": {
         "id": 20,
         "sectionId": 3,
         "openDay": 9,
@@ -162,7 +162,7 @@
         "nameTextMapHash": 3036970975,
         "descTextMapHash": 1489130461
     },
-    {
+    "21": {
         "id": 21,
         "sectionId": 3,
         "openDay": 9,
@@ -170,7 +170,7 @@
         "nameTextMapHash": 3029250615,
         "descTextMapHash": 2213921733
     },
-    {
+    "22": {
         "id": 22,
         "sectionId": 3,
         "openDay": 9,
@@ -178,7 +178,7 @@
         "nameTextMapHash": 3368325663,
         "descTextMapHash": 1283918109
     },
-    {
+    "23": {
         "id": 23,
         "sectionId": 3,
         "openDay": 9,
@@ -186,4 +186,4 @@
         "nameTextMapHash": 1774997775,
         "descTextMapHash": 2044174725
     }
-]
+}

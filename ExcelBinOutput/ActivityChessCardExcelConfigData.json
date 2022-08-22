@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "ID": 1,
         "ANBPEBFFPEJ": 1,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -45,7 +45,7 @@
             }
         ]
     },
-    {
+    "2": {
         "ID": 2,
         "ANBPEBFFPEJ": 2,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -93,7 +93,7 @@
             }
         ]
     },
-    {
+    "3": {
         "ID": 3,
         "ANBPEBFFPEJ": 3,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -140,7 +140,7 @@
             }
         ]
     },
-    {
+    "4": {
         "ID": 4,
         "ANBPEBFFPEJ": 4,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -186,7 +186,7 @@
             }
         ]
     },
-    {
+    "5": {
         "ID": 5,
         "ANBPEBFFPEJ": 5,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -232,7 +232,7 @@
             }
         ]
     },
-    {
+    "6": {
         "ID": 6,
         "ANBPEBFFPEJ": 6,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -279,7 +279,7 @@
             }
         ]
     },
-    {
+    "7": {
         "ID": 7,
         "ANBPEBFFPEJ": 7,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -327,7 +327,7 @@
             }
         ]
     },
-    {
+    "8": {
         "ID": 8,
         "ANBPEBFFPEJ": 8,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -373,7 +373,7 @@
             }
         ]
     },
-    {
+    "9": {
         "ID": 9,
         "ANBPEBFFPEJ": 9,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -421,7 +421,7 @@
             }
         ]
     },
-    {
+    "10": {
         "ID": 10,
         "ANBPEBFFPEJ": 10,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -468,7 +468,7 @@
             }
         ]
     },
-    {
+    "11": {
         "ID": 11,
         "ANBPEBFFPEJ": 11,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -516,7 +516,7 @@
             }
         ]
     },
-    {
+    "12": {
         "ID": 12,
         "ANBPEBFFPEJ": 12,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -562,7 +562,7 @@
             }
         ]
     },
-    {
+    "13": {
         "ID": 13,
         "ANBPEBFFPEJ": 13,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -608,7 +608,7 @@
             }
         ]
     },
-    {
+    "14": {
         "ID": 14,
         "ANBPEBFFPEJ": 14,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -655,7 +655,7 @@
             }
         ]
     },
-    {
+    "15": {
         "ID": 15,
         "ANBPEBFFPEJ": 15,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -701,7 +701,7 @@
             }
         ]
     },
-    {
+    "16": {
         "ID": 16,
         "ANBPEBFFPEJ": 16,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -749,7 +749,7 @@
             }
         ]
     },
-    {
+    "17": {
         "ID": 17,
         "ANBPEBFFPEJ": 17,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -796,7 +796,7 @@
             }
         ]
     },
-    {
+    "18": {
         "ID": 18,
         "ANBPEBFFPEJ": 18,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -844,7 +844,7 @@
             }
         ]
     },
-    {
+    "19": {
         "ID": 19,
         "ANBPEBFFPEJ": 19,
         "KNNIBEIBOJM": "CARD_TAG_PHYSICS",
@@ -890,7 +890,7 @@
             }
         ]
     },
-    {
+    "20": {
         "ID": 20,
         "ANBPEBFFPEJ": 20,
         "KNNIBEIBOJM": "CARD_TAG_PHYSICS",
@@ -937,7 +937,7 @@
             }
         ]
     },
-    {
+    "21": {
         "ID": 21,
         "ANBPEBFFPEJ": 21,
         "KNNIBEIBOJM": "CARD_TAG_PHYSICS",
@@ -985,7 +985,7 @@
             }
         ]
     },
-    {
+    "22": {
         "ID": 22,
         "ANBPEBFFPEJ": 22,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -1031,7 +1031,7 @@
             }
         ]
     },
-    {
+    "23": {
         "ID": 23,
         "ANBPEBFFPEJ": 23,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -1076,7 +1076,7 @@
             }
         ]
     },
-    {
+    "24": {
         "ID": 24,
         "ANBPEBFFPEJ": 24,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -1121,7 +1121,7 @@
             }
         ]
     },
-    {
+    "25": {
         "ID": 25,
         "ANBPEBFFPEJ": 25,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -1166,7 +1166,7 @@
             }
         ]
     },
-    {
+    "26": {
         "ID": 26,
         "ANBPEBFFPEJ": 26,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -1215,7 +1215,7 @@
             }
         ]
     },
-    {
+    "27": {
         "ID": 27,
         "ANBPEBFFPEJ": 27,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -1264,7 +1264,7 @@
             }
         ]
     },
-    {
+    "28": {
         "ID": 28,
         "ANBPEBFFPEJ": 28,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -1310,7 +1310,7 @@
             }
         ]
     },
-    {
+    "29": {
         "ID": 29,
         "ANBPEBFFPEJ": 29,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -1354,7 +1354,7 @@
             }
         ]
     },
-    {
+    "30": {
         "ID": 30,
         "ANBPEBFFPEJ": 30,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -1400,7 +1400,7 @@
             }
         ]
     },
-    {
+    "31": {
         "ID": 31,
         "ANBPEBFFPEJ": 31,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -1446,7 +1446,7 @@
             }
         ]
     },
-    {
+    "32": {
         "ID": 32,
         "ANBPEBFFPEJ": 32,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -1489,7 +1489,7 @@
             }
         ]
     },
-    {
+    "33": {
         "ID": 33,
         "ANBPEBFFPEJ": 33,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -1535,7 +1535,7 @@
             }
         ]
     },
-    {
+    "34": {
         "ID": 34,
         "ANBPEBFFPEJ": 34,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -1579,7 +1579,7 @@
             }
         ]
     },
-    {
+    "35": {
         "ID": 35,
         "ANBPEBFFPEJ": 35,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -1628,7 +1628,7 @@
             }
         ]
     },
-    {
+    "36": {
         "ID": 36,
         "ANBPEBFFPEJ": 36,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -1677,7 +1677,7 @@
             }
         ]
     },
-    {
+    "37": {
         "ID": 37,
         "ANBPEBFFPEJ": 37,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -1726,7 +1726,7 @@
             }
         ]
     },
-    {
+    "38": {
         "ID": 38,
         "ANBPEBFFPEJ": 38,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -1772,7 +1772,7 @@
             }
         ]
     },
-    {
+    "39": {
         "ID": 39,
         "ANBPEBFFPEJ": 39,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -1818,7 +1818,7 @@
             }
         ]
     },
-    {
+    "40": {
         "ID": 40,
         "ANBPEBFFPEJ": 40,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -1864,7 +1864,7 @@
             }
         ]
     },
-    {
+    "41": {
         "ID": 41,
         "ANBPEBFFPEJ": 41,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -1910,7 +1910,7 @@
             }
         ]
     },
-    {
+    "42": {
         "ID": 42,
         "ANBPEBFFPEJ": 42,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -1962,7 +1962,7 @@
             }
         ]
     },
-    {
+    "43": {
         "ID": 43,
         "ANBPEBFFPEJ": 43,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -2011,7 +2011,7 @@
             }
         ]
     },
-    {
+    "44": {
         "ID": 44,
         "ANBPEBFFPEJ": 44,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -2057,7 +2057,7 @@
             }
         ]
     },
-    {
+    "45": {
         "ID": 45,
         "ANBPEBFFPEJ": 45,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -2106,7 +2106,7 @@
             }
         ]
     },
-    {
+    "46": {
         "ID": 46,
         "ANBPEBFFPEJ": 46,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -2152,7 +2152,7 @@
             }
         ]
     },
-    {
+    "47": {
         "ID": 47,
         "ANBPEBFFPEJ": 47,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -2196,7 +2196,7 @@
             }
         ]
     },
-    {
+    "48": {
         "ID": 48,
         "ANBPEBFFPEJ": 48,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -2248,7 +2248,7 @@
             }
         ]
     },
-    {
+    "49": {
         "ID": 49,
         "ANBPEBFFPEJ": 49,
         "KNNIBEIBOJM": "CARD_TAG_PHYSICS",
@@ -2297,7 +2297,7 @@
             }
         ]
     },
-    {
+    "50": {
         "ID": 50,
         "ANBPEBFFPEJ": 50,
         "KNNIBEIBOJM": "CARD_TAG_PHYSICS",
@@ -2341,7 +2341,7 @@
             }
         ]
     },
-    {
+    "51": {
         "ID": 51,
         "ANBPEBFFPEJ": 51,
         "KNNIBEIBOJM": "CARD_TAG_PHYSICS",
@@ -2390,7 +2390,7 @@
             }
         ]
     },
-    {
+    "52": {
         "ID": 52,
         "ANBPEBFFPEJ": 52,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2439,7 +2439,7 @@
             }
         ]
     },
-    {
+    "53": {
         "ID": 53,
         "ANBPEBFFPEJ": 53,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2482,7 +2482,7 @@
             }
         ]
     },
-    {
+    "54": {
         "ID": 54,
         "ANBPEBFFPEJ": 54,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2528,7 +2528,7 @@
             }
         ]
     },
-    {
+    "55": {
         "ID": 55,
         "ANBPEBFFPEJ": 55,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2573,7 +2573,7 @@
             }
         ]
     },
-    {
+    "56": {
         "ID": 56,
         "ANBPEBFFPEJ": 56,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2619,7 +2619,7 @@
             }
         ]
     },
-    {
+    "57": {
         "ID": 57,
         "ANBPEBFFPEJ": 57,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2665,7 +2665,7 @@
             }
         ]
     },
-    {
+    "58": {
         "ID": 58,
         "ANBPEBFFPEJ": 58,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2714,7 +2714,7 @@
             }
         ]
     },
-    {
+    "59": {
         "ID": 59,
         "ANBPEBFFPEJ": 59,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2763,7 +2763,7 @@
             }
         ]
     },
-    {
+    "60": {
         "ID": 60,
         "ANBPEBFFPEJ": 60,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2809,7 +2809,7 @@
             }
         ]
     },
-    {
+    "61": {
         "ID": 61,
         "ANBPEBFFPEJ": 61,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2857,7 +2857,7 @@
             }
         ]
     },
-    {
+    "62": {
         "ID": 62,
         "ANBPEBFFPEJ": 62,
         "KNNIBEIBOJM": "CARD_TAG_HELP",
@@ -2903,7 +2903,7 @@
             }
         ]
     },
-    {
+    "63": {
         "ID": 63,
         "ANBPEBFFPEJ": 63,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -2948,7 +2948,7 @@
             }
         ]
     },
-    {
+    "64": {
         "ID": 64,
         "ANBPEBFFPEJ": 64,
         "KNNIBEIBOJM": "CARD_TAG_WATER",
@@ -2999,7 +2999,7 @@
             }
         ]
     },
-    {
+    "65": {
         "ID": 65,
         "ANBPEBFFPEJ": 65,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -3044,7 +3044,7 @@
             }
         ]
     },
-    {
+    "66": {
         "ID": 66,
         "ANBPEBFFPEJ": 66,
         "KNNIBEIBOJM": "CARD_TAG_FIRE",
@@ -3089,7 +3089,7 @@
             }
         ]
     },
-    {
+    "67": {
         "ID": 67,
         "ANBPEBFFPEJ": 67,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -3134,7 +3134,7 @@
             }
         ]
     },
-    {
+    "68": {
         "ID": 68,
         "ANBPEBFFPEJ": 68,
         "KNNIBEIBOJM": "CARD_TAG_ICE",
@@ -3185,7 +3185,7 @@
             }
         ]
     },
-    {
+    "69": {
         "ID": 69,
         "ANBPEBFFPEJ": 69,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -3233,7 +3233,7 @@
             }
         ]
     },
-    {
+    "70": {
         "ID": 70,
         "ANBPEBFFPEJ": 70,
         "KNNIBEIBOJM": "CARD_TAG_WIND",
@@ -3281,7 +3281,7 @@
             }
         ]
     },
-    {
+    "71": {
         "ID": 71,
         "ANBPEBFFPEJ": 71,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -3332,7 +3332,7 @@
             }
         ]
     },
-    {
+    "72": {
         "ID": 72,
         "ANBPEBFFPEJ": 72,
         "KNNIBEIBOJM": "CARD_TAG_ELECTRIC",
@@ -3383,7 +3383,7 @@
             }
         ]
     },
-    {
+    "73": {
         "ID": 73,
         "ANBPEBFFPEJ": 73,
         "KNNIBEIBOJM": "CARD_TAG_PHYSICS",
@@ -3434,7 +3434,7 @@
             }
         ]
     },
-    {
+    "74": {
         "ID": 74,
         "ANBPEBFFPEJ": 74,
         "KNNIBEIBOJM": "CARD_TAG_PHYSICS",
@@ -3479,7 +3479,7 @@
             }
         ]
     },
-    {
+    "75": {
         "ID": 75,
         "ANBPEBFFPEJ": 1,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3524,7 +3524,7 @@
             }
         ]
     },
-    {
+    "76": {
         "ID": 76,
         "ANBPEBFFPEJ": 2,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3569,7 +3569,7 @@
             }
         ]
     },
-    {
+    "77": {
         "ID": 77,
         "ANBPEBFFPEJ": 3,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3609,7 +3609,7 @@
             }
         ]
     },
-    {
+    "78": {
         "ID": 78,
         "ANBPEBFFPEJ": 4,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3651,7 +3651,7 @@
             }
         ]
     },
-    {
+    "79": {
         "ID": 79,
         "ANBPEBFFPEJ": 5,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3695,7 +3695,7 @@
             }
         ]
     },
-    {
+    "80": {
         "ID": 80,
         "ANBPEBFFPEJ": 6,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3735,7 +3735,7 @@
             }
         ]
     },
-    {
+    "81": {
         "ID": 81,
         "ANBPEBFFPEJ": 7,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3778,7 +3778,7 @@
             }
         ]
     },
-    {
+    "82": {
         "ID": 82,
         "ANBPEBFFPEJ": 8,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3820,7 +3820,7 @@
             }
         ]
     },
-    {
+    "83": {
         "ID": 83,
         "ANBPEBFFPEJ": 9,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3872,7 +3872,7 @@
             }
         ]
     },
-    {
+    "84": {
         "ID": 84,
         "ANBPEBFFPEJ": 10,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3924,7 +3924,7 @@
             }
         ]
     },
-    {
+    "85": {
         "ID": 85,
         "ANBPEBFFPEJ": 11,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -3971,7 +3971,7 @@
             }
         ]
     },
-    {
+    "86": {
         "ID": 86,
         "ANBPEBFFPEJ": 12,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -4018,7 +4018,7 @@
             }
         ]
     },
-    {
+    "87": {
         "ID": 87,
         "ANBPEBFFPEJ": 13,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -4059,7 +4059,7 @@
             }
         ]
     },
-    {
+    "88": {
         "ID": 88,
         "ANBPEBFFPEJ": 14,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -4112,7 +4112,7 @@
             }
         ]
     },
-    {
+    "89": {
         "ID": 89,
         "ANBPEBFFPEJ": 15,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -4157,7 +4157,7 @@
             }
         ]
     },
-    {
+    "90": {
         "ID": 90,
         "ANBPEBFFPEJ": 16,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -4208,7 +4208,7 @@
             }
         ]
     },
-    {
+    "91": {
         "ID": 91,
         "ANBPEBFFPEJ": 17,
         "KNNIBEIBOJM": "CARD_TAG_OTHER",
@@ -4249,7 +4249,7 @@
             }
         ]
     },
-    {
+    "92": {
         "ID": 92,
         "ANBPEBFFPEJ": 1,
         "EHJAKGPOLIA": 1,
@@ -4291,7 +4291,7 @@
             }
         ]
     },
-    {
+    "93": {
         "ID": 93,
         "ANBPEBFFPEJ": 2,
         "EHJAKGPOLIA": 1,
@@ -4333,7 +4333,7 @@
             }
         ]
     },
-    {
+    "94": {
         "ID": 94,
         "ANBPEBFFPEJ": 3,
         "EHJAKGPOLIA": 1,
@@ -4375,7 +4375,7 @@
             }
         ]
     },
-    {
+    "95": {
         "ID": 95,
         "ANBPEBFFPEJ": 1,
         "EHJAKGPOLIA": 1,
@@ -4409,7 +4409,7 @@
             }
         ]
     },
-    {
+    "96": {
         "ID": 96,
         "ANBPEBFFPEJ": 2,
         "EHJAKGPOLIA": 1,
@@ -4451,7 +4451,7 @@
             }
         ]
     },
-    {
+    "97": {
         "ID": 97,
         "ANBPEBFFPEJ": 3,
         "EHJAKGPOLIA": 1,
@@ -4493,7 +4493,7 @@
             }
         ]
     },
-    {
+    "98": {
         "ID": 98,
         "ANBPEBFFPEJ": 4,
         "EHJAKGPOLIA": 1,
@@ -4535,7 +4535,7 @@
             }
         ]
     },
-    {
+    "99": {
         "ID": 99,
         "ANBPEBFFPEJ": 5,
         "EHJAKGPOLIA": 1,
@@ -4577,7 +4577,7 @@
             }
         ]
     },
-    {
+    "100": {
         "ID": 100,
         "ANBPEBFFPEJ": 6,
         "EHJAKGPOLIA": 1,
@@ -4619,7 +4619,7 @@
             }
         ]
     },
-    {
+    "101": {
         "ID": 101,
         "ANBPEBFFPEJ": 7,
         "EHJAKGPOLIA": 1,
@@ -4661,7 +4661,7 @@
             }
         ]
     },
-    {
+    "102": {
         "ID": 102,
         "ANBPEBFFPEJ": 8,
         "EHJAKGPOLIA": 1,
@@ -4692,4 +4692,4 @@
             }
         ]
     }
-]
+}

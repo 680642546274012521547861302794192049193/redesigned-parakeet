@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10140101": {
         "id": 10140101,
         "rewardCond": [
             {
@@ -16,7 +16,7 @@
         "condTipTextMapHash": 898088075,
         "condTipDesTextMapHash": 2146054457
     },
-    {
+    "10140102": {
         "id": 10140102,
         "rewardCond": [
             {
@@ -33,7 +33,7 @@
         "condTipTextMapHash": 2498321891,
         "condTipDesTextMapHash": 1519105393
     },
-    {
+    "10140103": {
         "id": 10140103,
         "rewardCond": [
             {
@@ -50,7 +50,7 @@
         "condTipTextMapHash": 3905400819,
         "condTipDesTextMapHash": 121179969
     },
-    {
+    "10140104": {
         "id": 10140104,
         "rewardCond": [
             {
@@ -67,7 +67,7 @@
         "condTipTextMapHash": 4070289027,
         "condTipDesTextMapHash": 2310791161
     },
-    {
+    "10140105": {
         "id": 10140105,
         "rewardCond": [
             {
@@ -84,7 +84,7 @@
         "condTipTextMapHash": 4115715683,
         "condTipDesTextMapHash": 2297205201
     },
-    {
+    "10360101": {
         "id": 10360101,
         "rewardCond": [
             {
@@ -101,7 +101,7 @@
         "condTipTextMapHash": 1734003323,
         "condTipDesTextMapHash": 2490640737
     },
-    {
+    "10360102": {
         "id": 10360102,
         "rewardCond": [
             {
@@ -118,7 +118,7 @@
         "condTipTextMapHash": 4200271803,
         "condTipDesTextMapHash": 3144453689
     },
-    {
+    "10360103": {
         "id": 10360103,
         "rewardCond": [
             {
@@ -135,7 +135,7 @@
         "condTipTextMapHash": 1846664707,
         "condTipDesTextMapHash": 695476937
     },
-    {
+    "10360104": {
         "id": 10360104,
         "rewardCond": [
             {
@@ -152,7 +152,7 @@
         "condTipTextMapHash": 2844827027,
         "condTipDesTextMapHash": 964381433
     },
-    {
+    "10360105": {
         "id": 10360105,
         "rewardCond": [
             {
@@ -169,7 +169,7 @@
         "condTipTextMapHash": 423806011,
         "condTipDesTextMapHash": 2716525329
     },
-    {
+    "10360106": {
         "id": 10360106,
         "rewardCond": [
             {
@@ -186,7 +186,7 @@
         "condTipTextMapHash": 2615983531,
         "condTipDesTextMapHash": 399950473
     },
-    {
+    "10340101": {
         "id": 10340101,
         "rewardCond": [
             {
@@ -203,7 +203,7 @@
         "condTipTextMapHash": 740746043,
         "condTipDesTextMapHash": 3249486041
     },
-    {
+    "10340102": {
         "id": 10340102,
         "rewardCond": [
             {
@@ -220,7 +220,7 @@
         "condTipTextMapHash": 2256236355,
         "condTipDesTextMapHash": 2887661569
     },
-    {
+    "10340103": {
         "id": 10340103,
         "rewardCond": [
             {
@@ -237,7 +237,7 @@
         "condTipTextMapHash": 2026375555,
         "condTipDesTextMapHash": 1499513777
     },
-    {
+    "10340104": {
         "id": 10340104,
         "rewardCond": [
             {
@@ -254,7 +254,7 @@
         "condTipTextMapHash": 828389203,
         "condTipDesTextMapHash": 2064903681
     },
-    {
+    "10340105": {
         "id": 10340105,
         "rewardCond": [
             {
@@ -271,7 +271,7 @@
         "condTipTextMapHash": 1600791419,
         "condTipDesTextMapHash": 1138637849
     },
-    {
+    "10340106": {
         "id": 10340106,
         "rewardCond": [
             {
@@ -288,7 +288,7 @@
         "condTipTextMapHash": 4191275003,
         "condTipDesTextMapHash": 1892598321
     },
-    {
+    "10320101": {
         "id": 10320101,
         "rewardCond": [
             {
@@ -305,7 +305,7 @@
         "condTipTextMapHash": 853107395,
         "condTipDesTextMapHash": 2256135593
     },
-    {
+    "10320102": {
         "id": 10320102,
         "rewardCond": [
             {
@@ -322,7 +322,7 @@
         "condTipTextMapHash": 449758427,
         "condTipDesTextMapHash": 699252985
     },
-    {
+    "10320103": {
         "id": 10320103,
         "rewardCond": [
             {
@@ -339,7 +339,7 @@
         "condTipTextMapHash": 803583243,
         "condTipDesTextMapHash": 720236369
     },
-    {
+    "10320104": {
         "id": 10320104,
         "rewardCond": [
             {
@@ -356,7 +356,7 @@
         "condTipTextMapHash": 3884305011,
         "condTipDesTextMapHash": 782499417
     },
-    {
+    "10320105": {
         "id": 10320105,
         "rewardCond": [
             {
@@ -373,7 +373,7 @@
         "condTipTextMapHash": 3882218203,
         "condTipDesTextMapHash": 3579525857
     },
-    {
+    "10320106": {
         "id": 10320106,
         "rewardCond": [
             {
@@ -390,7 +390,7 @@
         "condTipTextMapHash": 2145483275,
         "condTipDesTextMapHash": 2180466281
     },
-    {
+    "10340201": {
         "id": 10340201,
         "rewardCond": [
             {
@@ -407,7 +407,7 @@
         "condTipTextMapHash": 3074656291,
         "condTipDesTextMapHash": 4080807305
     },
-    {
+    "10340202": {
         "id": 10340202,
         "rewardCond": [
             {
@@ -424,7 +424,7 @@
         "condTipTextMapHash": 2247449755,
         "condTipDesTextMapHash": 4067158377
     },
-    {
+    "10340203": {
         "id": 10340203,
         "rewardCond": [
             {
@@ -441,7 +441,7 @@
         "condTipTextMapHash": 3451241467,
         "condTipDesTextMapHash": 3444641481
     },
-    {
+    "10340204": {
         "id": 10340204,
         "rewardCond": [
             {
@@ -458,7 +458,7 @@
         "condTipTextMapHash": 987905531,
         "condTipDesTextMapHash": 2360043577
     },
-    {
+    "10340205": {
         "id": 10340205,
         "rewardCond": [
             {
@@ -475,7 +475,7 @@
         "condTipTextMapHash": 3130880043,
         "condTipDesTextMapHash": 1262833457
     },
-    {
+    "10340206": {
         "id": 10340206,
         "rewardCond": [
             {
@@ -492,7 +492,7 @@
         "condTipTextMapHash": 2266070395,
         "condTipDesTextMapHash": 3556053769
     },
-    {
+    "10390101": {
         "id": 10390101,
         "rewardCond": [
             {
@@ -509,7 +509,7 @@
         "condTipTextMapHash": 1043122227,
         "condTipDesTextMapHash": 2052141329
     },
-    {
+    "10390102": {
         "id": 10390102,
         "rewardCond": [
             {
@@ -526,7 +526,7 @@
         "condTipTextMapHash": 815483899,
         "condTipDesTextMapHash": 1512409241
     },
-    {
+    "10390103": {
         "id": 10390103,
         "rewardCond": [
             {
@@ -543,7 +543,7 @@
         "condTipTextMapHash": 1975724595,
         "condTipDesTextMapHash": 774933961
     },
-    {
+    "10390104": {
         "id": 10390104,
         "rewardCond": [
             {
@@ -560,7 +560,7 @@
         "condTipTextMapHash": 3319537859,
         "condTipDesTextMapHash": 4165119729
     },
-    {
+    "10390105": {
         "id": 10390105,
         "rewardCond": [
             {
@@ -577,7 +577,7 @@
         "condTipTextMapHash": 3905291739,
         "condTipDesTextMapHash": 55167329
     },
-    {
+    "10500101": {
         "id": 10500101,
         "rewardCond": [
             {
@@ -594,7 +594,7 @@
         "condTipTextMapHash": 2165855283,
         "condTipDesTextMapHash": 4033283713
     },
-    {
+    "10500102": {
         "id": 10500102,
         "rewardCond": [
             {
@@ -611,7 +611,7 @@
         "condTipTextMapHash": 2328025563,
         "condTipDesTextMapHash": 3458747225
     },
-    {
+    "10500103": {
         "id": 10500103,
         "rewardCond": [
             {
@@ -628,7 +628,7 @@
         "condTipTextMapHash": 170248699,
         "condTipDesTextMapHash": 87428473
     },
-    {
+    "10500104": {
         "id": 10500104,
         "rewardCond": [
             {
@@ -645,7 +645,7 @@
         "condTipTextMapHash": 2699063147,
         "condTipDesTextMapHash": 1846745433
     },
-    {
+    "10500105": {
         "id": 10500105,
         "rewardCond": [
             {
@@ -662,7 +662,7 @@
         "condTipTextMapHash": 1696062603,
         "condTipDesTextMapHash": 3250347113
     },
-    {
+    "10500106": {
         "id": 10500106,
         "rewardCond": [
             {
@@ -679,7 +679,7 @@
         "condTipTextMapHash": 2549760731,
         "condTipDesTextMapHash": 3527944041
     },
-    {
+    "10530101": {
         "id": 10530101,
         "rewardCond": [
             {
@@ -696,7 +696,7 @@
         "condTipTextMapHash": 2656469379,
         "condTipDesTextMapHash": 2862532657
     },
-    {
+    "10530102": {
         "id": 10530102,
         "rewardCond": [
             {
@@ -713,7 +713,7 @@
         "condTipTextMapHash": 2584727251,
         "condTipDesTextMapHash": 2734312785
     },
-    {
+    "10530103": {
         "id": 10530103,
         "rewardCond": [
             {
@@ -730,7 +730,7 @@
         "condTipTextMapHash": 2212178539,
         "condTipDesTextMapHash": 3751136169
     },
-    {
+    "10530104": {
         "id": 10530104,
         "rewardCond": [
             {
@@ -747,7 +747,7 @@
         "condTipTextMapHash": 421203371,
         "condTipDesTextMapHash": 283558689
     },
-    {
+    "10530105": {
         "id": 10530105,
         "rewardCond": [
             {
@@ -764,7 +764,7 @@
         "condTipTextMapHash": 2458639323,
         "condTipDesTextMapHash": 2912526969
     },
-    {
+    "10530106": {
         "id": 10530106,
         "rewardCond": [
             {
@@ -781,7 +781,7 @@
         "condTipTextMapHash": 905330259,
         "condTipDesTextMapHash": 2011075521
     },
-    {
+    "10240101": {
         "id": 10240101,
         "rewardCond": [
             {
@@ -798,7 +798,7 @@
         "condTipTextMapHash": 1734938419,
         "condTipDesTextMapHash": 3622384649
     },
-    {
+    "10240102": {
         "id": 10240102,
         "rewardCond": [
             {
@@ -815,7 +815,7 @@
         "condTipTextMapHash": 3760527067,
         "condTipDesTextMapHash": 2064093921
     },
-    {
+    "10240103": {
         "id": 10240103,
         "rewardCond": [
             {
@@ -832,7 +832,7 @@
         "condTipTextMapHash": 302267499,
         "condTipDesTextMapHash": 677248001
     },
-    {
+    "10240104": {
         "id": 10240104,
         "rewardCond": [
             {
@@ -849,7 +849,7 @@
         "condTipTextMapHash": 3781319459,
         "condTipDesTextMapHash": 3784165561
     },
-    {
+    "10240105": {
         "id": 10240105,
         "rewardCond": [
             {
@@ -866,7 +866,7 @@
         "condTipTextMapHash": 3250898587,
         "condTipDesTextMapHash": 2255002409
     },
-    {
+    "10550101": {
         "id": 10550101,
         "rewardCond": [
             {
@@ -883,7 +883,7 @@
         "condTipTextMapHash": 970062267,
         "condTipDesTextMapHash": 3461304657
     },
-    {
+    "10550102": {
         "id": 10550102,
         "rewardCond": [
             {
@@ -900,7 +900,7 @@
         "condTipTextMapHash": 444351163,
         "condTipDesTextMapHash": 3433995537
     },
-    {
+    "10550103": {
         "id": 10550103,
         "rewardCond": [
             {
@@ -917,7 +917,7 @@
         "condTipTextMapHash": 3988733099,
         "condTipDesTextMapHash": 580430065
     },
-    {
+    "10550104": {
         "id": 10550104,
         "rewardCond": [
             {
@@ -934,7 +934,7 @@
         "condTipTextMapHash": 3793949979,
         "condTipDesTextMapHash": 3307252337
     },
-    {
+    "10550105": {
         "id": 10550105,
         "rewardCond": [
             {
@@ -951,7 +951,7 @@
         "condTipTextMapHash": 775657755,
         "condTipDesTextMapHash": 2586876289
     },
-    {
+    "10640101": {
         "id": 10640101,
         "rewardCond": [
             {
@@ -968,7 +968,7 @@
         "condTipTextMapHash": 2512717683,
         "condTipDesTextMapHash": 650299409
     },
-    {
+    "10640102": {
         "id": 10640102,
         "rewardCond": [
             {
@@ -985,7 +985,7 @@
         "condTipTextMapHash": 2760636131,
         "condTipDesTextMapHash": 3791333257
     },
-    {
+    "10640103": {
         "id": 10640103,
         "rewardCond": [
             {
@@ -1002,7 +1002,7 @@
         "condTipTextMapHash": 1769931315,
         "condTipDesTextMapHash": 200007985
     },
-    {
+    "10640104": {
         "id": 10640104,
         "rewardCond": [
             {
@@ -1019,7 +1019,7 @@
         "condTipTextMapHash": 241446899,
         "condTipDesTextMapHash": 1742909873
     },
-    {
+    "10640105": {
         "id": 10640105,
         "rewardCond": [
             {
@@ -1036,7 +1036,7 @@
         "condTipTextMapHash": 3191386507,
         "condTipDesTextMapHash": 1470347089
     },
-    {
+    "10270101": {
         "id": 10270101,
         "rewardCond": [
             {
@@ -1053,7 +1053,7 @@
         "condTipTextMapHash": 1136154363,
         "condTipDesTextMapHash": 934018657
     },
-    {
+    "10270102": {
         "id": 10270102,
         "rewardCond": [
             {
@@ -1070,7 +1070,7 @@
         "condTipTextMapHash": 3187348995,
         "condTipDesTextMapHash": 1191250625
     },
-    {
+    "10270103": {
         "id": 10270103,
         "rewardCond": [
             {
@@ -1087,7 +1087,7 @@
         "condTipTextMapHash": 120854747,
         "condTipDesTextMapHash": 2231058593
     },
-    {
+    "10270104": {
         "id": 10270104,
         "rewardCond": [
             {
@@ -1104,7 +1104,7 @@
         "condTipTextMapHash": 3304068931,
         "condTipDesTextMapHash": 2541002081
     },
-    {
+    "10270105": {
         "id": 10270105,
         "rewardCond": [
             {
@@ -1121,7 +1121,7 @@
         "condTipTextMapHash": 1522096067,
         "condTipDesTextMapHash": 1319952009
     },
-    {
+    "10650101": {
         "id": 10650101,
         "rewardCond": [
             {
@@ -1138,7 +1138,7 @@
         "condTipTextMapHash": 3250803259,
         "condTipDesTextMapHash": 1309187361
     },
-    {
+    "10650102": {
         "id": 10650102,
         "rewardCond": [
             {
@@ -1155,7 +1155,7 @@
         "condTipTextMapHash": 2008720779,
         "condTipDesTextMapHash": 2093835633
     },
-    {
+    "10650103": {
         "id": 10650103,
         "rewardCond": [
             {
@@ -1172,7 +1172,7 @@
         "condTipTextMapHash": 3854058091,
         "condTipDesTextMapHash": 3583352913
     },
-    {
+    "10650104": {
         "id": 10650104,
         "rewardCond": [
             {
@@ -1189,7 +1189,7 @@
         "condTipTextMapHash": 1511468451,
         "condTipDesTextMapHash": 3749102961
     },
-    {
+    "10650105": {
         "id": 10650105,
         "rewardCond": [
             {
@@ -1206,7 +1206,7 @@
         "condTipTextMapHash": 3690517827,
         "condTipDesTextMapHash": 3729883457
     },
-    {
+    "10590101": {
         "id": 10590101,
         "rewardCond": [
             {
@@ -1223,7 +1223,7 @@
         "condTipTextMapHash": 1542636675,
         "condTipDesTextMapHash": 3141724857
     },
-    {
+    "10590102": {
         "id": 10590102,
         "rewardCond": [
             {
@@ -1240,7 +1240,7 @@
         "condTipTextMapHash": 1101974171,
         "condTipDesTextMapHash": 2191173937
     },
-    {
+    "10590103": {
         "id": 10590103,
         "rewardCond": [
             {
@@ -1257,7 +1257,7 @@
         "condTipTextMapHash": 2333931547,
         "condTipDesTextMapHash": 4128703393
     },
-    {
+    "10590104": {
         "id": 10590104,
         "rewardCond": [
             {
@@ -1274,7 +1274,7 @@
         "condTipTextMapHash": 3430551827,
         "condTipDesTextMapHash": 1848975025
     },
-    {
+    "10590105": {
         "id": 10590105,
         "rewardCond": [
             {
@@ -1291,4 +1291,4 @@
         "condTipTextMapHash": 2283028923,
         "condTipDesTextMapHash": 2708443105
     }
-]
+}

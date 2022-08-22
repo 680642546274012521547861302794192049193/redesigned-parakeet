@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10001": {
         "forgeRandomId": 10001,
         "mainRandomItems": [
             {
@@ -16,7 +16,7 @@
             {}
         ]
     },
-    {
+    "10002": {
         "forgeRandomId": 10002,
         "mainRandomItems": [
             {
@@ -33,7 +33,7 @@
             {}
         ]
     },
-    {
+    "10003": {
         "forgeRandomId": 10003,
         "mainRandomItems": [
             {
@@ -50,7 +50,7 @@
             {}
         ]
     },
-    {
+    "10004": {
         "forgeRandomId": 10004,
         "mainRandomItems": [
             {
@@ -67,7 +67,7 @@
             {}
         ]
     },
-    {
+    "10005": {
         "forgeRandomId": 10005,
         "mainRandomItems": [
             {
@@ -84,7 +84,7 @@
             {}
         ]
     },
-    {
+    "20001": {
         "forgeRandomId": 20001,
         "mainRandomItems": [
             {
@@ -101,7 +101,7 @@
             {}
         ]
     },
-    {
+    "20002": {
         "forgeRandomId": 20002,
         "mainRandomItems": [
             {
@@ -118,7 +118,7 @@
             {}
         ]
     },
-    {
+    "20003": {
         "forgeRandomId": 20003,
         "mainRandomItems": [
             {
@@ -135,7 +135,7 @@
             {}
         ]
     },
-    {
+    "20004": {
         "forgeRandomId": 20004,
         "mainRandomItems": [
             {
@@ -152,7 +152,7 @@
             {}
         ]
     },
-    {
+    "20005": {
         "forgeRandomId": 20005,
         "mainRandomItems": [
             {
@@ -169,7 +169,7 @@
             {}
         ]
     },
-    {
+    "20006": {
         "forgeRandomId": 20006,
         "mainRandomItems": [
             {
@@ -186,4 +186,4 @@
             {}
         ]
     }
-]
+}

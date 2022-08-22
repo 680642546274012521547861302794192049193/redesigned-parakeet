@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "groupId": 144004071,
         "configId": 71001,
@@ -7,7 +7,7 @@
         "LDPEKOGEIMP": 71005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "2": {
         "Id": 2,
         "groupId": 144004072,
         "configId": 72001,
@@ -15,7 +15,7 @@
         "LDPEKOGEIMP": 72005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "3": {
         "Id": 3,
         "groupId": 144004073,
         "configId": 73001,
@@ -23,7 +23,7 @@
         "LDPEKOGEIMP": 73005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "4": {
         "Id": 4,
         "groupId": 144004074,
         "configId": 74001,
@@ -31,7 +31,7 @@
         "LDPEKOGEIMP": 74005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "5": {
         "Id": 5,
         "groupId": 144004075,
         "configId": 75001,
@@ -39,7 +39,7 @@
         "LDPEKOGEIMP": 75005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "6": {
         "Id": 6,
         "groupId": 144004076,
         "configId": 76001,
@@ -47,7 +47,7 @@
         "LDPEKOGEIMP": 76005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "7": {
         "Id": 7,
         "groupId": 144002071,
         "configId": 71001,
@@ -55,7 +55,7 @@
         "LDPEKOGEIMP": 71005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "8": {
         "Id": 8,
         "groupId": 144002072,
         "configId": 72001,
@@ -63,7 +63,7 @@
         "LDPEKOGEIMP": 72005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "9": {
         "Id": 9,
         "groupId": 144002074,
         "configId": 74001,
@@ -71,7 +71,7 @@
         "LDPEKOGEIMP": 74005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "10": {
         "Id": 10,
         "groupId": 144002075,
         "configId": 75001,
@@ -79,7 +79,7 @@
         "LDPEKOGEIMP": 75005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "11": {
         "Id": 11,
         "groupId": 144001132,
         "configId": 132001,
@@ -87,7 +87,7 @@
         "LDPEKOGEIMP": 132005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "12": {
         "Id": 12,
         "groupId": 144001133,
         "configId": 133001,
@@ -95,7 +95,7 @@
         "LDPEKOGEIMP": 133005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "13": {
         "Id": 13,
         "groupId": 144001134,
         "configId": 134001,
@@ -103,7 +103,7 @@
         "LDPEKOGEIMP": 134005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "14": {
         "Id": 14,
         "groupId": 144001135,
         "configId": 135001,
@@ -111,7 +111,7 @@
         "LDPEKOGEIMP": 135005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "15": {
         "Id": 15,
         "groupId": 144001136,
         "configId": 136001,
@@ -119,7 +119,7 @@
         "LDPEKOGEIMP": 136005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "16": {
         "Id": 16,
         "groupId": 144001137,
         "configId": 137001,
@@ -127,7 +127,7 @@
         "LDPEKOGEIMP": 137005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "17": {
         "Id": 17,
         "groupId": 144001138,
         "configId": 138001,
@@ -135,7 +135,7 @@
         "LDPEKOGEIMP": 138005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "18": {
         "Id": 18,
         "groupId": 144003034,
         "configId": 34001,
@@ -143,7 +143,7 @@
         "LDPEKOGEIMP": 34005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "19": {
         "Id": 19,
         "groupId": 144003035,
         "configId": 35001,
@@ -151,7 +151,7 @@
         "LDPEKOGEIMP": 35005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "20": {
         "Id": 20,
         "groupId": 144003036,
         "configId": 36001,
@@ -159,7 +159,7 @@
         "LDPEKOGEIMP": 36005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "21": {
         "Id": 21,
         "groupId": 144003037,
         "configId": 37001,
@@ -167,7 +167,7 @@
         "LDPEKOGEIMP": 37005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "22": {
         "Id": 22,
         "groupId": 144003038,
         "configId": 38001,
@@ -175,7 +175,7 @@
         "LDPEKOGEIMP": 38005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "23": {
         "Id": 23,
         "groupId": 144003039,
         "configId": 39001,
@@ -183,7 +183,7 @@
         "LDPEKOGEIMP": 39005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "24": {
         "Id": 24,
         "groupId": 144003040,
         "configId": 40001,
@@ -191,7 +191,7 @@
         "LDPEKOGEIMP": 40005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "25": {
         "Id": 25,
         "groupId": 144003041,
         "configId": 41001,
@@ -199,7 +199,7 @@
         "LDPEKOGEIMP": 41005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "26": {
         "Id": 26,
         "groupId": 144003042,
         "configId": 42001,
@@ -207,7 +207,7 @@
         "LDPEKOGEIMP": 42005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "27": {
         "Id": 27,
         "groupId": 144003043,
         "configId": 43001,
@@ -215,7 +215,7 @@
         "LDPEKOGEIMP": 43005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "28": {
         "Id": 28,
         "groupId": 144003044,
         "configId": 44001,
@@ -223,7 +223,7 @@
         "LDPEKOGEIMP": 44005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "29": {
         "Id": 29,
         "groupId": 144003045,
         "configId": 45001,
@@ -231,7 +231,7 @@
         "LDPEKOGEIMP": 45005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "30": {
         "Id": 30,
         "groupId": 144003046,
         "configId": 46001,
@@ -239,7 +239,7 @@
         "LDPEKOGEIMP": 46005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "31": {
         "Id": 31,
         "groupId": 144002093,
         "configId": 93001,
@@ -248,7 +248,7 @@
         "LDPEKOGEIMP": 93004,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "32": {
         "Id": 32,
         "groupId": 144001042,
         "configId": 42001,
@@ -257,7 +257,7 @@
         "LDPEKOGEIMP": 42004,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "33": {
         "Id": 33,
         "groupId": 144003059,
         "configId": 59001,
@@ -266,7 +266,7 @@
         "LDPEKOGEIMP": 59004,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "34": {
         "Id": 34,
         "groupId": 144004098,
         "configId": 98001,
@@ -274,7 +274,7 @@
         "LDPEKOGEIMP": 98004,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "35": {
         "Id": 35,
         "groupId": 144004070,
         "configId": 70001,
@@ -282,7 +282,7 @@
         "LDPEKOGEIMP": 70005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "36": {
         "Id": 36,
         "groupId": 144004069,
         "configId": 69001,
@@ -290,7 +290,7 @@
         "LDPEKOGEIMP": 69005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "37": {
         "Id": 37,
         "groupId": 144004068,
         "configId": 68001,
@@ -298,7 +298,7 @@
         "LDPEKOGEIMP": 68005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "38": {
         "Id": 38,
         "groupId": 144004067,
         "configId": 67001,
@@ -306,7 +306,7 @@
         "LDPEKOGEIMP": 67005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "39": {
         "Id": 39,
         "groupId": 144003047,
         "configId": 47001,
@@ -314,7 +314,7 @@
         "LDPEKOGEIMP": 47005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "40": {
         "Id": 40,
         "groupId": 144004120,
         "configId": 120001,
@@ -322,7 +322,7 @@
         "LDPEKOGEIMP": 120005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "41": {
         "Id": 41,
         "groupId": 144004121,
         "configId": 121001,
@@ -330,7 +330,7 @@
         "LDPEKOGEIMP": 121005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "42": {
         "Id": 42,
         "groupId": 144004122,
         "configId": 122001,
@@ -338,7 +338,7 @@
         "LDPEKOGEIMP": 122005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "43": {
         "Id": 43,
         "groupId": 144004123,
         "configId": 123001,
@@ -346,7 +346,7 @@
         "LDPEKOGEIMP": 123005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "44": {
         "Id": 44,
         "groupId": 144004124,
         "configId": 124001,
@@ -354,7 +354,7 @@
         "LDPEKOGEIMP": 124005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "45": {
         "Id": 45,
         "groupId": 144004125,
         "configId": 125001,
@@ -362,7 +362,7 @@
         "LDPEKOGEIMP": 125005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "46": {
         "Id": 46,
         "groupId": 144004126,
         "configId": 126001,
@@ -370,7 +370,7 @@
         "LDPEKOGEIMP": 126005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "47": {
         "Id": 47,
         "groupId": 144004127,
         "configId": 127001,
@@ -378,7 +378,7 @@
         "LDPEKOGEIMP": 127005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "48": {
         "Id": 48,
         "groupId": 144004128,
         "configId": 128001,
@@ -386,7 +386,7 @@
         "LDPEKOGEIMP": 128005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "49": {
         "Id": 49,
         "groupId": 144001189,
         "configId": 189001,
@@ -394,7 +394,7 @@
         "LDPEKOGEIMP": 189005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "50": {
         "Id": 50,
         "groupId": 144001139,
         "configId": 139001,
@@ -402,7 +402,7 @@
         "LDPEKOGEIMP": 139005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "51": {
         "Id": 51,
         "groupId": 144001140,
         "configId": 140001,
@@ -410,7 +410,7 @@
         "LDPEKOGEIMP": 140005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "52": {
         "Id": 52,
         "groupId": 144003061,
         "configId": 61001,
@@ -418,7 +418,7 @@
         "LDPEKOGEIMP": 61005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "53": {
         "Id": 53,
         "groupId": 144003062,
         "configId": 62001,
@@ -426,7 +426,7 @@
         "LDPEKOGEIMP": 62005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "54": {
         "Id": 54,
         "groupId": 144003063,
         "configId": 63001,
@@ -434,7 +434,7 @@
         "LDPEKOGEIMP": 63005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "55": {
         "Id": 55,
         "groupId": 144003064,
         "configId": 64001,
@@ -442,7 +442,7 @@
         "LDPEKOGEIMP": 64005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "56": {
         "Id": 56,
         "groupId": 144003065,
         "configId": 65001,
@@ -450,7 +450,7 @@
         "LDPEKOGEIMP": 65005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "57": {
         "Id": 57,
         "groupId": 144003066,
         "configId": 66001,
@@ -458,7 +458,7 @@
         "LDPEKOGEIMP": 66005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "58": {
         "Id": 58,
         "groupId": 144003067,
         "configId": 67001,
@@ -466,7 +466,7 @@
         "LDPEKOGEIMP": 67005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "59": {
         "Id": 59,
         "groupId": 144002073,
         "configId": 73001,
@@ -474,7 +474,7 @@
         "LDPEKOGEIMP": 73005,
         "MGPHHMIKJKL": 45001001
     },
-    {
+    "60": {
         "Id": 60,
         "groupId": 144002076,
         "configId": 76001,
@@ -482,4 +482,4 @@
         "LDPEKOGEIMP": 76005,
         "MGPHHMIKJKL": 45001001
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "descTextMapHash": 763285609,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -8,7 +8,7 @@
         "exclusiveId": 1,
         "score": 150
     },
-    {
+    "2": {
         "id": 2,
         "descTextMapHash": 1467793089,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -17,7 +17,7 @@
         "exclusiveId": 1,
         "score": 300
     },
-    {
+    "3": {
         "id": 3,
         "descTextMapHash": 4283598977,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -26,7 +26,7 @@
         "exclusiveId": 1,
         "score": 400
     },
-    {
+    "4": {
         "id": 4,
         "descTextMapHash": 4124962281,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -35,7 +35,7 @@
         "exclusiveId": 1,
         "score": 300
     },
-    {
+    "5": {
         "id": 5,
         "descTextMapHash": 954095513,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -44,7 +44,7 @@
         "exclusiveId": 1,
         "score": 200
     },
-    {
+    "6": {
         "id": 6,
         "descTextMapHash": 1757935817,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -53,7 +53,7 @@
         "exclusiveId": 1,
         "score": 100
     },
-    {
+    "11": {
         "id": 11,
         "descTextMapHash": 714970577,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -63,7 +63,7 @@
         "exclusiveId": 2,
         "score": 150
     },
-    {
+    "12": {
         "id": 12,
         "descTextMapHash": 3074595617,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -73,7 +73,7 @@
         "exclusiveId": 2,
         "score": 300
     },
-    {
+    "13": {
         "id": 13,
         "descTextMapHash": 422746513,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -83,7 +83,7 @@
         "exclusiveId": 2,
         "score": 400
     },
-    {
+    "21": {
         "id": 21,
         "descTextMapHash": 1846799313,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -91,7 +91,7 @@
         "conditionParam1": 1411,
         "score": 25
     },
-    {
+    "22": {
         "id": 22,
         "descTextMapHash": 1816746097,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -99,7 +99,7 @@
         "conditionParam1": 1412,
         "score": 25
     },
-    {
+    "23": {
         "id": 23,
         "descTextMapHash": 555682633,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -107,7 +107,7 @@
         "conditionParam1": 1413,
         "score": 25
     },
-    {
+    "24": {
         "id": 24,
         "descTextMapHash": 23134561,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -115,7 +115,7 @@
         "conditionParam1": 1414,
         "score": 25
     },
-    {
+    "25": {
         "id": 25,
         "descTextMapHash": 3236825849,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -123,7 +123,7 @@
         "conditionParam1": 1415,
         "score": 25
     },
-    {
+    "26": {
         "id": 26,
         "descTextMapHash": 1283631281,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -131,7 +131,7 @@
         "conditionParam1": 1416,
         "score": 25
     },
-    {
+    "27": {
         "id": 27,
         "descTextMapHash": 3332020617,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -139,7 +139,7 @@
         "conditionParam1": 1417,
         "score": 25
     },
-    {
+    "28": {
         "id": 28,
         "descTextMapHash": 3973665105,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -147,7 +147,7 @@
         "conditionParam1": 1418,
         "score": 50
     },
-    {
+    "31": {
         "id": 31,
         "descTextMapHash": 2806958057,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -155,7 +155,7 @@
         "conditionParam1": 1421,
         "score": 25
     },
-    {
+    "32": {
         "id": 32,
         "descTextMapHash": 2857687785,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -163,7 +163,7 @@
         "conditionParam1": 1422,
         "score": 50
     },
-    {
+    "33": {
         "id": 33,
         "descTextMapHash": 1954320569,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -171,7 +171,7 @@
         "conditionParam1": 1423,
         "score": 25
     },
-    {
+    "34": {
         "id": 34,
         "descTextMapHash": 2303741265,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -179,7 +179,7 @@
         "conditionParam1": 1424,
         "score": 25
     },
-    {
+    "41": {
         "id": 41,
         "descTextMapHash": 1600819129,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -187,7 +187,7 @@
         "conditionParam1": 1431,
         "score": 50
     },
-    {
+    "42": {
         "id": 42,
         "descTextMapHash": 498743185,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -195,7 +195,7 @@
         "conditionParam1": 1432,
         "score": 50
     },
-    {
+    "43": {
         "id": 43,
         "descTextMapHash": 1331076713,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -203,7 +203,7 @@
         "conditionParam1": 1434,
         "score": 50
     },
-    {
+    "44": {
         "id": 44,
         "descTextMapHash": 437396345,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -211,7 +211,7 @@
         "conditionParam1": 1441,
         "score": 25
     },
-    {
+    "45": {
         "id": 45,
         "descTextMapHash": 2561190529,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -219,7 +219,7 @@
         "conditionParam1": 1438,
         "score": 25
     },
-    {
+    "46": {
         "id": 46,
         "descTextMapHash": 323580585,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -227,7 +227,7 @@
         "conditionParam1": 1439,
         "score": 25
     },
-    {
+    "47": {
         "id": 47,
         "descTextMapHash": 2033284281,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -235,7 +235,7 @@
         "conditionParam1": 1440,
         "score": 25
     },
-    {
+    "48": {
         "id": 48,
         "descTextMapHash": 1450923281,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -243,7 +243,7 @@
         "conditionParam1": 1433,
         "score": 25
     },
-    {
+    "49": {
         "id": 49,
         "descTextMapHash": 716806897,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -251,7 +251,7 @@
         "conditionParam1": 1436,
         "score": 25
     },
-    {
+    "50": {
         "id": 50,
         "descTextMapHash": 39879177,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -259,49 +259,49 @@
         "conditionParam1": 1437,
         "score": 25
     },
-    {
+    "101": {
         "id": 101,
         "descTextMapHash": 1675884529,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "102": {
         "id": 102,
         "descTextMapHash": 2228302769,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 25
     },
-    {
+    "103": {
         "id": 103,
         "descTextMapHash": 3325410537,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "104": {
         "id": 104,
         "descTextMapHash": 2910965865,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "105": {
         "id": 105,
         "descTextMapHash": 3111801753,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "111": {
         "id": 111,
         "descTextMapHash": 1453564729,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "112": {
         "id": 112,
         "descTextMapHash": 39214049,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -309,7 +309,7 @@
         "conditionParam1": 1453,
         "score": 50
     },
-    {
+    "113": {
         "id": 113,
         "descTextMapHash": 1180329273,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -317,28 +317,28 @@
         "conditionParam1": 1454,
         "score": 50
     },
-    {
+    "114": {
         "id": 114,
         "descTextMapHash": 4263820945,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 25
     },
-    {
+    "121": {
         "id": 121,
         "descTextMapHash": 1289355961,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "122": {
         "id": 122,
         "descTextMapHash": 2099223793,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "123": {
         "id": 123,
         "descTextMapHash": 2193601121,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -346,7 +346,7 @@
         "conditionParam1": 1452,
         "score": 25
     },
-    {
+    "124": {
         "id": 124,
         "descTextMapHash": 1559965553,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -354,42 +354,42 @@
         "conditionParam1": 1451,
         "score": 25
     },
-    {
+    "131": {
         "id": 131,
         "descTextMapHash": 1217082321,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "132": {
         "id": 132,
         "descTextMapHash": 1287538489,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "133": {
         "id": 133,
         "descTextMapHash": 259653697,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "134": {
         "id": 134,
         "descTextMapHash": 4143775377,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 25
     },
-    {
+    "135": {
         "id": 135,
         "descTextMapHash": 650263865,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 25
     },
-    {
+    "201": {
         "id": 201,
         "descTextMapHash": 1268868913,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -398,7 +398,7 @@
         "exclusiveId": 1,
         "score": 150
     },
-    {
+    "202": {
         "id": 202,
         "descTextMapHash": 208938953,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -407,7 +407,7 @@
         "exclusiveId": 1,
         "score": 300
     },
-    {
+    "203": {
         "id": 203,
         "descTextMapHash": 2995193225,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -416,7 +416,7 @@
         "exclusiveId": 1,
         "score": 400
     },
-    {
+    "204": {
         "id": 204,
         "descTextMapHash": 1351947601,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -425,7 +425,7 @@
         "exclusiveId": 1,
         "score": 300
     },
-    {
+    "205": {
         "id": 205,
         "descTextMapHash": 341970497,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -434,7 +434,7 @@
         "exclusiveId": 1,
         "score": 200
     },
-    {
+    "206": {
         "id": 206,
         "descTextMapHash": 3569360017,
         "conditionType": "CHANNELLER_SLAB_CONDITION_LIMIT",
@@ -443,7 +443,7 @@
         "exclusiveId": 1,
         "score": 100
     },
-    {
+    "211": {
         "id": 211,
         "descTextMapHash": 1150596369,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -453,7 +453,7 @@
         "exclusiveId": 2,
         "score": 150
     },
-    {
+    "212": {
         "id": 212,
         "descTextMapHash": 3355515913,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -463,7 +463,7 @@
         "exclusiveId": 2,
         "score": 300
     },
-    {
+    "213": {
         "id": 213,
         "descTextMapHash": 747506089,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -473,7 +473,7 @@
         "exclusiveId": 2,
         "score": 400
     },
-    {
+    "228": {
         "id": 228,
         "descTextMapHash": 1111768489,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -481,7 +481,7 @@
         "conditionParam1": 1648,
         "score": 50
     },
-    {
+    "231": {
         "id": 231,
         "descTextMapHash": 1853972017,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -489,7 +489,7 @@
         "conditionParam1": 1649,
         "score": 25
     },
-    {
+    "232": {
         "id": 232,
         "descTextMapHash": 3156752841,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -497,7 +497,7 @@
         "conditionParam1": 1650,
         "score": 25
     },
-    {
+    "233": {
         "id": 233,
         "descTextMapHash": 553344889,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -505,7 +505,7 @@
         "conditionParam1": 1423,
         "score": 25
     },
-    {
+    "234": {
         "id": 234,
         "descTextMapHash": 3189285737,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -513,7 +513,7 @@
         "conditionParam1": 1662,
         "score": 25
     },
-    {
+    "241": {
         "id": 241,
         "descTextMapHash": 3753292465,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -521,7 +521,7 @@
         "conditionParam1": 1651,
         "score": 50
     },
-    {
+    "242": {
         "id": 242,
         "descTextMapHash": 2162576025,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -529,7 +529,7 @@
         "conditionParam1": 1652,
         "score": 50
     },
-    {
+    "243": {
         "id": 243,
         "descTextMapHash": 805126209,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -537,7 +537,7 @@
         "conditionParam1": 1654,
         "score": 25
     },
-    {
+    "244": {
         "id": 244,
         "descTextMapHash": 2999983129,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -545,7 +545,7 @@
         "conditionParam1": 1660,
         "score": 25
     },
-    {
+    "245": {
         "id": 245,
         "descTextMapHash": 3906374177,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -553,7 +553,7 @@
         "conditionParam1": 1657,
         "score": 50
     },
-    {
+    "246": {
         "id": 246,
         "descTextMapHash": 1986489473,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -561,7 +561,7 @@
         "conditionParam1": 1658,
         "score": 50
     },
-    {
+    "247": {
         "id": 247,
         "descTextMapHash": 1466891129,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -569,7 +569,7 @@
         "conditionParam1": 1659,
         "score": 50
     },
-    {
+    "248": {
         "id": 248,
         "descTextMapHash": 2259124689,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -577,7 +577,7 @@
         "conditionParam1": 1653,
         "score": 50
     },
-    {
+    "249": {
         "id": 249,
         "descTextMapHash": 1339280393,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -585,7 +585,7 @@
         "conditionParam1": 1655,
         "score": 25
     },
-    {
+    "250": {
         "id": 250,
         "descTextMapHash": 3608742361,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -593,35 +593,35 @@
         "conditionParam1": 1656,
         "score": 25
     },
-    {
+    "301": {
         "id": 301,
         "descTextMapHash": 1773471897,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 75
     },
-    {
+    "302": {
         "id": 302,
         "descTextMapHash": 2155940121,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 25
     },
-    {
+    "303": {
         "id": 303,
         "descTextMapHash": 58435209,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "304": {
         "id": 304,
         "descTextMapHash": 4231627121,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "311": {
         "id": 311,
         "descTextMapHash": 303743961,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -629,7 +629,7 @@
         "conditionParam1": 1643,
         "score": 50
     },
-    {
+    "312": {
         "id": 312,
         "descTextMapHash": 2221568897,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -637,28 +637,28 @@
         "conditionParam1": 1644,
         "score": 25
     },
-    {
+    "313": {
         "id": 313,
         "descTextMapHash": 2202564425,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 75
     },
-    {
+    "314": {
         "id": 314,
         "descTextMapHash": 1346372193,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 50
     },
-    {
+    "315": {
         "id": 315,
         "descTextMapHash": 3045907425,
         "conditionType": "CHANNELLER_SLAB_LINEUP_REPLACE",
         "icon": "",
         "score": 75
     },
-    {
+    "321": {
         "id": 321,
         "descTextMapHash": 1341493665,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -666,7 +666,7 @@
         "conditionParam1": 1642,
         "score": 25
     },
-    {
+    "322": {
         "id": 322,
         "descTextMapHash": 1952351137,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -674,7 +674,7 @@
         "conditionParam1": 1641,
         "score": 50
     },
-    {
+    "323": {
         "id": 323,
         "descTextMapHash": 4020458049,
         "conditionType": "CHANNELLER_SLAB_CONDITION_CONFIG",
@@ -682,4 +682,4 @@
         "conditionParam1": 1661,
         "score": 50
     }
-]
+}

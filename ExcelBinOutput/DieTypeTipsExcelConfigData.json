@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "dieType": "PLAYER_DIE_ABYSS",
         "tips": [
@@ -9,7 +9,7 @@
             3110632689
         ]
     },
-    {
+    "2": {
         "id": 2,
         "dieType": "PLAYER_DIE_FALL",
         "tips": [
@@ -19,7 +19,7 @@
             2211102201
         ]
     },
-    {
+    "3": {
         "id": 3,
         "dieType": "PLAYER_DIE_DRAWN",
         "tips": [
@@ -29,7 +29,7 @@
             1732688361
         ]
     },
-    {
+    "4": {
         "id": 4,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 1,
@@ -40,7 +40,7 @@
             3841752913
         ]
     },
-    {
+    "5": {
         "id": 5,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21020101,
@@ -51,7 +51,7 @@
             851120865
         ]
     },
-    {
+    "6": {
         "id": 6,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21020201,
@@ -62,7 +62,7 @@
             412538793
         ]
     },
-    {
+    "7": {
         "id": 7,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20020101,
@@ -73,7 +73,7 @@
             3234656713
         ]
     },
-    {
+    "8": {
         "id": 8,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 22010101,
@@ -84,7 +84,7 @@
             2805238865
         ]
     },
-    {
+    "9": {
         "id": 9,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 22010201,
@@ -95,7 +95,7 @@
             3429877265
         ]
     },
-    {
+    "10": {
         "id": 10,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 22010301,
@@ -106,7 +106,7 @@
             857634129
         ]
     },
-    {
+    "11": {
         "id": 11,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20011201,
@@ -117,7 +117,7 @@
             3120696273
         ]
     },
-    {
+    "12": {
         "id": 12,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20011301,
@@ -128,7 +128,7 @@
             3813658713
         ]
     },
-    {
+    "13": {
         "id": 13,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20011401,
@@ -139,7 +139,7 @@
             3567090977
         ]
     },
-    {
+    "14": {
         "id": 14,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20011501,
@@ -150,7 +150,7 @@
             4085623233
         ]
     },
-    {
+    "15": {
         "id": 15,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010301,
@@ -161,7 +161,7 @@
             2560718153
         ]
     },
-    {
+    "16": {
         "id": 16,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010401,
@@ -172,7 +172,7 @@
             2142491929
         ]
     },
-    {
+    "17": {
         "id": 17,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010101,
@@ -183,7 +183,7 @@
             2982042481
         ]
     },
-    {
+    "18": {
         "id": 18,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010201,
@@ -194,7 +194,7 @@
             3776208241
         ]
     },
-    {
+    "19": {
         "id": 19,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010801,
@@ -205,7 +205,7 @@
             2490151209
         ]
     },
-    {
+    "20": {
         "id": 20,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010901,
@@ -216,7 +216,7 @@
             3177989977
         ]
     },
-    {
+    "21": {
         "id": 21,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010501,
@@ -227,7 +227,7 @@
             598432897
         ]
     },
-    {
+    "22": {
         "id": 22,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010601,
@@ -238,7 +238,7 @@
             3617446833
         ]
     },
-    {
+    "23": {
         "id": 23,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20010701,
@@ -249,7 +249,7 @@
             2645550945
         ]
     },
-    {
+    "24": {
         "id": 24,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20011001,
@@ -260,7 +260,7 @@
             4196594241
         ]
     },
-    {
+    "25": {
         "id": 25,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 20011101,
@@ -271,7 +271,7 @@
             1309473617
         ]
     },
-    {
+    "26": {
         "id": 26,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21030101,
@@ -282,7 +282,7 @@
             2627526345
         ]
     },
-    {
+    "27": {
         "id": 27,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21030201,
@@ -293,7 +293,7 @@
             4023488801
         ]
     },
-    {
+    "28": {
         "id": 28,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21030301,
@@ -304,7 +304,7 @@
             2289276705
         ]
     },
-    {
+    "29": {
         "id": 29,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 24010101,
@@ -315,7 +315,7 @@
             797698993
         ]
     },
-    {
+    "30": {
         "id": 30,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010101,
@@ -326,7 +326,7 @@
             128407937
         ]
     },
-    {
+    "31": {
         "id": 31,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010201,
@@ -337,7 +337,7 @@
             3165386497
         ]
     },
-    {
+    "32": {
         "id": 32,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010301,
@@ -348,7 +348,7 @@
             936215553
         ]
     },
-    {
+    "33": {
         "id": 33,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010401,
@@ -359,7 +359,7 @@
             2668623185
         ]
     },
-    {
+    "34": {
         "id": 34,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010501,
@@ -370,7 +370,7 @@
             1749570961
         ]
     },
-    {
+    "35": {
         "id": 35,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010601,
@@ -381,7 +381,7 @@
             3394037305
         ]
     },
-    {
+    "36": {
         "id": 36,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010701,
@@ -392,7 +392,7 @@
             1843890489
         ]
     },
-    {
+    "37": {
         "id": 37,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010801,
@@ -403,7 +403,7 @@
             408721617
         ]
     },
-    {
+    "38": {
         "id": 38,
         "dieType": "PLAYER_DIE_KILL_BY_MONSTER",
         "monsterID": 21010901,
@@ -414,4 +414,4 @@
             1505762833
         ]
     }
-]
+}

@@ -1,33 +1,33 @@
-[
-    {
+{
+    "10": {
         "id": 10,
         "rewardId": 3049001,
         "CNNIFODONBP": 4
     },
-    {
+    "11": {
         "id": 11,
         "rewardId": 3049002,
         "CNNIFODONBP": 8
     },
-    {
+    "12": {
         "id": 12,
         "rewardId": 3049003,
         "CNNIFODONBP": 12
     },
-    {
+    "13": {
         "id": 13,
         "rewardId": 3049004,
         "CNNIFODONBP": 16
     },
-    {
+    "14": {
         "id": 14,
         "rewardId": 3049005,
         "CNNIFODONBP": 20
     },
-    {
+    "15": {
         "id": 15,
         "rewardId": 3049006,
         "CNNIFODONBP": 16,
         "HOHNNFLAJFE": true
     }
-]
+}

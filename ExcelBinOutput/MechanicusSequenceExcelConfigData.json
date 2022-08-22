@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "sequenceID": 1,
         "mechanicusID": 1,
         "openLevel": 2,
@@ -20,7 +20,7 @@
         "condID": 2002301,
         "rewardPreviewID": 30701
     },
-    {
+    "2": {
         "sequenceID": 2,
         "mechanicusID": 1,
         "openLevel": 3,
@@ -43,7 +43,7 @@
         "condID": 2002302,
         "rewardPreviewID": 30701
     },
-    {
+    "3": {
         "sequenceID": 3,
         "mechanicusID": 1,
         "openLevel": 4,
@@ -68,7 +68,7 @@
         "condID": 2002303,
         "rewardPreviewID": 30701
     },
-    {
+    "4": {
         "sequenceID": 4,
         "mechanicusID": 1,
         "openLevel": 5,
@@ -95,7 +95,7 @@
         "condID": 2002304,
         "rewardPreviewID": 30701
     },
-    {
+    "5": {
         "sequenceID": 5,
         "mechanicusID": 1,
         "openLevel": 6,
@@ -124,7 +124,7 @@
         "condID": 2002305,
         "rewardPreviewID": 30701
     },
-    {
+    "6": {
         "sequenceID": 6,
         "mechanicusID": 1,
         "openLevel": 8,
@@ -155,4 +155,4 @@
         "condID": 2002306,
         "rewardPreviewID": 30701
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "levelId": 1,
         "dungeonId": 2150,
         "titleTextMapHash": 50421839,
@@ -26,7 +26,7 @@
             0
         ]
     },
-    {
+    "2": {
         "levelId": 2,
         "dungeonId": 2151,
         "titleTextMapHash": 3269067479,
@@ -52,7 +52,7 @@
             0
         ]
     },
-    {
+    "3": {
         "levelId": 3,
         "dungeonId": 2152,
         "titleTextMapHash": 2843000543,
@@ -78,7 +78,7 @@
             0
         ]
     },
-    {
+    "4": {
         "levelId": 4,
         "dungeonId": 2153,
         "titleTextMapHash": 2302594463,
@@ -104,7 +104,7 @@
             0
         ]
     },
-    {
+    "5": {
         "levelId": 5,
         "dungeonId": 2154,
         "titleTextMapHash": 1322299191,
@@ -131,7 +131,7 @@
             0
         ]
     },
-    {
+    "6": {
         "levelId": 6,
         "dungeonId": 2155,
         "titleTextMapHash": 2540725975,
@@ -157,7 +157,7 @@
             0
         ]
     },
-    {
+    "7": {
         "levelId": 7,
         "dungeonId": 2156,
         "titleTextMapHash": 1087848199,
@@ -183,7 +183,7 @@
             0
         ]
     },
-    {
+    "8": {
         "levelId": 8,
         "dungeonId": 2157,
         "titleTextMapHash": 416117775,
@@ -209,7 +209,7 @@
             0
         ]
     },
-    {
+    "9": {
         "levelId": 9,
         "dungeonId": 2158,
         "titleTextMapHash": 2313234127,
@@ -235,7 +235,7 @@
             0
         ]
     },
-    {
+    "10": {
         "levelId": 10,
         "dungeonId": 2159,
         "titleTextMapHash": 3258181935,
@@ -261,7 +261,7 @@
             0
         ]
     },
-    {
+    "11": {
         "levelId": 11,
         "dungeonId": 2160,
         "titleTextMapHash": 2707292351,
@@ -288,7 +288,7 @@
             0
         ]
     },
-    {
+    "12": {
         "levelId": 12,
         "dungeonId": 2161,
         "titleTextMapHash": 4114678551,
@@ -314,4 +314,4 @@
             0
         ]
     }
-]
+}

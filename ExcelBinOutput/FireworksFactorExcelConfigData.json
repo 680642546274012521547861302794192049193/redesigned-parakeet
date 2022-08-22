@@ -1,5 +1,5 @@
-[
-    {
+{
+    "FIREWORKS_REFORM_PARAM_COLOR": {
         "LHOEAKMKELE": "FIREWORKS_REFORM_PARAM_COLOR",
         "MMOAGIAONFC": 177888720,
         "AJGDONENNIF": "UI_Icon_Fireworks_Colour",
@@ -8,7 +8,7 @@
         "LLGNKLANKFN": 1215821282,
         "CJNAOBAIKKG": 72.0
     },
-    {
+    "FIREWORKS_REFORM_PARAM_SIZE": {
         "LHOEAKMKELE": "FIREWORKS_REFORM_PARAM_SIZE",
         "MMOAGIAONFC": 2624747936,
         "AJGDONENNIF": "UI_Icon_Fireworks_Size",
@@ -17,7 +17,7 @@
         "LLGNKLANKFN": 4241490866,
         "CJNAOBAIKKG": 10.0
     },
-    {
+    "FIREWORKS_REFORM_PARAM_HEIGHT": {
         "LHOEAKMKELE": "FIREWORKS_REFORM_PARAM_HEIGHT",
         "MMOAGIAONFC": 3552851128,
         "AJGDONENNIF": "UI_Icon_Fireworks_High",
@@ -26,7 +26,7 @@
         "LLGNKLANKFN": 1195003210,
         "CJNAOBAIKKG": 22.0
     },
-    {
+    "FIREWORKS_REFORM_PARAM_DENSITY": {
         "LHOEAKMKELE": "FIREWORKS_REFORM_PARAM_DENSITY",
         "MMOAGIAONFC": 982642368,
         "AJGDONENNIF": "UI_Icon_Fireworks_Density",
@@ -35,7 +35,7 @@
         "LLGNKLANKFN": 4265081282,
         "CJNAOBAIKKG": 10.0
     },
-    {
+    "FIREWORKS_REFORM_PARAM_ROTATION": {
         "LHOEAKMKELE": "FIREWORKS_REFORM_PARAM_ROTATION",
         "MMOAGIAONFC": 604642336,
         "AJGDONENNIF": "UI_Icon_Fireworks_Rotation",
@@ -44,4 +44,4 @@
         "LLGNKLANKFN": 2431249506,
         "CJNAOBAIKKG": 72.0
     }
-]
+}

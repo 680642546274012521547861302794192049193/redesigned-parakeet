@@ -1,354 +1,354 @@
-[
-    {
+{
+    "101": {
         "id": 101,
         "monsterId": 21020101,
         "level": 4,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "102": {
         "id": 102,
         "monsterId": 21020101,
         "level": 5,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "103": {
         "id": 103,
         "monsterId": 22010301,
         "level": 6,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "104": {
         "id": 104,
         "monsterId": 21020101,
         "level": 7,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "105": {
         "id": 105,
         "monsterId": 21020101,
         "level": 8,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "106": {
         "id": 106,
         "monsterId": 21020201,
         "level": 9,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "107": {
         "id": 107,
         "monsterId": 22010301,
         "level": 10,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "108": {
         "id": 108,
         "monsterId": 22010201,
         "level": 11,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "109": {
         "id": 109,
         "monsterId": 22010101,
         "level": 12,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "110": {
         "id": 110,
         "monsterId": 20020101,
         "level": 13,
-        "dropTag": "\u5143\u7d20\u4e4b\u6838",
+        "dropTag": "元素之核",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "111": {
         "id": 111,
         "monsterId": 23030101,
         "level": 14,
-        "dropTag": "\u53ec\u5524\u5e08",
+        "dropTag": "召唤师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "112": {
         "id": 112,
         "monsterId": 23020101,
         "level": 15,
-        "dropTag": "\u503a\u52a1\u5904\u7406\u4eba",
+        "dropTag": "债务处理人",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "113": {
         "id": 113,
         "monsterId": 22010301,
         "level": 16,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "114": {
         "id": 114,
         "monsterId": 22010301,
         "level": 17,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "115": {
         "id": 115,
         "monsterId": 20020101,
         "level": 18,
-        "dropTag": "\u5143\u7d20\u4e4b\u6838",
+        "dropTag": "元素之核",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "116": {
         "id": 116,
         "monsterId": 20020101,
         "level": 19,
-        "dropTag": "\u5143\u7d20\u4e4b\u6838",
+        "dropTag": "元素之核",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "117": {
         "id": 117,
         "monsterId": 22010101,
         "level": 20,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "118": {
         "id": 118,
         "monsterId": 22010101,
         "level": 21,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "119": {
         "id": 119,
         "monsterId": 23030101,
         "level": 22,
-        "dropTag": "\u53ec\u5524\u5e08",
+        "dropTag": "召唤师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "120": {
         "id": 120,
         "monsterId": 23030101,
         "level": 23,
-        "dropTag": "\u53ec\u5524\u5e08",
+        "dropTag": "召唤师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "220": {
         "id": 220,
         "monsterId": 23020101,
         "level": 23,
-        "dropTag": "\u503a\u52a1\u5904\u7406\u4eba",
+        "dropTag": "债务处理人",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "320": {
         "id": 320,
         "monsterId": 20020101,
         "level": 23,
-        "dropTag": "\u5143\u7d20\u4e4b\u6838",
+        "dropTag": "元素之核",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "121": {
         "id": 121,
         "monsterId": 21020201,
         "level": 24,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "122": {
         "id": 122,
         "monsterId": 21020201,
         "level": 25,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "123": {
         "id": 123,
         "monsterId": 21020201,
         "level": 26,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "124": {
         "id": 124,
         "monsterId": 20020101,
         "level": 27,
-        "dropTag": "\u5143\u7d20\u4e4b\u6838",
+        "dropTag": "元素之核",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "125": {
         "id": 125,
         "monsterId": 20020101,
         "level": 28,
-        "dropTag": "\u5143\u7d20\u4e4b\u6838",
+        "dropTag": "元素之核",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "225": {
         "id": 225,
         "monsterId": 23020101,
         "level": 28,
-        "dropTag": "\u503a\u52a1\u5904\u7406\u4eba",
+        "dropTag": "债务处理人",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "325": {
         "id": 325,
         "monsterId": 23030101,
         "level": 28,
-        "dropTag": "\u53ec\u5524\u5e08",
+        "dropTag": "召唤师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "126": {
         "id": 126,
         "monsterId": 21020101,
         "level": 29,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "127": {
         "id": 127,
         "monsterId": 21020101,
         "level": 30,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "128": {
         "id": 128,
         "monsterId": 23030101,
         "level": 31,
-        "dropTag": "\u53ec\u5524\u5e08",
+        "dropTag": "召唤师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "129": {
         "id": 129,
         "monsterId": 23030101,
         "level": 32,
-        "dropTag": "\u53ec\u5524\u5e08",
+        "dropTag": "召唤师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "130": {
         "id": 130,
         "monsterId": 22010301,
         "level": 33,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "131": {
         "id": 131,
         "monsterId": 22010301,
         "level": 34,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "132": {
         "id": 132,
         "monsterId": 22010201,
         "level": 35,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "133": {
         "id": 133,
         "monsterId": 22010201,
         "level": 36,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "134": {
         "id": 134,
         "monsterId": 21020201,
         "level": 37,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "135": {
         "id": 135,
         "monsterId": 21020201,
         "level": 38,
-        "dropTag": "\u4e18\u4e18\u66b4\u5f92",
+        "dropTag": "丘丘暴徒",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "136": {
         "id": 136,
         "monsterId": 23020101,
         "level": 39,
-        "dropTag": "\u503a\u52a1\u5904\u7406\u4eba",
+        "dropTag": "债务处理人",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "137": {
         "id": 137,
         "monsterId": 23020101,
         "level": 40,
-        "dropTag": "\u503a\u52a1\u5904\u7406\u4eba",
+        "dropTag": "债务处理人",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "138": {
         "id": 138,
         "monsterId": 22010101,
         "level": 41,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "139": {
         "id": 139,
         "monsterId": 22010101,
         "level": 42,
-        "dropTag": "\u6df1\u6e0a\u6cd5\u5e08",
+        "dropTag": "深渊法师",
         "affixVec": [],
         "isElite": true
     },
-    {
+    "140": {
         "id": 140,
         "monsterId": 20020101,
         "level": 43,
-        "dropTag": "\u5143\u7d20\u4e4b\u6838",
+        "dropTag": "元素之核",
         "affixVec": [],
         "isElite": true
     }
-]
+}

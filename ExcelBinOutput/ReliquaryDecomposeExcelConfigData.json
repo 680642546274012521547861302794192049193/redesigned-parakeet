@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -7,7 +7,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 1546547195
     },
-    {
+    "2": {
         "id": 2,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -15,7 +15,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 3384315403
     },
-    {
+    "3": {
         "id": 3,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -23,7 +23,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 2647824339
     },
-    {
+    "4": {
         "id": 4,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -31,7 +31,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 2634425003
     },
-    {
+    "5": {
         "id": 5,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -39,7 +39,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 2063980115
     },
-    {
+    "6": {
         "id": 6,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -47,7 +47,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 2741324587
     },
-    {
+    "7": {
         "id": 7,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -55,7 +55,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 3968076331
     },
-    {
+    "8": {
         "id": 8,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -63,7 +63,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 1708085347
     },
-    {
+    "9": {
         "id": 9,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -71,7 +71,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 929044307
     },
-    {
+    "10": {
         "id": 10,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -79,7 +79,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 358999507
     },
-    {
+    "11": {
         "id": 11,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -87,7 +87,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 2709374635
     },
-    {
+    "12": {
         "id": 12,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -95,7 +95,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 2863728683
     },
-    {
+    "13": {
         "id": 13,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -103,7 +103,7 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 1949880123
     },
-    {
+    "14": {
         "id": 14,
         "AHJLFFPIHBA": 3,
         "ADICBIKKPBB": 5,
@@ -111,4 +111,4 @@
         "HOGODABEGJG": 39,
         "effectDescTextMapHash": 1716924387
     }
-]
+}

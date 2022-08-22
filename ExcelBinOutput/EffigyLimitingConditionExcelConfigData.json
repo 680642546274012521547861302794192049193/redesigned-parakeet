@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "descTextMapHash": 669859374,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -9,7 +9,7 @@
         "OAIHKEILHMJ": 3344071702,
         "score": 80
     },
-    {
+    "2": {
         "id": 2,
         "descTextMapHash": 3127899294,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -19,7 +19,7 @@
         "OAIHKEILHMJ": 3511648598,
         "score": 100
     },
-    {
+    "3": {
         "id": 3,
         "descTextMapHash": 339842366,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -29,7 +29,7 @@
         "OAIHKEILHMJ": 2017828206,
         "score": 100
     },
-    {
+    "4": {
         "id": 4,
         "descTextMapHash": 2202404070,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -39,7 +39,7 @@
         "OAIHKEILHMJ": 1117355590,
         "score": 100
     },
-    {
+    "5": {
         "id": 5,
         "descTextMapHash": 602637238,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -49,7 +49,7 @@
         "OAIHKEILHMJ": 3009445822,
         "score": 120
     },
-    {
+    "6": {
         "id": 6,
         "descTextMapHash": 2661268774,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -59,7 +59,7 @@
         "OAIHKEILHMJ": 2872850438,
         "score": 120
     },
-    {
+    "7": {
         "id": 7,
         "descTextMapHash": 3847723814,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -69,7 +69,7 @@
         "OAIHKEILHMJ": 3894072910,
         "score": -100
     },
-    {
+    "8": {
         "id": 8,
         "descTextMapHash": 3010740926,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -79,7 +79,7 @@
         "OAIHKEILHMJ": 2293794574,
         "score": -100
     },
-    {
+    "9": {
         "id": 9,
         "descTextMapHash": 549609358,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -89,7 +89,7 @@
         "OAIHKEILHMJ": 1934040758,
         "score": 80
     },
-    {
+    "10": {
         "id": 10,
         "descTextMapHash": 1677229854,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -99,7 +99,7 @@
         "OAIHKEILHMJ": 1268861774,
         "score": 100
     },
-    {
+    "11": {
         "id": 11,
         "descTextMapHash": 1006231782,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -109,7 +109,7 @@
         "OAIHKEILHMJ": 3331837390,
         "score": 100
     },
-    {
+    "12": {
         "id": 12,
         "descTextMapHash": 2542127406,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -119,7 +119,7 @@
         "OAIHKEILHMJ": 382145166,
         "score": 120
     },
-    {
+    "13": {
         "id": 13,
         "descTextMapHash": 82634886,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -129,7 +129,7 @@
         "OAIHKEILHMJ": 3947944046,
         "score": -100
     },
-    {
+    "14": {
         "id": 14,
         "descTextMapHash": 2672973934,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -139,7 +139,7 @@
         "OAIHKEILHMJ": 631022166,
         "score": 80
     },
-    {
+    "15": {
         "id": 15,
         "descTextMapHash": 3998621230,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -149,7 +149,7 @@
         "OAIHKEILHMJ": 3961735158,
         "score": -100
     },
-    {
+    "16": {
         "id": 16,
         "descTextMapHash": 2515589102,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -159,7 +159,7 @@
         "OAIHKEILHMJ": 1116979582,
         "score": 80
     },
-    {
+    "17": {
         "id": 17,
         "descTextMapHash": 1855291870,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -169,7 +169,7 @@
         "OAIHKEILHMJ": 2141625478,
         "score": 80
     },
-    {
+    "18": {
         "id": 18,
         "descTextMapHash": 2216197798,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -179,7 +179,7 @@
         "OAIHKEILHMJ": 3653258774,
         "score": -100
     },
-    {
+    "19": {
         "id": 19,
         "descTextMapHash": 2348953694,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -189,7 +189,7 @@
         "OAIHKEILHMJ": 980844934,
         "score": 120
     },
-    {
+    "20": {
         "id": 20,
         "descTextMapHash": 409858718,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -199,7 +199,7 @@
         "OAIHKEILHMJ": 1881938014,
         "score": 120
     },
-    {
+    "21": {
         "id": 21,
         "descTextMapHash": 73177350,
         "conditionType": "EFFIGY_CONDITION_TIME_LIMIT",
@@ -210,7 +210,7 @@
         "OAIHKEILHMJ": 2167692326,
         "score": 50
     },
-    {
+    "22": {
         "id": 22,
         "descTextMapHash": 4225299254,
         "conditionType": "EFFIGY_CONDITION_TIME_LIMIT",
@@ -221,7 +221,7 @@
         "OAIHKEILHMJ": 1870689054,
         "score": 150
     },
-    {
+    "23": {
         "id": 23,
         "descTextMapHash": 1487930166,
         "conditionType": "EFFIGY_CONDITION_TIME_LIMIT",
@@ -232,7 +232,7 @@
         "OAIHKEILHMJ": 3365475406,
         "score": 250
     },
-    {
+    "24": {
         "id": 24,
         "descTextMapHash": 3372388270,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -242,7 +242,7 @@
         "OAIHKEILHMJ": 3727175150,
         "score": 80
     },
-    {
+    "25": {
         "id": 25,
         "descTextMapHash": 1164131638,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -252,7 +252,7 @@
         "OAIHKEILHMJ": 1834527046,
         "score": 100
     },
-    {
+    "26": {
         "id": 26,
         "descTextMapHash": 1973483350,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -262,7 +262,7 @@
         "OAIHKEILHMJ": 4174602846,
         "score": 100
     },
-    {
+    "27": {
         "id": 27,
         "descTextMapHash": 3879331374,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -272,7 +272,7 @@
         "OAIHKEILHMJ": 2059555102,
         "score": 120
     },
-    {
+    "28": {
         "id": 28,
         "descTextMapHash": 2501310086,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -282,7 +282,7 @@
         "OAIHKEILHMJ": 1342497070,
         "score": -100
     },
-    {
+    "29": {
         "id": 29,
         "descTextMapHash": 2385906558,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -292,7 +292,7 @@
         "OAIHKEILHMJ": 3921101806,
         "score": -100
     },
-    {
+    "30": {
         "id": 30,
         "descTextMapHash": 2832911670,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -302,7 +302,7 @@
         "OAIHKEILHMJ": 497773398,
         "score": -100
     },
-    {
+    "31": {
         "id": 31,
         "descTextMapHash": 3353157046,
         "conditionType": "EFFIGY_CONDITION_TIME_LIMIT",
@@ -313,7 +313,7 @@
         "OAIHKEILHMJ": 2303366318,
         "score": 50
     },
-    {
+    "32": {
         "id": 32,
         "descTextMapHash": 3469538366,
         "conditionType": "EFFIGY_CONDITION_TIME_LIMIT",
@@ -324,7 +324,7 @@
         "OAIHKEILHMJ": 56289854,
         "score": 150
     },
-    {
+    "33": {
         "id": 33,
         "descTextMapHash": 3418925598,
         "conditionType": "EFFIGY_CONDITION_TIME_LIMIT",
@@ -335,7 +335,7 @@
         "OAIHKEILHMJ": 3407985622,
         "score": 250
     },
-    {
+    "34": {
         "id": 34,
         "descTextMapHash": 3589381590,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -345,7 +345,7 @@
         "OAIHKEILHMJ": 229025694,
         "score": 100
     },
-    {
+    "35": {
         "id": 35,
         "descTextMapHash": 2635291646,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -355,7 +355,7 @@
         "OAIHKEILHMJ": 2758055006,
         "score": 100
     },
-    {
+    "36": {
         "id": 36,
         "descTextMapHash": 903639246,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -365,7 +365,7 @@
         "OAIHKEILHMJ": 118860006,
         "score": 100
     },
-    {
+    "37": {
         "id": 37,
         "descTextMapHash": 979809654,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -375,7 +375,7 @@
         "OAIHKEILHMJ": 658434926,
         "score": 100
     },
-    {
+    "38": {
         "id": 38,
         "descTextMapHash": 2298006326,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -385,7 +385,7 @@
         "OAIHKEILHMJ": 3914881110,
         "score": 100
     },
-    {
+    "39": {
         "id": 39,
         "descTextMapHash": 4139488038,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -395,7 +395,7 @@
         "OAIHKEILHMJ": 4195784134,
         "score": 120
     },
-    {
+    "40": {
         "id": 40,
         "descTextMapHash": 1385804878,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -405,7 +405,7 @@
         "OAIHKEILHMJ": 1382102062,
         "score": 120
     },
-    {
+    "41": {
         "id": 41,
         "descTextMapHash": 4242798398,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -415,7 +415,7 @@
         "OAIHKEILHMJ": 1386147262,
         "score": 120
     },
-    {
+    "42": {
         "id": 42,
         "descTextMapHash": 2029503886,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -425,7 +425,7 @@
         "OAIHKEILHMJ": 2318196262,
         "score": 120
     },
-    {
+    "43": {
         "id": 43,
         "descTextMapHash": 4025286566,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -435,7 +435,7 @@
         "OAIHKEILHMJ": 3014908550,
         "score": 120
     },
-    {
+    "44": {
         "id": 44,
         "descTextMapHash": 1104042294,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -445,7 +445,7 @@
         "OAIHKEILHMJ": 13171254,
         "score": 120
     },
-    {
+    "45": {
         "id": 45,
         "descTextMapHash": 2777458526,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -455,7 +455,7 @@
         "OAIHKEILHMJ": 3452269166,
         "score": 120
     },
-    {
+    "46": {
         "id": 46,
         "descTextMapHash": 3535828822,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -465,7 +465,7 @@
         "OAIHKEILHMJ": 3050554110,
         "score": 120
     },
-    {
+    "47": {
         "id": 47,
         "descTextMapHash": 3990069950,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -475,7 +475,7 @@
         "OAIHKEILHMJ": 616113606,
         "score": 120
     },
-    {
+    "48": {
         "id": 48,
         "descTextMapHash": 1306704118,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -485,7 +485,7 @@
         "OAIHKEILHMJ": 174697070,
         "score": -100
     },
-    {
+    "49": {
         "id": 49,
         "descTextMapHash": 1612457678,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -495,7 +495,7 @@
         "OAIHKEILHMJ": 392886510,
         "score": -100
     },
-    {
+    "50": {
         "id": 50,
         "descTextMapHash": 1384847734,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -505,7 +505,7 @@
         "OAIHKEILHMJ": 4284771982,
         "score": -100
     },
-    {
+    "51": {
         "id": 51,
         "descTextMapHash": 2543712870,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -515,7 +515,7 @@
         "OAIHKEILHMJ": 3596940326,
         "score": 100
     },
-    {
+    "52": {
         "id": 52,
         "descTextMapHash": 596528302,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -525,7 +525,7 @@
         "OAIHKEILHMJ": 3271579518,
         "score": 120
     },
-    {
+    "53": {
         "id": 53,
         "descTextMapHash": 3375404542,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -535,7 +535,7 @@
         "OAIHKEILHMJ": 1037847494,
         "score": 80
     },
-    {
+    "54": {
         "id": 54,
         "descTextMapHash": 3292607614,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -545,7 +545,7 @@
         "OAIHKEILHMJ": 2330291374,
         "score": 100
     },
-    {
+    "55": {
         "id": 55,
         "descTextMapHash": 569964510,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -556,7 +556,7 @@
         "OAIHKEILHMJ": 3683780454,
         "score": 50
     },
-    {
+    "56": {
         "id": 56,
         "descTextMapHash": 3053348390,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -567,7 +567,7 @@
         "OAIHKEILHMJ": 1689452990,
         "score": 150
     },
-    {
+    "57": {
         "id": 57,
         "descTextMapHash": 109341342,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -578,7 +578,7 @@
         "OAIHKEILHMJ": 1372942214,
         "score": 250
     },
-    {
+    "58": {
         "id": 58,
         "descTextMapHash": 2391348902,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -595,7 +595,7 @@
         "OAIHKEILHMJ": 4095728814,
         "score": 100
     },
-    {
+    "59": {
         "id": 59,
         "descTextMapHash": 3135518734,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -611,7 +611,7 @@
         "OAIHKEILHMJ": 3226908174,
         "score": 60
     },
-    {
+    "60": {
         "id": 60,
         "descTextMapHash": 446073350,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -627,7 +627,7 @@
         "OAIHKEILHMJ": 527524542,
         "score": 80
     },
-    {
+    "61": {
         "id": 61,
         "descTextMapHash": 3818451166,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -643,7 +643,7 @@
         "OAIHKEILHMJ": 1943796094,
         "score": 100
     },
-    {
+    "62": {
         "id": 62,
         "descTextMapHash": 4107730318,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -659,7 +659,7 @@
         "OAIHKEILHMJ": 737870982,
         "score": 60
     },
-    {
+    "63": {
         "id": 63,
         "descTextMapHash": 913700670,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -675,7 +675,7 @@
         "OAIHKEILHMJ": 4257645766,
         "score": 80
     },
-    {
+    "64": {
         "id": 64,
         "descTextMapHash": 2837694782,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -691,7 +691,7 @@
         "OAIHKEILHMJ": 3430542262,
         "score": 100
     },
-    {
+    "65": {
         "id": 65,
         "descTextMapHash": 3280480854,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -708,7 +708,7 @@
         "OAIHKEILHMJ": 769709518,
         "score": 60
     },
-    {
+    "66": {
         "id": 66,
         "descTextMapHash": 658045462,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -722,7 +722,7 @@
         "OAIHKEILHMJ": 2410638270,
         "score": 60
     },
-    {
+    "67": {
         "id": 67,
         "descTextMapHash": 1414247246,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -736,7 +736,7 @@
         "OAIHKEILHMJ": 1155810686,
         "score": 60
     },
-    {
+    "68": {
         "id": 68,
         "descTextMapHash": 3547690886,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -750,7 +750,7 @@
         "OAIHKEILHMJ": 2049351918,
         "score": 60
     },
-    {
+    "69": {
         "id": 69,
         "descTextMapHash": 1866735686,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -764,7 +764,7 @@
         "OAIHKEILHMJ": 1704386398,
         "score": 60
     },
-    {
+    "70": {
         "id": 70,
         "descTextMapHash": 3161014662,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -778,7 +778,7 @@
         "OAIHKEILHMJ": 1245149438,
         "score": 60
     },
-    {
+    "71": {
         "id": 71,
         "descTextMapHash": 443346662,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -792,7 +792,7 @@
         "OAIHKEILHMJ": 1613363918,
         "score": 60
     },
-    {
+    "72": {
         "id": 72,
         "descTextMapHash": 2074891870,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -807,7 +807,7 @@
         "OAIHKEILHMJ": 3781029494,
         "score": 60
     },
-    {
+    "73": {
         "id": 73,
         "descTextMapHash": 3502464198,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -821,7 +821,7 @@
         "OAIHKEILHMJ": 17525358,
         "score": 60
     },
-    {
+    "74": {
         "id": 74,
         "descTextMapHash": 2337617726,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -835,7 +835,7 @@
         "OAIHKEILHMJ": 13862182,
         "score": 60
     },
-    {
+    "75": {
         "id": 75,
         "descTextMapHash": 2822862606,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -851,7 +851,7 @@
         "OAIHKEILHMJ": 3117409942,
         "score": 60
     },
-    {
+    "76": {
         "id": 76,
         "descTextMapHash": 3346928014,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -867,7 +867,7 @@
         "OAIHKEILHMJ": 2182669078,
         "score": 80
     },
-    {
+    "77": {
         "id": 77,
         "descTextMapHash": 1398379886,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -883,7 +883,7 @@
         "OAIHKEILHMJ": 291189958,
         "score": 100
     },
-    {
+    "78": {
         "id": 78,
         "descTextMapHash": 2820074950,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -893,7 +893,7 @@
         "OAIHKEILHMJ": 617959398,
         "score": 40
     },
-    {
+    "79": {
         "id": 79,
         "descTextMapHash": 3384758558,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -903,7 +903,7 @@
         "OAIHKEILHMJ": 255445614,
         "score": 40
     },
-    {
+    "80": {
         "id": 80,
         "descTextMapHash": 1568535614,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -913,7 +913,7 @@
         "OAIHKEILHMJ": 473508814,
         "score": 40
     },
-    {
+    "81": {
         "id": 81,
         "descTextMapHash": 349994022,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -923,7 +923,7 @@
         "OAIHKEILHMJ": 514393798,
         "score": 40
     },
-    {
+    "82": {
         "id": 82,
         "descTextMapHash": 3178883702,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -933,7 +933,7 @@
         "OAIHKEILHMJ": 4221726934,
         "score": 100
     },
-    {
+    "83": {
         "id": 83,
         "descTextMapHash": 2476464910,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -943,7 +943,7 @@
         "OAIHKEILHMJ": 3611416982,
         "score": 40
     },
-    {
+    "84": {
         "id": 84,
         "descTextMapHash": 2747704494,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -953,7 +953,7 @@
         "OAIHKEILHMJ": 2505764990,
         "score": 40
     },
-    {
+    "85": {
         "id": 85,
         "descTextMapHash": 1091967718,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -964,7 +964,7 @@
         "OAIHKEILHMJ": 1440286342,
         "score": 20
     },
-    {
+    "86": {
         "id": 86,
         "descTextMapHash": 1378429086,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -975,7 +975,7 @@
         "OAIHKEILHMJ": 2080761022,
         "score": 30
     },
-    {
+    "87": {
         "id": 87,
         "descTextMapHash": 1878917510,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -986,7 +986,7 @@
         "OAIHKEILHMJ": 2176669438,
         "score": 50
     },
-    {
+    "88": {
         "id": 88,
         "descTextMapHash": 2428610918,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -997,7 +997,7 @@
         "OAIHKEILHMJ": 2186877558,
         "score": 20
     },
-    {
+    "89": {
         "id": 89,
         "descTextMapHash": 1230209262,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1008,7 +1008,7 @@
         "OAIHKEILHMJ": 3435370678,
         "score": 30
     },
-    {
+    "90": {
         "id": 90,
         "descTextMapHash": 4146646070,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1019,7 +1019,7 @@
         "OAIHKEILHMJ": 1199083358,
         "score": 50
     },
-    {
+    "91": {
         "id": 91,
         "descTextMapHash": 710245142,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1029,7 +1029,7 @@
         "OAIHKEILHMJ": 4079670710,
         "score": 40
     },
-    {
+    "92": {
         "id": 92,
         "descTextMapHash": 3822754102,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1039,7 +1039,7 @@
         "OAIHKEILHMJ": 2015001422,
         "score": 40
     },
-    {
+    "93": {
         "id": 93,
         "descTextMapHash": 2773459670,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1049,7 +1049,7 @@
         "OAIHKEILHMJ": 1590614758,
         "score": 40
     },
-    {
+    "94": {
         "id": 94,
         "descTextMapHash": 2998584870,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1059,7 +1059,7 @@
         "OAIHKEILHMJ": 1699756758,
         "score": 40
     },
-    {
+    "95": {
         "id": 95,
         "descTextMapHash": 1049483614,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1069,7 +1069,7 @@
         "OAIHKEILHMJ": 266980542,
         "score": 40
     },
-    {
+    "96": {
         "id": 96,
         "descTextMapHash": 2383097974,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1079,7 +1079,7 @@
         "OAIHKEILHMJ": 1350732774,
         "score": 40
     },
-    {
+    "97": {
         "id": 97,
         "descTextMapHash": 2001505614,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1090,7 +1090,7 @@
         "OAIHKEILHMJ": 4153686966,
         "score": 20
     },
-    {
+    "98": {
         "id": 98,
         "descTextMapHash": 2643007990,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1101,7 +1101,7 @@
         "OAIHKEILHMJ": 1452066830,
         "score": 30
     },
-    {
+    "99": {
         "id": 99,
         "descTextMapHash": 1301524262,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1112,7 +1112,7 @@
         "OAIHKEILHMJ": 1041394062,
         "score": 50
     },
-    {
+    "100": {
         "id": 100,
         "descTextMapHash": 3474882926,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1122,7 +1122,7 @@
         "OAIHKEILHMJ": 250150478,
         "score": 40
     },
-    {
+    "101": {
         "id": 101,
         "descTextMapHash": 2376403014,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1132,7 +1132,7 @@
         "OAIHKEILHMJ": 2366013726,
         "score": 40
     },
-    {
+    "102": {
         "id": 102,
         "descTextMapHash": 529406414,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1142,7 +1142,7 @@
         "OAIHKEILHMJ": 4174991406,
         "score": 40
     },
-    {
+    "103": {
         "id": 103,
         "descTextMapHash": 3652454926,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1152,7 +1152,7 @@
         "OAIHKEILHMJ": 1953134126,
         "score": 40
     },
-    {
+    "104": {
         "id": 104,
         "descTextMapHash": 1600345862,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1162,7 +1162,7 @@
         "OAIHKEILHMJ": 300417774,
         "score": 40
     },
-    {
+    "105": {
         "id": 105,
         "descTextMapHash": 2030494198,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1173,7 +1173,7 @@
         "OAIHKEILHMJ": 3349021150,
         "score": 20
     },
-    {
+    "106": {
         "id": 106,
         "descTextMapHash": 3266856438,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1184,7 +1184,7 @@
         "OAIHKEILHMJ": 2937881958,
         "score": 30
     },
-    {
+    "107": {
         "id": 107,
         "descTextMapHash": 489465766,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1195,7 +1195,7 @@
         "OAIHKEILHMJ": 3082019590,
         "score": 50
     },
-    {
+    "108": {
         "id": 108,
         "descTextMapHash": 3474775286,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1205,7 +1205,7 @@
         "OAIHKEILHMJ": 1189908134,
         "score": 40
     },
-    {
+    "109": {
         "id": 109,
         "descTextMapHash": 1395884182,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1215,7 +1215,7 @@
         "OAIHKEILHMJ": 715180806,
         "score": 40
     },
-    {
+    "110": {
         "id": 110,
         "descTextMapHash": 1133311454,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1225,7 +1225,7 @@
         "OAIHKEILHMJ": 1080674214,
         "score": 40
     },
-    {
+    "111": {
         "id": 111,
         "descTextMapHash": 4254925494,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1235,7 +1235,7 @@
         "OAIHKEILHMJ": 588371526,
         "score": 40
     },
-    {
+    "112": {
         "id": 112,
         "descTextMapHash": 3656962558,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1245,7 +1245,7 @@
         "OAIHKEILHMJ": 958834974,
         "score": 40
     },
-    {
+    "113": {
         "id": 113,
         "descTextMapHash": 3255651798,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1255,7 +1255,7 @@
         "OAIHKEILHMJ": 2514368350,
         "score": 40
     },
-    {
+    "114": {
         "id": 114,
         "descTextMapHash": 3637332294,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1265,7 +1265,7 @@
         "OAIHKEILHMJ": 1300682358,
         "score": 40
     },
-    {
+    "115": {
         "id": 115,
         "descTextMapHash": 3445185326,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1276,7 +1276,7 @@
         "OAIHKEILHMJ": 1415148326,
         "score": 20
     },
-    {
+    "116": {
         "id": 116,
         "descTextMapHash": 4285369534,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1287,7 +1287,7 @@
         "OAIHKEILHMJ": 2433753006,
         "score": 30
     },
-    {
+    "117": {
         "id": 117,
         "descTextMapHash": 2138083206,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1298,7 +1298,7 @@
         "OAIHKEILHMJ": 2961250446,
         "score": 50
     },
-    {
+    "118": {
         "id": 118,
         "descTextMapHash": 1206288798,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1309,7 +1309,7 @@
         "OAIHKEILHMJ": 973522966,
         "score": 20
     },
-    {
+    "119": {
         "id": 119,
         "descTextMapHash": 928336566,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1320,7 +1320,7 @@
         "OAIHKEILHMJ": 1868305054,
         "score": 30
     },
-    {
+    "120": {
         "id": 120,
         "descTextMapHash": 105121902,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1331,7 +1331,7 @@
         "OAIHKEILHMJ": 3090202134,
         "score": 50
     },
-    {
+    "121": {
         "id": 121,
         "descTextMapHash": 3134344734,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1345,7 +1345,7 @@
         "OAIHKEILHMJ": 3695347374,
         "score": 60
     },
-    {
+    "122": {
         "id": 122,
         "descTextMapHash": 3303011414,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1359,7 +1359,7 @@
         "OAIHKEILHMJ": 887591942,
         "score": 60
     },
-    {
+    "123": {
         "id": 123,
         "descTextMapHash": 2972038774,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1372,7 +1372,7 @@
         "OAIHKEILHMJ": 1369606494,
         "score": 60
     },
-    {
+    "124": {
         "id": 124,
         "descTextMapHash": 242467454,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1382,7 +1382,7 @@
         "OAIHKEILHMJ": 3772058230,
         "score": 40
     },
-    {
+    "125": {
         "id": 125,
         "descTextMapHash": 2246983222,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1392,7 +1392,7 @@
         "OAIHKEILHMJ": 2687611166,
         "score": 40
     },
-    {
+    "126": {
         "id": 126,
         "descTextMapHash": 2879483198,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1406,7 +1406,7 @@
         "OAIHKEILHMJ": 3451017894,
         "score": 60
     },
-    {
+    "127": {
         "id": 127,
         "descTextMapHash": 2035657190,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1420,7 +1420,7 @@
         "OAIHKEILHMJ": 609983470,
         "score": 60
     },
-    {
+    "128": {
         "id": 128,
         "descTextMapHash": 2925369326,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1430,7 +1430,7 @@
         "OAIHKEILHMJ": 4279649982,
         "score": 40
     },
-    {
+    "129": {
         "id": 129,
         "descTextMapHash": 141434270,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1440,7 +1440,7 @@
         "OAIHKEILHMJ": 4087962494,
         "score": 40
     },
-    {
+    "130": {
         "id": 130,
         "descTextMapHash": 3951778926,
         "conditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
@@ -1450,7 +1450,7 @@
         "OAIHKEILHMJ": 379856254,
         "score": 40
     },
-    {
+    "131": {
         "id": 131,
         "descTextMapHash": 3159406278,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1465,7 +1465,7 @@
         "OAIHKEILHMJ": 3287582790,
         "score": 80
     },
-    {
+    "132": {
         "id": 132,
         "descTextMapHash": 932709238,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1480,7 +1480,7 @@
         "OAIHKEILHMJ": 3567369526,
         "score": 100
     },
-    {
+    "133": {
         "id": 133,
         "descTextMapHash": 4043322038,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1494,7 +1494,7 @@
         "OAIHKEILHMJ": 1425978334,
         "score": 60
     },
-    {
+    "134": {
         "id": 134,
         "descTextMapHash": 814480070,
         "conditionType": "EFFIGY_CONDITION_MONSTER_CONFIG",
@@ -1508,4 +1508,4 @@
         "OAIHKEILHMJ": 1166177270,
         "score": 60
     }
-]
+}

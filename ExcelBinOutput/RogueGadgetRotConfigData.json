@@ -1,20 +1,20 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "AGIKBCHILPK": 90
     },
-    {
+    "2": {
         "id": 2,
         "KFIBIGOHDDM": "ROGUE_GADGET_ROT_DOWN",
         "AGIKBCHILPK": 270
     },
-    {
+    "3": {
         "id": 3,
         "KFIBIGOHDDM": "ROGUE_GADGET_ROT_LEFT"
     },
-    {
+    "4": {
         "id": 4,
         "KFIBIGOHDDM": "ROGUE_GADGET_ROT_RIGHT",
         "AGIKBCHILPK": 180
     }
-]
+}

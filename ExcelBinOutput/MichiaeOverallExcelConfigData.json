@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "activityId": 2011,
         "offeringId": 4,
@@ -19,4 +19,4 @@
         "MAOKCHGDDJC": 2,
         "DGJNFLOBIEC": 14
     }
-]
+}

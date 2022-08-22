@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "activityID": 5023,
         "titleTextMapHash": 1351031215,
@@ -93,4 +93,4 @@
         ],
         "scoreItemID": 123
     }
-]
+}

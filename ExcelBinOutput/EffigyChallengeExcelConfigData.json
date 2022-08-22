@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "dayIndex": 1,
         "dungeonId": 4030,
@@ -39,7 +39,7 @@
         ],
         "firstPassRewardId": 3004001
     },
-    {
+    "2": {
         "id": 2,
         "dayIndex": 2,
         "dungeonId": 4034,
@@ -81,7 +81,7 @@
         ],
         "firstPassRewardId": 3004002
     },
-    {
+    "3": {
         "id": 3,
         "dayIndex": 3,
         "dungeonId": 4032,
@@ -126,7 +126,7 @@
         ],
         "firstPassRewardId": 3004003
     },
-    {
+    "4": {
         "id": 4,
         "dayIndex": 4,
         "dungeonId": 4031,
@@ -167,7 +167,7 @@
         ],
         "firstPassRewardId": 3004004
     },
-    {
+    "5": {
         "id": 5,
         "dayIndex": 5,
         "dungeonId": 4035,
@@ -205,7 +205,7 @@
         ],
         "firstPassRewardId": 3004005
     },
-    {
+    "6": {
         "id": 6,
         "dayIndex": 6,
         "dungeonId": 4033,
@@ -250,7 +250,7 @@
         ],
         "firstPassRewardId": 3004006
     },
-    {
+    "7": {
         "id": 7,
         "dayIndex": 7,
         "dungeonId": 4036,
@@ -314,4 +314,4 @@
         ],
         "firstPassRewardId": 3004007
     }
-]
+}

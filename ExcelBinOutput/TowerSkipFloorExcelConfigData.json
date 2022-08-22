@@ -1,47 +1,47 @@
-[
-    {
+{
+    "1": {
         "prevLevelIndex": 1
     },
-    {
+    "2": {
         "prevLevelIndex": 2
     },
-    {
+    "3": {
         "prevLevelIndex": 3
     },
-    {
+    "4": {
         "prevLevelIndex": 4,
         "curLevelIndex": 3
     },
-    {
+    "5": {
         "prevLevelIndex": 5,
         "curLevelIndex": 3
     },
-    {
+    "6": {
         "prevLevelIndex": 6,
         "curLevelIndex": 3
     },
-    {
+    "7": {
         "prevLevelIndex": 7,
         "curLevelIndex": 6
     },
-    {
+    "8": {
         "prevLevelIndex": 8,
         "curLevelIndex": 6
     },
-    {
+    "9": {
         "prevLevelIndex": 9,
         "curLevelIndex": 6
     },
-    {
+    "10": {
         "prevLevelIndex": 10,
         "curLevelIndex": 9
     },
-    {
+    "11": {
         "prevLevelIndex": 11,
         "curLevelIndex": 9
     },
-    {
+    "12": {
         "prevLevelIndex": 12,
         "curLevelIndex": 9
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "titleTextMapHash": 4066796818,
         "chapterId": 2009,
@@ -13,7 +13,7 @@
         "descTextMapHash": 2849570262,
         "sortOrder": 1
     },
-    {
+    "2": {
         "id": 2,
         "titleTextMapHash": 2336825786,
         "chapterId": 2006,
@@ -27,7 +27,7 @@
         "descTextMapHash": 2144613238,
         "sortOrder": 2
     },
-    {
+    "3": {
         "id": 3,
         "titleTextMapHash": 2667970042,
         "chapterId": 2013,
@@ -41,7 +41,7 @@
         "descTextMapHash": 583534958,
         "sortOrder": 3
     },
-    {
+    "4": {
         "id": 4,
         "titleTextMapHash": 667042426,
         "chapterId": 2010,
@@ -55,7 +55,7 @@
         "descTextMapHash": 1399816414,
         "sortOrder": 4
     },
-    {
+    "6": {
         "id": 6,
         "titleTextMapHash": 3951731410,
         "chapterId": 2014,
@@ -68,7 +68,7 @@
         "descTextMapHash": 3597499902,
         "sortOrder": 6
     },
-    {
+    "7": {
         "id": 7,
         "titleTextMapHash": 1304007330,
         "chapterId": 2012,
@@ -82,7 +82,7 @@
         "descTextMapHash": 2987560774,
         "sortOrder": 8
     },
-    {
+    "8": {
         "id": 8,
         "titleTextMapHash": 1816673994,
         "chapterId": 2016,
@@ -95,7 +95,7 @@
         "descTextMapHash": 1839116870,
         "sortOrder": 9
     },
-    {
+    "9": {
         "id": 9,
         "titleTextMapHash": 854305178,
         "chapterId": 2017,
@@ -108,7 +108,7 @@
         "descTextMapHash": 4220746734,
         "sortOrder": 10
     },
-    {
+    "10": {
         "id": 10,
         "titleTextMapHash": 1783730258,
         "chapterId": 2011,
@@ -121,7 +121,7 @@
         "descTextMapHash": 227185262,
         "sortOrder": 11
     },
-    {
+    "11": {
         "id": 11,
         "titleTextMapHash": 1692266882,
         "chapterId": 2018,
@@ -134,7 +134,7 @@
         "descTextMapHash": 2639148086,
         "sortOrder": 12
     },
-    {
+    "12": {
         "id": 12,
         "titleTextMapHash": 3981653346,
         "chapterId": 2020,
@@ -148,7 +148,7 @@
         "descTextMapHash": 3974934246,
         "sortOrder": 7
     },
-    {
+    "13": {
         "id": 13,
         "titleTextMapHash": 4047160194,
         "chapterId": 2019,
@@ -161,7 +161,7 @@
         "descTextMapHash": 4017666022,
         "sortOrder": 13
     },
-    {
+    "14": {
         "id": 14,
         "titleTextMapHash": 4150240458,
         "chapterId": 2023,
@@ -174,7 +174,7 @@
         "descTextMapHash": 709524406,
         "sortOrder": 14
     },
-    {
+    "15": {
         "id": 15,
         "titleTextMapHash": 3325346298,
         "chapterId": 2024,
@@ -187,7 +187,7 @@
         "descTextMapHash": 3169507318,
         "sortOrder": 15
     },
-    {
+    "16": {
         "id": 16,
         "titleTextMapHash": 2452284218,
         "chapterId": 2026,
@@ -200,7 +200,7 @@
         "descTextMapHash": 3646585678,
         "sortOrder": 16
     },
-    {
+    "17": {
         "id": 17,
         "titleTextMapHash": 263495682,
         "chapterId": 2025,
@@ -213,7 +213,7 @@
         "descTextMapHash": 4181224302,
         "sortOrder": 17
     },
-    {
+    "18": {
         "id": 18,
         "titleTextMapHash": 3650799674,
         "chapterId": 2027,
@@ -226,7 +226,7 @@
         "descTextMapHash": 1021366198,
         "sortOrder": 18
     },
-    {
+    "19": {
         "id": 19,
         "titleTextMapHash": 1108576882,
         "chapterId": 2028,
@@ -241,7 +241,7 @@
         "descTextMapHash": 717521486,
         "sortOrder": 19
     },
-    {
+    "20": {
         "id": 20,
         "titleTextMapHash": 158285234,
         "chapterId": 2029,
@@ -255,7 +255,7 @@
         "descTextMapHash": 3456806990,
         "sortOrder": 20
     },
-    {
+    "21": {
         "id": 21,
         "titleTextMapHash": 3255699522,
         "chapterId": 2031,
@@ -268,7 +268,7 @@
         "descTextMapHash": 698598878,
         "sortOrder": 21
     },
-    {
+    "22": {
         "id": 22,
         "titleTextMapHash": 3422003338,
         "chapterId": 2030,
@@ -281,4 +281,4 @@
         "descTextMapHash": 1649168374,
         "sortOrder": 22
     }
-]
+}

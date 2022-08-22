@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "typeID": 1001,
         "APHFKNPBPHA": 1,
         "typeNameTextMapHash": 1747164567,
@@ -7,7 +7,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Wall",
         "isShowInBag": true
     },
-    {
+    "1002": {
         "typeID": 1002,
         "APHFKNPBPHA": 1,
         "typeNameTextMapHash": 843130895,
@@ -15,7 +15,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Floor",
         "isShowInBag": true
     },
-    {
+    "1003": {
         "typeID": 1003,
         "APHFKNPBPHA": 1,
         "typeNameTextMapHash": 4247725943,
@@ -23,7 +23,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Ceiling",
         "isShowInBag": true
     },
-    {
+    "1004": {
         "typeID": 1004,
         "APHFKNPBPHA": 1,
         "typeNameTextMapHash": 3527280743,
@@ -31,7 +31,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Droplight",
         "isShowInBag": true
     },
-    {
+    "1005": {
         "typeID": 1005,
         "APHFKNPBPHA": 1,
         "typeNameTextMapHash": 1236062887,
@@ -39,7 +39,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Door",
         "isShowInBag": true
     },
-    {
+    "1006": {
         "typeID": 1006,
         "APHFKNPBPHA": 1,
         "typeNameTextMapHash": 2445576727,
@@ -47,7 +47,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Stair",
         "isShowInBag": true
     },
-    {
+    "3001": {
         "typeID": 3001,
         "APHFKNPBPHA": 2,
         "typeNameTextMapHash": 1031490255,
@@ -55,7 +55,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Cabinet",
         "isShowInBag": true
     },
-    {
+    "3002": {
         "typeID": 3002,
         "APHFKNPBPHA": 2,
         "typeNameTextMapHash": 1347000647,
@@ -63,7 +63,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Bookcase",
         "isShowInBag": true
     },
-    {
+    "3003": {
         "typeID": 3003,
         "APHFKNPBPHA": 2,
         "typeNameTextMapHash": 870250087,
@@ -71,7 +71,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Table",
         "isShowInBag": true
     },
-    {
+    "3005": {
         "typeID": 3005,
         "APHFKNPBPHA": 2,
         "typeNameTextMapHash": 2499730927,
@@ -79,7 +79,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Counter",
         "isShowInBag": true
     },
-    {
+    "3006": {
         "typeID": 3006,
         "APHFKNPBPHA": 2,
         "typeNameTextMapHash": 2309016527,
@@ -87,7 +87,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Bed",
         "isShowInBag": true
     },
-    {
+    "3007": {
         "typeID": 3007,
         "APHFKNPBPHA": 2,
         "typeNameTextMapHash": 2504383023,
@@ -95,7 +95,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Fishtank",
         "isShowInBag": true
     },
-    {
+    "4001": {
         "typeID": 4001,
         "APHFKNPBPHA": 3,
         "typeNameTextMapHash": 3515206943,
@@ -103,7 +103,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Chair",
         "isShowInBag": true
     },
-    {
+    "4002": {
         "typeID": 4002,
         "APHFKNPBPHA": 3,
         "typeNameTextMapHash": 1833205511,
@@ -111,7 +111,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Decorate",
         "isShowInBag": true
     },
-    {
+    "4004": {
         "typeID": 4004,
         "APHFKNPBPHA": 3,
         "typeNameTextMapHash": 2334825399,
@@ -119,7 +119,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Carpet",
         "isShowInBag": true
     },
-    {
+    "11003": {
         "typeID": 11003,
         "APHFKNPBPHA": 4,
         "typeNameTextMapHash": 2802965799,
@@ -127,7 +127,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Lamp",
         "isShowInBag": true
     },
-    {
+    "11001": {
         "typeID": 11001,
         "APHFKNPBPHA": 4,
         "typeNameTextMapHash": 2722298863,
@@ -135,7 +135,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Plants",
         "isShowInBag": true
     },
-    {
+    "11002": {
         "typeID": 11002,
         "APHFKNPBPHA": 4,
         "typeNameTextMapHash": 4245343967,
@@ -143,7 +143,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Tabletop",
         "isShowInBag": true
     },
-    {
+    "5003": {
         "typeID": 5003,
         "APHFKNPBPHA": 5,
         "typeNameTextMapHash": 2504978935,
@@ -151,7 +151,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Paintings",
         "isShowInBag": true
     },
-    {
+    "5005": {
         "typeID": 5005,
         "APHFKNPBPHA": 5,
         "typeNameTextMapHash": 1799163975,
@@ -159,7 +159,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Hangings",
         "isShowInBag": true
     },
-    {
+    "5006": {
         "typeID": 5006,
         "APHFKNPBPHA": 5,
         "typeNameTextMapHash": 832533887,
@@ -167,7 +167,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Photo",
         "isShowInBag": true
     },
-    {
+    "6002": {
         "typeID": 6002,
         "APHFKNPBPHA": 6,
         "typeNameTextMapHash": 4095736343,
@@ -176,7 +176,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "6003": {
         "typeID": 6003,
         "APHFKNPBPHA": 6,
         "typeNameTextMapHash": 1981825551,
@@ -185,7 +185,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "13001": {
         "typeID": 13001,
         "APHFKNPBPHA": 7,
         "typeNameTextMapHash": 4072141127,
@@ -194,7 +194,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "13002": {
         "typeID": 13002,
         "APHFKNPBPHA": 7,
         "typeNameTextMapHash": 2287558023,
@@ -203,7 +203,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "13003": {
         "typeID": 13003,
         "APHFKNPBPHA": 7,
         "typeNameTextMapHash": 1102039095,
@@ -212,7 +212,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "6005": {
         "typeID": 6005,
         "APHFKNPBPHA": 7,
         "typeNameTextMapHash": 3490730703,
@@ -221,7 +221,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "6006": {
         "typeID": 6006,
         "APHFKNPBPHA": 7,
         "typeNameTextMapHash": 1770645095,
@@ -230,7 +230,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "13004": {
         "typeID": 13004,
         "APHFKNPBPHA": 7,
         "typeNameTextMapHash": 540413951,
@@ -239,7 +239,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "13005": {
         "typeID": 13005,
         "APHFKNPBPHA": 7,
         "typeNameTextMapHash": 2502124039,
@@ -248,7 +248,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "10001": {
         "typeID": 10001,
         "APHFKNPBPHA": 8,
         "typeNameTextMapHash": 1891287631,
@@ -257,7 +257,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "10002": {
         "typeID": 10002,
         "APHFKNPBPHA": 8,
         "typeNameTextMapHash": 4042420927,
@@ -266,7 +266,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "10003": {
         "typeID": 10003,
         "APHFKNPBPHA": 8,
         "typeNameTextMapHash": 2563291127,
@@ -275,7 +275,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "10004": {
         "typeID": 10004,
         "APHFKNPBPHA": 8,
         "typeNameTextMapHash": 1956512495,
@@ -284,7 +284,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "10005": {
         "typeID": 10005,
         "APHFKNPBPHA": 8,
         "typeNameTextMapHash": 342948655,
@@ -293,7 +293,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "10006": {
         "typeID": 10006,
         "APHFKNPBPHA": 8,
         "typeNameTextMapHash": 381129695,
@@ -302,7 +302,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7001": {
         "typeID": 7001,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 1311955111,
@@ -311,7 +311,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7003": {
         "typeID": 7003,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 3476370455,
@@ -320,7 +320,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7005": {
         "typeID": 7005,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 674369311,
@@ -329,7 +329,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7008": {
         "typeID": 7008,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 1123300903,
@@ -338,7 +338,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7011": {
         "typeID": 7011,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 500363415,
@@ -347,7 +347,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "8001": {
         "typeID": 8001,
         "APHFKNPBPHA": 10,
         "typeNameTextMapHash": 2987021175,
@@ -355,14 +355,14 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Character",
         "sceneType": "Exterior"
     },
-    {
+    "8002": {
         "typeID": 8002,
         "APHFKNPBPHA": 10,
         "typeNameTextMapHash": 2936971639,
         "typeName2TextMapHash": 2179156995,
         "tabIcon": "UI_HomeWorldTabIcon_2_Character"
     },
-    {
+    "8003": {
         "typeID": 8003,
         "APHFKNPBPHA": 10,
         "typeNameTextMapHash": 2449615719,
@@ -370,14 +370,14 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Paimon",
         "sceneType": "Exterior"
     },
-    {
+    "8004": {
         "typeID": 8004,
         "APHFKNPBPHA": 10,
         "typeNameTextMapHash": 2752064391,
         "typeName2TextMapHash": 1642568195,
         "tabIcon": "UI_HomeWorldTabIcon_2_Paimon"
     },
-    {
+    "9001": {
         "typeID": 9001,
         "APHFKNPBPHA": 11,
         "typeNameTextMapHash": 3637192023,
@@ -385,7 +385,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Animals",
         "isShowInBag": true
     },
-    {
+    "9002": {
         "typeID": 9002,
         "APHFKNPBPHA": 11,
         "typeNameTextMapHash": 803745327,
@@ -394,7 +394,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "12001": {
         "typeID": 12001,
         "APHFKNPBPHA": 12,
         "typeNameTextMapHash": 4168060031,
@@ -403,7 +403,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7006": {
         "typeID": 7006,
         "APHFKNPBPHA": 13,
         "typeNameTextMapHash": 2473360831,
@@ -412,7 +412,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7007": {
         "typeID": 7007,
         "APHFKNPBPHA": 13,
         "typeNameTextMapHash": 1575042207,
@@ -421,7 +421,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7002": {
         "typeID": 7002,
         "APHFKNPBPHA": 13,
         "typeNameTextMapHash": 3881654079,
@@ -430,7 +430,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7004": {
         "typeID": 7004,
         "APHFKNPBPHA": 13,
         "typeNameTextMapHash": 1812089135,
@@ -439,7 +439,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7009": {
         "typeID": 7009,
         "APHFKNPBPHA": 13,
         "typeNameTextMapHash": 3563715975,
@@ -448,7 +448,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7010": {
         "typeID": 7010,
         "APHFKNPBPHA": 13,
         "typeNameTextMapHash": 4001216935,
@@ -457,7 +457,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7012": {
         "typeID": 7012,
         "APHFKNPBPHA": 13,
         "typeNameTextMapHash": 3360771911,
@@ -466,7 +466,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "7013": {
         "typeID": 7013,
         "APHFKNPBPHA": 13,
         "typeNameTextMapHash": 814815255,
@@ -475,7 +475,7 @@
         "sceneType": "Exterior",
         "isShowInBag": true
     },
-    {
+    "771": {
         "typeID": 771,
         "APHFKNPBPHA": 14,
         "typeNameTextMapHash": 722769111,
@@ -483,7 +483,7 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Suit",
         "sceneType": "Exterior"
     },
-    {
+    "772": {
         "typeID": 772,
         "APHFKNPBPHA": 14,
         "typeNameTextMapHash": 52358375,
@@ -491,21 +491,21 @@
         "tabIcon": "UI_HomeWorldTabIcon_2_Suit2",
         "sceneType": "Exterior"
     },
-    {
+    "671": {
         "typeID": 671,
         "APHFKNPBPHA": 15,
         "typeNameTextMapHash": 971419447,
         "typeName2TextMapHash": 2752582667,
         "tabIcon": "UI_HomeWorldTabIcon_2_Suit"
     },
-    {
+    "672": {
         "typeID": 672,
         "APHFKNPBPHA": 15,
         "typeNameTextMapHash": 1912847943,
         "typeName2TextMapHash": 205103331,
         "tabIcon": "UI_HomeWorldTabIcon_2_Suit2"
     },
-    {
+    "14001": {
         "typeID": 14001,
         "APHFKNPBPHA": 11,
         "typeNameTextMapHash": 1764022727,
@@ -515,7 +515,7 @@
         "IACJEHHNBIA": 1,
         "isShowInBag": true
     },
-    {
+    "14002": {
         "typeID": 14002,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 3981921703,
@@ -525,7 +525,7 @@
         "IACJEHHNBIA": 1,
         "isShowInBag": true
     },
-    {
+    "14003": {
         "typeID": 14003,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 584280503,
@@ -535,7 +535,7 @@
         "IACJEHHNBIA": 1,
         "isShowInBag": true
     },
-    {
+    "14004": {
         "typeID": 14004,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 3375991871,
@@ -545,7 +545,7 @@
         "IACJEHHNBIA": 1,
         "isShowInBag": true
     },
-    {
+    "14005": {
         "typeID": 14005,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 1251543039,
@@ -555,7 +555,7 @@
         "IACJEHHNBIA": 1,
         "isShowInBag": true
     },
-    {
+    "14006": {
         "typeID": 14006,
         "APHFKNPBPHA": 9,
         "typeNameTextMapHash": 1969241471,
@@ -565,4 +565,4 @@
         "IACJEHHNBIA": 1,
         "isShowInBag": true
     }
-]
+}

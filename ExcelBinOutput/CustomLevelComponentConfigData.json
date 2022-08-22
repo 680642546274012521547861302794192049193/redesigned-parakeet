@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "BMJKOFAENBA": 1001,
         "typeID": 1,
         "EJNGCKPBOLB": 264633771,
@@ -18,7 +18,7 @@
         "MOEDBKFIJEE": 4029155283,
         "KIMLOAOLAAA": 2350560634
     },
-    {
+    "1002": {
         "BMJKOFAENBA": 1002,
         "typeID": 1,
         "EJNGCKPBOLB": 1410789123,
@@ -37,7 +37,7 @@
         "MOEDBKFIJEE": 1906400115,
         "KIMLOAOLAAA": 404583410
     },
-    {
+    "1003": {
         "BMJKOFAENBA": 1003,
         "typeID": 1,
         "EJNGCKPBOLB": 688449059,
@@ -51,7 +51,7 @@
         "MOEDBKFIJEE": 1372153731,
         "KIMLOAOLAAA": 1049921586
     },
-    {
+    "1004": {
         "BMJKOFAENBA": 1004,
         "typeID": 1,
         "EJNGCKPBOLB": 1550398555,
@@ -65,7 +65,7 @@
         "MOEDBKFIJEE": 758411827,
         "KIMLOAOLAAA": 405210154
     },
-    {
+    "2001": {
         "BMJKOFAENBA": 2001,
         "typeID": 2,
         "EJNGCKPBOLB": 1162705635,
@@ -83,7 +83,7 @@
         "MOEDBKFIJEE": 2840497491,
         "KIMLOAOLAAA": 4292057194
     },
-    {
+    "2002": {
         "BMJKOFAENBA": 2002,
         "typeID": 2,
         "EJNGCKPBOLB": 568078363,
@@ -102,7 +102,7 @@
         "MOEDBKFIJEE": 564043051,
         "KIMLOAOLAAA": 2039633946
     },
-    {
+    "2003": {
         "BMJKOFAENBA": 2003,
         "typeID": 2,
         "EJNGCKPBOLB": 1270466795,
@@ -121,7 +121,7 @@
         "MOEDBKFIJEE": 2024076075,
         "KIMLOAOLAAA": 237998106
     },
-    {
+    "2004": {
         "BMJKOFAENBA": 2004,
         "typeID": 2,
         "EJNGCKPBOLB": 1194878355,
@@ -140,7 +140,7 @@
         "MOEDBKFIJEE": 4231903571,
         "KIMLOAOLAAA": 1308968906
     },
-    {
+    "2005": {
         "BMJKOFAENBA": 2005,
         "typeID": 2,
         "EJNGCKPBOLB": 4162483251,
@@ -159,7 +159,7 @@
         "MOEDBKFIJEE": 799985011,
         "KIMLOAOLAAA": 3481303842
     },
-    {
+    "2006": {
         "BMJKOFAENBA": 2006,
         "typeID": 2,
         "EJNGCKPBOLB": 1525301259,
@@ -178,7 +178,7 @@
         "MOEDBKFIJEE": 3700917091,
         "KIMLOAOLAAA": 1846969314
     },
-    {
+    "3001": {
         "BMJKOFAENBA": 3001,
         "typeID": 3,
         "EJNGCKPBOLB": 2402159643,
@@ -197,7 +197,7 @@
         "MOEDBKFIJEE": 4186859475,
         "KIMLOAOLAAA": 3867042842
     },
-    {
+    "3002": {
         "BMJKOFAENBA": 3002,
         "typeID": 3,
         "EJNGCKPBOLB": 1509759627,
@@ -216,7 +216,7 @@
         "MOEDBKFIJEE": 1755632563,
         "KIMLOAOLAAA": 263005474
     },
-    {
+    "3003": {
         "BMJKOFAENBA": 3003,
         "typeID": 3,
         "EJNGCKPBOLB": 3976722555,
@@ -235,7 +235,7 @@
         "MOEDBKFIJEE": 3731600603,
         "KIMLOAOLAAA": 677111282
     },
-    {
+    "3004": {
         "BMJKOFAENBA": 3004,
         "typeID": 3,
         "EJNGCKPBOLB": 3785448091,
@@ -254,7 +254,7 @@
         "MOEDBKFIJEE": 2516568667,
         "KIMLOAOLAAA": 2025676018
     },
-    {
+    "3005": {
         "BMJKOFAENBA": 3005,
         "typeID": 3,
         "EJNGCKPBOLB": 2540979155,
@@ -273,7 +273,7 @@
         "MOEDBKFIJEE": 1611873547,
         "KIMLOAOLAAA": 1724921202
     },
-    {
+    "3006": {
         "BMJKOFAENBA": 3006,
         "typeID": 3,
         "EJNGCKPBOLB": 3083601059,
@@ -292,7 +292,7 @@
         "MOEDBKFIJEE": 923577827,
         "KIMLOAOLAAA": 2849655682
     },
-    {
+    "3007": {
         "BMJKOFAENBA": 3007,
         "typeID": 3,
         "EJNGCKPBOLB": 3462124331,
@@ -311,7 +311,7 @@
         "MOEDBKFIJEE": 3895057819,
         "KIMLOAOLAAA": 1844202114
     },
-    {
+    "3008": {
         "BMJKOFAENBA": 3008,
         "typeID": 3,
         "EJNGCKPBOLB": 2513154451,
@@ -329,7 +329,7 @@
         "MOEDBKFIJEE": 3855878027,
         "KIMLOAOLAAA": 3328443410
     },
-    {
+    "4001": {
         "BMJKOFAENBA": 4001,
         "typeID": 4,
         "EJNGCKPBOLB": 1137559651,
@@ -348,7 +348,7 @@
         "MOEDBKFIJEE": 1045551459,
         "KIMLOAOLAAA": 3697460770
     },
-    {
+    "4002": {
         "BMJKOFAENBA": 4002,
         "typeID": 4,
         "EJNGCKPBOLB": 928813827,
@@ -367,7 +367,7 @@
         "MOEDBKFIJEE": 3892608939,
         "KIMLOAOLAAA": 1395315338
     },
-    {
+    "4003": {
         "BMJKOFAENBA": 4003,
         "typeID": 4,
         "EJNGCKPBOLB": 3435058627,
@@ -386,7 +386,7 @@
         "MOEDBKFIJEE": 2544073867,
         "KIMLOAOLAAA": 282291714
     },
-    {
+    "4004": {
         "BMJKOFAENBA": 4004,
         "typeID": 4,
         "EJNGCKPBOLB": 804410411,
@@ -405,7 +405,7 @@
         "MOEDBKFIJEE": 2470905203,
         "KIMLOAOLAAA": 871572642
     },
-    {
+    "4005": {
         "BMJKOFAENBA": 4005,
         "typeID": 4,
         "EJNGCKPBOLB": 3870427155,
@@ -424,7 +424,7 @@
         "MOEDBKFIJEE": 2667240539,
         "KIMLOAOLAAA": 4273201242
     },
-    {
+    "4006": {
         "BMJKOFAENBA": 4006,
         "typeID": 4,
         "EJNGCKPBOLB": 1712332155,
@@ -443,7 +443,7 @@
         "MOEDBKFIJEE": 1150918243,
         "KIMLOAOLAAA": 1285766226
     },
-    {
+    "4007": {
         "BMJKOFAENBA": 4007,
         "typeID": 4,
         "EJNGCKPBOLB": 459586283,
@@ -462,7 +462,7 @@
         "MOEDBKFIJEE": 1509703147,
         "KIMLOAOLAAA": 742625890
     },
-    {
+    "4008": {
         "BMJKOFAENBA": 4008,
         "typeID": 4,
         "EJNGCKPBOLB": 3228014539,
@@ -481,7 +481,7 @@
         "MOEDBKFIJEE": 1280939843,
         "KIMLOAOLAAA": 4035527266
     },
-    {
+    "4009": {
         "BMJKOFAENBA": 4009,
         "typeID": 4,
         "EJNGCKPBOLB": 162592483,
@@ -499,7 +499,7 @@
         "MOEDBKFIJEE": 1838889203,
         "KIMLOAOLAAA": 1496678418
     },
-    {
+    "4010": {
         "BMJKOFAENBA": 4010,
         "typeID": 4,
         "EJNGCKPBOLB": 2241881523,
@@ -518,7 +518,7 @@
         "MOEDBKFIJEE": 1320295931,
         "KIMLOAOLAAA": 912593770
     },
-    {
+    "4011": {
         "BMJKOFAENBA": 4011,
         "typeID": 4,
         "EJNGCKPBOLB": 30181603,
@@ -536,7 +536,7 @@
         "MOEDBKFIJEE": 3298075211,
         "KIMLOAOLAAA": 1785045898
     },
-    {
+    "4012": {
         "BMJKOFAENBA": 4012,
         "typeID": 4,
         "EJNGCKPBOLB": 1186110819,
@@ -554,7 +554,7 @@
         "MOEDBKFIJEE": 1623882795,
         "KIMLOAOLAAA": 2357278794
     },
-    {
+    "4013": {
         "BMJKOFAENBA": 4013,
         "typeID": 4,
         "EJNGCKPBOLB": 2674768251,
@@ -573,7 +573,7 @@
         "MOEDBKFIJEE": 2791339699,
         "KIMLOAOLAAA": 1381486938
     },
-    {
+    "4014": {
         "BMJKOFAENBA": 4014,
         "typeID": 4,
         "EJNGCKPBOLB": 2340244899,
@@ -592,7 +592,7 @@
         "MOEDBKFIJEE": 2896818363,
         "KIMLOAOLAAA": 3084700034
     },
-    {
+    "4015": {
         "BMJKOFAENBA": 4015,
         "typeID": 4,
         "EJNGCKPBOLB": 3945528915,
@@ -611,7 +611,7 @@
         "MOEDBKFIJEE": 3465833235,
         "KIMLOAOLAAA": 1241356730
     },
-    {
+    "5001": {
         "BMJKOFAENBA": 5001,
         "typeID": 5,
         "EJNGCKPBOLB": 1884483251,
@@ -629,7 +629,7 @@
         "MOEDBKFIJEE": 752153995,
         "KIMLOAOLAAA": 2956108466
     },
-    {
+    "5002": {
         "BMJKOFAENBA": 5002,
         "typeID": 5,
         "EJNGCKPBOLB": 802772579,
@@ -647,7 +647,7 @@
         "MOEDBKFIJEE": 241864867,
         "KIMLOAOLAAA": 330064226
     },
-    {
+    "5003": {
         "BMJKOFAENBA": 5003,
         "typeID": 5,
         "EJNGCKPBOLB": 930250251,
@@ -665,4 +665,4 @@
         "MOEDBKFIJEE": 1192269027,
         "KIMLOAOLAAA": 2910480826
     }
-]
+}

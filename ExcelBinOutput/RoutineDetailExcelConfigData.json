@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10001": {
         "routineId": 10001,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008402,
@@ -25,7 +25,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10002": {
         "routineId": 10002,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008436,
@@ -50,7 +50,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10003": {
         "routineId": 10003,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008437,
@@ -76,7 +76,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10004": {
         "routineId": 10004,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008438,
@@ -102,7 +102,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10005": {
         "routineId": 10005,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008439,
@@ -128,7 +128,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10006": {
         "routineId": 10006,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008440,
@@ -154,7 +154,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10007": {
         "routineId": 10007,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008461,
@@ -179,7 +179,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10008": {
         "routineId": 10008,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008462,
@@ -204,7 +204,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10009": {
         "routineId": 10009,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008463,
@@ -229,7 +229,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10010": {
         "routineId": 10010,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008464,
@@ -255,7 +255,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10011": {
         "routineId": 10011,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008465,
@@ -280,7 +280,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10012": {
         "routineId": 10012,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008503,
@@ -305,7 +305,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10013": {
         "routineId": 10013,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008504,
@@ -331,7 +331,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10014": {
         "routineId": 10014,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008585,
@@ -356,7 +356,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10015": {
         "routineId": 10015,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008588,
@@ -381,7 +381,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10016": {
         "routineId": 10016,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008589,
@@ -406,7 +406,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10017": {
         "routineId": 10017,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008590,
@@ -432,7 +432,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10018": {
         "routineId": 10018,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008591,
@@ -457,7 +457,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10019": {
         "routineId": 10019,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008593,
@@ -483,7 +483,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10020": {
         "routineId": 10020,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008594,
@@ -508,7 +508,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10021": {
         "routineId": 10021,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008625,
@@ -534,7 +534,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10022": {
         "routineId": 10022,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008626,
@@ -560,7 +560,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10023": {
         "routineId": 10023,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008627,
@@ -586,7 +586,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10024": {
         "routineId": 10024,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008628,
@@ -612,7 +612,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10025": {
         "routineId": 10025,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008629,
@@ -638,7 +638,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10026": {
         "routineId": 10026,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008630,
@@ -663,7 +663,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10027": {
         "routineId": 10027,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008631,
@@ -689,7 +689,7 @@
         "enterDistance": 20,
         "exitDistance": 30
     },
-    {
+    "10028": {
         "routineId": 10028,
         "routineType": "ROUTINE_SNOW_MOUNTAIN",
         "groupId": 133008632,
@@ -715,4 +715,4 @@
         "enterDistance": 20,
         "exitDistance": 30
     }
-]
+}

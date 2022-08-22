@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5003001": {
         "scheduleId": 5003001,
         "dailyConfigIdList": [
             1,
@@ -35,7 +35,7 @@
             "id": 470007
         }
     },
-    {
+    "5012001": {
         "scheduleId": 5012001,
         "dailyConfigIdList": [
             8,
@@ -73,7 +73,7 @@
             "previewId": 30400
         }
     },
-    {
+    "5012002": {
         "scheduleId": 5012002,
         "dailyConfigIdList": [
             8,
@@ -111,7 +111,7 @@
             "previewId": 30400
         }
     },
-    {
+    "5012003": {
         "scheduleId": 5012003,
         "dailyConfigIdList": [
             8,
@@ -149,7 +149,7 @@
             "previewId": 30400
         }
     },
-    {
+    "5012004": {
         "scheduleId": 5012004,
         "dailyConfigIdList": [
             8,
@@ -187,4 +187,4 @@
             "previewId": 30400
         }
     }
-]
+}

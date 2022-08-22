@@ -1,5 +1,5 @@
-[
-    {
+{
+    "11001": {
         "id": 11001,
         "abilityStates": [
             "ElementFreeze",
@@ -24,7 +24,7 @@
             "None"
         ]
     },
-    {
+    "11002": {
         "id": 11002,
         "abilityStates": [
             "ElementFreeze",
@@ -49,7 +49,7 @@
             "None"
         ]
     },
-    {
+    "11003": {
         "id": 11003,
         "abilityStates": [
             "ElementFreeze",
@@ -74,7 +74,7 @@
             "None"
         ]
     },
-    {
+    "12001": {
         "id": 12001,
         "abilityStates": [
             "ElementFreeze",
@@ -99,7 +99,7 @@
             "None"
         ]
     },
-    {
+    "12002": {
         "id": 12002,
         "abilityStates": [
             "ElementFire",
@@ -124,7 +124,7 @@
             "None"
         ]
     },
-    {
+    "12003": {
         "id": 12003,
         "abilityStates": [
             "ElementFreeze",
@@ -149,7 +149,7 @@
             "None"
         ]
     },
-    {
+    "13001": {
         "id": 13001,
         "abilityStates": [
             "ElementFreeze",
@@ -174,7 +174,7 @@
             "None"
         ]
     },
-    {
+    "13002": {
         "id": 13002,
         "abilityStates": [
             "ElementFreeze",
@@ -199,7 +199,7 @@
             "None"
         ]
     },
-    {
+    "14001": {
         "id": 14001,
         "abilityStates": [
             "Struggle",
@@ -224,7 +224,7 @@
             "None"
         ]
     },
-    {
+    "14002": {
         "id": 14002,
         "abilityStates": [
             "ElementFreeze",
@@ -249,7 +249,7 @@
             "None"
         ]
     },
-    {
+    "14003": {
         "id": 14003,
         "abilityStates": [
             "None",
@@ -274,7 +274,7 @@
             "None"
         ]
     },
-    {
+    "14004": {
         "id": 14004,
         "abilityStates": [
             "ElementShock",
@@ -299,7 +299,7 @@
             "None"
         ]
     },
-    {
+    "14005": {
         "id": 14005,
         "abilityStates": [
             "ElementFrozen",
@@ -324,7 +324,7 @@
             "None"
         ]
     },
-    {
+    "14006": {
         "id": 14006,
         "abilityStates": [
             "ElementPetrifaction",
@@ -349,7 +349,7 @@
             "None"
         ]
     },
-    {
+    "14007": {
         "id": 14007,
         "abilityStates": [
             "ElementDeadTime",
@@ -374,7 +374,7 @@
             "None"
         ]
     },
-    {
+    "15001": {
         "id": 15001,
         "abilityStates": [
             "ElementBurning",
@@ -399,7 +399,7 @@
             "None"
         ]
     },
-    {
+    "15002": {
         "id": 15002,
         "abilityStates": [
             "ElementFreeze",
@@ -424,4 +424,4 @@
             "None"
         ]
     }
-]
+}

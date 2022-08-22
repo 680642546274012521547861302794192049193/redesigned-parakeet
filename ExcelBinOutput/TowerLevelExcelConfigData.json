@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "levelId": 1,
         "levelGroupId": 1,
         "levelIndex": 1,
@@ -53,7 +53,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "2": {
         "levelId": 2,
         "levelGroupId": 1,
         "levelIndex": 2,
@@ -110,7 +110,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "3": {
         "levelId": 3,
         "levelGroupId": 1,
         "levelIndex": 3,
@@ -166,7 +166,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "4": {
         "levelId": 4,
         "levelGroupId": 2,
         "levelIndex": 1,
@@ -220,7 +220,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "5": {
         "levelId": 5,
         "levelGroupId": 2,
         "levelIndex": 2,
@@ -281,7 +281,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "6": {
         "levelId": 6,
         "levelGroupId": 2,
         "levelIndex": 3,
@@ -335,7 +335,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "7": {
         "levelId": 7,
         "levelGroupId": 3,
         "levelIndex": 1,
@@ -394,7 +394,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "8": {
         "levelId": 8,
         "levelGroupId": 3,
         "levelIndex": 2,
@@ -452,7 +452,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "9": {
         "levelId": 9,
         "levelGroupId": 3,
         "levelIndex": 3,
@@ -505,7 +505,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "10": {
         "levelId": 10,
         "levelGroupId": 4,
         "levelIndex": 1,
@@ -561,7 +561,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "11": {
         "levelId": 11,
         "levelGroupId": 4,
         "levelIndex": 2,
@@ -624,7 +624,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "12": {
         "levelId": 12,
         "levelGroupId": 4,
         "levelIndex": 3,
@@ -680,7 +680,7 @@
         ],
         "secondMonsterList": []
     },
-    {
+    "13": {
         "levelId": 13,
         "levelGroupId": 5,
         "levelIndex": 1,
@@ -736,7 +736,7 @@
             20101
         ]
     },
-    {
+    "14": {
         "levelId": 14,
         "levelGroupId": 5,
         "levelIndex": 2,
@@ -798,7 +798,7 @@
             50102
         ]
     },
-    {
+    "15": {
         "levelId": 15,
         "levelGroupId": 5,
         "levelIndex": 3,
@@ -854,7 +854,7 @@
             50105
         ]
     },
-    {
+    "16": {
         "levelId": 16,
         "levelGroupId": 6,
         "levelIndex": 1,
@@ -917,7 +917,7 @@
             112
         ]
     },
-    {
+    "17": {
         "levelId": 17,
         "levelGroupId": 6,
         "levelIndex": 2,
@@ -988,7 +988,7 @@
             112
         ]
     },
-    {
+    "18": {
         "levelId": 18,
         "levelGroupId": 6,
         "levelIndex": 3,
@@ -1047,7 +1047,7 @@
             113
         ]
     },
-    {
+    "19": {
         "levelId": 19,
         "levelGroupId": 7,
         "levelIndex": 1,
@@ -1105,7 +1105,7 @@
             30105
         ]
     },
-    {
+    "20": {
         "levelId": 20,
         "levelGroupId": 7,
         "levelIndex": 2,
@@ -1163,7 +1163,7 @@
             30105
         ]
     },
-    {
+    "21": {
         "levelId": 21,
         "levelGroupId": 7,
         "levelIndex": 3,
@@ -1221,7 +1221,7 @@
             30105
         ]
     },
-    {
+    "22": {
         "levelId": 22,
         "levelGroupId": 8,
         "levelIndex": 1,
@@ -1276,7 +1276,7 @@
             20101
         ]
     },
-    {
+    "23": {
         "levelId": 23,
         "levelGroupId": 8,
         "levelIndex": 2,
@@ -1337,7 +1337,7 @@
             10106
         ]
     },
-    {
+    "24": {
         "levelId": 24,
         "levelGroupId": 8,
         "levelIndex": 3,
@@ -1391,7 +1391,7 @@
             60202
         ]
     },
-    {
+    "25": {
         "levelId": 25,
         "levelGroupId": 9,
         "levelIndex": 1,
@@ -1449,7 +1449,7 @@
             113
         ]
     },
-    {
+    "26": {
         "levelId": 26,
         "levelGroupId": 9,
         "levelIndex": 2,
@@ -1511,7 +1511,7 @@
             30105
         ]
     },
-    {
+    "27": {
         "levelId": 27,
         "levelGroupId": 9,
         "levelIndex": 3,
@@ -1566,7 +1566,7 @@
             40101
         ]
     },
-    {
+    "28": {
         "levelId": 28,
         "levelGroupId": 10,
         "levelIndex": 1,
@@ -1623,7 +1623,7 @@
             10202
         ]
     },
-    {
+    "29": {
         "levelId": 29,
         "levelGroupId": 10,
         "levelIndex": 2,
@@ -1682,7 +1682,7 @@
             10105
         ]
     },
-    {
+    "30": {
         "levelId": 30,
         "levelGroupId": 10,
         "levelIndex": 3,
@@ -1740,7 +1740,7 @@
             60102
         ]
     },
-    {
+    "31": {
         "levelId": 31,
         "levelGroupId": 11,
         "levelIndex": 1,
@@ -1802,7 +1802,7 @@
             10110
         ]
     },
-    {
+    "32": {
         "levelId": 32,
         "levelGroupId": 11,
         "levelIndex": 2,
@@ -1870,7 +1870,7 @@
             10109
         ]
     },
-    {
+    "33": {
         "levelId": 33,
         "levelGroupId": 11,
         "levelIndex": 3,
@@ -1928,7 +1928,7 @@
             30104
         ]
     },
-    {
+    "34": {
         "levelId": 34,
         "levelGroupId": 12,
         "levelIndex": 1,
@@ -1986,7 +1986,7 @@
             10109
         ]
     },
-    {
+    "35": {
         "levelId": 35,
         "levelGroupId": 12,
         "levelIndex": 2,
@@ -2053,7 +2053,7 @@
             10105
         ]
     },
-    {
+    "36": {
         "levelId": 36,
         "levelGroupId": 12,
         "levelIndex": 3,
@@ -2112,7 +2112,7 @@
             30104
         ]
     },
-    {
+    "37": {
         "levelId": 37,
         "levelGroupId": 13,
         "levelIndex": 1,
@@ -2171,7 +2171,7 @@
             10109
         ]
     },
-    {
+    "38": {
         "levelId": 38,
         "levelGroupId": 13,
         "levelIndex": 2,
@@ -2230,7 +2230,7 @@
             30105
         ]
     },
-    {
+    "39": {
         "levelId": 39,
         "levelGroupId": 13,
         "levelIndex": 3,
@@ -2286,7 +2286,7 @@
             10206
         ]
     },
-    {
+    "40": {
         "levelId": 40,
         "levelGroupId": 14,
         "levelIndex": 1,
@@ -2344,7 +2344,7 @@
             10301
         ]
     },
-    {
+    "41": {
         "levelId": 41,
         "levelGroupId": 14,
         "levelIndex": 2,
@@ -2402,7 +2402,7 @@
             50106
         ]
     },
-    {
+    "42": {
         "levelId": 42,
         "levelGroupId": 14,
         "levelIndex": 3,
@@ -2457,7 +2457,7 @@
             10204
         ]
     },
-    {
+    "43": {
         "levelId": 43,
         "levelGroupId": 15,
         "levelIndex": 1,
@@ -2515,7 +2515,7 @@
             10202
         ]
     },
-    {
+    "44": {
         "levelId": 44,
         "levelGroupId": 15,
         "levelIndex": 2,
@@ -2586,7 +2586,7 @@
             50104
         ]
     },
-    {
+    "45": {
         "levelId": 45,
         "levelGroupId": 15,
         "levelIndex": 3,
@@ -2644,7 +2644,7 @@
             30301
         ]
     },
-    {
+    "46": {
         "levelId": 46,
         "levelGroupId": 16,
         "levelIndex": 1,
@@ -2701,7 +2701,7 @@
             201
         ]
     },
-    {
+    "47": {
         "levelId": 47,
         "levelGroupId": 16,
         "levelIndex": 2,
@@ -2759,7 +2759,7 @@
             30201
         ]
     },
-    {
+    "48": {
         "levelId": 48,
         "levelGroupId": 16,
         "levelIndex": 3,
@@ -2817,7 +2817,7 @@
             10203
         ]
     },
-    {
+    "49": {
         "levelId": 49,
         "levelGroupId": 17,
         "levelIndex": 1,
@@ -2871,7 +2871,7 @@
             60401
         ]
     },
-    {
+    "50": {
         "levelId": 50,
         "levelGroupId": 17,
         "levelIndex": 2,
@@ -2927,7 +2927,7 @@
             50302
         ]
     },
-    {
+    "51": {
         "levelId": 51,
         "levelGroupId": 17,
         "levelIndex": 3,
@@ -2981,7 +2981,7 @@
             40103
         ]
     },
-    {
+    "52": {
         "levelId": 52,
         "levelGroupId": 18,
         "levelIndex": 1,
@@ -3049,7 +3049,7 @@
             50106
         ]
     },
-    {
+    "53": {
         "levelId": 53,
         "levelGroupId": 18,
         "levelIndex": 2,
@@ -3107,7 +3107,7 @@
             30104
         ]
     },
-    {
+    "54": {
         "levelId": 54,
         "levelGroupId": 18,
         "levelIndex": 3,
@@ -3162,7 +3162,7 @@
             20201
         ]
     },
-    {
+    "55": {
         "levelId": 55,
         "levelGroupId": 19,
         "levelIndex": 1,
@@ -3218,7 +3218,7 @@
             60101
         ]
     },
-    {
+    "56": {
         "levelId": 56,
         "levelGroupId": 19,
         "levelIndex": 2,
@@ -3287,7 +3287,7 @@
             507
         ]
     },
-    {
+    "57": {
         "levelId": 57,
         "levelGroupId": 19,
         "levelIndex": 3,
@@ -3343,7 +3343,7 @@
             30401
         ]
     },
-    {
+    "58": {
         "levelId": 58,
         "levelGroupId": 20,
         "levelIndex": 1,
@@ -3403,7 +3403,7 @@
             10110
         ]
     },
-    {
+    "59": {
         "levelId": 59,
         "levelGroupId": 20,
         "levelIndex": 2,
@@ -3463,7 +3463,7 @@
             30105
         ]
     },
-    {
+    "60": {
         "levelId": 60,
         "levelGroupId": 20,
         "levelIndex": 3,
@@ -3522,7 +3522,7 @@
             10206
         ]
     },
-    {
+    "61": {
         "levelId": 61,
         "levelGroupId": 21,
         "levelIndex": 1,
@@ -3581,7 +3581,7 @@
             20102
         ]
     },
-    {
+    "62": {
         "levelId": 62,
         "levelGroupId": 21,
         "levelIndex": 2,
@@ -3640,7 +3640,7 @@
             20102
         ]
     },
-    {
+    "63": {
         "levelId": 63,
         "levelGroupId": 21,
         "levelIndex": 3,
@@ -3695,7 +3695,7 @@
             20103
         ]
     },
-    {
+    "64": {
         "levelId": 64,
         "levelGroupId": 22,
         "levelIndex": 1,
@@ -3764,7 +3764,7 @@
             10106
         ]
     },
-    {
+    "65": {
         "levelId": 65,
         "levelGroupId": 22,
         "levelIndex": 2,
@@ -3822,7 +3822,7 @@
             30104
         ]
     },
-    {
+    "66": {
         "levelId": 66,
         "levelGroupId": 22,
         "levelIndex": 3,
@@ -3878,7 +3878,7 @@
             20201
         ]
     },
-    {
+    "67": {
         "levelId": 67,
         "levelGroupId": 23,
         "levelIndex": 1,
@@ -3932,7 +3932,7 @@
             60401
         ]
     },
-    {
+    "68": {
         "levelId": 68,
         "levelGroupId": 23,
         "levelIndex": 2,
@@ -3995,7 +3995,7 @@
             60301
         ]
     },
-    {
+    "69": {
         "levelId": 69,
         "levelGroupId": 23,
         "levelIndex": 3,
@@ -4053,7 +4053,7 @@
             20102
         ]
     },
-    {
+    "70": {
         "levelId": 70,
         "levelGroupId": 24,
         "levelIndex": 1,
@@ -4115,7 +4115,7 @@
             10202
         ]
     },
-    {
+    "71": {
         "levelId": 71,
         "levelGroupId": 24,
         "levelIndex": 2,
@@ -4182,7 +4182,7 @@
             50202
         ]
     },
-    {
+    "72": {
         "levelId": 72,
         "levelGroupId": 24,
         "levelIndex": 3,
@@ -4238,7 +4238,7 @@
             30301
         ]
     },
-    {
+    "73": {
         "levelId": 73,
         "levelGroupId": 25,
         "levelIndex": 1,
@@ -4301,7 +4301,7 @@
             10109
         ]
     },
-    {
+    "74": {
         "levelId": 74,
         "levelGroupId": 25,
         "levelIndex": 2,
@@ -4361,7 +4361,7 @@
             30104
         ]
     },
-    {
+    "75": {
         "levelId": 75,
         "levelGroupId": 25,
         "levelIndex": 3,
@@ -4418,7 +4418,7 @@
             10306
         ]
     },
-    {
+    "76": {
         "levelId": 76,
         "levelGroupId": 26,
         "levelIndex": 1,
@@ -4478,7 +4478,7 @@
             20104
         ]
     },
-    {
+    "77": {
         "levelId": 77,
         "levelGroupId": 26,
         "levelIndex": 2,
@@ -4536,7 +4536,7 @@
             20101
         ]
     },
-    {
+    "78": {
         "levelId": 78,
         "levelGroupId": 26,
         "levelIndex": 3,
@@ -4590,7 +4590,7 @@
             406
         ]
     },
-    {
+    "79": {
         "levelId": 79,
         "levelGroupId": 27,
         "levelIndex": 1,
@@ -4650,7 +4650,7 @@
             30301
         ]
     },
-    {
+    "80": {
         "levelId": 80,
         "levelGroupId": 27,
         "levelIndex": 2,
@@ -4707,7 +4707,7 @@
             50901
         ]
     },
-    {
+    "81": {
         "levelId": 81,
         "levelGroupId": 27,
         "levelIndex": 3,
@@ -4766,7 +4766,7 @@
             40204
         ]
     },
-    {
+    "82": {
         "levelId": 82,
         "levelGroupId": 28,
         "levelIndex": 1,
@@ -4825,7 +4825,7 @@
             10106
         ]
     },
-    {
+    "83": {
         "levelId": 83,
         "levelGroupId": 28,
         "levelIndex": 2,
@@ -4886,7 +4886,7 @@
             50106
         ]
     },
-    {
+    "84": {
         "levelId": 84,
         "levelGroupId": 28,
         "levelIndex": 3,
@@ -4943,7 +4943,7 @@
             113
         ]
     },
-    {
+    "85": {
         "levelId": 85,
         "levelGroupId": 29,
         "levelIndex": 1,
@@ -5008,7 +5008,7 @@
             602
         ]
     },
-    {
+    "86": {
         "levelId": 86,
         "levelGroupId": 29,
         "levelIndex": 2,
@@ -5063,7 +5063,7 @@
             30401
         ]
     },
-    {
+    "87": {
         "levelId": 87,
         "levelGroupId": 29,
         "levelIndex": 3,
@@ -5117,7 +5117,7 @@
             40211
         ]
     },
-    {
+    "88": {
         "levelId": 88,
         "levelGroupId": 30,
         "levelIndex": 1,
@@ -5177,7 +5177,7 @@
             113
         ]
     },
-    {
+    "89": {
         "levelId": 89,
         "levelGroupId": 30,
         "levelIndex": 2,
@@ -5237,7 +5237,7 @@
             50803
         ]
     },
-    {
+    "90": {
         "levelId": 90,
         "levelGroupId": 30,
         "levelIndex": 3,
@@ -5291,7 +5291,7 @@
             406
         ]
     },
-    {
+    "91": {
         "levelId": 91,
         "levelGroupId": 31,
         "levelIndex": 1,
@@ -5350,7 +5350,7 @@
             507
         ]
     },
-    {
+    "92": {
         "levelId": 92,
         "levelGroupId": 31,
         "levelIndex": 2,
@@ -5409,7 +5409,7 @@
             50106
         ]
     },
-    {
+    "93": {
         "levelId": 93,
         "levelGroupId": 31,
         "levelIndex": 3,
@@ -5469,7 +5469,7 @@
             40203
         ]
     },
-    {
+    "94": {
         "levelId": 94,
         "levelGroupId": 32,
         "levelIndex": 1,
@@ -5549,7 +5549,7 @@
             50106
         ]
     },
-    {
+    "95": {
         "levelId": 95,
         "levelGroupId": 32,
         "levelIndex": 2,
@@ -5610,7 +5610,7 @@
             50803
         ]
     },
-    {
+    "96": {
         "levelId": 96,
         "levelGroupId": 32,
         "levelIndex": 3,
@@ -5673,7 +5673,7 @@
             40204
         ]
     },
-    {
+    "97": {
         "levelId": 97,
         "levelGroupId": 33,
         "levelIndex": 1,
@@ -5729,7 +5729,7 @@
             20401
         ]
     },
-    {
+    "98": {
         "levelId": 98,
         "levelGroupId": 33,
         "levelIndex": 2,
@@ -5785,7 +5785,7 @@
             50904
         ]
     },
-    {
+    "99": {
         "levelId": 99,
         "levelGroupId": 33,
         "levelIndex": 3,
@@ -5843,7 +5843,7 @@
             40101
         ]
     },
-    {
+    "100": {
         "levelId": 100,
         "levelGroupId": 34,
         "levelIndex": 1,
@@ -5908,7 +5908,7 @@
             10105
         ]
     },
-    {
+    "101": {
         "levelId": 101,
         "levelGroupId": 34,
         "levelIndex": 2,
@@ -5972,7 +5972,7 @@
             509
         ]
     },
-    {
+    "102": {
         "levelId": 102,
         "levelGroupId": 34,
         "levelIndex": 3,
@@ -6028,7 +6028,7 @@
             701
         ]
     },
-    {
+    "103": {
         "levelId": 103,
         "levelGroupId": 35,
         "levelIndex": 1,
@@ -6085,7 +6085,7 @@
             20401
         ]
     },
-    {
+    "104": {
         "levelId": 104,
         "levelGroupId": 35,
         "levelIndex": 2,
@@ -6139,7 +6139,7 @@
             20201
         ]
     },
-    {
+    "105": {
         "levelId": 105,
         "levelGroupId": 35,
         "levelIndex": 3,
@@ -6194,7 +6194,7 @@
             50901
         ]
     },
-    {
+    "106": {
         "levelId": 106,
         "levelGroupId": 36,
         "levelIndex": 1,
@@ -6251,7 +6251,7 @@
             60103
         ]
     },
-    {
+    "107": {
         "levelId": 107,
         "levelGroupId": 36,
         "levelIndex": 2,
@@ -6315,7 +6315,7 @@
             113
         ]
     },
-    {
+    "108": {
         "levelId": 108,
         "levelGroupId": 36,
         "levelIndex": 3,
@@ -6371,7 +6371,7 @@
             20301
         ]
     },
-    {
+    "109": {
         "levelId": 109,
         "levelGroupId": 37,
         "levelIndex": 1,
@@ -6428,7 +6428,7 @@
             60510
         ]
     },
-    {
+    "110": {
         "levelId": 110,
         "levelGroupId": 37,
         "levelIndex": 2,
@@ -6482,7 +6482,7 @@
             20601
         ]
     },
-    {
+    "111": {
         "levelId": 111,
         "levelGroupId": 37,
         "levelIndex": 3,
@@ -6538,7 +6538,7 @@
             60508
         ]
     },
-    {
+    "112": {
         "levelId": 112,
         "levelGroupId": 38,
         "levelIndex": 1,
@@ -6615,7 +6615,7 @@
             50106
         ]
     },
-    {
+    "113": {
         "levelId": 113,
         "levelGroupId": 38,
         "levelIndex": 2,
@@ -6679,7 +6679,7 @@
             107
         ]
     },
-    {
+    "114": {
         "levelId": 114,
         "levelGroupId": 38,
         "levelIndex": 3,
@@ -6736,7 +6736,7 @@
             20401
         ]
     },
-    {
+    "115": {
         "levelId": 115,
         "levelGroupId": 39,
         "levelIndex": 1,
@@ -6798,7 +6798,7 @@
             40101
         ]
     },
-    {
+    "116": {
         "levelId": 116,
         "levelGroupId": 39,
         "levelIndex": 2,
@@ -6855,7 +6855,7 @@
             20201
         ]
     },
-    {
+    "117": {
         "levelId": 117,
         "levelGroupId": 39,
         "levelIndex": 3,
@@ -6909,7 +6909,7 @@
             20201
         ]
     },
-    {
+    "118": {
         "levelId": 118,
         "levelGroupId": 40,
         "levelIndex": 1,
@@ -6980,7 +6980,7 @@
             50105
         ]
     },
-    {
+    "119": {
         "levelId": 119,
         "levelGroupId": 40,
         "levelIndex": 2,
@@ -7040,7 +7040,7 @@
             30105
         ]
     },
-    {
+    "120": {
         "levelId": 120,
         "levelGroupId": 40,
         "levelIndex": 3,
@@ -7097,7 +7097,7 @@
             60511
         ]
     },
-    {
+    "121": {
         "levelId": 121,
         "levelGroupId": 41,
         "levelIndex": 1,
@@ -7154,7 +7154,7 @@
             40101
         ]
     },
-    {
+    "122": {
         "levelId": 122,
         "levelGroupId": 41,
         "levelIndex": 2,
@@ -7210,7 +7210,7 @@
             50901
         ]
     },
-    {
+    "123": {
         "levelId": 123,
         "levelGroupId": 41,
         "levelIndex": 3,
@@ -7264,7 +7264,7 @@
             40211
         ]
     },
-    {
+    "124": {
         "levelId": 124,
         "levelGroupId": 42,
         "levelIndex": 1,
@@ -7335,7 +7335,7 @@
             50106
         ]
     },
-    {
+    "125": {
         "levelId": 125,
         "levelGroupId": 42,
         "levelIndex": 2,
@@ -7398,7 +7398,7 @@
             30106
         ]
     },
-    {
+    "126": {
         "levelId": 126,
         "levelGroupId": 42,
         "levelIndex": 3,
@@ -7454,7 +7454,7 @@
             20104
         ]
     },
-    {
+    "127": {
         "levelId": 127,
         "levelGroupId": 43,
         "levelIndex": 1,
@@ -7518,7 +7518,7 @@
             50803
         ]
     },
-    {
+    "128": {
         "levelId": 128,
         "levelGroupId": 43,
         "levelIndex": 2,
@@ -7575,7 +7575,7 @@
             40204
         ]
     },
-    {
+    "129": {
         "levelId": 129,
         "levelGroupId": 43,
         "levelIndex": 3,
@@ -7630,7 +7630,7 @@
             40104
         ]
     },
-    {
+    "130": {
         "levelId": 130,
         "levelGroupId": 44,
         "levelIndex": 1,
@@ -7697,7 +7697,7 @@
             52101
         ]
     },
-    {
+    "131": {
         "levelId": 131,
         "levelGroupId": 44,
         "levelIndex": 2,
@@ -7767,7 +7767,7 @@
             113
         ]
     },
-    {
+    "132": {
         "levelId": 132,
         "levelGroupId": 44,
         "levelIndex": 3,
@@ -7826,7 +7826,7 @@
             52104
         ]
     },
-    {
+    "133": {
         "levelId": 133,
         "levelGroupId": 45,
         "levelIndex": 1,
@@ -7886,7 +7886,7 @@
             60506
         ]
     },
-    {
+    "134": {
         "levelId": 134,
         "levelGroupId": 45,
         "levelIndex": 2,
@@ -7943,7 +7943,7 @@
             10208
         ]
     },
-    {
+    "135": {
         "levelId": 135,
         "levelGroupId": 45,
         "levelIndex": 3,
@@ -8002,7 +8002,7 @@
             30301
         ]
     },
-    {
+    "136": {
         "levelId": 136,
         "levelGroupId": 46,
         "levelIndex": 1,
@@ -8074,7 +8074,7 @@
             10207
         ]
     },
-    {
+    "137": {
         "levelId": 137,
         "levelGroupId": 46,
         "levelIndex": 2,
@@ -8135,7 +8135,7 @@
             60401
         ]
     },
-    {
+    "138": {
         "levelId": 138,
         "levelGroupId": 46,
         "levelIndex": 3,
@@ -8193,7 +8193,7 @@
             60203
         ]
     },
-    {
+    "139": {
         "levelId": 139,
         "levelGroupId": 47,
         "levelIndex": 1,
@@ -8252,7 +8252,7 @@
             52102
         ]
     },
-    {
+    "140": {
         "levelId": 140,
         "levelGroupId": 47,
         "levelIndex": 2,
@@ -8308,7 +8308,7 @@
             60501
         ]
     },
-    {
+    "141": {
         "levelId": 141,
         "levelGroupId": 47,
         "levelIndex": 3,
@@ -8367,4 +8367,4 @@
             61101
         ]
     }
-]
+}

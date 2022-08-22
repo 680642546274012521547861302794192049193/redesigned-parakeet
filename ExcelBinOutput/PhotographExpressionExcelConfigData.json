@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -14,7 +14,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "10402": {
         "emotionName": "HiClosed_02",
         "phonemeName": "P_Smile_05",
         "icon": "UI_EmotIcon_Happy",
@@ -32,7 +32,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "10403": {
         "emotionName": "HiClosed_07",
         "phonemeName": "P_Doya_01",
         "icon": "UI_EmotIcon_Blink",
@@ -50,7 +50,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "4401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -65,7 +65,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "4402": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -83,7 +83,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "4403": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Smile",
@@ -101,7 +101,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "1401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -116,7 +116,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "1402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Happy",
@@ -131,7 +131,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "1403": {
         "emotionName": "Gentle_03",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Lose",
@@ -146,7 +146,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "5401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -161,7 +161,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "5402": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Lose",
@@ -179,7 +179,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "5403": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Smile",
@@ -197,7 +197,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "2401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -212,7 +212,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "2402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Happy",
@@ -227,7 +227,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "2403": {
         "emotionName": "Gentle_03",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Lose",
@@ -242,7 +242,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "6401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -257,7 +257,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "6402": {
         "emotionName": "Gentle_04",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Lose",
@@ -275,7 +275,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "6403": {
         "emotionName": "HiClosed_06",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Blink",
@@ -293,7 +293,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "7401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -308,7 +308,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "7402": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -326,7 +326,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "7403": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Doya_01",
         "icon": "UI_EmotIcon_Smile",
@@ -344,7 +344,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "8401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -359,7 +359,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "8402": {
         "emotionName": "Normal_05",
         "phonemeName": "P_Neko_01",
         "icon": "UI_EmotIcon_Happy",
@@ -377,7 +377,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "8403": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Lose",
@@ -395,7 +395,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "9401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -410,7 +410,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "9402": {
         "emotionName": "Normal_05",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -428,7 +428,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "9403": {
         "emotionName": "Angry_03",
         "phonemeName": "P_Angry_03",
         "icon": "UI_EmotIcon_Earnest",
@@ -446,7 +446,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "11401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -461,7 +461,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "11402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Happy",
@@ -479,7 +479,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "11403": {
         "emotionName": "HiClosed_06",
         "phonemeName": "P_Pero_02",
         "icon": "UI_EmotIcon_Blink",
@@ -497,7 +497,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "12401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -512,7 +512,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "12402": {
         "emotionName": "Gentle_04",
         "phonemeName": "P_Angry_02",
         "icon": "UI_EmotIcon_Lose",
@@ -530,7 +530,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "12403": {
         "emotionName": "Surprise_01",
         "phonemeName": "P_Smile_05",
         "icon": "UI_EmotIcon_Expect",
@@ -548,7 +548,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "14401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -563,7 +563,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "14402": {
         "emotionName": "Angry_01",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Happy",
@@ -581,7 +581,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "14403": {
         "emotionName": "Default_01",
         "phonemeName": "P_Smile_03",
         "icon": "UI_EmotIcon_Confidence",
@@ -599,7 +599,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "13401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -614,7 +614,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "13402": {
         "emotionName": "Gentle_03",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -632,7 +632,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "13403": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_02",
         "icon": "UI_EmotIcon_Smile",
@@ -650,7 +650,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "15401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -665,7 +665,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "15402": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -683,7 +683,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "15403": {
         "emotionName": "LowClosed_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Smile",
@@ -701,7 +701,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "18401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -716,7 +716,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "18402": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_05",
         "icon": "UI_EmotIcon_Happy",
@@ -734,7 +734,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "18403": {
         "emotionName": "Gentle_04",
         "phonemeName": "P_Angry_04",
         "icon": "UI_EmotIcon_Lose",
@@ -752,7 +752,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "17401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -767,7 +767,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "17402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Happy",
@@ -785,7 +785,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "17403": {
         "emotionName": "LowClosed_01",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -803,7 +803,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "19401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -818,7 +818,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "19402": {
         "emotionName": "Gentle_03",
         "phonemeName": "P_U_01",
         "icon": "UI_EmotIcon_Lose",
@@ -836,7 +836,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "19403": {
         "emotionName": "Angry_02",
         "phonemeName": "P_Doya_02",
         "icon": "UI_EmotIcon_Confidence",
@@ -854,7 +854,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "20401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -869,7 +869,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "20402": {
         "emotionName": "Normal_01",
         "phonemeName": "P_Smile_05",
         "icon": "UI_EmotIcon_Happy",
@@ -887,7 +887,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "20403": {
         "emotionName": "Angry_03",
         "phonemeName": "P_Doya_02",
         "icon": "UI_EmotIcon_Confidence",
@@ -905,7 +905,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "23401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -920,7 +920,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "23402": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_02",
         "icon": "UI_EmotIcon_Happy",
@@ -938,7 +938,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "23403": {
         "emotionName": "Angry_02",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Confidence",
@@ -956,7 +956,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "21401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -971,7 +971,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "21402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Happy",
@@ -989,7 +989,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "21403": {
         "emotionName": "Gentle_03",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1007,7 +1007,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "24401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1022,7 +1022,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "24402": {
         "emotionName": "Default_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Happy",
@@ -1040,7 +1040,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "24403": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1058,7 +1058,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "22401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1073,7 +1073,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "22402": {
         "emotionName": "Gentle_03",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1091,7 +1091,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "22403": {
         "emotionName": "Surpreise_01",
         "phonemeName": "P_O_01",
         "icon": "UI_EmotIcon_Expect",
@@ -1109,7 +1109,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "25401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1124,7 +1124,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "25402": {
         "emotionName": "Gentle_03",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1142,7 +1142,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "25403": {
         "emotionName": "MidClosed_05",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -1160,7 +1160,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "35401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1175,7 +1175,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "35402": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1193,7 +1193,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "35403": {
         "emotionName": "Doubt_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -1211,7 +1211,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "34401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1226,7 +1226,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "34402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Happy",
@@ -1244,7 +1244,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "34403": {
         "emotionName": "Sweat_03",
         "phonemeName": "P_Neko_02",
         "icon": "UI_EmotIcon_Confidence",
@@ -1262,7 +1262,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "30401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1277,7 +1277,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "30402": {
         "emotionName": "Angry_02",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Happy",
@@ -1295,7 +1295,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "30403": {
         "emotionName": "Gentle_03",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1313,7 +1313,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "32401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1328,7 +1328,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "32402": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_02",
         "icon": "UI_EmotIcon_Happy",
@@ -1346,7 +1346,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "32403": {
         "emotionName": "Normal_05",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1364,7 +1364,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "31401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1379,7 +1379,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "31402": {
         "emotionName": "Gentle_04",
         "phonemeName": "P_U_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1397,7 +1397,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "31403": {
         "emotionName": "Angry_02",
         "phonemeName": "P_Pero_01",
         "icon": "UI_EmotIcon_Expect",
@@ -1415,7 +1415,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "33401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1430,7 +1430,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "33402": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_05",
         "icon": "UI_EmotIcon_Happy",
@@ -1448,7 +1448,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "33403": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Lose",
@@ -1466,7 +1466,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "16401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1481,7 +1481,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "16402": {
         "emotionName": "Angry_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -1499,7 +1499,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "16403": {
         "emotionName": "LowClosed_01",
         "phonemeName": "P_Normal_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -1517,7 +1517,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "36401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1532,7 +1532,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "36402": {
         "emotionName": "HiClosed_07",
         "phonemeName": "P_Pero_02",
         "icon": "UI_EmotIcon_Happy",
@@ -1550,7 +1550,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "36403": {
         "emotionName": "MidClosed_01",
         "phonemeName": "P_Smile_02",
         "icon": "UI_EmotIcon_Lose",
@@ -1568,7 +1568,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "37401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1583,7 +1583,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "37402": {
         "emotionName": "Angry_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -1601,7 +1601,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "37403": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_Doya_01",
         "icon": "UI_EmotIcon_Smile",
@@ -1619,7 +1619,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "38401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1634,7 +1634,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "38402": {
         "emotionName": "Angry_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -1652,7 +1652,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "38403": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Confidence",
@@ -1670,7 +1670,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "39401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1685,7 +1685,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "39402": {
         "emotionName": "Normal_04",
         "phonemeName": "P_Normal_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -1703,7 +1703,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "39403": {
         "emotionName": "LowClosed_01",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -1721,7 +1721,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "47401": {
         "emotionName": "",
         "phonemeName": "0",
         "icon": "UI_EmotIcon_Normal",
@@ -1736,7 +1736,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "47402": {
         "emotionName": "LowClosed_01",
         "phonemeName": "P_Normal_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -1754,7 +1754,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "47403": {
         "emotionName": "Angry_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Smile",
@@ -1772,7 +1772,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "3401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1787,7 +1787,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "3402": {
         "emotionName": "Default_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Smile",
@@ -1805,7 +1805,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "3403": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Happy",
@@ -1823,7 +1823,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "49401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1838,7 +1838,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "49402": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Doya_02",
         "icon": "UI_EmotIcon_Confidence",
@@ -1856,7 +1856,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "49403": {
         "emotionName": "HiClosed_06",
         "phonemeName": "P_Smile_04",
         "icon": "UI_EmotIcon_Blink",
@@ -1874,7 +1874,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "53401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1889,7 +1889,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "53402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -1907,7 +1907,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "53403": {
         "emotionName": "Angry_03",
         "phonemeName": "P_Angry_03",
         "icon": "UI_EmotIcon_Earnest",
@@ -1925,7 +1925,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "52401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1940,7 +1940,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "52402": {
         "emotionName": "Angry_02",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -1958,7 +1958,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "52403": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -1976,7 +1976,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "54401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -1991,7 +1991,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "54402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Smile",
@@ -2009,7 +2009,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "54403": {
         "emotionName": "LowClosed_05",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -2027,7 +2027,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "56401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2042,7 +2042,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "56402": {
         "emotionName": "Normal_04",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -2060,7 +2060,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "56403": {
         "emotionName": "Angry_01",
         "phonemeName": "P_Neko_01",
         "icon": "UI_EmotIcon_Confidence",
@@ -2078,7 +2078,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "62401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2093,7 +2093,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "62402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Doya_01",
         "icon": "UI_EmotIcon_Confidence",
@@ -2111,7 +2111,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "62403": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_02",
         "icon": "UI_EmotIcon_Happy",
@@ -2129,7 +2129,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "50401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2144,7 +2144,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "50402": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Happy",
@@ -2162,7 +2162,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "50403": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_03",
         "icon": "UI_EmotIcon_Confidence",
@@ -2180,7 +2180,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "55401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2195,7 +2195,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "55402": {
         "emotionName": "Angry_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -2213,7 +2213,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "55403": {
         "emotionName": "Doubt_01",
         "phonemeName": "P_Angry_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -2231,7 +2231,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "57401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2246,7 +2246,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "57402": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_Doya_01",
         "icon": "UI_EmotIcon_Confidence",
@@ -2264,7 +2264,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "57403": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_05",
         "icon": "UI_EmotIcon_Happy",
@@ -2282,7 +2282,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "63401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2297,7 +2297,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "63402": {
         "emotionName": "Doubt_01",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -2315,7 +2315,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "63403": {
         "emotionName": "Default_01",
         "phonemeName": "P_Normal_01",
         "icon": "UI_EmotIcon_Smile",
@@ -2333,7 +2333,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "64401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2348,7 +2348,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "64402": {
         "emotionName": "Angry_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -2366,7 +2366,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "64403": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Happy",
@@ -2384,7 +2384,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "58401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2399,7 +2399,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "58402": {
         "emotionName": "Angry_01",
         "phonemeName": "P_Default_01",
         "icon": "UI_EmotIcon_Confidence",
@@ -2417,7 +2417,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "58403": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Happy",
@@ -2435,7 +2435,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "66401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2450,7 +2450,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "66402": {
         "emotionName": "Sweat_01",
         "phonemeName": "P_Normal_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -2468,7 +2468,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "66403": {
         "emotionName": "Angry_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Confidence",
@@ -2486,7 +2486,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "60401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2501,7 +2501,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "60402": {
         "emotionName": "Gentle_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Smile",
@@ -2519,7 +2519,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "60403": {
         "emotionName": "Doubt_01",
         "phonemeName": "P_Normal_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -2537,7 +2537,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "65401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2552,7 +2552,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "65402": {
         "emotionName": "Doubt_01",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -2570,7 +2570,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "65403": {
         "emotionName": "Angry_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Confidence",
@@ -2588,7 +2588,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "59401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2603,7 +2603,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "59402": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Happy",
@@ -2621,7 +2621,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "59403": {
         "emotionName": "Doubt_01",
         "phonemeName": "P_Normal_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -2639,7 +2639,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "67401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2654,7 +2654,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "67402": {
         "emotionName": "Normal_03",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Smile",
@@ -2672,7 +2672,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "67403": {
         "emotionName": "Gentle_02",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Earnest",
@@ -2690,7 +2690,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "68401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2705,7 +2705,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "68402": {
         "emotionName": "HiClosed_01",
         "phonemeName": "P_Smile_05",
         "icon": "UI_EmotIcon_Happy",
@@ -2723,7 +2723,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "68403": {
         "emotionName": "Surprise_02",
         "phonemeName": "P_O_01",
         "icon": "UI_EmotIcon_Expect",
@@ -2741,7 +2741,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "69401": {
         "emotionName": "",
         "phonemeName": "",
         "icon": "UI_EmotIcon_Normal",
@@ -2756,7 +2756,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "69402": {
         "emotionName": "Default_01",
         "phonemeName": "P_Smile_01",
         "icon": "UI_EmotIcon_Smile",
@@ -2774,7 +2774,7 @@
         ],
         "KPAGBEMIDFF": []
     },
-    {
+    "69403": {
         "emotionName": "Doubt_01",
         "phonemeName": "P_N_01",
         "icon": "UI_EmotIcon_Ponder",
@@ -2792,4 +2792,4 @@
         ],
         "KPAGBEMIDFF": []
     }
-]
+}

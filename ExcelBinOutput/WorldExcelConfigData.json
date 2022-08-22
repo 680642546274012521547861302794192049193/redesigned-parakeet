@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "type": "WORLD_PLAYER",
         "mainSceneId": 3,
@@ -23,7 +23,7 @@
             1075
         ]
     },
-    {
+    "2": {
         "id": 2,
         "type": "WORLD_HOME",
         "mainSceneId": 2001,
@@ -32,7 +32,7 @@
             2202
         ]
     },
-    {
+    "3": {
         "id": 3,
         "type": "WORLD_PLAYER",
         "mainSceneId": 6,
@@ -40,4 +40,4 @@
             20130
         ]
     }
-]
+}

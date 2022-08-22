@@ -1,5 +1,5 @@
-[
-    {
+{
+    "401": {
         "contentVec": [
             {
                 "materialId": 104003,
@@ -20,7 +20,7 @@
         "configId": 401,
         "priceTier": "None"
     },
-    {
+    "402": {
         "contentVec": [
             {
                 "materialId": 374203,
@@ -41,7 +41,7 @@
         "configId": 402,
         "priceTier": "None"
     },
-    {
+    "403": {
         "contentVec": [
             {
                 "materialId": 374311,
@@ -65,7 +65,7 @@
         "configId": 403,
         "priceTier": "None"
     },
-    {
+    "404": {
         "contentVec": [
             {
                 "materialId": 210076,
@@ -89,7 +89,7 @@
         "configId": 404,
         "priceTier": "None"
     },
-    {
+    "405": {
         "contentVec": [
             {
                 "materialId": 374203,
@@ -110,7 +110,7 @@
         "configId": 405,
         "priceTier": "None"
     },
-    {
+    "406": {
         "contentVec": [
             {
                 "materialId": 374311,
@@ -131,7 +131,7 @@
         "configId": 406,
         "priceTier": "None"
     },
-    {
+    "407": {
         "contentVec": [
             {
                 "materialId": 210076,
@@ -152,7 +152,7 @@
         "configId": 407,
         "priceTier": "None"
     },
-    {
+    "408": {
         "contentVec": [
             {
                 "materialId": 104003,
@@ -173,7 +173,7 @@
         "configId": 408,
         "priceTier": "None"
     },
-    {
+    "409": {
         "contentVec": [
             {
                 "materialId": 363105,
@@ -194,7 +194,7 @@
         "configId": 409,
         "priceTier": "None"
     },
-    {
+    "410": {
         "contentVec": [
             {
                 "materialId": 363105,
@@ -218,7 +218,7 @@
         "configId": 410,
         "priceTier": "None"
     },
-    {
+    "411": {
         "contentVec": [
             {
                 "materialId": 104003,
@@ -239,7 +239,7 @@
         "configId": 411,
         "priceTier": "None"
     },
-    {
+    "412": {
         "contentVec": [
             {
                 "materialId": 363105,
@@ -260,7 +260,7 @@
         "configId": 412,
         "priceTier": "None"
     },
-    {
+    "413": {
         "contentVec": [
             {
                 "materialId": 363105,
@@ -284,4 +284,4 @@
         "configId": 413,
         "priceTier": "None"
     }
-]
+}

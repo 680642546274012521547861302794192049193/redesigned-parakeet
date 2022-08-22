@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "openDay": 1,
         "NGFAPIFHCCP": [
@@ -49,7 +49,7 @@
         "titleTextMapHash": 2760553325,
         "LIDLPPDIGDI": 1420313327
     },
-    {
+    "2": {
         "stageId": 2,
         "openDay": 3,
         "NGFAPIFHCCP": [
@@ -99,7 +99,7 @@
         "titleTextMapHash": 1833627061,
         "LIDLPPDIGDI": 2929117791
     },
-    {
+    "3": {
         "stageId": 3,
         "openDay": 5,
         "NGFAPIFHCCP": [
@@ -149,4 +149,4 @@
         "titleTextMapHash": 372840093,
         "LIDLPPDIGDI": 4077113335
     }
-]
+}

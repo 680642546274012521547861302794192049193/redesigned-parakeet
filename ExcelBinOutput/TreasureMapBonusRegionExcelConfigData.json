@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "groupId": 133220387,
         "rewardId": 200020101,
@@ -16,7 +16,7 @@
         ],
         "regionRadius": 20
     },
-    {
+    "2": {
         "id": 2,
         "unlockRegionId": 4,
         "groupId": 133212197,
@@ -34,4 +34,4 @@
         ],
         "regionRadius": 20
     }
-]
+}

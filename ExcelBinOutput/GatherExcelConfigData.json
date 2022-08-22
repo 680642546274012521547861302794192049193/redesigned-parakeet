@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "id": 3003001,
         "areaId": 998,
         "pointType": 1001,
@@ -18,7 +18,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "1002": {
         "id": 3003003,
         "areaId": 998,
         "pointType": 1002,
@@ -37,7 +37,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_MID"
     },
-    {
+    "1003": {
         "id": 3003004,
         "areaId": 998,
         "pointType": 1003,
@@ -56,7 +56,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_HIGH"
     },
-    {
+    "1004": {
         "id": 3003005,
         "areaId": 2,
         "pointType": 1004,
@@ -75,7 +75,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "1005": {
         "id": 3003006,
         "areaId": 998,
         "pointType": 1005,
@@ -92,7 +92,7 @@
         ],
         "initDisableInteract": true
     },
-    {
+    "1006": {
         "id": 3003007,
         "areaId": 998,
         "pointType": 1006,
@@ -111,7 +111,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_MID"
     },
-    {
+    "1008": {
         "id": 3003008,
         "areaId": 998,
         "pointType": 1008,
@@ -130,7 +130,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_HIGH"
     },
-    {
+    "1009": {
         "id": 3003011,
         "areaId": 2,
         "pointType": 1009,
@@ -149,7 +149,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "1010": {
         "id": 3003012,
         "areaId": 998,
         "pointType": 1010,
@@ -168,7 +168,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_HIGH"
     },
-    {
+    "2001": {
         "id": 3003009,
         "areaId": 999,
         "pointType": 2001,
@@ -186,7 +186,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2002": {
         "id": 3003010,
         "areaId": 999,
         "pointType": 2002,
@@ -204,7 +204,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2003": {
         "id": 3003015,
         "areaId": 999,
         "pointType": 2003,
@@ -222,7 +222,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2019": {
         "id": 3003016,
         "areaId": 999,
         "pointType": 2019,
@@ -240,7 +240,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2004": {
         "id": 3003017,
         "areaId": 999,
         "pointType": 2004,
@@ -258,7 +258,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2005": {
         "id": 3003019,
         "areaId": 999,
         "pointType": 2005,
@@ -276,7 +276,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2006": {
         "id": 3003021,
         "areaId": 999,
         "pointType": 2006,
@@ -294,7 +294,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2007": {
         "id": 3003022,
         "areaId": 999,
         "pointType": 2007,
@@ -312,7 +312,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2008": {
         "id": 3003034,
         "areaId": 1,
         "pointType": 2008,
@@ -330,7 +330,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2009": {
         "id": 3003036,
         "areaId": 999,
         "pointType": 2009,
@@ -348,7 +348,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "3001": {
         "id": 3003023,
         "areaId": 999,
         "pointType": 3001,
@@ -367,7 +367,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "3002": {
         "id": 3003024,
         "areaId": 999,
         "pointType": 3002,
@@ -386,7 +386,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "3003": {
         "id": 3003025,
         "areaId": 999,
         "pointType": 3003,
@@ -405,7 +405,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "3005": {
         "id": 3003031,
         "areaId": 999,
         "pointType": 3005,
@@ -424,7 +424,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_MID"
     },
-    {
+    "3006": {
         "id": 3003032,
         "areaId": 999,
         "pointType": 3006,
@@ -443,7 +443,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_MID"
     },
-    {
+    "3007": {
         "id": 3003033,
         "areaId": 1,
         "pointType": 3007,
@@ -461,7 +461,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "3008": {
         "id": 3003035,
         "areaId": 999,
         "pointType": 3008,
@@ -480,7 +480,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_MID"
     },
-    {
+    "3009": {
         "id": 3003037,
         "areaId": 1,
         "pointType": 3009,
@@ -499,7 +499,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "3010": {
         "id": 3003038,
         "areaId": 2,
         "pointType": 3010,
@@ -518,7 +518,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "3011": {
         "id": 3003039,
         "areaId": 999,
         "pointType": 3011,
@@ -537,7 +537,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2010": {
         "id": 3003100,
         "areaId": 1,
         "pointType": 2010,
@@ -556,7 +556,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2011": {
         "id": 3003101,
         "areaId": 1,
         "pointType": 2011,
@@ -574,7 +574,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2012": {
         "id": 3003102,
         "areaId": 1,
         "pointType": 2012,
@@ -592,7 +592,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2013": {
         "id": 3003103,
         "areaId": 1,
         "pointType": 2013,
@@ -610,7 +610,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2014": {
         "id": 3003104,
         "areaId": 1,
         "pointType": 2014,
@@ -628,7 +628,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2015": {
         "id": 3003105,
         "areaId": 999,
         "pointType": 2015,
@@ -646,7 +646,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2016": {
         "id": 3003106,
         "areaId": 2,
         "pointType": 2016,
@@ -664,7 +664,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2023": {
         "id": 3003112,
         "areaId": 2,
         "pointType": 2023,
@@ -682,7 +682,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2025": {
         "id": 3003114,
         "areaId": 2,
         "pointType": 2025,
@@ -700,7 +700,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2026": {
         "id": 3003115,
         "areaId": 2,
         "pointType": 2026,
@@ -719,7 +719,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2027": {
         "id": 3003116,
         "areaId": 999,
         "pointType": 2027,
@@ -737,7 +737,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2028": {
         "id": 3003117,
         "areaId": 2,
         "pointType": 2028,
@@ -755,7 +755,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2029": {
         "id": 3003118,
         "areaId": 2,
         "pointType": 2029,
@@ -773,7 +773,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2030": {
         "id": 3003120,
         "areaId": 999,
         "pointType": 2030,
@@ -791,7 +791,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "1007": {
         "id": 3003121,
         "areaId": 998,
         "pointType": 1007,
@@ -810,7 +810,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_MID"
     },
-    {
+    "2031": {
         "id": 3003122,
         "areaId": 999,
         "pointType": 2031,
@@ -828,7 +828,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2032": {
         "id": 3003123,
         "areaId": 999,
         "pointType": 2032,
@@ -847,7 +847,7 @@
         "isForbidGuest": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_MID"
     },
-    {
+    "2033": {
         "id": 3003124,
         "areaId": 3,
         "pointType": 2033,
@@ -865,7 +865,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2034": {
         "id": 3003125,
         "areaId": 999,
         "pointType": 2034,
@@ -883,7 +883,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2035": {
         "id": 3003126,
         "areaId": 3,
         "pointType": 2035,
@@ -901,7 +901,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2036": {
         "id": 3003127,
         "areaId": 3,
         "pointType": 2036,
@@ -919,7 +919,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2037": {
         "id": 3003128,
         "areaId": 999,
         "pointType": 2037,
@@ -937,7 +937,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2038": {
         "id": 3003129,
         "areaId": 3,
         "pointType": 2038,
@@ -955,7 +955,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2039": {
         "id": 3003130,
         "areaId": 3,
         "pointType": 2039,
@@ -973,7 +973,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2040": {
         "id": 3003131,
         "areaId": 3,
         "pointType": 2040,
@@ -991,7 +991,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2041": {
         "id": 3003132,
         "areaId": 3,
         "pointType": 2041,
@@ -1010,7 +1010,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2042": {
         "id": 3003133,
         "areaId": 3,
         "pointType": 2042,
@@ -1028,7 +1028,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2043": {
         "id": 3003134,
         "areaId": 3,
         "pointType": 2043,
@@ -1046,7 +1046,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2044": {
         "id": 3003135,
         "areaId": 999,
         "pointType": 2044,
@@ -1066,7 +1066,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2045": {
         "id": 3003136,
         "areaId": 999,
         "pointType": 2045,
@@ -1085,7 +1085,7 @@
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW",
         "CHGCDGGGJDA": true
     },
-    {
+    "2046": {
         "id": 3003137,
         "areaId": 4,
         "pointType": 2046,
@@ -1103,7 +1103,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2047": {
         "id": 3003138,
         "areaId": 4,
         "pointType": 2047,
@@ -1121,7 +1121,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2048": {
         "id": 3003139,
         "areaId": 4,
         "pointType": 2048,
@@ -1139,7 +1139,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2049": {
         "id": 3003140,
         "areaId": 999,
         "pointType": 2049,
@@ -1157,7 +1157,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2050": {
         "id": 3003141,
         "areaId": 4,
         "pointType": 2050,
@@ -1175,7 +1175,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2051": {
         "id": 3003142,
         "areaId": 999,
         "pointType": 2051,
@@ -1193,7 +1193,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2052": {
         "id": 3003143,
         "areaId": 999,
         "pointType": 2052,
@@ -1211,7 +1211,7 @@
         ],
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "2057": {
         "id": 3003148,
         "areaId": 4,
         "pointType": 2057,
@@ -1230,7 +1230,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_OWN"
     },
-    {
+    "2058": {
         "id": 3003149,
         "areaId": 4,
         "pointType": 2058,
@@ -1249,7 +1249,7 @@
         "initDisableInteract": true,
         "MPJMNEJEPJD": "GATHER_SAVE_TYPE_LOW"
     },
-    {
+    "4001001": {
         "id": 3003026,
         "pointType": 4001001,
         "gadgetId": 70590004,
@@ -1265,7 +1265,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4002": {
         "id": 3003026,
         "pointType": 4002,
         "gadgetId": 70590021,
@@ -1281,7 +1281,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4001003": {
         "id": 3003028,
         "pointType": 4001003,
         "gadgetId": 70600064,
@@ -1297,7 +1297,7 @@
             }
         ]
     },
-    {
+    "4003": {
         "id": 3003029,
         "pointType": 4003,
         "gadgetId": 70590031,
@@ -1313,7 +1313,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4004": {
         "id": 3003032,
         "pointType": 4004,
         "gadgetId": 70590034,
@@ -1328,7 +1328,7 @@
             }
         ]
     },
-    {
+    "4005": {
         "id": 3003026,
         "pointType": 4005,
         "gadgetId": 70590041,
@@ -1344,7 +1344,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4006": {
         "id": 3003030,
         "pointType": 4006,
         "gadgetId": 70590042,
@@ -1360,7 +1360,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4007": {
         "id": 3003031,
         "pointType": 4007,
         "gadgetId": 70590049,
@@ -1376,7 +1376,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4008": {
         "id": 3003032,
         "pointType": 4008,
         "gadgetId": 70590050,
@@ -1392,7 +1392,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4009": {
         "id": 3003033,
         "pointType": 4009,
         "gadgetId": 70590051,
@@ -1408,7 +1408,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4010": {
         "id": 3003034,
         "pointType": 4010,
         "gadgetId": 70590052,
@@ -1424,7 +1424,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4011": {
         "id": 3003035,
         "pointType": 4011,
         "gadgetId": 70590053,
@@ -1440,7 +1440,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4012": {
         "id": 3003036,
         "pointType": 4012,
         "gadgetId": 70590057,
@@ -1458,7 +1458,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4013": {
         "id": 3003037,
         "pointType": 4013,
         "gadgetId": 70590057,
@@ -1476,7 +1476,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "4014": {
         "id": 3003026,
         "pointType": 4014,
         "gadgetId": 70590063,
@@ -1492,7 +1492,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9001": {
         "id": 1004001,
         "pointType": 9001,
         "gadgetId": 71700002,
@@ -1509,7 +1509,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9002": {
         "id": 1004002,
         "pointType": 9002,
         "gadgetId": 71700003,
@@ -1526,7 +1526,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9003": {
         "id": 1004003,
         "pointType": 9003,
         "gadgetId": 71700004,
@@ -1543,7 +1543,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9004": {
         "id": 1004004,
         "pointType": 9004,
         "gadgetId": 71700005,
@@ -1560,7 +1560,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9005": {
         "id": 1004005,
         "pointType": 9005,
         "gadgetId": 71700006,
@@ -1577,7 +1577,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9006": {
         "id": 1004006,
         "pointType": 9006,
         "gadgetId": 71700007,
@@ -1594,7 +1594,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9007": {
         "id": 1004007,
         "pointType": 9007,
         "gadgetId": 71700009,
@@ -1611,7 +1611,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9008": {
         "id": 1004008,
         "pointType": 9008,
         "gadgetId": 71700010,
@@ -1628,7 +1628,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9009": {
         "id": 1004009,
         "pointType": 9009,
         "gadgetId": 71700011,
@@ -1645,7 +1645,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9010": {
         "id": 1004010,
         "pointType": 9010,
         "gadgetId": 71700012,
@@ -1662,7 +1662,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9011": {
         "id": 1004011,
         "pointType": 9011,
         "gadgetId": 71700013,
@@ -1679,7 +1679,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9012": {
         "id": 1004012,
         "pointType": 9012,
         "gadgetId": 71700014,
@@ -1696,7 +1696,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9013": {
         "id": 1004013,
         "pointType": 9013,
         "gadgetId": 71700015,
@@ -1713,7 +1713,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9014": {
         "id": 1004014,
         "pointType": 9014,
         "gadgetId": 71700016,
@@ -1730,7 +1730,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9015": {
         "id": 1004015,
         "pointType": 9015,
         "gadgetId": 71700017,
@@ -1747,7 +1747,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9016": {
         "id": 1004016,
         "pointType": 9016,
         "gadgetId": 71700018,
@@ -1764,7 +1764,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9017": {
         "id": 1004017,
         "pointType": 9017,
         "gadgetId": 71700019,
@@ -1781,7 +1781,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9018": {
         "id": 1004018,
         "pointType": 9018,
         "gadgetId": 71700020,
@@ -1798,7 +1798,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9019": {
         "id": 1004019,
         "pointType": 9019,
         "gadgetId": 71700021,
@@ -1815,7 +1815,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9020": {
         "id": 1004020,
         "pointType": 9020,
         "gadgetId": 71700023,
@@ -1832,7 +1832,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9021": {
         "id": 1004021,
         "pointType": 9021,
         "gadgetId": 71700024,
@@ -1849,7 +1849,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9022": {
         "id": 1004022,
         "pointType": 9022,
         "gadgetId": 71700025,
@@ -1866,7 +1866,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9023": {
         "id": 1004023,
         "pointType": 9023,
         "gadgetId": 71700026,
@@ -1883,7 +1883,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9024": {
         "id": 1004024,
         "pointType": 9024,
         "gadgetId": 71700027,
@@ -1900,7 +1900,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9025": {
         "id": 1004025,
         "pointType": 9025,
         "gadgetId": 71700028,
@@ -1917,7 +1917,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9026": {
         "id": 1004026,
         "pointType": 9026,
         "gadgetId": 71700029,
@@ -1934,7 +1934,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9027": {
         "id": 1004027,
         "pointType": 9027,
         "gadgetId": 71700022,
@@ -1951,7 +1951,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9028": {
         "id": 1004028,
         "pointType": 9028,
         "gadgetId": 71700039,
@@ -1968,7 +1968,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9029": {
         "id": 1004029,
         "pointType": 9029,
         "gadgetId": 71700042,
@@ -1985,7 +1985,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9030": {
         "id": 1004030,
         "pointType": 9030,
         "gadgetId": 71700043,
@@ -2002,7 +2002,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9031": {
         "id": 1004031,
         "pointType": 9031,
         "gadgetId": 71700044,
@@ -2019,7 +2019,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9032": {
         "id": 1004032,
         "pointType": 9032,
         "gadgetId": 71700048,
@@ -2036,7 +2036,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9033": {
         "id": 1004033,
         "pointType": 9033,
         "gadgetId": 71700049,
@@ -2053,7 +2053,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9034": {
         "id": 1004034,
         "pointType": 9034,
         "gadgetId": 71700050,
@@ -2070,7 +2070,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9035": {
         "id": 1004035,
         "pointType": 9035,
         "gadgetId": 71700051,
@@ -2087,7 +2087,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9036": {
         "id": 1004036,
         "pointType": 9036,
         "gadgetId": 71700052,
@@ -2104,7 +2104,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9037": {
         "id": 1004037,
         "pointType": 9037,
         "gadgetId": 71700054,
@@ -2121,7 +2121,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9038": {
         "id": 1004038,
         "pointType": 9038,
         "gadgetId": 71700055,
@@ -2138,7 +2138,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9039": {
         "id": 1004039,
         "pointType": 9039,
         "gadgetId": 71700056,
@@ -2155,7 +2155,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9040": {
         "id": 1004040,
         "pointType": 9040,
         "gadgetId": 71700057,
@@ -2172,7 +2172,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9041": {
         "id": 1004041,
         "pointType": 9041,
         "gadgetId": 71700058,
@@ -2189,7 +2189,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9042": {
         "id": 1004042,
         "pointType": 9042,
         "gadgetId": 71700059,
@@ -2206,7 +2206,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9043": {
         "id": 1004043,
         "pointType": 9043,
         "gadgetId": 71700060,
@@ -2223,7 +2223,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9044": {
         "id": 1004044,
         "pointType": 9044,
         "gadgetId": 71700061,
@@ -2240,7 +2240,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9045": {
         "id": 1004045,
         "pointType": 9045,
         "gadgetId": 71700062,
@@ -2257,7 +2257,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9046": {
         "id": 1004046,
         "pointType": 9046,
         "gadgetId": 71700063,
@@ -2274,7 +2274,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9047": {
         "id": 1004047,
         "pointType": 9047,
         "gadgetId": 71700064,
@@ -2291,7 +2291,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9048": {
         "id": 1004048,
         "pointType": 9048,
         "gadgetId": 71700065,
@@ -2308,7 +2308,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9049": {
         "id": 1004049,
         "pointType": 9049,
         "gadgetId": 71700066,
@@ -2325,7 +2325,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9050": {
         "id": 1004050,
         "pointType": 9050,
         "gadgetId": 71700067,
@@ -2342,7 +2342,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9051": {
         "id": 1004051,
         "pointType": 9051,
         "gadgetId": 71700068,
@@ -2359,7 +2359,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9052": {
         "id": 1004052,
         "pointType": 9052,
         "gadgetId": 71700069,
@@ -2376,7 +2376,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9053": {
         "id": 1004053,
         "pointType": 9053,
         "gadgetId": 71700070,
@@ -2393,7 +2393,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9054": {
         "id": 1004054,
         "pointType": 9054,
         "gadgetId": 71700071,
@@ -2410,7 +2410,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9055": {
         "id": 1004055,
         "pointType": 9055,
         "gadgetId": 71700072,
@@ -2427,7 +2427,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9056": {
         "id": 1004056,
         "pointType": 9056,
         "gadgetId": 71700074,
@@ -2444,7 +2444,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9057": {
         "id": 1004057,
         "pointType": 9057,
         "gadgetId": 71700078,
@@ -2461,7 +2461,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9058": {
         "id": 1004058,
         "pointType": 9058,
         "gadgetId": 71700079,
@@ -2478,7 +2478,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9059": {
         "id": 1004059,
         "pointType": 9059,
         "gadgetId": 71700080,
@@ -2495,7 +2495,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9060": {
         "id": 1004060,
         "pointType": 9060,
         "gadgetId": 71700081,
@@ -2512,7 +2512,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9061": {
         "id": 1004061,
         "pointType": 9061,
         "gadgetId": 71700082,
@@ -2529,7 +2529,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9062": {
         "id": 1004062,
         "pointType": 9062,
         "gadgetId": 71700084,
@@ -2546,7 +2546,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9063": {
         "id": 1004063,
         "pointType": 9063,
         "gadgetId": 71700085,
@@ -2563,7 +2563,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9064": {
         "id": 1004064,
         "pointType": 9064,
         "gadgetId": 71700086,
@@ -2580,7 +2580,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9065": {
         "id": 1004065,
         "pointType": 9065,
         "gadgetId": 71700087,
@@ -2597,7 +2597,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9066": {
         "id": 1004066,
         "pointType": 9066,
         "gadgetId": 71700088,
@@ -2614,7 +2614,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9067": {
         "id": 1004067,
         "pointType": 9067,
         "gadgetId": 71700089,
@@ -2631,7 +2631,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9068": {
         "id": 1004068,
         "pointType": 9068,
         "gadgetId": 71700090,
@@ -2648,7 +2648,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9069": {
         "id": 1004069,
         "pointType": 9069,
         "gadgetId": 71700091,
@@ -2665,7 +2665,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9070": {
         "id": 1004070,
         "pointType": 9070,
         "gadgetId": 71700092,
@@ -2682,7 +2682,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9071": {
         "id": 1004071,
         "pointType": 9071,
         "gadgetId": 71700110,
@@ -2699,7 +2699,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9072": {
         "id": 1004072,
         "pointType": 9072,
         "gadgetId": 71700111,
@@ -2716,7 +2716,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9073": {
         "id": 1004073,
         "pointType": 9073,
         "gadgetId": 71700112,
@@ -2733,7 +2733,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9074": {
         "id": 1004074,
         "pointType": 9074,
         "gadgetId": 71700113,
@@ -2750,7 +2750,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9075": {
         "id": 1004075,
         "pointType": 9075,
         "gadgetId": 71700114,
@@ -2767,7 +2767,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9076": {
         "id": 1004076,
         "pointType": 9076,
         "gadgetId": 71700115,
@@ -2784,7 +2784,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9077": {
         "id": 1004077,
         "pointType": 9077,
         "gadgetId": 71700116,
@@ -2801,7 +2801,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9078": {
         "id": 1004078,
         "pointType": 9078,
         "gadgetId": 71700117,
@@ -2818,7 +2818,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9079": {
         "id": 1004079,
         "pointType": 9079,
         "gadgetId": 71700124,
@@ -2835,7 +2835,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9080": {
         "id": 1004080,
         "pointType": 9080,
         "gadgetId": 71700125,
@@ -2852,7 +2852,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9081": {
         "id": 1004081,
         "pointType": 9081,
         "gadgetId": 71700126,
@@ -2869,7 +2869,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9082": {
         "id": 1004082,
         "pointType": 9082,
         "gadgetId": 71700127,
@@ -2886,7 +2886,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9083": {
         "id": 1004083,
         "pointType": 9083,
         "gadgetId": 71700128,
@@ -2903,7 +2903,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9084": {
         "id": 1004084,
         "pointType": 9084,
         "gadgetId": 71700129,
@@ -2920,7 +2920,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9085": {
         "id": 1004085,
         "pointType": 9085,
         "gadgetId": 71700130,
@@ -2937,7 +2937,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9086": {
         "id": 1004086,
         "pointType": 9086,
         "gadgetId": 71700131,
@@ -2954,7 +2954,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9087": {
         "id": 1004087,
         "pointType": 9087,
         "gadgetId": 71700132,
@@ -2971,7 +2971,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9088": {
         "id": 1004088,
         "pointType": 9088,
         "gadgetId": 71700133,
@@ -2988,7 +2988,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9089": {
         "id": 1004089,
         "pointType": 9089,
         "gadgetId": 71700134,
@@ -3005,7 +3005,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9090": {
         "id": 1004090,
         "pointType": 9090,
         "gadgetId": 71700135,
@@ -3022,7 +3022,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9091": {
         "id": 1004091,
         "pointType": 9091,
         "gadgetId": 71700136,
@@ -3039,7 +3039,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9092": {
         "id": 1004092,
         "pointType": 9092,
         "gadgetId": 71700137,
@@ -3056,7 +3056,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9093": {
         "id": 1004093,
         "pointType": 9093,
         "gadgetId": 71700138,
@@ -3073,7 +3073,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9094": {
         "id": 1004094,
         "pointType": 9094,
         "gadgetId": 71700139,
@@ -3090,7 +3090,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9095": {
         "id": 1004095,
         "pointType": 9095,
         "gadgetId": 71700140,
@@ -3107,7 +3107,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9096": {
         "id": 1004096,
         "pointType": 9096,
         "gadgetId": 70710170,
@@ -3124,7 +3124,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9097": {
         "id": 1004097,
         "pointType": 9097,
         "gadgetId": 71700141,
@@ -3141,7 +3141,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9098": {
         "id": 1004098,
         "pointType": 9098,
         "gadgetId": 71700142,
@@ -3158,7 +3158,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9099": {
         "id": 1004099,
         "pointType": 9099,
         "gadgetId": 71700143,
@@ -3175,7 +3175,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9200": {
         "id": 1004100,
         "pointType": 9200,
         "gadgetId": 71700144,
@@ -3192,7 +3192,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9201": {
         "id": 1004101,
         "pointType": 9201,
         "gadgetId": 71700145,
@@ -3209,7 +3209,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9202": {
         "id": 1004102,
         "pointType": 9202,
         "gadgetId": 71700146,
@@ -3226,7 +3226,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9203": {
         "id": 1004103,
         "pointType": 9203,
         "gadgetId": 71700147,
@@ -3243,7 +3243,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9204": {
         "id": 1004104,
         "pointType": 9204,
         "gadgetId": 71700148,
@@ -3260,7 +3260,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9205": {
         "id": 1004105,
         "pointType": 9205,
         "gadgetId": 71700155,
@@ -3277,7 +3277,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9206": {
         "id": 1004106,
         "pointType": 9206,
         "gadgetId": 71700156,
@@ -3294,7 +3294,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9207": {
         "id": 1004107,
         "pointType": 9207,
         "gadgetId": 71700157,
@@ -3311,7 +3311,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9208": {
         "id": 1004108,
         "pointType": 9208,
         "gadgetId": 71700158,
@@ -3328,7 +3328,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9209": {
         "id": 1004109,
         "pointType": 9209,
         "gadgetId": 71700159,
@@ -3345,7 +3345,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9210": {
         "id": 1004110,
         "pointType": 9210,
         "gadgetId": 71700160,
@@ -3362,7 +3362,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9211": {
         "id": 1004111,
         "pointType": 9211,
         "gadgetId": 71700161,
@@ -3379,7 +3379,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9212": {
         "id": 1004112,
         "pointType": 9212,
         "gadgetId": 71700162,
@@ -3396,7 +3396,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9213": {
         "id": 1004113,
         "pointType": 9213,
         "gadgetId": 71700163,
@@ -3413,7 +3413,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9214": {
         "id": 1004114,
         "pointType": 9214,
         "gadgetId": 71700164,
@@ -3430,7 +3430,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9215": {
         "id": 1004115,
         "pointType": 9215,
         "gadgetId": 71700165,
@@ -3447,7 +3447,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9216": {
         "id": 1004116,
         "pointType": 9216,
         "gadgetId": 71700166,
@@ -3464,7 +3464,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9217": {
         "id": 1004117,
         "pointType": 9217,
         "gadgetId": 71700167,
@@ -3481,7 +3481,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9218": {
         "id": 1004118,
         "pointType": 9218,
         "gadgetId": 71700168,
@@ -3498,7 +3498,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9219": {
         "id": 1004119,
         "pointType": 9219,
         "gadgetId": 71700169,
@@ -3515,7 +3515,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9220": {
         "id": 1004120,
         "pointType": 9220,
         "gadgetId": 71700170,
@@ -3532,7 +3532,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9221": {
         "id": 1004121,
         "pointType": 9221,
         "gadgetId": 71700171,
@@ -3549,7 +3549,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9222": {
         "id": 1004122,
         "pointType": 9222,
         "gadgetId": 71700172,
@@ -3566,7 +3566,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9223": {
         "id": 1004123,
         "pointType": 9223,
         "gadgetId": 71700173,
@@ -3583,7 +3583,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9224": {
         "id": 1004124,
         "pointType": 9224,
         "gadgetId": 71700174,
@@ -3600,7 +3600,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9225": {
         "id": 1004125,
         "pointType": 9225,
         "gadgetId": 71700175,
@@ -3617,7 +3617,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9226": {
         "id": 1004126,
         "pointType": 9226,
         "gadgetId": 71700178,
@@ -3634,7 +3634,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9227": {
         "id": 1004127,
         "pointType": 9227,
         "gadgetId": 71700180,
@@ -3651,7 +3651,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9228": {
         "id": 1004128,
         "pointType": 9228,
         "gadgetId": 71700181,
@@ -3668,7 +3668,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9229": {
         "id": 1004129,
         "pointType": 9229,
         "gadgetId": 71700182,
@@ -3685,7 +3685,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9230": {
         "id": 1004130,
         "pointType": 9230,
         "gadgetId": 71700185,
@@ -3702,7 +3702,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9231": {
         "id": 1004131,
         "pointType": 9231,
         "gadgetId": 71700186,
@@ -3719,7 +3719,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9232": {
         "id": 1004132,
         "pointType": 9232,
         "gadgetId": 71700187,
@@ -3736,7 +3736,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9233": {
         "id": 1004133,
         "pointType": 9233,
         "gadgetId": 71700188,
@@ -3753,7 +3753,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9234": {
         "id": 1004134,
         "pointType": 9234,
         "gadgetId": 71700189,
@@ -3770,7 +3770,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9235": {
         "id": 1004135,
         "pointType": 9235,
         "gadgetId": 71700190,
@@ -3787,7 +3787,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9236": {
         "id": 1004136,
         "pointType": 9236,
         "gadgetId": 71700191,
@@ -3804,7 +3804,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9237": {
         "id": 1004137,
         "pointType": 9237,
         "gadgetId": 71700203,
@@ -3821,7 +3821,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9238": {
         "id": 1004138,
         "pointType": 9238,
         "gadgetId": 71700204,
@@ -3838,7 +3838,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9239": {
         "id": 1004139,
         "pointType": 9239,
         "gadgetId": 71700205,
@@ -3855,7 +3855,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9240": {
         "id": 1004140,
         "pointType": 9240,
         "gadgetId": 71700206,
@@ -3872,7 +3872,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9241": {
         "id": 1004141,
         "pointType": 9241,
         "gadgetId": 71700207,
@@ -3889,7 +3889,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9242": {
         "id": 1004142,
         "pointType": 9242,
         "gadgetId": 71700208,
@@ -3906,7 +3906,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9243": {
         "id": 1004143,
         "pointType": 9243,
         "gadgetId": 71700229,
@@ -3923,7 +3923,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9244": {
         "id": 1004144,
         "pointType": 9244,
         "gadgetId": 71700264,
@@ -3940,7 +3940,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9245": {
         "id": 1004145,
         "pointType": 9245,
         "gadgetId": 71700265,
@@ -3957,7 +3957,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9246": {
         "id": 1004146,
         "pointType": 9246,
         "gadgetId": 71700266,
@@ -3974,7 +3974,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9247": {
         "id": 1004147,
         "pointType": 9247,
         "gadgetId": 71700267,
@@ -3991,7 +3991,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9248": {
         "id": 1004148,
         "pointType": 9248,
         "gadgetId": 71700268,
@@ -4008,7 +4008,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9249": {
         "id": 1004149,
         "pointType": 9249,
         "gadgetId": 71700269,
@@ -4025,7 +4025,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9250": {
         "id": 1004150,
         "pointType": 9250,
         "gadgetId": 71700270,
@@ -4042,7 +4042,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9251": {
         "id": 1004151,
         "pointType": 9251,
         "gadgetId": 71700271,
@@ -4059,7 +4059,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9252": {
         "id": 1004152,
         "pointType": 9252,
         "gadgetId": 71700272,
@@ -4076,7 +4076,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9253": {
         "id": 1004153,
         "pointType": 9253,
         "gadgetId": 71700273,
@@ -4093,7 +4093,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9254": {
         "id": 1004154,
         "pointType": 9254,
         "gadgetId": 71700274,
@@ -4110,7 +4110,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9255": {
         "id": 1004155,
         "pointType": 9255,
         "gadgetId": 71700275,
@@ -4127,7 +4127,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9256": {
         "id": 1004156,
         "pointType": 9256,
         "gadgetId": 71700276,
@@ -4144,7 +4144,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9257": {
         "id": 1004157,
         "pointType": 9257,
         "gadgetId": 71700277,
@@ -4161,7 +4161,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9258": {
         "id": 1004158,
         "pointType": 9258,
         "gadgetId": 71700278,
@@ -4178,7 +4178,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9259": {
         "id": 1004159,
         "pointType": 9259,
         "gadgetId": 71700281,
@@ -4195,7 +4195,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9260": {
         "id": 1004160,
         "pointType": 9260,
         "gadgetId": 71700282,
@@ -4212,7 +4212,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9261": {
         "id": 1004161,
         "pointType": 9261,
         "gadgetId": 71700301,
@@ -4229,7 +4229,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9262": {
         "id": 1004162,
         "pointType": 9262,
         "gadgetId": 71700302,
@@ -4246,7 +4246,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9263": {
         "id": 1004163,
         "pointType": 9263,
         "gadgetId": 71700303,
@@ -4263,7 +4263,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9264": {
         "id": 1004164,
         "pointType": 9264,
         "gadgetId": 71700304,
@@ -4280,7 +4280,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9265": {
         "id": 1004165,
         "pointType": 9265,
         "gadgetId": 71700305,
@@ -4297,7 +4297,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9266": {
         "id": 1004166,
         "pointType": 9266,
         "gadgetId": 71700306,
@@ -4314,7 +4314,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9267": {
         "id": 1004167,
         "pointType": 9267,
         "gadgetId": 71700307,
@@ -4331,7 +4331,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9268": {
         "id": 1004168,
         "pointType": 9268,
         "gadgetId": 71700308,
@@ -4348,7 +4348,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9269": {
         "id": 1004169,
         "pointType": 9269,
         "gadgetId": 71700309,
@@ -4365,7 +4365,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9270": {
         "id": 1004170,
         "pointType": 9270,
         "gadgetId": 71700310,
@@ -4382,7 +4382,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9271": {
         "id": 1004171,
         "pointType": 9271,
         "gadgetId": 71700311,
@@ -4399,7 +4399,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9272": {
         "id": 1004172,
         "pointType": 9272,
         "gadgetId": 71700312,
@@ -4416,7 +4416,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9273": {
         "id": 1004173,
         "pointType": 9273,
         "gadgetId": 71700313,
@@ -4433,7 +4433,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9274": {
         "id": 1004174,
         "pointType": 9274,
         "gadgetId": 71700314,
@@ -4450,7 +4450,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9275": {
         "id": 1004175,
         "pointType": 9275,
         "gadgetId": 71700324,
@@ -4467,7 +4467,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9276": {
         "id": 1004176,
         "pointType": 9276,
         "gadgetId": 71700325,
@@ -4484,7 +4484,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9277": {
         "id": 1004177,
         "pointType": 9277,
         "gadgetId": 71700326,
@@ -4501,7 +4501,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9278": {
         "id": 1004178,
         "pointType": 9278,
         "gadgetId": 71700327,
@@ -4518,7 +4518,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9279": {
         "id": 1004179,
         "pointType": 9279,
         "gadgetId": 71700328,
@@ -4535,7 +4535,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9280": {
         "id": 1004180,
         "pointType": 9280,
         "gadgetId": 71700350,
@@ -4552,7 +4552,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9281": {
         "id": 1004181,
         "pointType": 9281,
         "gadgetId": 71700351,
@@ -4569,7 +4569,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9282": {
         "id": 1004182,
         "pointType": 9282,
         "gadgetId": 71700352,
@@ -4586,7 +4586,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9283": {
         "id": 1004183,
         "pointType": 9283,
         "gadgetId": 71700353,
@@ -4603,7 +4603,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9284": {
         "id": 1004184,
         "pointType": 9284,
         "gadgetId": 71700354,
@@ -4620,7 +4620,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9101": {
         "id": 3003029,
         "pointType": 9101,
         "gadgetId": 70710008,
@@ -4637,7 +4637,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9102": {
         "id": 3003030,
         "pointType": 9102,
         "gadgetId": 70710008,
@@ -4654,7 +4654,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9103": {
         "id": 3003031,
         "pointType": 9103,
         "gadgetId": 70710008,
@@ -4671,7 +4671,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9104": {
         "id": 3003040,
         "pointType": 9104,
         "gadgetId": 70520017,
@@ -4687,7 +4687,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9105": {
         "id": 3003041,
         "pointType": 9105,
         "gadgetId": 70710008,
@@ -4703,7 +4703,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9107": {
         "id": 3003042,
         "pointType": 9107,
         "gadgetId": 70710063,
@@ -4719,7 +4719,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9108": {
         "id": 3003043,
         "pointType": 9108,
         "gadgetId": 70710064,
@@ -4735,7 +4735,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9109": {
         "id": 3003044,
         "pointType": 9109,
         "gadgetId": 70710068,
@@ -4751,7 +4751,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9106": {
         "id": 20007009,
         "pointType": 9106,
         "gadgetId": 70710020,
@@ -4767,7 +4767,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9110": {
         "id": 3003045,
         "pointType": 9110,
         "gadgetId": 71700098,
@@ -4783,7 +4783,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9111": {
         "id": 3003046,
         "pointType": 9111,
         "gadgetId": 70210102,
@@ -4799,7 +4799,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9112": {
         "id": 3003047,
         "pointType": 9112,
         "gadgetId": 70710008,
@@ -4815,7 +4815,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9113": {
         "id": 3003048,
         "pointType": 9113,
         "gadgetId": 70710008,
@@ -4831,7 +4831,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9114": {
         "id": 3003049,
         "pointType": 9114,
         "gadgetId": 70710008,
@@ -4847,7 +4847,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9115": {
         "id": 3003050,
         "pointType": 9115,
         "gadgetId": 70710008,
@@ -4863,7 +4863,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9116": {
         "id": 3003051,
         "pointType": 9116,
         "gadgetId": 70710008,
@@ -4880,7 +4880,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9117": {
         "id": 3003052,
         "pointType": 9117,
         "gadgetId": 70710112,
@@ -4896,7 +4896,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9118": {
         "id": 3003053,
         "pointType": 9118,
         "gadgetId": 71700150,
@@ -4912,7 +4912,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9119": {
         "id": 3003054,
         "pointType": 9119,
         "gadgetId": 71700151,
@@ -4928,7 +4928,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9120": {
         "id": 3003055,
         "pointType": 9120,
         "gadgetId": 71700152,
@@ -4944,7 +4944,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9121": {
         "id": 3003056,
         "pointType": 9121,
         "gadgetId": 71700153,
@@ -4960,7 +4960,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9122": {
         "id": 3003057,
         "pointType": 9122,
         "gadgetId": 71700154,
@@ -4976,7 +4976,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9123": {
         "id": 3003058,
         "pointType": 9123,
         "gadgetId": 71700123,
@@ -4992,7 +4992,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9124": {
         "id": 3003059,
         "pointType": 9124,
         "gadgetId": 71700149,
@@ -5008,7 +5008,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9125": {
         "id": 3003060,
         "pointType": 9125,
         "gadgetId": 70710196,
@@ -5024,7 +5024,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9126": {
         "id": 3003061,
         "pointType": 9126,
         "gadgetId": 70590030,
@@ -5040,7 +5040,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9127": {
         "id": 3003062,
         "pointType": 9127,
         "gadgetId": 70950016,
@@ -5056,7 +5056,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9128": {
         "id": 3003063,
         "pointType": 9128,
         "gadgetId": 70710152,
@@ -5073,7 +5073,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9129": {
         "id": 3003064,
         "pointType": 9129,
         "gadgetId": 70520020,
@@ -5089,7 +5089,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9130": {
         "id": 3003065,
         "pointType": 9130,
         "gadgetId": 70520023,
@@ -5105,7 +5105,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9131": {
         "id": 3003066,
         "pointType": 9131,
         "gadgetId": 70520022,
@@ -5121,7 +5121,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9132": {
         "id": 3003067,
         "pointType": 9132,
         "gadgetId": 70520021,
@@ -5137,7 +5137,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9133": {
         "id": 3003068,
         "pointType": 9133,
         "gadgetId": 70710297,
@@ -5153,7 +5153,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9134": {
         "id": 3003069,
         "pointType": 9134,
         "gadgetId": 70710298,
@@ -5169,7 +5169,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9135": {
         "id": 3003070,
         "pointType": 9135,
         "gadgetId": 71700209,
@@ -5186,7 +5186,7 @@
         "initDisableInteract": true,
         "isForbidGuest": true
     },
-    {
+    "9136": {
         "id": 3003071,
         "pointType": 9136,
         "gadgetId": 71700210,
@@ -5202,7 +5202,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9137": {
         "id": 3003072,
         "pointType": 9137,
         "gadgetId": 71700211,
@@ -5218,7 +5218,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9138": {
         "id": 3003073,
         "pointType": 9138,
         "gadgetId": 71700212,
@@ -5234,7 +5234,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9139": {
         "id": 3003074,
         "pointType": 9139,
         "gadgetId": 71700213,
@@ -5250,7 +5250,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9140": {
         "id": 3003075,
         "pointType": 9140,
         "gadgetId": 71700214,
@@ -5266,7 +5266,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9141": {
         "id": 3003076,
         "pointType": 9141,
         "gadgetId": 71700215,
@@ -5282,7 +5282,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9142": {
         "id": 3003077,
         "pointType": 9142,
         "gadgetId": 71700216,
@@ -5298,7 +5298,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9143": {
         "id": 3003078,
         "pointType": 9143,
         "gadgetId": 71700217,
@@ -5314,7 +5314,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9144": {
         "id": 3003079,
         "pointType": 9144,
         "gadgetId": 71700218,
@@ -5330,7 +5330,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9145": {
         "id": 3003080,
         "pointType": 9145,
         "gadgetId": 71700219,
@@ -5346,7 +5346,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9146": {
         "id": 3003081,
         "pointType": 9146,
         "gadgetId": 71700220,
@@ -5362,7 +5362,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9147": {
         "id": 3003082,
         "pointType": 9147,
         "gadgetId": 71700221,
@@ -5378,7 +5378,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9148": {
         "id": 3003083,
         "pointType": 9148,
         "gadgetId": 71700222,
@@ -5394,7 +5394,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9149": {
         "id": 3003084,
         "pointType": 9149,
         "gadgetId": 71700223,
@@ -5410,7 +5410,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9150": {
         "id": 3003085,
         "pointType": 9150,
         "gadgetId": 71700224,
@@ -5426,7 +5426,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9151": {
         "id": 3003086,
         "pointType": 9151,
         "gadgetId": 70710243,
@@ -5442,7 +5442,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9152": {
         "id": 3003087,
         "pointType": 9152,
         "gadgetId": 70710243,
@@ -5458,7 +5458,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9153": {
         "id": 3003088,
         "pointType": 9153,
         "gadgetId": 70710243,
@@ -5474,7 +5474,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9154": {
         "id": 3003089,
         "pointType": 9154,
         "gadgetId": 71700227,
@@ -5490,7 +5490,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9155": {
         "id": 3003090,
         "pointType": 9155,
         "gadgetId": 71700228,
@@ -5506,7 +5506,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9156": {
         "id": 3003091,
         "pointType": 9156,
         "gadgetId": 70710390,
@@ -5522,7 +5522,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9157": {
         "id": 3003092,
         "pointType": 9157,
         "gadgetId": 70710391,
@@ -5538,7 +5538,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9158": {
         "id": 3003093,
         "pointType": 9158,
         "gadgetId": 71700263,
@@ -5554,7 +5554,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9159": {
         "id": 3003094,
         "pointType": 9159,
         "gadgetId": 71700261,
@@ -5570,7 +5570,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9160": {
         "id": 3003095,
         "pointType": 9160,
         "gadgetId": 71700262,
@@ -5586,7 +5586,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9161": {
         "id": 3003096,
         "pointType": 9161,
         "gadgetId": 71700286,
@@ -5602,7 +5602,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9162": {
         "id": 3003097,
         "pointType": 9162,
         "gadgetId": 71700279,
@@ -5618,7 +5618,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9163": {
         "id": 3003098,
         "pointType": 9163,
         "gadgetId": 71700280,
@@ -5634,7 +5634,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9164": {
         "id": 3003099,
         "pointType": 9164,
         "gadgetId": 71700289,
@@ -5650,7 +5650,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9165": {
         "id": 3003100,
         "pointType": 9165,
         "gadgetId": 70290123,
@@ -5666,7 +5666,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9166": {
         "id": 3003101,
         "pointType": 9166,
         "gadgetId": 70290124,
@@ -5682,7 +5682,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9167": {
         "id": 3003102,
         "pointType": 9167,
         "gadgetId": 70290129,
@@ -5698,7 +5698,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9168": {
         "id": 3003103,
         "pointType": 9168,
         "gadgetId": 70290130,
@@ -5714,7 +5714,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9169": {
         "id": 3003104,
         "pointType": 9169,
         "gadgetId": 70290131,
@@ -5730,7 +5730,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9170": {
         "id": 3003105,
         "pointType": 9170,
         "gadgetId": 70290132,
@@ -5746,7 +5746,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9171": {
         "id": 3003106,
         "pointType": 9171,
         "gadgetId": 70290133,
@@ -5762,7 +5762,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9172": {
         "id": 3003107,
         "pointType": 9172,
         "gadgetId": 70290134,
@@ -5778,7 +5778,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9173": {
         "id": 3003108,
         "pointType": 9173,
         "gadgetId": 71700284,
@@ -5794,7 +5794,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9174": {
         "id": 3003109,
         "pointType": 9174,
         "gadgetId": 71700285,
@@ -5810,7 +5810,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9175": {
         "id": 3003110,
         "pointType": 9175,
         "gadgetId": 71700289,
@@ -5826,7 +5826,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9176": {
         "id": 3003111,
         "pointType": 9176,
         "gadgetId": 71700290,
@@ -5842,7 +5842,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9177": {
         "id": 3003112,
         "pointType": 9177,
         "gadgetId": 71700291,
@@ -5858,7 +5858,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9178": {
         "id": 3003113,
         "pointType": 9178,
         "gadgetId": 71700292,
@@ -5874,7 +5874,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9179": {
         "id": 3003114,
         "pointType": 9179,
         "gadgetId": 71700293,
@@ -5890,7 +5890,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9180": {
         "id": 3003115,
         "pointType": 9180,
         "gadgetId": 71700294,
@@ -5906,7 +5906,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9181": {
         "id": 3003116,
         "pointType": 9181,
         "gadgetId": 71700295,
@@ -5922,7 +5922,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9182": {
         "id": 3003117,
         "pointType": 9182,
         "gadgetId": 71700296,
@@ -5938,7 +5938,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9184": {
         "id": 3003119,
         "pointType": 9184,
         "gadgetId": 70710600,
@@ -5954,7 +5954,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9185": {
         "id": 3003120,
         "pointType": 9185,
         "gadgetId": 70710601,
@@ -5970,7 +5970,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9186": {
         "id": 3003121,
         "pointType": 9186,
         "gadgetId": 70710602,
@@ -5986,7 +5986,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9187": {
         "id": 3003122,
         "pointType": 9187,
         "gadgetId": 70710614,
@@ -6002,7 +6002,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9188": {
         "id": 3003123,
         "pointType": 9188,
         "gadgetId": 70330143,
@@ -6019,7 +6019,7 @@
         "initDisableInteract": true,
         "isForbidGuest": true
     },
-    {
+    "9189": {
         "id": 3003124,
         "pointType": 9189,
         "gadgetId": 70290306,
@@ -6035,7 +6035,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9190": {
         "id": 3003125,
         "pointType": 9190,
         "gadgetId": 70510015,
@@ -6052,7 +6052,7 @@
         "initDisableInteract": true,
         "isForbidGuest": true
     },
-    {
+    "9191": {
         "id": 3003126,
         "pointType": 9191,
         "gadgetId": 70710152,
@@ -6068,7 +6068,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9192": {
         "id": 3003127,
         "pointType": 9192,
         "gadgetId": 70540033,
@@ -6084,7 +6084,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9193": {
         "id": 3003128,
         "pointType": 9193,
         "gadgetId": 71700340,
@@ -6101,7 +6101,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9194": {
         "id": 3003129,
         "pointType": 9194,
         "gadgetId": 71700341,
@@ -6118,7 +6118,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9195": {
         "id": 3003130,
         "pointType": 9195,
         "gadgetId": 71700342,
@@ -6135,7 +6135,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9196": {
         "id": 3003131,
         "pointType": 9196,
         "gadgetId": 71700343,
@@ -6152,7 +6152,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9197": {
         "id": 3003132,
         "pointType": 9197,
         "gadgetId": 71700349,
@@ -6169,7 +6169,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9198": {
         "id": 3003133,
         "pointType": 9198,
         "gadgetId": 70330142,
@@ -6186,7 +6186,7 @@
         "initDisableInteract": true,
         "isForbidGuest": true
     },
-    {
+    "9199": {
         "id": 3003133,
         "pointType": 9199,
         "gadgetId": 71700357,
@@ -6202,7 +6202,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9285": {
         "id": 3003134,
         "pointType": 9285,
         "gadgetId": 70710641,
@@ -6218,7 +6218,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9183": {
         "id": 3004001,
         "pointType": 9183,
         "gadgetId": 70710579,
@@ -6234,7 +6234,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9286": {
         "id": 3003135,
         "pointType": 9286,
         "gadgetId": 71700361,
@@ -6250,7 +6250,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9287": {
         "id": 3003136,
         "pointType": 9287,
         "gadgetId": 70330195,
@@ -6266,7 +6266,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9288": {
         "id": 3003137,
         "pointType": 9288,
         "gadgetId": 70330129,
@@ -6282,7 +6282,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9289": {
         "id": 3003138,
         "pointType": 9289,
         "gadgetId": 71700372,
@@ -6298,7 +6298,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9290": {
         "id": 3003139,
         "pointType": 9290,
         "gadgetId": 70330203,
@@ -6314,7 +6314,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9291": {
         "id": 3003140,
         "pointType": 9291,
         "gadgetId": 70330204,
@@ -6330,7 +6330,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9292": {
         "id": 3003141,
         "pointType": 9292,
         "gadgetId": 70330205,
@@ -6346,7 +6346,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9293": {
         "id": 3003142,
         "pointType": 9293,
         "gadgetId": 70330206,
@@ -6362,7 +6362,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9294": {
         "id": 3003143,
         "pointType": 9294,
         "gadgetId": 70330207,
@@ -6378,7 +6378,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9295": {
         "id": 3003144,
         "pointType": 9295,
         "gadgetId": 70330208,
@@ -6394,7 +6394,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9296": {
         "id": 3003145,
         "pointType": 9296,
         "gadgetId": 70330209,
@@ -6410,7 +6410,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9297": {
         "id": 3003146,
         "pointType": 9297,
         "gadgetId": 70590061,
@@ -6426,7 +6426,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9298": {
         "id": 3003147,
         "pointType": 9298,
         "gadgetId": 70590062,
@@ -6442,7 +6442,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9299": {
         "id": 3003148,
         "pointType": 9299,
         "gadgetId": 70310255,
@@ -6459,7 +6459,7 @@
         "initDisableInteract": true,
         "isForbidGuest": true
     },
-    {
+    "9300": {
         "id": 3003149,
         "pointType": 9300,
         "gadgetId": 70310254,
@@ -6476,7 +6476,7 @@
         "initDisableInteract": true,
         "isForbidGuest": true
     },
-    {
+    "9301": {
         "id": 3003150,
         "pointType": 9301,
         "gadgetId": 70310253,
@@ -6493,7 +6493,7 @@
         "initDisableInteract": true,
         "isForbidGuest": true
     },
-    {
+    "9302": {
         "id": 3003151,
         "pointType": 9302,
         "gadgetId": 70290305,
@@ -6509,7 +6509,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9303": {
         "id": 3003152,
         "pointType": 9303,
         "gadgetId": 70520038,
@@ -6527,7 +6527,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9304": {
         "id": 3003153,
         "pointType": 9304,
         "gadgetId": 71700396,
@@ -6543,7 +6543,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9305": {
         "id": 3003154,
         "pointType": 9305,
         "gadgetId": 71700395,
@@ -6559,7 +6559,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9306": {
         "id": 3003155,
         "pointType": 9306,
         "gadgetId": 70590070,
@@ -6575,7 +6575,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9307": {
         "id": 3003156,
         "pointType": 9307,
         "gadgetId": 70710809,
@@ -6591,7 +6591,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9308": {
         "id": 3003157,
         "pointType": 9308,
         "gadgetId": 71700391,
@@ -6607,7 +6607,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9309": {
         "id": 3003158,
         "pointType": 9309,
         "gadgetId": 71700286,
@@ -6623,7 +6623,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9310": {
         "id": 3003159,
         "pointType": 9310,
         "gadgetId": 71700416,
@@ -6639,7 +6639,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9311": {
         "id": 3003160,
         "pointType": 9311,
         "gadgetId": 71700419,
@@ -6655,7 +6655,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9312": {
         "id": 3003161,
         "pointType": 9312,
         "gadgetId": 71700438,
@@ -6671,7 +6671,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9313": {
         "id": 3003162,
         "pointType": 9313,
         "gadgetId": 71700452,
@@ -6687,7 +6687,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9314": {
         "id": 3003163,
         "pointType": 9314,
         "gadgetId": 71700453,
@@ -6703,7 +6703,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9315": {
         "id": 3003164,
         "pointType": 9315,
         "gadgetId": 71700458,
@@ -6720,7 +6720,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9316": {
         "id": 3003165,
         "pointType": 9316,
         "gadgetId": 71700459,
@@ -6737,7 +6737,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9317": {
         "id": 3003166,
         "pointType": 9317,
         "gadgetId": 71700460,
@@ -6754,7 +6754,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9318": {
         "id": 3003167,
         "pointType": 9318,
         "gadgetId": 71700461,
@@ -6771,7 +6771,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9319": {
         "id": 3003168,
         "pointType": 9319,
         "gadgetId": 71700462,
@@ -6788,7 +6788,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9320": {
         "id": 3003169,
         "pointType": 9320,
         "gadgetId": 71700463,
@@ -6805,7 +6805,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9321": {
         "id": 3003170,
         "pointType": 9321,
         "gadgetId": 71700464,
@@ -6822,7 +6822,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9322": {
         "id": 3003171,
         "pointType": 9322,
         "gadgetId": 71700465,
@@ -6839,7 +6839,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9323": {
         "id": 3003172,
         "pointType": 9323,
         "gadgetId": 71700466,
@@ -6856,7 +6856,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9324": {
         "id": 3003173,
         "pointType": 9324,
         "gadgetId": 71700467,
@@ -6873,7 +6873,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "9325": {
         "id": 3003174,
         "pointType": 9325,
         "gadgetId": 71700468,
@@ -6890,7 +6890,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7001": {
         "id": 77304001,
         "pointType": 7001,
         "gadgetId": 77304001,
@@ -6906,7 +6906,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7002": {
         "id": 77304002,
         "pointType": 7002,
         "gadgetId": 77304002,
@@ -6922,7 +6922,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7003": {
         "id": 77304003,
         "pointType": 7003,
         "gadgetId": 77304003,
@@ -6938,7 +6938,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7004": {
         "id": 77304004,
         "pointType": 7004,
         "gadgetId": 77304004,
@@ -6954,7 +6954,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7005": {
         "id": 77304005,
         "pointType": 7005,
         "gadgetId": 77304005,
@@ -6970,7 +6970,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7006": {
         "id": 77304006,
         "pointType": 7006,
         "gadgetId": 77304006,
@@ -6986,7 +6986,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7007": {
         "id": 77304007,
         "pointType": 7007,
         "gadgetId": 77304007,
@@ -7002,7 +7002,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7008": {
         "id": 77304008,
         "pointType": 7008,
         "gadgetId": 77304008,
@@ -7018,7 +7018,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7009": {
         "id": 77304009,
         "pointType": 7009,
         "gadgetId": 77304009,
@@ -7034,7 +7034,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7010": {
         "id": 77304010,
         "pointType": 7010,
         "gadgetId": 77304010,
@@ -7050,7 +7050,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7011": {
         "id": 77304011,
         "pointType": 7011,
         "gadgetId": 77304011,
@@ -7066,7 +7066,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7012": {
         "id": 77304012,
         "pointType": 7012,
         "gadgetId": 77304012,
@@ -7082,7 +7082,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7013": {
         "id": 77304013,
         "pointType": 7013,
         "gadgetId": 77304013,
@@ -7098,7 +7098,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7014": {
         "id": 77304014,
         "pointType": 7014,
         "gadgetId": 77304014,
@@ -7114,7 +7114,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7015": {
         "id": 77304015,
         "pointType": 7015,
         "gadgetId": 77304015,
@@ -7130,7 +7130,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7016": {
         "id": 77304016,
         "pointType": 7016,
         "gadgetId": 77304016,
@@ -7146,7 +7146,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7017": {
         "id": 77304017,
         "pointType": 7017,
         "gadgetId": 77304017,
@@ -7162,7 +7162,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7018": {
         "id": 77304018,
         "pointType": 7018,
         "gadgetId": 77304018,
@@ -7178,7 +7178,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7019": {
         "id": 77304019,
         "pointType": 7019,
         "gadgetId": 77304019,
@@ -7194,7 +7194,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7020": {
         "id": 77304020,
         "pointType": 7020,
         "gadgetId": 77304020,
@@ -7210,7 +7210,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7021": {
         "id": 77304021,
         "pointType": 7021,
         "gadgetId": 77304021,
@@ -7226,7 +7226,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7022": {
         "id": 77304022,
         "pointType": 7022,
         "gadgetId": 77304022,
@@ -7242,7 +7242,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7023": {
         "id": 77304023,
         "pointType": 7023,
         "gadgetId": 77304023,
@@ -7258,7 +7258,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7024": {
         "id": 77304024,
         "pointType": 7024,
         "gadgetId": 77304024,
@@ -7274,7 +7274,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7025": {
         "id": 77304025,
         "pointType": 7025,
         "gadgetId": 77304025,
@@ -7290,7 +7290,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7026": {
         "id": 77304026,
         "pointType": 7026,
         "gadgetId": 77304026,
@@ -7306,7 +7306,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7027": {
         "id": 77304027,
         "pointType": 7027,
         "gadgetId": 77304027,
@@ -7322,7 +7322,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7028": {
         "id": 77304028,
         "pointType": 7028,
         "gadgetId": 77304028,
@@ -7338,7 +7338,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7029": {
         "id": 77304029,
         "pointType": 7029,
         "gadgetId": 77304029,
@@ -7354,7 +7354,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7030": {
         "id": 77304030,
         "pointType": 7030,
         "gadgetId": 77304030,
@@ -7370,7 +7370,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7031": {
         "id": 77304031,
         "pointType": 7031,
         "gadgetId": 77304043,
@@ -7386,7 +7386,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7032": {
         "id": 77304032,
         "pointType": 7032,
         "gadgetId": 77304044,
@@ -7402,7 +7402,7 @@
         ],
         "isForbidGuest": true
     },
-    {
+    "7033": {
         "id": 77304033,
         "pointType": 7033,
         "gadgetId": 77304045,
@@ -7418,4 +7418,4 @@
         ],
         "isForbidGuest": true
     }
-]
+}

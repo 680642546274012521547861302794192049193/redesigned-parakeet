@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "HJFJHDHIKOO": [
             1,
@@ -15,7 +15,7 @@
         "IJPCAMOLJOP": 285011,
         "IJOAGNJPAOK": 285031
     },
-    {
+    "2": {
         "id": 2,
         "HJFJHDHIKOO": [
             1,
@@ -32,7 +32,7 @@
         "IJPCAMOLJOP": 285012,
         "IJOAGNJPAOK": 285032
     },
-    {
+    "3": {
         "id": 3,
         "HJFJHDHIKOO": [
             1,
@@ -49,7 +49,7 @@
         "IJPCAMOLJOP": 285013,
         "IJOAGNJPAOK": 285033
     },
-    {
+    "4": {
         "id": 4,
         "HJFJHDHIKOO": [
             1,
@@ -65,7 +65,7 @@
         "IJPCAMOLJOP": 285014,
         "IJOAGNJPAOK": 285034
     },
-    {
+    "5": {
         "id": 5,
         "HJFJHDHIKOO": [
             1,
@@ -83,7 +83,7 @@
         "IJPCAMOLJOP": 285015,
         "IJOAGNJPAOK": 285035
     },
-    {
+    "6": {
         "id": 6,
         "HJFJHDHIKOO": [
             1,
@@ -101,4 +101,4 @@
         "IJPCAMOLJOP": 285016,
         "IJOAGNJPAOK": 285036
     }
-]
+}

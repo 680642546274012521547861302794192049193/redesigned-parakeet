@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "levelId": 1,
         "watcherList": [
             12012218,
@@ -11,7 +11,7 @@
         "AEMLHPOCLKF": 5,
         "IJHBILDLNIC": 1500
     },
-    {
+    "2": {
         "levelId": 2,
         "watcherList": [
             12012222,
@@ -23,7 +23,7 @@
         "AEMLHPOCLKF": 6,
         "IJHBILDLNIC": 1500
     },
-    {
+    "3": {
         "levelId": 3,
         "watcherList": [
             12012226,
@@ -35,7 +35,7 @@
         "AEMLHPOCLKF": 7,
         "IJHBILDLNIC": 1500
     },
-    {
+    "4": {
         "levelId": 4,
         "watcherList": [
             12012230,
@@ -47,4 +47,4 @@
         "AEMLHPOCLKF": 8,
         "IJHBILDLNIC": 1500
     }
-]
+}

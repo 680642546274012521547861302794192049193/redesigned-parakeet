@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "priority": 70.0,
         "tabShownNameTextMapHash": 1740503310,
@@ -9,7 +9,7 @@
         "EnterTextMapHash": 2471424067,
         "LeaveTextMapHash": 3718958187
     },
-    {
+    "2": {
         "id": 2,
         "channel": 1,
         "priority": 50.0,
@@ -20,7 +20,7 @@
         "EnterTextMapHash": 4028148187,
         "LeaveTextMapHash": 285312203
     },
-    {
+    "3": {
         "id": 3,
         "channel": 3,
         "priority": 100.0,
@@ -31,7 +31,7 @@
         "EnterTextMapHash": 2675038915,
         "LeaveTextMapHash": 1591638643
     },
-    {
+    "4": {
         "id": 4,
         "channel": 4,
         "priority": 69.0,
@@ -42,4 +42,4 @@
         "EnterTextMapHash": 3174926123,
         "LeaveTextMapHash": 1873189931
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "watcherGroupId": 1001,
         "targetScore": 700,
@@ -20,7 +20,7 @@
             30300
         ]
     },
-    {
+    "2": {
         "id": 2,
         "watcherGroupId": 1001,
         "targetScore": 500,
@@ -41,7 +41,7 @@
             30300
         ]
     },
-    {
+    "3": {
         "id": 3,
         "watcherGroupId": 1002,
         "targetScore": 500,
@@ -62,7 +62,7 @@
             30300
         ]
     },
-    {
+    "4": {
         "id": 4,
         "watcherGroupId": 1003,
         "HHJAGOPBJIG": [
@@ -81,4 +81,4 @@
             30300
         ]
     }
-]
+}

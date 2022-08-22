@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "Id": 1,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_NormalAttack",
         "titleTextMapHash": 1888818478,
@@ -17,7 +17,7 @@
         "NNMEMNOIEIG": 3458230438,
         "LKOODINLJFI": 247
     },
-    {
+    "2": {
         "Id": 2,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ExtraAttack",
         "titleTextMapHash": 4254722622,
@@ -35,7 +35,7 @@
         "NNMEMNOIEIG": 2347623342,
         "LKOODINLJFI": 216
     },
-    {
+    "3": {
         "Id": 3,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_FallingDamage",
         "titleTextMapHash": 1966603390,
@@ -53,7 +53,7 @@
         "NNMEMNOIEIG": 1468124908,
         "LKOODINLJFI": 134
     },
-    {
+    "4": {
         "Id": 4,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_GenerateBall_AfterElementalArt",
         "titleTextMapHash": 3006041230,
@@ -71,7 +71,7 @@
         "NNMEMNOIEIG": 3834395571,
         "LKOODINLJFI": 193
     },
-    {
+    "5": {
         "Id": 5,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_Elemental_Burst",
         "titleTextMapHash": 4144478854,
@@ -89,7 +89,7 @@
         "NNMEMNOIEIG": 3022676406,
         "LKOODINLJFI": 106
     },
-    {
+    "6": {
         "Id": 6,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ShieldBeingHitDoAttack",
         "titleTextMapHash": 1718305718,
@@ -107,7 +107,7 @@
         "NNMEMNOIEIG": 3052728856,
         "LKOODINLJFI": 254
     },
-    {
+    "7": {
         "Id": 7,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_TriggerAoe_AfterHealUp",
         "titleTextMapHash": 2758299374,
@@ -125,7 +125,7 @@
         "NNMEMNOIEIG": 2735585015,
         "LKOODINLJFI": 198
     },
-    {
+    "8": {
         "Id": 8,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_Fever_Faster",
         "titleTextMapHash": 2219183486,
@@ -143,7 +143,7 @@
         "NNMEMNOIEIG": 663852712,
         "LKOODINLJFI": 21
     },
-    {
+    "9": {
         "Id": 9,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ElemMasteryDelta",
         "titleTextMapHash": 1578630358,
@@ -161,7 +161,7 @@
         "NNMEMNOIEIG": 2111240122,
         "LKOODINLJFI": 218
     },
-    {
+    "10": {
         "Id": 10,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ElementAddHurt_Fire",
         "titleTextMapHash": 2908248582,
@@ -179,7 +179,7 @@
         "NNMEMNOIEIG": 611073829,
         "LKOODINLJFI": 132
     },
-    {
+    "11": {
         "Id": 11,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ElementAddHurt_Ice",
         "titleTextMapHash": 1205817918,
@@ -197,7 +197,7 @@
         "NNMEMNOIEIG": 1092484415,
         "LKOODINLJFI": 173
     },
-    {
+    "12": {
         "Id": 12,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ElementAddHurt_Elec",
         "titleTextMapHash": 246224494,
@@ -215,7 +215,7 @@
         "NNMEMNOIEIG": 3600245387,
         "LKOODINLJFI": 144
     },
-    {
+    "13": {
         "Id": 13,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ElementAddHurt_Rock",
         "titleTextMapHash": 231665798,
@@ -233,7 +233,7 @@
         "NNMEMNOIEIG": 668582569,
         "LKOODINLJFI": 27
     },
-    {
+    "14": {
         "Id": 14,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ElementAddHurt_Water",
         "titleTextMapHash": 1903822606,
@@ -251,7 +251,7 @@
         "NNMEMNOIEIG": 2147398688,
         "LKOODINLJFI": 208
     },
-    {
+    "15": {
         "Id": 15,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_ElementAddHurt_Wind",
         "titleTextMapHash": 2666190454,
@@ -269,7 +269,7 @@
         "NNMEMNOIEIG": 1317417491,
         "LKOODINLJFI": 188
     },
-    {
+    "16": {
         "Id": 16,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_PhysicalAddHurt",
         "titleTextMapHash": 2281063270,
@@ -287,7 +287,7 @@
         "NNMEMNOIEIG": 1154924311,
         "LKOODINLJFI": 4
     },
-    {
+    "17": {
         "Id": 17,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_CriticalHurtDelta",
         "titleTextMapHash": 3812625190,
@@ -305,7 +305,7 @@
         "NNMEMNOIEIG": 1081252313,
         "LKOODINLJFI": 249
     },
-    {
+    "18": {
         "Id": 18,
         "MPGLOPJFENJ": "Ability_Activity_Sumo_AtkUp",
         "titleTextMapHash": 341201982,
@@ -323,7 +323,7 @@
         "NNMEMNOIEIG": 3022809595,
         "LKOODINLJFI": 208
     },
-    {
+    "19": {
         "Id": 19,
         "MPGLOPJFENJ": "Activity_Sumo_Cannon",
         "titleTextMapHash": 1766680054,
@@ -341,7 +341,7 @@
         "NNMEMNOIEIG": 4010191744,
         "LKOODINLJFI": 72
     },
-    {
+    "20": {
         "Id": 20,
         "MPGLOPJFENJ": "Activity_Sumo_ArtAndBurst_DamageUp",
         "titleTextMapHash": 2552423662,
@@ -359,7 +359,7 @@
         "NNMEMNOIEIG": 2503402236,
         "LKOODINLJFI": 137
     },
-    {
+    "21": {
         "Id": 21,
         "MPGLOPJFENJ": "Activity_Sumo_ReviveEnergy",
         "titleTextMapHash": 1955521606,
@@ -377,7 +377,7 @@
         "NNMEMNOIEIG": 58129973,
         "LKOODINLJFI": 246
     },
-    {
+    "22": {
         "Id": 22,
         "MPGLOPJFENJ": "Activity_Sumo_WindZone",
         "titleTextMapHash": 2198395846,
@@ -395,7 +395,7 @@
         "NNMEMNOIEIG": 2929424454,
         "LKOODINLJFI": 97
     },
-    {
+    "23": {
         "Id": 23,
         "MPGLOPJFENJ": "Activity_Sumo_WaterZone",
         "titleTextMapHash": 4035175758,
@@ -413,7 +413,7 @@
         "NNMEMNOIEIG": 2743595622,
         "LKOODINLJFI": 242
     },
-    {
+    "24": {
         "Id": 24,
         "MPGLOPJFENJ": "Activity_Sumo_ExtraAttack_RandomDamage",
         "titleTextMapHash": 1491047606,
@@ -431,4 +431,4 @@
         "NNMEMNOIEIG": 113457726,
         "LKOODINLJFI": 187
     }
-]
+}

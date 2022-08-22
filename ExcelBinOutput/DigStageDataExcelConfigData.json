@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageID": 1,
         "KCHFLBIMHJL": 50490101,
         "questID": 70026,
@@ -9,7 +9,7 @@
         "pushTipsId": 10006,
         "unlockTime": 1
     },
-    {
+    "2": {
         "stageID": 2,
         "KCHFLBIMHJL": 50490201,
         "questID": 70027,
@@ -19,7 +19,7 @@
         "pushTipsId": 10007,
         "unlockTime": 3
     },
-    {
+    "3": {
         "stageID": 3,
         "KCHFLBIMHJL": 50490301,
         "questID": 70028,
@@ -29,11 +29,11 @@
         "pushTipsId": 10008,
         "unlockTime": 5
     },
-    {
+    "4": {
         "stageID": 4,
         "FADLBPNKCDL": 50490401,
         "HPIKGOEMHIC": 139907464,
         "DPAFBBPKMLA": 2974037297,
         "unlockTime": 3
     }
-]
+}

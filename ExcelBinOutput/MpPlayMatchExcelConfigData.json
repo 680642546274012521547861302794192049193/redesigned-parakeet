@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "playType": "MP_PLAY_CRUCIBLE",
         "playNameTextMapHash": 1391810210,
@@ -14,7 +14,7 @@
         "pushTipsId": 6001,
         "bgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_CrucibleBg"
     },
-    {
+    "2": {
         "id": 2,
         "playType": "MP_PLAY_ASTER",
         "playNameTextMapHash": 3235082754,
@@ -31,7 +31,7 @@
         "pushTipsId": 9002,
         "bgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Aster"
     },
-    {
+    "3": {
         "id": 3,
         "playType": "MP_PLAY_DRAGON_SPINE",
         "playNameTextMapHash": 285503954,
@@ -46,7 +46,7 @@
         "bgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Dragonspine",
         "MNKIGIEAHHK": true
     },
-    {
+    "4": {
         "id": 4,
         "playType": "MP_PLAY_WATER_SPRITE",
         "playNameTextMapHash": 968835426,
@@ -60,7 +60,7 @@
         "bgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Common",
         "MNKIGIEAHHK": true
     },
-    {
+    "5": {
         "id": 5,
         "playType": "MP_PLAY_WINTER_CAMP",
         "playNameTextMapHash": 865127498,
@@ -76,4 +76,4 @@
         "bgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Common",
         "MNKIGIEAHHK": true
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5006001": {
         "id": 5006001,
         "triggerConfig": {
             "triggerType": "TRIGGER_CLIMB",
@@ -10,7 +10,7 @@
         },
         "progress": 1
     },
-    {
+    "5006002": {
         "id": 5006002,
         "triggerConfig": {
             "triggerType": "TRIGGER_FLY",
@@ -21,7 +21,7 @@
         },
         "progress": 1
     },
-    {
+    "5006003": {
         "id": 5006003,
         "triggerConfig": {
             "triggerType": "TRIGGER_DASH",
@@ -32,7 +32,7 @@
         },
         "progress": 1
     },
-    {
+    "5006004": {
         "id": 5006004,
         "triggerConfig": {
             "triggerType": "TRIGGER_CUR_AVATAR_HURT",
@@ -43,7 +43,7 @@
         },
         "progress": 1
     },
-    {
+    "5006005": {
         "id": 5006005,
         "triggerConfig": {
             "triggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
@@ -54,7 +54,7 @@
         },
         "progress": 1
     },
-    {
+    "5006006": {
         "id": 5006006,
         "triggerConfig": {
             "triggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
@@ -65,7 +65,7 @@
         },
         "progress": 1
     },
-    {
+    "5006007": {
         "id": 5006007,
         "triggerConfig": {
             "triggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
@@ -76,7 +76,7 @@
         },
         "progress": 1
     },
-    {
+    "5006008": {
         "id": 5006008,
         "triggerConfig": {
             "triggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
@@ -87,7 +87,7 @@
         },
         "progress": 1
     },
-    {
+    "5006009": {
         "id": 5006009,
         "triggerConfig": {
             "triggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
@@ -98,7 +98,7 @@
         },
         "progress": 1
     },
-    {
+    "5006010": {
         "id": 5006010,
         "triggerConfig": {
             "triggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
@@ -109,4 +109,4 @@
         },
         "progress": 1
     }
-]
+}

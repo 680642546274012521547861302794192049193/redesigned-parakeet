@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "OPHMHNAAGLK": 276769690,
         "BJBAIHNDEDP": 98,
@@ -15,7 +15,7 @@
             1
         ]
     },
-    {
+    "2": {
         "id": 2,
         "OPHMHNAAGLK": 605416741,
         "BJBAIHNDEDP": 79,
@@ -31,7 +31,7 @@
             0
         ]
     },
-    {
+    "3": {
         "id": 3,
         "OPHMHNAAGLK": 3165539535,
         "BJBAIHNDEDP": 80,
@@ -47,7 +47,7 @@
             0
         ]
     },
-    {
+    "4": {
         "id": 4,
         "OPHMHNAAGLK": 3006505067,
         "BJBAIHNDEDP": 191,
@@ -63,4 +63,4 @@
             1
         ]
     }
-]
+}

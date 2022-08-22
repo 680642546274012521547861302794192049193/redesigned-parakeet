@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "mechanicusMapID": 1,
         "mapNameTextMapHash": 1475164514,
         "descTextMapHash": 2307439985,
@@ -8,7 +8,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7001
     },
-    {
+    "2": {
         "mechanicusMapID": 2,
         "mapNameTextMapHash": 734622890,
         "descTextMapHash": 840560537,
@@ -17,7 +17,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7002
     },
-    {
+    "3": {
         "mechanicusMapID": 3,
         "mapNameTextMapHash": 2623689378,
         "descTextMapHash": 3683769305,
@@ -26,7 +26,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7003
     },
-    {
+    "4": {
         "mechanicusMapID": 4,
         "mapNameTextMapHash": 4233947482,
         "descTextMapHash": 1409636481,
@@ -35,7 +35,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7004
     },
-    {
+    "5": {
         "mechanicusMapID": 5,
         "mapNameTextMapHash": 590449066,
         "descTextMapHash": 2412403881,
@@ -44,7 +44,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7005
     },
-    {
+    "6": {
         "mechanicusMapID": 6,
         "mapNameTextMapHash": 1508298762,
         "descTextMapHash": 3671066689,
@@ -53,7 +53,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7006
     },
-    {
+    "7": {
         "mechanicusMapID": 7,
         "mapNameTextMapHash": 361597978,
         "descTextMapHash": 3270171537,
@@ -62,7 +62,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7007
     },
-    {
+    "8": {
         "mechanicusMapID": 8,
         "mapNameTextMapHash": 3329205482,
         "descTextMapHash": 3765838497,
@@ -71,7 +71,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7008
     },
-    {
+    "9": {
         "mechanicusMapID": 9,
         "mapNameTextMapHash": 3020967442,
         "descTextMapHash": 4274969297,
@@ -80,7 +80,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7009
     },
-    {
+    "10": {
         "mechanicusMapID": 10,
         "mapNameTextMapHash": 4253636610,
         "descTextMapHash": 3472984505,
@@ -89,7 +89,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7010
     },
-    {
+    "11": {
         "mechanicusMapID": 11,
         "mapNameTextMapHash": 3751458698,
         "descTextMapHash": 3910449937,
@@ -98,7 +98,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7011
     },
-    {
+    "12": {
         "mechanicusMapID": 12,
         "mapNameTextMapHash": 2287081082,
         "descTextMapHash": 738716193,
@@ -107,7 +107,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7012
     },
-    {
+    "13": {
         "mechanicusMapID": 13,
         "mapNameTextMapHash": 1910941930,
         "descTextMapHash": 2062290585,
@@ -116,7 +116,7 @@
         "buildGearLimit": 14,
         "dungeonID": 7013
     },
-    {
+    "14": {
         "mechanicusMapID": 14,
         "mapNameTextMapHash": 609981530,
         "descTextMapHash": 90506761,
@@ -125,4 +125,4 @@
         "buildGearLimit": 14,
         "dungeonID": 7000
     }
-]
+}

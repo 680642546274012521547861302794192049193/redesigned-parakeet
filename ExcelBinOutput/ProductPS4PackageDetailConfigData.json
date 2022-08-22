@@ -1,5 +1,5 @@
-[
-    {
+{
+    "301": {
         "contentVec": [
             {
                 "materialId": 224,
@@ -46,7 +46,7 @@
         "configId": 301,
         "priceTier": "Tier_10"
     },
-    {
+    "302": {
         "contentVec": [
             {
                 "materialId": 224,
@@ -87,4 +87,4 @@
         "configId": 302,
         "priceTier": "Tier_10"
     }
-]
+}

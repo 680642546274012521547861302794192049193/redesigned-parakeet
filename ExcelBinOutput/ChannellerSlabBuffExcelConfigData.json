@@ -1,5 +1,5 @@
-[
-    {
+{
+    "38": {
         "id": 38,
         "buffNameTextMapHash": 2440491786,
         "descTextMapHash": 2288102025,
@@ -14,7 +14,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_PURPLE"
     },
-    {
+    "39": {
         "id": 39,
         "buffNameTextMapHash": 4108131690,
         "descTextMapHash": 2293761265,
@@ -29,7 +29,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_PURPLE"
     },
-    {
+    "40": {
         "id": 40,
         "buffNameTextMapHash": 451238778,
         "descTextMapHash": 1328539281,
@@ -44,7 +44,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_PURPLE"
     },
-    {
+    "41": {
         "id": 41,
         "buffNameTextMapHash": 1184287290,
         "descTextMapHash": 1305985561,
@@ -59,7 +59,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_PURPLE"
     },
-    {
+    "42": {
         "id": 42,
         "buffNameTextMapHash": 2093309666,
         "descTextMapHash": 3821564833,
@@ -74,7 +74,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_PURPLE"
     },
-    {
+    "43": {
         "id": 43,
         "buffNameTextMapHash": 3979615610,
         "descTextMapHash": 874704529,
@@ -89,7 +89,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "44": {
         "id": 44,
         "buffNameTextMapHash": 3394031682,
         "descTextMapHash": 156459145,
@@ -104,7 +104,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "45": {
         "id": 45,
         "buffNameTextMapHash": 2300480258,
         "descTextMapHash": 2944468865,
@@ -119,7 +119,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "46": {
         "id": 46,
         "buffNameTextMapHash": 1935517146,
         "descTextMapHash": 3123413713,
@@ -134,7 +134,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "47": {
         "id": 47,
         "buffNameTextMapHash": 2497747394,
         "descTextMapHash": 2687519425,
@@ -149,7 +149,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "48": {
         "id": 48,
         "buffNameTextMapHash": 3411644890,
         "descTextMapHash": 1528744553,
@@ -164,7 +164,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "49": {
         "id": 49,
         "buffNameTextMapHash": 394396826,
         "descTextMapHash": 2028949737,
@@ -179,7 +179,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "50": {
         "id": 50,
         "buffNameTextMapHash": 1389875938,
         "descTextMapHash": 2361393505,
@@ -194,7 +194,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "51": {
         "id": 51,
         "buffNameTextMapHash": 3022034314,
         "descTextMapHash": 3950986777,
@@ -209,7 +209,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     },
-    {
+    "52": {
         "id": 52,
         "buffNameTextMapHash": 1963861786,
         "descTextMapHash": 1169825025,
@@ -224,7 +224,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_GREEN"
     },
-    {
+    "53": {
         "id": 53,
         "buffNameTextMapHash": 1653259914,
         "descTextMapHash": 2562582937,
@@ -239,7 +239,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_GREEN"
     },
-    {
+    "54": {
         "id": 54,
         "buffNameTextMapHash": 3737900234,
         "descTextMapHash": 465543153,
@@ -254,7 +254,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_GREEN"
     },
-    {
+    "55": {
         "id": 55,
         "buffNameTextMapHash": 3716141706,
         "descTextMapHash": 415245025,
@@ -269,7 +269,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_GREEN"
     },
-    {
+    "56": {
         "id": 56,
         "buffNameTextMapHash": 1787780802,
         "descTextMapHash": 3582821137,
@@ -284,7 +284,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_GREEN"
     },
-    {
+    "57": {
         "id": 57,
         "buffNameTextMapHash": 3538246466,
         "descTextMapHash": 2003802665,
@@ -299,7 +299,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_GREEN"
     },
-    {
+    "58": {
         "id": 58,
         "buffNameTextMapHash": 3150222538,
         "descTextMapHash": 2432035393,
@@ -314,7 +314,7 @@
         "icon": "",
         "buffQualityType": "QUALITY_PURPLE"
     },
-    {
+    "59": {
         "id": 59,
         "buffNameTextMapHash": 807445162,
         "descTextMapHash": 1681074753,
@@ -329,4 +329,4 @@
         "icon": "",
         "buffQualityType": "QUALITY_BLUE"
     }
-]
+}

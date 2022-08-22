@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5019001": {
         "scheduleId": 5019001,
         "rewardId": 30800,
         "centerPosList": [
@@ -9,7 +9,7 @@
         ],
         "guideQuestId1": 7065503
     },
-    {
+    "5034001": {
         "scheduleId": 5034001,
         "rewardId": 30800,
         "centerPosList": [
@@ -21,4 +21,4 @@
         "HPBIICLDNOP": 7280704,
         "guideQuestId1": 7265001
     }
-]
+}

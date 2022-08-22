@@ -1,5 +1,5 @@
-[
-    {
+{
+    "2002001": {
         "scheduleId": 2002001,
         "condId": 2002164,
         "watcherIdList": [],
@@ -19,7 +19,7 @@
             1000
         ]
     },
-    {
+    "2004001": {
         "scheduleId": 2004001,
         "condId": 2004014,
         "watcherIdList": [],
@@ -34,7 +34,7 @@
             1000
         ]
     },
-    {
+    "2006001": {
         "scheduleId": 2006001,
         "condId": 2006111,
         "watcherIdList": [],
@@ -51,7 +51,7 @@
             1000
         ]
     },
-    {
+    "2008001": {
         "scheduleId": 2008001,
         "condId": 2008009,
         "watcherIdList": [
@@ -68,7 +68,7 @@
             1000
         ]
     },
-    {
+    "2010001": {
         "scheduleId": 2010001,
         "condId": 2010007,
         "watcherIdList": [],
@@ -92,7 +92,7 @@
             1000
         ]
     },
-    {
+    "2012001": {
         "scheduleId": 2012001,
         "condId": 2012120,
         "watcherIdList": [
@@ -108,7 +108,7 @@
         "costItemNum": [],
         "ANGINAGOHLN": []
     },
-    {
+    "2014001": {
         "scheduleId": 2014001,
         "condId": 2014002,
         "watcherIdList": [
@@ -121,4 +121,4 @@
         "costItemNum": [],
         "ANGINAGOHLN": []
     }
-]
+}

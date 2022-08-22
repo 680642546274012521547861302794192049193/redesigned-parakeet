@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "openDay": 1,
         "icon": "UI_GravenInnocence_Photo_Btn_02_4_2",
@@ -32,7 +32,7 @@
         "LBNDMDPEILO": 12015,
         "HKHCJEKPDGC": []
     },
-    {
+    "2": {
         "id": 2,
         "openDay": 5,
         "icon": "UI_GravenInnocence_Photo_Btn_02_4_1",
@@ -72,7 +72,7 @@
         "LBNDMDPEILO": 12015,
         "HKHCJEKPDGC": []
     },
-    {
+    "3": {
         "id": 3,
         "openDay": 8,
         "icon": "UI_GravenInnocence_Photo_Btn_02_4_3",
@@ -100,7 +100,7 @@
         "LBNDMDPEILO": 12015,
         "HKHCJEKPDGC": []
     },
-    {
+    "4": {
         "id": 4,
         "openDay": 11,
         "icon": "UI_GravenInnocence_Photo_Btn_02_4_4",
@@ -132,4 +132,4 @@
             73025
         ]
     }
-]
+}

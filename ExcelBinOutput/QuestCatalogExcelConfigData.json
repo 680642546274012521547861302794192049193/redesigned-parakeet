@@ -1,5 +1,5 @@
-[
-    {
+{
+    "105": {
         "id": 105,
         "GIJKOGAPNON": [
             10501,
@@ -36,7 +36,7 @@
         "titleTextMapHash": 1442661045,
         "pic": "UI_AranaraBook_Story_Pic_1"
     },
-    {
+    "106": {
         "id": 106,
         "GIJKOGAPNON": [
             10601,
@@ -105,7 +105,7 @@
         "titleTextMapHash": 2089056589,
         "pic": "UI_AranaraBook_Story_Pic_2"
     },
-    {
+    "107": {
         "id": 107,
         "GIJKOGAPNON": [
             10701,
@@ -151,7 +151,7 @@
         "titleTextMapHash": 1013364429,
         "pic": "UI_AranaraBook_Story_Pic_3"
     },
-    {
+    "108": {
         "id": 108,
         "GIJKOGAPNON": [
             10801,
@@ -197,7 +197,7 @@
         "titleTextMapHash": 2636744885,
         "pic": "UI_AranaraBook_Story_Pic_4"
     },
-    {
+    "109": {
         "id": 109,
         "GIJKOGAPNON": [
             10901,
@@ -243,7 +243,7 @@
         "titleTextMapHash": 4105516813,
         "pic": "UI_AranaraBook_Story_Pic_5"
     },
-    {
+    "110": {
         "id": 110,
         "GIJKOGAPNON": [
             11001
@@ -260,4 +260,4 @@
         "titleTextMapHash": 3078325205,
         "pic": "UI_AranaraBook_Story_Pic_1"
     }
-]
+}

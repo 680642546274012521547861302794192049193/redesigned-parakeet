@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "cameraID": 1,
         "configID": 70330092,
@@ -9,4 +9,4 @@
         "MNIHNPDCCBN": true,
         "DCMDCKJKLJE": "WIDGET_CAMERA_ACTION_NOTIFY_SERVER"
     }
-]
+}

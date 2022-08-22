@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "activityId": 2001,
         "chapterId": 1,
@@ -15,7 +15,7 @@
             4113501
         ]
     },
-    {
+    "2": {
         "id": 2,
         "activityId": 2001,
         "chapterId": 2,
@@ -32,7 +32,7 @@
             4112401
         ]
     },
-    {
+    "3": {
         "id": 3,
         "activityId": 2001,
         "chapterId": 3,
@@ -49,4 +49,4 @@
         ],
         "rewardPreviewId": 2103
     }
-]
+}

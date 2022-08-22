@@ -1,25 +1,25 @@
-[
-    {
+{
+    "220001": {
         "materialID": 220001,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220002": {
         "materialID": 220002,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220003": {
         "materialID": 220003,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220004": {
         "materialID": 220004,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -30,7 +30,7 @@
         ],
         "HILNCHPJGHO": []
     },
-    {
+    "220005": {
         "materialID": 220005,
         "GBCJNBLLHMO": [
             4,
@@ -40,7 +40,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220006": {
         "materialID": 220006,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -52,7 +52,7 @@
         ],
         "HILNCHPJGHO": []
     },
-    {
+    "220008": {
         "materialID": 220008,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -75,20 +75,20 @@
             3
         ]
     },
-    {
+    "220009": {
         "materialID": 220009,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220013": {
         "materialID": 220013,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220014": {
         "materialID": 220014,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -99,7 +99,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220015": {
         "materialID": 220015,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -110,7 +110,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220016": {
         "materialID": 220016,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -121,7 +121,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220017": {
         "materialID": 220017,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -132,7 +132,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220018": {
         "materialID": 220018,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -146,7 +146,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220019": {
         "materialID": 220019,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -160,7 +160,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220020": {
         "materialID": 220020,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -174,14 +174,14 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220021": {
         "materialID": 220021,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220022": {
         "materialID": 220022,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -189,7 +189,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220023": {
         "materialID": 220023,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -200,7 +200,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220024": {
         "materialID": 220024,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -211,7 +211,7 @@
         ],
         "HILNCHPJGHO": []
     },
-    {
+    "220025": {
         "materialID": 220025,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -220,14 +220,14 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220026": {
         "materialID": 220026,
         "GBCJNBLLHMO": [],
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220027": {
         "materialID": 220027,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -235,7 +235,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220028": {
         "materialID": 220028,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -245,7 +245,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220029": {
         "materialID": 220029,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -253,7 +253,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220030": {
         "materialID": 220030,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -261,7 +261,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220031": {
         "materialID": 220031,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -269,21 +269,21 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220032": {
         "materialID": 220032,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220033": {
         "materialID": 220033,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220034": {
         "materialID": 220034,
         "GBCJNBLLHMO": [
             7
@@ -291,7 +291,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220035": {
         "materialID": 220035,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -302,20 +302,20 @@
         ],
         "HILNCHPJGHO": []
     },
-    {
+    "220036": {
         "materialID": 220036,
         "GBCJNBLLHMO": [],
         "canUseInDungeon": true,
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220037": {
         "materialID": 220037,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220038": {
         "materialID": 220038,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -326,7 +326,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220039": {
         "materialID": 220039,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -335,7 +335,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220040": {
         "materialID": 220040,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -344,13 +344,13 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220042": {
         "materialID": 220042,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220043": {
         "materialID": 220043,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -358,7 +358,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220044": {
         "materialID": 220044,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -367,7 +367,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220045": {
         "materialID": 220045,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -378,7 +378,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220046": {
         "materialID": 220046,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -386,14 +386,14 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220047": {
         "materialID": 220047,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220048": {
         "materialID": 220048,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -405,7 +405,7 @@
         ],
         "HILNCHPJGHO": []
     },
-    {
+    "220049": {
         "materialID": 220049,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -415,7 +415,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220050": {
         "materialID": 220050,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -423,7 +423,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220051": {
         "materialID": 220051,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -432,7 +432,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220052": {
         "materialID": 220052,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -442,7 +442,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220053": {
         "materialID": 220053,
         "GBCJNBLLHMO": [],
         "canUseWhenFight": true,
@@ -451,14 +451,14 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220061": {
         "materialID": 220061,
         "GBCJNBLLHMO": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220062": {
         "materialID": 220062,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -469,20 +469,20 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220057": {
         "materialID": 220057,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220058": {
         "materialID": 220058,
         "GBCJNBLLHMO": [],
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220059": {
         "materialID": 220059,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -490,7 +490,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220065": {
         "materialID": 220065,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -505,7 +505,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220066": {
         "materialID": 220066,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -546,7 +546,7 @@
         ],
         "HILNCHPJGHO": []
     },
-    {
+    "220063": {
         "materialID": 220063,
         "canUseInOtherWorld": true,
         "GBCJNBLLHMO": [],
@@ -561,7 +561,7 @@
         ],
         "HILNCHPJGHO": []
     },
-    {
+    "220070": {
         "materialID": 220070,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
@@ -575,7 +575,7 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     },
-    {
+    "220071": {
         "materialID": 220071,
         "GBCJNBLLHMO": [],
         "canUseWhenFight": true,
@@ -584,4 +584,4 @@
         "forbiddenDungeonList": [],
         "HILNCHPJGHO": []
     }
-]
+}

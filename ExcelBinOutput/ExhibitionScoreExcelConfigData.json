@@ -1,19 +1,19 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
         "score": 10,
         "descTextMapHash": 3491445615
     },
-    {
+    "2": {
         "id": 2,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
         "score": 10,
         "descTextMapHash": 2330434975
     },
-    {
+    "3": {
         "id": 3,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -21,7 +21,7 @@
         "descTextMapHash": 310589479,
         "JOKIIPHHPAI": true
     },
-    {
+    "4": {
         "id": 4,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_DISPLAY_PARAM_FACTOR",
@@ -29,7 +29,7 @@
         "descTextMapHash": 741812663,
         "JOKIIPHHPAI": true
     },
-    {
+    "5": {
         "id": 5,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_DISPLAY_PARAM_FACTOR",
@@ -37,7 +37,7 @@
         "descTextMapHash": 1260300623,
         "JOKIIPHHPAI": true
     },
-    {
+    "6": {
         "id": 6,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_DISPLAY_PARAM_FACTOR",
@@ -45,7 +45,7 @@
         "descTextMapHash": 323901639,
         "JOKIIPHHPAI": true
     },
-    {
+    "7": {
         "id": 7,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_DISPLAY_PARAM_FACTOR",
@@ -53,7 +53,7 @@
         "descTextMapHash": 2690475127,
         "JOKIIPHHPAI": true
     },
-    {
+    "8": {
         "id": 8,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -61,7 +61,7 @@
         "descTextMapHash": 577317511,
         "JOKIIPHHPAI": true
     },
-    {
+    "9": {
         "id": 9,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -69,7 +69,7 @@
         "descTextMapHash": 2821725831,
         "JOKIIPHHPAI": true
     },
-    {
+    "10": {
         "id": 10,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -77,7 +77,7 @@
         "descTextMapHash": 848864783,
         "JOKIIPHHPAI": true
     },
-    {
+    "11": {
         "id": 11,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -85,7 +85,7 @@
         "descTextMapHash": 1458787727,
         "JOKIIPHHPAI": true
     },
-    {
+    "12": {
         "id": 12,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -93,7 +93,7 @@
         "descTextMapHash": 1892991863,
         "JOKIIPHHPAI": true
     },
-    {
+    "13": {
         "id": 13,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -101,7 +101,7 @@
         "descTextMapHash": 1979030823,
         "JOKIIPHHPAI": true
     },
-    {
+    "14": {
         "id": 14,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -109,7 +109,7 @@
         "descTextMapHash": 1043070375,
         "JOKIIPHHPAI": true
     },
-    {
+    "15": {
         "id": 15,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -117,7 +117,7 @@
         "descTextMapHash": 862602303,
         "JOKIIPHHPAI": true
     },
-    {
+    "16": {
         "id": 16,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -125,7 +125,7 @@
         "descTextMapHash": 1618794967,
         "JOKIIPHHPAI": true
     },
-    {
+    "17": {
         "id": 17,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -133,7 +133,7 @@
         "descTextMapHash": 615619671,
         "JOKIIPHHPAI": true
     },
-    {
+    "18": {
         "id": 18,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -141,7 +141,7 @@
         "descTextMapHash": 140270279,
         "JOKIIPHHPAI": true
     },
-    {
+    "19": {
         "id": 19,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -149,7 +149,7 @@
         "descTextMapHash": 1275310887,
         "JOKIIPHHPAI": true
     },
-    {
+    "20": {
         "id": 20,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -157,7 +157,7 @@
         "descTextMapHash": 4276634727,
         "JOKIIPHHPAI": true
     },
-    {
+    "21": {
         "id": 21,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -165,7 +165,7 @@
         "descTextMapHash": 2573554087,
         "JOKIIPHHPAI": true
     },
-    {
+    "22": {
         "id": 22,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -173,7 +173,7 @@
         "descTextMapHash": 798263799,
         "JOKIIPHHPAI": true
     },
-    {
+    "23": {
         "id": 23,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -181,7 +181,7 @@
         "descTextMapHash": 674666215,
         "JOKIIPHHPAI": true
     },
-    {
+    "24": {
         "id": 24,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -189,7 +189,7 @@
         "descTextMapHash": 3717399151,
         "JOKIIPHHPAI": true
     },
-    {
+    "25": {
         "id": 25,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -197,7 +197,7 @@
         "descTextMapHash": 767203943,
         "JOKIIPHHPAI": true
     },
-    {
+    "26": {
         "id": 26,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -205,7 +205,7 @@
         "descTextMapHash": 3808808255,
         "JOKIIPHHPAI": true
     },
-    {
+    "27": {
         "id": 27,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -213,7 +213,7 @@
         "descTextMapHash": 1150666175,
         "JOKIIPHHPAI": true
     },
-    {
+    "28": {
         "id": 28,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -221,7 +221,7 @@
         "descTextMapHash": 3075387071,
         "JOKIIPHHPAI": true
     },
-    {
+    "29": {
         "id": 29,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -229,7 +229,7 @@
         "descTextMapHash": 2798621615,
         "JOKIIPHHPAI": true
     },
-    {
+    "30": {
         "id": 30,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -237,7 +237,7 @@
         "descTextMapHash": 88131815,
         "JOKIIPHHPAI": true
     },
-    {
+    "31": {
         "id": 31,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -245,7 +245,7 @@
         "descTextMapHash": 2085516159,
         "JOKIIPHHPAI": true
     },
-    {
+    "32": {
         "id": 32,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -253,7 +253,7 @@
         "descTextMapHash": 1768018983,
         "JOKIIPHHPAI": true
     },
-    {
+    "33": {
         "id": 33,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -261,7 +261,7 @@
         "descTextMapHash": 2216635695,
         "JOKIIPHHPAI": true
     },
-    {
+    "34": {
         "id": 34,
         "FHIKAEPFEDI": 10301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -269,7 +269,7 @@
         "descTextMapHash": 1325638191,
         "JOKIIPHHPAI": true
     },
-    {
+    "35": {
         "id": 35,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -277,7 +277,7 @@
         "descTextMapHash": 3271797775,
         "JOKIIPHHPAI": true
     },
-    {
+    "36": {
         "id": 36,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -285,7 +285,7 @@
         "descTextMapHash": 1022824511,
         "JOKIIPHHPAI": true
     },
-    {
+    "37": {
         "id": 37,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -293,7 +293,7 @@
         "descTextMapHash": 3836577623,
         "JOKIIPHHPAI": true
     },
-    {
+    "38": {
         "id": 38,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -301,7 +301,7 @@
         "descTextMapHash": 331925543,
         "JOKIIPHHPAI": true
     },
-    {
+    "39": {
         "id": 39,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -309,7 +309,7 @@
         "descTextMapHash": 685536959,
         "JOKIIPHHPAI": true
     },
-    {
+    "40": {
         "id": 40,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -317,7 +317,7 @@
         "descTextMapHash": 1375805367,
         "JOKIIPHHPAI": true
     },
-    {
+    "41": {
         "id": 41,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -325,7 +325,7 @@
         "descTextMapHash": 920578535,
         "JOKIIPHHPAI": true
     },
-    {
+    "42": {
         "id": 42,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -333,7 +333,7 @@
         "descTextMapHash": 2112257191,
         "JOKIIPHHPAI": true
     },
-    {
+    "43": {
         "id": 43,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -341,7 +341,7 @@
         "descTextMapHash": 956931287,
         "JOKIIPHHPAI": true
     },
-    {
+    "44": {
         "id": 44,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -349,7 +349,7 @@
         "descTextMapHash": 2099056727,
         "JOKIIPHHPAI": true
     },
-    {
+    "45": {
         "id": 45,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -357,7 +357,7 @@
         "descTextMapHash": 1186187399,
         "JOKIIPHHPAI": true
     },
-    {
+    "46": {
         "id": 46,
         "FHIKAEPFEDI": 10101,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -365,7 +365,7 @@
         "descTextMapHash": 54149911,
         "JOKIIPHHPAI": true
     },
-    {
+    "47": {
         "id": 47,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -373,7 +373,7 @@
         "descTextMapHash": 3584228527,
         "JOKIIPHHPAI": true
     },
-    {
+    "48": {
         "id": 48,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -381,7 +381,7 @@
         "descTextMapHash": 1419931751,
         "JOKIIPHHPAI": true
     },
-    {
+    "49": {
         "id": 49,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -389,7 +389,7 @@
         "descTextMapHash": 1740001279,
         "JOKIIPHHPAI": true
     },
-    {
+    "50": {
         "id": 50,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -397,7 +397,7 @@
         "descTextMapHash": 4160239983,
         "JOKIIPHHPAI": true
     },
-    {
+    "51": {
         "id": 51,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -405,7 +405,7 @@
         "descTextMapHash": 1398988927,
         "JOKIIPHHPAI": true
     },
-    {
+    "52": {
         "id": 52,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -413,7 +413,7 @@
         "descTextMapHash": 2743223519,
         "JOKIIPHHPAI": true
     },
-    {
+    "53": {
         "id": 53,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -421,7 +421,7 @@
         "descTextMapHash": 4247209727,
         "JOKIIPHHPAI": true
     },
-    {
+    "54": {
         "id": 54,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -429,7 +429,7 @@
         "descTextMapHash": 818908255,
         "JOKIIPHHPAI": true
     },
-    {
+    "55": {
         "id": 55,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -437,7 +437,7 @@
         "descTextMapHash": 767787215,
         "JOKIIPHHPAI": true
     },
-    {
+    "56": {
         "id": 56,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -445,7 +445,7 @@
         "descTextMapHash": 1868446247,
         "JOKIIPHHPAI": true
     },
-    {
+    "57": {
         "id": 57,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -453,7 +453,7 @@
         "descTextMapHash": 62999935,
         "JOKIIPHHPAI": true
     },
-    {
+    "58": {
         "id": 58,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -461,7 +461,7 @@
         "descTextMapHash": 3682721655,
         "JOKIIPHHPAI": true
     },
-    {
+    "59": {
         "id": 59,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -469,7 +469,7 @@
         "descTextMapHash": 370484815,
         "JOKIIPHHPAI": true
     },
-    {
+    "60": {
         "id": 60,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -477,7 +477,7 @@
         "descTextMapHash": 2901567207,
         "JOKIIPHHPAI": true
     },
-    {
+    "61": {
         "id": 61,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -485,7 +485,7 @@
         "descTextMapHash": 1508427431,
         "JOKIIPHHPAI": true
     },
-    {
+    "62": {
         "id": 62,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -493,7 +493,7 @@
         "descTextMapHash": 4185474511,
         "JOKIIPHHPAI": true
     },
-    {
+    "63": {
         "id": 63,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -501,7 +501,7 @@
         "descTextMapHash": 1880483479,
         "JOKIIPHHPAI": true
     },
-    {
+    "64": {
         "id": 64,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -509,7 +509,7 @@
         "descTextMapHash": 601163119,
         "JOKIIPHHPAI": true
     },
-    {
+    "65": {
         "id": 65,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -517,7 +517,7 @@
         "descTextMapHash": 1402516239,
         "JOKIIPHHPAI": true
     },
-    {
+    "66": {
         "id": 66,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -525,7 +525,7 @@
         "descTextMapHash": 4191421959,
         "JOKIIPHHPAI": true
     },
-    {
+    "67": {
         "id": 67,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -533,7 +533,7 @@
         "descTextMapHash": 3703351687,
         "JOKIIPHHPAI": true
     },
-    {
+    "68": {
         "id": 68,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -541,7 +541,7 @@
         "descTextMapHash": 1287420183,
         "JOKIIPHHPAI": true
     },
-    {
+    "69": {
         "id": 69,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -549,7 +549,7 @@
         "descTextMapHash": 507687263,
         "JOKIIPHHPAI": true
     },
-    {
+    "70": {
         "id": 70,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -557,7 +557,7 @@
         "descTextMapHash": 1399124847,
         "JOKIIPHHPAI": true
     },
-    {
+    "71": {
         "id": 71,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -565,7 +565,7 @@
         "descTextMapHash": 3993397735,
         "JOKIIPHHPAI": true
     },
-    {
+    "72": {
         "id": 72,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -573,7 +573,7 @@
         "descTextMapHash": 997119927,
         "JOKIIPHHPAI": true
     },
-    {
+    "73": {
         "id": 73,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -581,7 +581,7 @@
         "descTextMapHash": 1438253719,
         "JOKIIPHHPAI": true
     },
-    {
+    "74": {
         "id": 74,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -589,7 +589,7 @@
         "descTextMapHash": 790465047,
         "JOKIIPHHPAI": true
     },
-    {
+    "75": {
         "id": 75,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -597,7 +597,7 @@
         "descTextMapHash": 2966302543,
         "JOKIIPHHPAI": true
     },
-    {
+    "76": {
         "id": 76,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -605,7 +605,7 @@
         "descTextMapHash": 3212888807,
         "JOKIIPHHPAI": true
     },
-    {
+    "77": {
         "id": 77,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -613,7 +613,7 @@
         "descTextMapHash": 704042423,
         "JOKIIPHHPAI": true
     },
-    {
+    "78": {
         "id": 78,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -621,7 +621,7 @@
         "descTextMapHash": 1436022455,
         "JOKIIPHHPAI": true
     },
-    {
+    "79": {
         "id": 79,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -629,7 +629,7 @@
         "descTextMapHash": 3900525679,
         "JOKIIPHHPAI": true
     },
-    {
+    "80": {
         "id": 80,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -637,7 +637,7 @@
         "descTextMapHash": 3062219591,
         "JOKIIPHHPAI": true
     },
-    {
+    "81": {
         "id": 81,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -645,7 +645,7 @@
         "descTextMapHash": 3923674503,
         "JOKIIPHHPAI": true
     },
-    {
+    "82": {
         "id": 82,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -653,7 +653,7 @@
         "descTextMapHash": 2236756871,
         "JOKIIPHHPAI": true
     },
-    {
+    "83": {
         "id": 83,
         "FHIKAEPFEDI": 11301,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -661,7 +661,7 @@
         "descTextMapHash": 232881719,
         "JOKIIPHHPAI": true
     },
-    {
+    "84": {
         "id": 84,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -669,7 +669,7 @@
         "descTextMapHash": 413468495,
         "JOKIIPHHPAI": true
     },
-    {
+    "85": {
         "id": 85,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -677,7 +677,7 @@
         "descTextMapHash": 70703991,
         "JOKIIPHHPAI": true
     },
-    {
+    "86": {
         "id": 86,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -685,7 +685,7 @@
         "descTextMapHash": 1111354327,
         "JOKIIPHHPAI": true
     },
-    {
+    "87": {
         "id": 87,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -693,7 +693,7 @@
         "descTextMapHash": 3735878815,
         "JOKIIPHHPAI": true
     },
-    {
+    "88": {
         "id": 88,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -701,7 +701,7 @@
         "descTextMapHash": 634917863,
         "JOKIIPHHPAI": true
     },
-    {
+    "89": {
         "id": 89,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -709,7 +709,7 @@
         "descTextMapHash": 4108156607,
         "JOKIIPHHPAI": true
     },
-    {
+    "90": {
         "id": 90,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -717,7 +717,7 @@
         "descTextMapHash": 37696135,
         "JOKIIPHHPAI": true
     },
-    {
+    "91": {
         "id": 91,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -725,7 +725,7 @@
         "descTextMapHash": 3506860423,
         "JOKIIPHHPAI": true
     },
-    {
+    "92": {
         "id": 92,
         "FHIKAEPFEDI": 11302,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -733,7 +733,7 @@
         "descTextMapHash": 4146306647,
         "JOKIIPHHPAI": true
     },
-    {
+    "93": {
         "id": 93,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -741,7 +741,7 @@
         "descTextMapHash": 3142658351,
         "JOKIIPHHPAI": true
     },
-    {
+    "94": {
         "id": 94,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -749,7 +749,7 @@
         "descTextMapHash": 3687465935,
         "JOKIIPHHPAI": true
     },
-    {
+    "95": {
         "id": 95,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -757,7 +757,7 @@
         "descTextMapHash": 2469017215,
         "JOKIIPHHPAI": true
     },
-    {
+    "96": {
         "id": 96,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -765,7 +765,7 @@
         "descTextMapHash": 1522503895,
         "JOKIIPHHPAI": true
     },
-    {
+    "97": {
         "id": 97,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -773,7 +773,7 @@
         "descTextMapHash": 2026941271,
         "JOKIIPHHPAI": true
     },
-    {
+    "98": {
         "id": 98,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -781,7 +781,7 @@
         "descTextMapHash": 1219745463,
         "JOKIIPHHPAI": true
     },
-    {
+    "99": {
         "id": 99,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -789,7 +789,7 @@
         "descTextMapHash": 3762274295,
         "JOKIIPHHPAI": true
     },
-    {
+    "100": {
         "id": 100,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -797,7 +797,7 @@
         "descTextMapHash": 991607231,
         "JOKIIPHHPAI": true
     },
-    {
+    "101": {
         "id": 101,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -805,7 +805,7 @@
         "descTextMapHash": 4198270591,
         "JOKIIPHHPAI": true
     },
-    {
+    "102": {
         "id": 102,
         "FHIKAEPFEDI": 11303,
         "scoreType": "EXHIBITION_SCORE_VALUE",
@@ -813,4 +813,4 @@
         "descTextMapHash": 2780262551,
         "JOKIIPHHPAI": true
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "4": {
         "Id": 4,
         "IHBNFCALKKN": 772321565,
         "worldSceneId": 2004,
@@ -26,7 +26,7 @@
         "smallImageAddr": "UI_HomeworldModule_4",
         "bigImageAddr": "UI_HomeworldModule_4_Pic"
     },
-    {
+    "1": {
         "Id": 1,
         "isFree": true,
         "IHBNFCALKKN": 1478493845,
@@ -54,7 +54,7 @@
         "smallImageAddr": "UI_HomeworldModule_2",
         "bigImageAddr": "UI_HomeworldModule_2_Pic"
     },
-    {
+    "2": {
         "Id": 2,
         "isFree": true,
         "IHBNFCALKKN": 2390342453,
@@ -82,7 +82,7 @@
         "smallImageAddr": "UI_HomeworldModule_1",
         "bigImageAddr": "UI_HomeworldModule_1_Pic"
     },
-    {
+    "3": {
         "Id": 3,
         "isFree": true,
         "IHBNFCALKKN": 658184325,
@@ -110,4 +110,4 @@
         "smallImageAddr": "UI_HomeworldModule_3",
         "bigImageAddr": "UI_HomeworldModule_3_Pic"
     }
-]
+}

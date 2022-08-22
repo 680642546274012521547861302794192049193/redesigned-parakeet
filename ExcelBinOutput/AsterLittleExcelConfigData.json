@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "nextStageIdVec": [
             2
@@ -16,7 +16,7 @@
         "titleTextMapHash": 2080097129,
         "descTextMapHash": 3192621900
     },
-    {
+    "2": {
         "stageId": 2,
         "nextStageIdVec": [],
         "openDay": 2,
@@ -31,4 +31,4 @@
         "titleTextMapHash": 306149281,
         "descTextMapHash": 867377588
     }
-]
+}

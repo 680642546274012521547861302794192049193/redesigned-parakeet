@@ -1,5 +1,5 @@
-[
-    {
+{
+    "101": {
         "id": 101,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 2001792858,
@@ -12,7 +12,7 @@
         "elementType": 1,
         "abilityName": "Activity_RogueDungeon_Skill_Rune_Fire"
     },
-    {
+    "102": {
         "id": 102,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 2930585978,
@@ -25,7 +25,7 @@
         "elementType": 4,
         "abilityName": "Activity_RogueDungeon_Skill_Rune_Electric"
     },
-    {
+    "103": {
         "id": 103,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 3974186562,
@@ -38,7 +38,7 @@
         "elementType": 7,
         "abilityName": "Activity_RogueDungeon_Skill_Rune_Wind"
     },
-    {
+    "104": {
         "id": 104,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 1748493410,
@@ -51,7 +51,7 @@
         "elementType": 2,
         "abilityName": "Activity_RogueDungeon_Skill_Creature_Water"
     },
-    {
+    "105": {
         "id": 105,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 1963898858,
@@ -64,7 +64,7 @@
         "elementType": 5,
         "abilityName": "Activity_RogueDungeon_Skill_Creature_Ice"
     },
-    {
+    "106": {
         "id": 106,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 1263298474,
@@ -77,7 +77,7 @@
         "elementType": 7,
         "abilityName": "Activity_RogueDungeon_Skill_Creature_Wind"
     },
-    {
+    "107": {
         "id": 107,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 32819210,
@@ -90,7 +90,7 @@
         "elementType": 2,
         "abilityName": "Activity_RogueDungeon_Skill_Spell_Water"
     },
-    {
+    "108": {
         "id": 108,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 2315984138,
@@ -103,7 +103,7 @@
         "elementType": 8,
         "abilityName": "Activity_RogueDungeon_Skill_Spell_Rock"
     },
-    {
+    "109": {
         "id": 109,
         "ODHGCDHDHIM": true,
         "nameTextMapHash": 3961233650,
@@ -116,4 +116,4 @@
         "elementType": 4,
         "abilityName": "Activity_RogueDungeon_Skill_Spell_Elec"
     }
-]
+}

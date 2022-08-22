@@ -1,5 +1,5 @@
-[
-    {
+{
+    "10001": {
         "_id": 10001,
         "_stockList": [
             1,
@@ -26,7 +26,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "10002": {
         "_id": 10002,
         "_stockList": [
             4
@@ -48,7 +48,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "10003": {
         "_id": 10003,
         "_stockList": [
             1000011,
@@ -72,7 +72,7 @@
         "_dailyLimitNum": 50,
         "_excludeFish": []
     },
-    {
+    "10004": {
         "_id": 10004,
         "_stockList": [
             1000021,
@@ -98,7 +98,7 @@
         "_dailyLimitNum": 50,
         "_excludeFish": []
     },
-    {
+    "10005": {
         "_id": 10005,
         "_stockList": [
             1000031,
@@ -122,7 +122,7 @@
         "_dailyLimitNum": 50,
         "_excludeFish": []
     },
-    {
+    "10006": {
         "_id": 10006,
         "_stockList": [
             1000041,
@@ -150,7 +150,7 @@
         "_dailyLimitNum": 50,
         "_excludeFish": []
     },
-    {
+    "10007": {
         "_id": 10007,
         "_stockList": [
             1000051,
@@ -178,7 +178,7 @@
             1019
         ]
     },
-    {
+    "10008": {
         "_id": 10008,
         "_stockList": [
             1000051,
@@ -206,7 +206,7 @@
             1019
         ]
     },
-    {
+    "101": {
         "_id": 101,
         "_stockList": [
             1011
@@ -228,7 +228,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "102": {
         "_id": 102,
         "_stockList": [
             1012
@@ -250,7 +250,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "1001": {
         "_id": 1001,
         "_stockList": [
             10011,
@@ -278,7 +278,7 @@
         "_excludeFish": [],
         "_cityId": 1
     },
-    {
+    "1002": {
         "_id": 1002,
         "_stockList": [
             10021,
@@ -306,7 +306,7 @@
         "_excludeFish": [],
         "_cityId": 1
     },
-    {
+    "1003": {
         "_id": 1003,
         "_stockList": [
             10031,
@@ -334,7 +334,7 @@
         "_excludeFish": [],
         "_cityId": 1
     },
-    {
+    "1004": {
         "_id": 1004,
         "_stockList": [
             10041,
@@ -362,7 +362,7 @@
         "_excludeFish": [],
         "_cityId": 1
     },
-    {
+    "1005": {
         "_id": 1005,
         "_stockList": [
             10051,
@@ -390,7 +390,7 @@
         "_excludeFish": [],
         "_cityId": 1
     },
-    {
+    "1006": {
         "_id": 1006,
         "_stockList": [
             10061,
@@ -418,7 +418,7 @@
         "_excludeFish": [],
         "_cityId": 1
     },
-    {
+    "1007": {
         "_id": 1007,
         "_stockList": [
             10071,
@@ -446,7 +446,7 @@
         "_excludeFish": [],
         "_cityId": 1
     },
-    {
+    "1008": {
         "_id": 1008,
         "_stockList": [
             10081,
@@ -474,7 +474,7 @@
         "_excludeFish": [],
         "_cityId": 1
     },
-    {
+    "1009": {
         "_id": 1009,
         "_stockList": [
             10091,
@@ -501,7 +501,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "1010": {
         "_id": 1010,
         "_stockList": [
             10101,
@@ -528,7 +528,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "1011": {
         "_id": 1011,
         "_stockList": [
             10111,
@@ -555,7 +555,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "1012": {
         "_id": 1012,
         "_stockList": [
             10121,
@@ -582,7 +582,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "1013": {
         "_id": 1013,
         "_stockList": [
             10131,
@@ -609,7 +609,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "1014": {
         "_id": 1014,
         "_stockList": [
             10141,
@@ -636,7 +636,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "2001": {
         "_id": 2001,
         "_stockList": [
             20011,
@@ -664,7 +664,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2002": {
         "_id": 2002,
         "_stockList": [
             20021,
@@ -692,7 +692,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2003": {
         "_id": 2003,
         "_stockList": [
             20031,
@@ -720,7 +720,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2004": {
         "_id": 2004,
         "_stockList": [
             20041,
@@ -748,7 +748,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2005": {
         "_id": 2005,
         "_stockList": [
             20051,
@@ -776,7 +776,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2006": {
         "_id": 2006,
         "_stockList": [
             20061,
@@ -804,7 +804,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2007": {
         "_id": 2007,
         "_stockList": [
             20071,
@@ -832,7 +832,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2008": {
         "_id": 2008,
         "_stockList": [
             20081,
@@ -860,7 +860,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2009": {
         "_id": 2009,
         "_stockList": [
             20091,
@@ -888,7 +888,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2010": {
         "_id": 2010,
         "_stockList": [
             20101,
@@ -916,7 +916,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2011": {
         "_id": 2011,
         "_stockList": [
             20111,
@@ -944,7 +944,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2012": {
         "_id": 2012,
         "_stockList": [
             20121,
@@ -972,7 +972,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "2013": {
         "_id": 2013,
         "_stockList": [
             20131,
@@ -1000,7 +1000,7 @@
         "_excludeFish": [],
         "_cityId": 2
     },
-    {
+    "3001": {
         "_id": 3001,
         "_stockList": [
             30012
@@ -1025,7 +1025,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3002": {
         "_id": 3002,
         "_stockList": [
             30021,
@@ -1055,7 +1055,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3003": {
         "_id": 3003,
         "_stockList": [
             30031,
@@ -1085,7 +1085,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3004": {
         "_id": 3004,
         "_stockList": [
             30041,
@@ -1115,7 +1115,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3005": {
         "_id": 3005,
         "_stockList": [
             30051,
@@ -1145,7 +1145,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3006": {
         "_id": 3006,
         "_stockList": [
             30061,
@@ -1175,7 +1175,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3007": {
         "_id": 3007,
         "_stockList": [
             30071,
@@ -1205,7 +1205,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3008": {
         "_id": 3008,
         "_stockList": [
             30081,
@@ -1235,7 +1235,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3009": {
         "_id": 3009,
         "_stockList": [
             30091,
@@ -1265,7 +1265,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3010": {
         "_id": 3010,
         "_stockList": [
             30101,
@@ -1296,7 +1296,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3011": {
         "_id": 3011,
         "_stockList": [
             30111,
@@ -1326,7 +1326,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3012": {
         "_id": 3012,
         "_stockList": [
             30121,
@@ -1356,7 +1356,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3013": {
         "_id": 3013,
         "_stockList": [
             30131,
@@ -1386,7 +1386,7 @@
         "_excludeFish": [],
         "_cityId": 3
     },
-    {
+    "3014": {
         "_id": 3014,
         "_stockList": [
             30141,
@@ -1413,7 +1413,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "3015": {
         "_id": 3015,
         "_stockList": [
             30151,
@@ -1440,7 +1440,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "4001": {
         "_id": 4001,
         "_stockList": [
             40011,
@@ -1468,7 +1468,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "4002": {
         "_id": 4002,
         "_stockList": [
             40021,
@@ -1496,7 +1496,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "4003": {
         "_id": 4003,
         "_stockList": [
             40031,
@@ -1524,7 +1524,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "4004": {
         "_id": 4004,
         "_stockList": [
             40041,
@@ -1552,7 +1552,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "4005": {
         "_id": 4005,
         "_stockList": [
             40051,
@@ -1580,7 +1580,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "4006": {
         "_id": 4006,
         "_stockList": [
             40061,
@@ -1608,7 +1608,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "4007": {
         "_id": 4007,
         "_stockList": [
             40071,
@@ -1636,7 +1636,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "4008": {
         "_id": 4008,
         "_stockList": [
             40081,
@@ -1664,7 +1664,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "4009": {
         "_id": 4009,
         "_stockList": [
             40091,
@@ -1692,7 +1692,7 @@
         "_excludeFish": [],
         "_cityId": 4
     },
-    {
+    "1": {
         "_id": 1,
         "_stockList": [
             11
@@ -1714,7 +1714,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "2": {
         "_id": 2,
         "_stockList": [
             21
@@ -1736,7 +1736,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "3": {
         "_id": 3,
         "_stockList": [
             31
@@ -1758,7 +1758,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "4": {
         "_id": 4,
         "_stockList": [
             41
@@ -1780,7 +1780,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "5": {
         "_id": 5,
         "_stockList": [
             51
@@ -1802,7 +1802,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "6": {
         "_id": 6,
         "_stockList": [
             61
@@ -1824,7 +1824,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "7": {
         "_id": 7,
         "_stockList": [
             71
@@ -1846,7 +1846,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "8": {
         "_id": 8,
         "_stockList": [
             81
@@ -1868,7 +1868,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "9": {
         "_id": 9,
         "_stockList": [
             91
@@ -1890,7 +1890,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "10": {
         "_id": 10,
         "_stockList": [
             101
@@ -1912,7 +1912,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "11": {
         "_id": 11,
         "_stockList": [
             111
@@ -1934,7 +1934,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "12": {
         "_id": 12,
         "_stockList": [
             121
@@ -1956,7 +1956,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "13": {
         "_id": 13,
         "_stockList": [
             131
@@ -1978,7 +1978,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "14": {
         "_id": 14,
         "_stockList": [
             141
@@ -2000,7 +2000,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "15": {
         "_id": 15,
         "_stockList": [
             151
@@ -2022,7 +2022,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "16": {
         "_id": 16,
         "_stockList": [
             161
@@ -2044,7 +2044,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "17": {
         "_id": 17,
         "_stockList": [
             171
@@ -2066,7 +2066,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "18": {
         "_id": 18,
         "_stockList": [
             181
@@ -2088,7 +2088,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "19": {
         "_id": 19,
         "_stockList": [
             193
@@ -2110,7 +2110,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "20": {
         "_id": 20,
         "_stockList": [
             201
@@ -2132,7 +2132,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "21": {
         "_id": 21,
         "_stockList": [
             211
@@ -2154,7 +2154,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "22": {
         "_id": 22,
         "_stockList": [
             221
@@ -2176,7 +2176,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "23": {
         "_id": 23,
         "_stockList": [
             231
@@ -2198,7 +2198,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "24": {
         "_id": 24,
         "_stockList": [
             241
@@ -2220,7 +2220,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "25": {
         "_id": 25,
         "_stockList": [
             251
@@ -2242,7 +2242,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "26": {
         "_id": 26,
         "_stockList": [
             261
@@ -2264,7 +2264,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "27": {
         "_id": 27,
         "_stockList": [
             271
@@ -2286,7 +2286,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "28": {
         "_id": 28,
         "_stockList": [
             281
@@ -2308,7 +2308,7 @@
         "_dropIdList": [],
         "_excludeFish": []
     },
-    {
+    "29": {
         "_id": 29,
         "_stockList": [
             291
@@ -2330,4 +2330,4 @@
         "_dropIdList": [],
         "_excludeFish": []
     }
-]
+}

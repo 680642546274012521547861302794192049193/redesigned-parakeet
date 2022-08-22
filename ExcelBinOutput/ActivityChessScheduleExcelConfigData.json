@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "GPPCHLLMKPD": 1,
         "KPALCDFMJFC": 3000,
         "openMapList": [
@@ -9,7 +9,7 @@
             4
         ]
     },
-    {
+    "2": {
         "GPPCHLLMKPD": 2,
         "KPALCDFMJFC": 2000,
         "openMapList": [
@@ -21,7 +21,7 @@
             6
         ]
     },
-    {
+    "3": {
         "GPPCHLLMKPD": 3,
         "KPALCDFMJFC": 2000,
         "openMapList": [
@@ -35,7 +35,7 @@
             8
         ]
     },
-    {
+    "4": {
         "GPPCHLLMKPD": 4,
         "KPALCDFMJFC": 1000,
         "openMapList": [
@@ -51,7 +51,7 @@
             10
         ]
     },
-    {
+    "5": {
         "GPPCHLLMKPD": 5,
         "openMapList": [
             1,
@@ -66,7 +66,7 @@
             10
         ]
     },
-    {
+    "6": {
         "GPPCHLLMKPD": 6,
         "openMapList": [
             1,
@@ -81,7 +81,7 @@
             10
         ]
     },
-    {
+    "7": {
         "GPPCHLLMKPD": 7,
         "openMapList": [
             1,
@@ -96,7 +96,7 @@
             10
         ]
     },
-    {
+    "8": {
         "GPPCHLLMKPD": 8,
         "openMapList": [
             1,
@@ -111,7 +111,7 @@
             10
         ]
     },
-    {
+    "9": {
         "GPPCHLLMKPD": 9,
         "openMapList": [
             1,
@@ -126,7 +126,7 @@
             10
         ]
     },
-    {
+    "10": {
         "GPPCHLLMKPD": 10,
         "openMapList": [
             1,
@@ -141,7 +141,7 @@
             10
         ]
     },
-    {
+    "11": {
         "GPPCHLLMKPD": 11,
         "openMapList": [
             1,
@@ -156,7 +156,7 @@
             10
         ]
     },
-    {
+    "12": {
         "GPPCHLLMKPD": 12,
         "openMapList": [
             1,
@@ -171,7 +171,7 @@
             10
         ]
     },
-    {
+    "13": {
         "GPPCHLLMKPD": 13,
         "openMapList": [
             1,
@@ -186,7 +186,7 @@
             10
         ]
     },
-    {
+    "14": {
         "GPPCHLLMKPD": 14,
         "openMapList": [
             1,
@@ -201,4 +201,4 @@
             10
         ]
     }
-]
+}

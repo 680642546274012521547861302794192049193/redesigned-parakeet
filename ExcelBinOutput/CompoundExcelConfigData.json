@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "id": 1001,
         "groupID": 1,
         "nameTextMapHash": 1503890796,
@@ -29,7 +29,7 @@
         "descTextMapHash": 4133506695,
         "NKPOKMLCJEB": 773767581
     },
-    {
+    "1002": {
         "id": 1002,
         "groupID": 4,
         "nameTextMapHash": 372703804,
@@ -59,7 +59,7 @@
         "descTextMapHash": 3186098687,
         "NKPOKMLCJEB": 3633219749
     },
-    {
+    "1003": {
         "id": 1003,
         "groupID": 5,
         "nameTextMapHash": 1695683036,
@@ -92,7 +92,7 @@
         "descTextMapHash": 393688495,
         "NKPOKMLCJEB": 1786867701
     },
-    {
+    "1004": {
         "id": 1004,
         "groupID": 6,
         "nameTextMapHash": 2216020564,
@@ -122,7 +122,7 @@
         "descTextMapHash": 909688039,
         "NKPOKMLCJEB": 1567682341
     },
-    {
+    "1005": {
         "id": 1005,
         "groupID": 7,
         "nameTextMapHash": 1168901260,
@@ -155,7 +155,7 @@
         "descTextMapHash": 1930344319,
         "NKPOKMLCJEB": 63563437
     },
-    {
+    "1006": {
         "id": 1006,
         "groupID": 8,
         "nameTextMapHash": 810292988,
@@ -185,7 +185,7 @@
         "descTextMapHash": 4069199271,
         "NKPOKMLCJEB": 3000956821
     },
-    {
+    "1007": {
         "id": 1007,
         "groupID": 9,
         "nameTextMapHash": 1665383932,
@@ -215,7 +215,7 @@
         "descTextMapHash": 2497807391,
         "NKPOKMLCJEB": 2824490261
     },
-    {
+    "1008": {
         "id": 1008,
         "groupID": 10,
         "nameTextMapHash": 928312324,
@@ -251,7 +251,7 @@
         "descTextMapHash": 246504895,
         "NKPOKMLCJEB": 1462909461
     },
-    {
+    "1009": {
         "id": 1009,
         "groupID": 11,
         "nameTextMapHash": 2114171828,
@@ -281,7 +281,7 @@
         "descTextMapHash": 1273674727,
         "NKPOKMLCJEB": 1060559621
     },
-    {
+    "1010": {
         "id": 1010,
         "groupID": 12,
         "nameTextMapHash": 440106668,
@@ -314,7 +314,7 @@
         "descTextMapHash": 2283884551,
         "NKPOKMLCJEB": 2426403141
     },
-    {
+    "1011": {
         "id": 1011,
         "groupID": 13,
         "nameTextMapHash": 1422746788,
@@ -344,7 +344,7 @@
         "descTextMapHash": 3271894575,
         "NKPOKMLCJEB": 1839966589
     },
-    {
+    "1012": {
         "id": 1012,
         "groupID": 2,
         "nameTextMapHash": 776597748,
@@ -374,7 +374,7 @@
         "descTextMapHash": 3982212023,
         "NKPOKMLCJEB": 3134662493
     },
-    {
+    "1013": {
         "id": 1013,
         "groupID": 3,
         "nameTextMapHash": 299615948,
@@ -403,7 +403,7 @@
         "descTextMapHash": 1453924119,
         "NKPOKMLCJEB": 2374092493
     },
-    {
+    "1014": {
         "id": 1014,
         "groupID": 3,
         "nameTextMapHash": 660610300,
@@ -432,7 +432,7 @@
         "descTextMapHash": 2059829623,
         "NKPOKMLCJEB": 1362831181
     },
-    {
+    "1015": {
         "id": 1015,
         "groupID": 3,
         "nameTextMapHash": 616729348,
@@ -461,7 +461,7 @@
         "descTextMapHash": 4186693711,
         "NKPOKMLCJEB": 185107381
     },
-    {
+    "1016": {
         "id": 1016,
         "groupID": 3,
         "nameTextMapHash": 1130716292,
@@ -490,7 +490,7 @@
         "descTextMapHash": 1961759935,
         "NKPOKMLCJEB": 2509048661
     },
-    {
+    "1017": {
         "id": 1017,
         "groupID": 3,
         "nameTextMapHash": 1942858524,
@@ -519,7 +519,7 @@
         "descTextMapHash": 2670525863,
         "NKPOKMLCJEB": 723015253
     },
-    {
+    "1018": {
         "id": 1018,
         "groupID": 3,
         "nameTextMapHash": 1232497948,
@@ -548,7 +548,7 @@
         "descTextMapHash": 285420503,
         "NKPOKMLCJEB": 1584498989
     },
-    {
+    "1019": {
         "id": 1019,
         "groupID": 3,
         "nameTextMapHash": 2724530796,
@@ -577,7 +577,7 @@
         "descTextMapHash": 3828786055,
         "NKPOKMLCJEB": 3781772381
     },
-    {
+    "1020": {
         "id": 1020,
         "groupID": 3,
         "nameTextMapHash": 2741832340,
@@ -606,7 +606,7 @@
         "descTextMapHash": 745441967,
         "NKPOKMLCJEB": 3720117469
     },
-    {
+    "1021": {
         "id": 1021,
         "groupID": 3,
         "nameTextMapHash": 2541819436,
@@ -635,7 +635,7 @@
         "descTextMapHash": 3985534391,
         "NKPOKMLCJEB": 1501633525
     },
-    {
+    "1022": {
         "id": 1022,
         "groupID": 3,
         "nameTextMapHash": 2473810172,
@@ -664,7 +664,7 @@
         "descTextMapHash": 3438792199,
         "NKPOKMLCJEB": 2352183221
     },
-    {
+    "1023": {
         "id": 1023,
         "groupID": 3,
         "nameTextMapHash": 2689448956,
@@ -693,7 +693,7 @@
         "descTextMapHash": 1861748343,
         "NKPOKMLCJEB": 444435773
     },
-    {
+    "1024": {
         "id": 1024,
         "groupID": 3,
         "nameTextMapHash": 764784388,
@@ -722,7 +722,7 @@
         "descTextMapHash": 980580111,
         "NKPOKMLCJEB": 4205251277
     },
-    {
+    "1025": {
         "id": 1025,
         "groupID": 3,
         "nameTextMapHash": 382362620,
@@ -751,7 +751,7 @@
         "descTextMapHash": 2134177623,
         "NKPOKMLCJEB": 4063655373
     },
-    {
+    "1026": {
         "id": 1026,
         "groupID": 3,
         "nameTextMapHash": 1845013196,
@@ -780,7 +780,7 @@
         "descTextMapHash": 2784012295,
         "NKPOKMLCJEB": 2882984973
     },
-    {
+    "1027": {
         "id": 1027,
         "groupID": 3,
         "nameTextMapHash": 1958606100,
@@ -809,7 +809,7 @@
         "descTextMapHash": 1458111671,
         "NKPOKMLCJEB": 1907849245
     },
-    {
+    "1028": {
         "id": 1028,
         "groupID": 3,
         "nameTextMapHash": 1594975972,
@@ -838,7 +838,7 @@
         "descTextMapHash": 2319961863,
         "NKPOKMLCJEB": 2862328493
     },
-    {
+    "1029": {
         "id": 1029,
         "groupID": 3,
         "nameTextMapHash": 998617388,
@@ -867,7 +867,7 @@
         "descTextMapHash": 725356407,
         "NKPOKMLCJEB": 605534197
     },
-    {
+    "1030": {
         "id": 1030,
         "groupID": 3,
         "nameTextMapHash": 664903340,
@@ -896,7 +896,7 @@
         "descTextMapHash": 1995693207,
         "NKPOKMLCJEB": 237291869
     },
-    {
+    "1031": {
         "id": 1031,
         "groupID": 3,
         "nameTextMapHash": 1659416172,
@@ -925,7 +925,7 @@
         "descTextMapHash": 207807143,
         "NKPOKMLCJEB": 725720637
     },
-    {
+    "1032": {
         "id": 1032,
         "groupID": 3,
         "nameTextMapHash": 3009091668,
@@ -954,7 +954,7 @@
         "descTextMapHash": 460621679,
         "NKPOKMLCJEB": 3412369645
     },
-    {
+    "1033": {
         "id": 1033,
         "groupID": 3,
         "nameTextMapHash": 3349136644,
@@ -983,7 +983,7 @@
         "descTextMapHash": 1083870343,
         "NKPOKMLCJEB": 1066333581
     },
-    {
+    "1034": {
         "id": 1034,
         "groupID": 3,
         "nameTextMapHash": 1399428684,
@@ -1012,7 +1012,7 @@
         "descTextMapHash": 1260803015,
         "NKPOKMLCJEB": 478442589
     },
-    {
+    "1035": {
         "id": 1035,
         "groupID": 3,
         "nameTextMapHash": 754833076,
@@ -1041,7 +1041,7 @@
         "descTextMapHash": 1464378383,
         "NKPOKMLCJEB": 1305149741
     },
-    {
+    "1036": {
         "id": 1036,
         "groupID": 3,
         "nameTextMapHash": 2815816028,
@@ -1070,7 +1070,7 @@
         "descTextMapHash": 2512147663,
         "NKPOKMLCJEB": 2181470757
     },
-    {
+    "1037": {
         "id": 1037,
         "groupID": 3,
         "nameTextMapHash": 1756817220,
@@ -1099,7 +1099,7 @@
         "descTextMapHash": 3764762863,
         "NKPOKMLCJEB": 3986488909
     },
-    {
+    "1038": {
         "id": 1038,
         "groupID": 3,
         "nameTextMapHash": 4234175116,
@@ -1128,7 +1128,7 @@
         "descTextMapHash": 3661490759,
         "NKPOKMLCJEB": 217489589
     },
-    {
+    "1039": {
         "id": 1039,
         "groupID": 3,
         "nameTextMapHash": 3738053116,
@@ -1157,7 +1157,7 @@
         "descTextMapHash": 2669465975,
         "NKPOKMLCJEB": 2448463157
     },
-    {
+    "1040": {
         "id": 1040,
         "groupID": 3,
         "nameTextMapHash": 2523066508,
@@ -1186,7 +1186,7 @@
         "descTextMapHash": 3386384423,
         "NKPOKMLCJEB": 2970188397
     },
-    {
+    "1041": {
         "id": 1041,
         "groupID": 14,
         "nameTextMapHash": 4279343900,
@@ -1216,4 +1216,4 @@
         "descTextMapHash": 1653717911,
         "NKPOKMLCJEB": 383386733
     }
-]
+}

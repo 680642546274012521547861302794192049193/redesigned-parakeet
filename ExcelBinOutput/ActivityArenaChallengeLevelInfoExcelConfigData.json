@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "ID": 1,
         "scheduleId": 5019001,
         "levelId": 1,
@@ -24,7 +24,7 @@
             2
         ]
     },
-    {
+    "2": {
         "ID": 2,
         "scheduleId": 5019001,
         "levelId": 2,
@@ -49,7 +49,7 @@
             2
         ]
     },
-    {
+    "3": {
         "ID": 3,
         "scheduleId": 5019001,
         "levelId": 3,
@@ -74,7 +74,7 @@
             2
         ]
     },
-    {
+    "4": {
         "ID": 4,
         "scheduleId": 5019001,
         "levelId": 4,
@@ -99,7 +99,7 @@
             2
         ]
     },
-    {
+    "5": {
         "ID": 5,
         "scheduleId": 5019001,
         "levelId": 5,
@@ -124,7 +124,7 @@
             2
         ]
     },
-    {
+    "6": {
         "ID": 6,
         "scheduleId": 5019001,
         "levelId": 6,
@@ -147,7 +147,7 @@
             1
         ]
     },
-    {
+    "7": {
         "ID": 7,
         "scheduleId": 5019001,
         "levelId": 7,
@@ -172,7 +172,7 @@
             2
         ]
     },
-    {
+    "8": {
         "ID": 8,
         "scheduleId": 5034001,
         "levelId": 1,
@@ -188,7 +188,7 @@
         "levelDetailDescTextMapHash": 1346765321,
         "challengeIdList": []
     },
-    {
+    "9": {
         "ID": 9,
         "scheduleId": 5034001,
         "levelId": 2,
@@ -204,7 +204,7 @@
         "levelDetailDescTextMapHash": 162923689,
         "challengeIdList": []
     },
-    {
+    "10": {
         "ID": 10,
         "scheduleId": 5034001,
         "levelId": 3,
@@ -220,7 +220,7 @@
         "levelDetailDescTextMapHash": 3272338785,
         "challengeIdList": []
     },
-    {
+    "11": {
         "ID": 11,
         "scheduleId": 5034001,
         "levelId": 4,
@@ -236,7 +236,7 @@
         "levelDetailDescTextMapHash": 2589182745,
         "challengeIdList": []
     },
-    {
+    "12": {
         "ID": 12,
         "scheduleId": 5034001,
         "levelId": 5,
@@ -252,7 +252,7 @@
         "levelDetailDescTextMapHash": 2221003537,
         "challengeIdList": []
     },
-    {
+    "13": {
         "ID": 13,
         "scheduleId": 5034001,
         "levelId": 6,
@@ -268,7 +268,7 @@
         "levelDetailDescTextMapHash": 685112849,
         "challengeIdList": []
     },
-    {
+    "14": {
         "ID": 14,
         "scheduleId": 5034001,
         "levelId": 7,
@@ -284,7 +284,7 @@
         "levelDetailDescTextMapHash": 649527345,
         "challengeIdList": []
     },
-    {
+    "15": {
         "ID": 15,
         "scheduleId": 5085001,
         "levelId": 1,
@@ -300,7 +300,7 @@
         "levelDetailDescTextMapHash": 3186053121,
         "challengeIdList": []
     },
-    {
+    "16": {
         "ID": 16,
         "scheduleId": 5085001,
         "levelId": 2,
@@ -316,7 +316,7 @@
         "levelDetailDescTextMapHash": 1335250873,
         "challengeIdList": []
     },
-    {
+    "17": {
         "ID": 17,
         "scheduleId": 5085001,
         "levelId": 3,
@@ -332,7 +332,7 @@
         "levelDetailDescTextMapHash": 1194878113,
         "challengeIdList": []
     },
-    {
+    "18": {
         "ID": 18,
         "scheduleId": 5085001,
         "levelId": 4,
@@ -348,7 +348,7 @@
         "levelDetailDescTextMapHash": 3899677049,
         "challengeIdList": []
     },
-    {
+    "19": {
         "ID": 19,
         "scheduleId": 5085001,
         "levelId": 5,
@@ -364,7 +364,7 @@
         "levelDetailDescTextMapHash": 2465078761,
         "challengeIdList": []
     },
-    {
+    "20": {
         "ID": 20,
         "scheduleId": 5085001,
         "levelId": 6,
@@ -380,7 +380,7 @@
         "levelDetailDescTextMapHash": 2595679401,
         "challengeIdList": []
     },
-    {
+    "21": {
         "ID": 21,
         "scheduleId": 5085001,
         "levelId": 7,
@@ -396,4 +396,4 @@
         "levelDetailDescTextMapHash": 1007488505,
         "challengeIdList": []
     }
-]
+}

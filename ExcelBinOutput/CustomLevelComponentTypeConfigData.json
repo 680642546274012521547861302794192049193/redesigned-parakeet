@@ -1,22 +1,22 @@
-[
-    {
+{
+    "1": {
         "typeID": 1,
         "typeNameTextMapHash": 3402260500
     },
-    {
+    "2": {
         "typeID": 2,
         "typeNameTextMapHash": 584631308
     },
-    {
+    "3": {
         "typeID": 3,
         "typeNameTextMapHash": 2766931596
     },
-    {
+    "4": {
         "typeID": 4,
         "typeNameTextMapHash": 2659426892
     },
-    {
+    "5": {
         "typeID": 5,
         "typeNameTextMapHash": 1785168652
     }
-]
+}

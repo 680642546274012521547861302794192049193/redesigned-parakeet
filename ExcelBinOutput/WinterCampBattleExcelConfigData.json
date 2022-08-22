@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "openDay": 1,
         "priority": 1,
@@ -7,7 +7,7 @@
         "PICJCOAALDJ": 1,
         "rewardID": 3029201
     },
-    {
+    "2": {
         "id": 2,
         "openDay": 1,
         "priority": 2,
@@ -15,7 +15,7 @@
         "PICJCOAALDJ": 1,
         "rewardID": 3029202
     },
-    {
+    "3": {
         "id": 3,
         "openDay": 4,
         "priority": 3,
@@ -23,7 +23,7 @@
         "PICJCOAALDJ": 1,
         "rewardID": 3029203
     },
-    {
+    "4": {
         "id": 4,
         "openDay": 4,
         "priority": 4,
@@ -31,7 +31,7 @@
         "PICJCOAALDJ": 1,
         "rewardID": 3029204
     },
-    {
+    "5": {
         "id": 5,
         "openDay": 7,
         "priority": 5,
@@ -39,7 +39,7 @@
         "PICJCOAALDJ": 1,
         "rewardID": 3029205
     },
-    {
+    "6": {
         "id": 6,
         "openDay": 7,
         "priority": 6,
@@ -47,7 +47,7 @@
         "PICJCOAALDJ": 1,
         "rewardID": 3029206
     },
-    {
+    "7": {
         "id": 7,
         "openDay": 10,
         "priority": 7,
@@ -55,7 +55,7 @@
         "PICJCOAALDJ": 1,
         "rewardID": 3029207
     },
-    {
+    "8": {
         "id": 8,
         "openDay": 10,
         "priority": 8,
@@ -63,4 +63,4 @@
         "PICJCOAALDJ": 1,
         "rewardID": 3029208
     }
-]
+}

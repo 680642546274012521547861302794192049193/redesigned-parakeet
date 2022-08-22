@@ -1,5 +1,5 @@
-[
-    {
+{
+    "11001": {
         "id": 11001,
         "playerLevel": 2,
         "isDefaultShow": true,
@@ -37,7 +37,7 @@
         "forgePoint": 400,
         "forgePointNoticeTextMapHash": 1106263712
     },
-    {
+    "11002": {
         "id": 11002,
         "playerLevel": 2,
         "isDefaultShow": true,
@@ -75,7 +75,7 @@
         "forgePoint": 2000,
         "forgePointNoticeTextMapHash": 1652126048
     },
-    {
+    "11003": {
         "id": 11003,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -113,7 +113,7 @@
         "forgePoint": 10000,
         "forgePointNoticeTextMapHash": 110208304
     },
-    {
+    "11004": {
         "id": 11004,
         "playerLevel": 2,
         "isDefaultShow": true,
@@ -151,7 +151,7 @@
         "forgePoint": 2000,
         "forgePointNoticeTextMapHash": 905054512
     },
-    {
+    "11005": {
         "id": 11005,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -189,7 +189,7 @@
         "forgePoint": 10000,
         "forgePointNoticeTextMapHash": 334576640
     },
-    {
+    "12001": {
         "id": 12001,
         "playerLevel": 30,
         "isDefaultShow": true,
@@ -226,7 +226,7 @@
         "priority": 420,
         "forgePointNoticeTextMapHash": 3982284160
     },
-    {
+    "13001": {
         "id": 13001,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -268,7 +268,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 20496128
     },
-    {
+    "13002": {
         "id": 13002,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -310,7 +310,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 493535288
     },
-    {
+    "13003": {
         "id": 13003,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -352,7 +352,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 1712470968
     },
-    {
+    "13004": {
         "id": 13004,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -394,7 +394,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 3589092064
     },
-    {
+    "13005": {
         "id": 13005,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -436,7 +436,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 488352224
     },
-    {
+    "13006": {
         "id": 13006,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -478,7 +478,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 1084737336
     },
-    {
+    "13007": {
         "id": 13007,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -520,7 +520,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 2673803024
     },
-    {
+    "13008": {
         "id": 13008,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -562,7 +562,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 3848920016
     },
-    {
+    "13009": {
         "id": 13009,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -604,7 +604,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 987328312
     },
-    {
+    "13010": {
         "id": 13010,
         "playerLevel": 5,
         "isDefaultShow": true,
@@ -646,7 +646,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 2741051016
     },
-    {
+    "13011": {
         "id": 13011,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -687,7 +687,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 2400094520
     },
-    {
+    "13012": {
         "id": 13012,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -728,7 +728,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 1129506432
     },
-    {
+    "13013": {
         "id": 13013,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -769,7 +769,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 2947367136
     },
-    {
+    "14003": {
         "id": 14003,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -810,7 +810,7 @@
         "priority": 168,
         "forgePointNoticeTextMapHash": 3517182960
     },
-    {
+    "14004": {
         "id": 14004,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -851,7 +851,7 @@
         "priority": 150,
         "forgePointNoticeTextMapHash": 2246103744
     },
-    {
+    "14006": {
         "id": 14006,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -892,7 +892,7 @@
         "priority": 150,
         "forgePointNoticeTextMapHash": 4261089576
     },
-    {
+    "14008": {
         "id": 14008,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -933,7 +933,7 @@
         "priority": 150,
         "forgePointNoticeTextMapHash": 3478351816
     },
-    {
+    "14009": {
         "id": 14009,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -974,7 +974,7 @@
         "priority": 169,
         "forgePointNoticeTextMapHash": 2169744520
     },
-    {
+    "14017": {
         "id": 14017,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1012,7 +1012,7 @@
         "priority": 150,
         "forgePointNoticeTextMapHash": 749734432
     },
-    {
+    "14034": {
         "id": 14034,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1053,7 +1053,7 @@
         "priority": 167,
         "forgePointNoticeTextMapHash": 925210136
     },
-    {
+    "14058": {
         "id": 14058,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1094,7 +1094,7 @@
         "priority": 167,
         "forgePointNoticeTextMapHash": 752343224
     },
-    {
+    "15001": {
         "id": 15001,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1135,7 +1135,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 74736760
     },
-    {
+    "15002": {
         "id": 15002,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1176,7 +1176,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 3801733232
     },
-    {
+    "15003": {
         "id": 15003,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1217,7 +1217,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 3009757840
     },
-    {
+    "15004": {
         "id": 15004,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1258,7 +1258,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 1908314056
     },
-    {
+    "15005": {
         "id": 15005,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1299,7 +1299,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 3979445144
     },
-    {
+    "16001": {
         "id": 16001,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1340,7 +1340,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 3512159664
     },
-    {
+    "16002": {
         "id": 16002,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1381,7 +1381,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 2567600672
     },
-    {
+    "16003": {
         "id": 16003,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1422,7 +1422,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 100663472
     },
-    {
+    "16004": {
         "id": 16004,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1463,7 +1463,7 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 1097027624
     },
-    {
+    "16005": {
         "id": 16005,
         "playerLevel": 10,
         "effectiveWorldLevels": [
@@ -1504,4 +1504,4 @@
         "priority": 250,
         "forgePointNoticeTextMapHash": 1652161624
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "buffId": 1,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_UltimateSkillHitDamage",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UltimateSkillHitDamage",
@@ -14,7 +14,7 @@
             ""
         ]
     },
-    {
+    "2": {
         "buffId": 2,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_UseSkill",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill",
@@ -29,7 +29,7 @@
             ""
         ]
     },
-    {
+    "3": {
         "buffId": 3,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_OnAvatarIn",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_OnAvatarIn",
@@ -44,7 +44,7 @@
             ""
         ]
     },
-    {
+    "4": {
         "buffId": 4,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level2",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level2",
@@ -59,7 +59,7 @@
             ""
         ]
     },
-    {
+    "5": {
         "buffId": 5,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_NormalAttackLanded_Counter",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_NormalAttackLanded_Counter",
@@ -74,7 +74,7 @@
             ""
         ]
     },
-    {
+    "6": {
         "buffId": 6,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_NormalAttackElementalDamage",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_NormalAttackElementalDamage",
@@ -89,7 +89,7 @@
             ""
         ]
     },
-    {
+    "7": {
         "buffId": 7,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_ElectricReaction",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_ElectricReaction",
@@ -104,7 +104,7 @@
             ""
         ]
     },
-    {
+    "8": {
         "buffId": 8,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level3",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level3",
@@ -119,7 +119,7 @@
             ""
         ]
     },
-    {
+    "9": {
         "buffId": 9,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_ElectricDamage",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_ElectricDamage",
@@ -134,7 +134,7 @@
             ""
         ]
     },
-    {
+    "10": {
         "buffId": 10,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_BeingHealed",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_BeingHealed",
@@ -149,7 +149,7 @@
             ""
         ]
     },
-    {
+    "11": {
         "buffId": 11,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_HPDown",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_HPDown",
@@ -164,7 +164,7 @@
             ""
         ]
     },
-    {
+    "12": {
         "buffId": 12,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level5",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level5",
@@ -179,7 +179,7 @@
             ""
         ]
     },
-    {
+    "13": {
         "buffId": 13,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_RockDamage",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_RockDamage",
@@ -194,7 +194,7 @@
             ""
         ]
     },
-    {
+    "14": {
         "buffId": 14,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_Crystallize",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_Crystallize",
@@ -209,7 +209,7 @@
             ""
         ]
     },
-    {
+    "15": {
         "buffId": 15,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level4",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level4",
@@ -224,7 +224,7 @@
             ""
         ]
     },
-    {
+    "16": {
         "buffId": 16,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_HitFrozenTarget",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_HitFrozenTarget",
@@ -239,7 +239,7 @@
             ""
         ]
     },
-    {
+    "17": {
         "buffId": 17,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level6",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level6",
@@ -254,7 +254,7 @@
             ""
         ]
     },
-    {
+    "18": {
         "buffId": 18,
         "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Trigger_Frozen",
         "abilityName": "ActivityAbility_CrystalLink_Trigger_Frozen",
@@ -269,4 +269,4 @@
             ""
         ]
     }
-]
+}

@@ -1,1390 +1,1390 @@
-[
-    {
+{
+    "103": {
         "dungeonId": 103,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "104": {
         "dungeonId": 104,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "105": {
         "dungeonId": 105,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "106": {
         "dungeonId": 106,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "110": {
         "dungeonId": 110,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "111": {
         "dungeonId": 111,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "112": {
         "dungeonId": 112,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "113": {
         "dungeonId": 113,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "114": {
         "dungeonId": 114,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "115": {
         "dungeonId": 115,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "116": {
         "dungeonId": 116,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "117": {
         "dungeonId": 117,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "118": {
         "dungeonId": 118,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "119": {
         "dungeonId": 119,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "120": {
         "dungeonId": 120,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "121": {
         "dungeonId": 121,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "122": {
         "dungeonId": 122,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "123": {
         "dungeonId": 123,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "124": {
         "dungeonId": 124,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "125": {
         "dungeonId": 125,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "127": {
         "dungeonId": 127,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "128": {
         "dungeonId": 128,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "129": {
         "dungeonId": 129,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "130": {
         "dungeonId": 130,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "131": {
         "dungeonId": 131,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "132": {
         "dungeonId": 132,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "133": {
         "dungeonId": 133,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "134": {
         "dungeonId": 134,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "2008": {
         "dungeonId": 2008,
         "dungeonType": "DUNGEON_TYPE_BREAK"
     },
-    {
+    "2012": {
         "dungeonId": 2012,
         "dungeonType": "DUNGEON_TYPE_BREAK"
     },
-    {
+    "2014": {
         "dungeonId": 2014,
         "dungeonType": "DUNGEON_TYPE_BREAK"
     },
-    {
+    "2016": {
         "dungeonId": 2016,
         "dungeonType": "DUNGEON_TYPE_BREAK"
     },
-    {
+    "2020": {
         "dungeonId": 2020,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "2021": {
         "dungeonId": 2021,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "2022": {
         "dungeonId": 2022,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "2023": {
         "dungeonId": 2023,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "2024": {
         "dungeonId": 2024,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "2025": {
         "dungeonId": 2025,
         "dungeonType": "DUNGEON_TYPE_BOSS"
     },
-    {
+    "3004": {
         "dungeonId": 3004,
         "dungeonType": "DUNGEON_TYPE_NORMAL"
     },
-    {
+    "4007": {
         "dungeonId": 4007,
         "dungeonType": "DUNGEON_TYPE_NORMAL"
     },
-    {
+    "4010": {
         "dungeonId": 4010,
         "dungeonType": "DUNGEON_TYPE_NORMAL"
     },
-    {
+    "4011": {
         "dungeonId": 4011,
         "dungeonType": "DUNGEON_TYPE_NORMAL"
     },
-    {
+    "4016": {
         "dungeonId": 4016,
         "dungeonType": "DUNGEON_TYPE_NORMAL"
     },
-    {
+    "4018": {
         "dungeonId": 4018,
         "dungeonType": "DUNGEON_TYPE_NORMAL"
     },
-    {
+    "4020": {
         "dungeonId": 4020,
         "dungeonType": "DUNGEON_TYPE_NORMAL"
     },
-    {
+    "4021": {
         "dungeonId": 4021,
         "dungeonType": "DUNGEON_TYPE_NORMAL"
     },
-    {
+    "4200": {
         "dungeonId": 4200,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4201": {
         "dungeonId": 4201,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4202": {
         "dungeonId": 4202,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4203": {
         "dungeonId": 4203,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4210": {
         "dungeonId": 4210,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4211": {
         "dungeonId": 4211,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4212": {
         "dungeonId": 4212,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4213": {
         "dungeonId": 4213,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4220": {
         "dungeonId": 4220,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4221": {
         "dungeonId": 4221,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4222": {
         "dungeonId": 4222,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4223": {
         "dungeonId": 4223,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4230": {
         "dungeonId": 4230,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4231": {
         "dungeonId": 4231,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4232": {
         "dungeonId": 4232,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4233": {
         "dungeonId": 4233,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4300": {
         "dungeonId": 4300,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4301": {
         "dungeonId": 4301,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4302": {
         "dungeonId": 4302,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4303": {
         "dungeonId": 4303,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4310": {
         "dungeonId": 4310,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4311": {
         "dungeonId": 4311,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4312": {
         "dungeonId": 4312,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4313": {
         "dungeonId": 4313,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4320": {
         "dungeonId": 4320,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4321": {
         "dungeonId": 4321,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4322": {
         "dungeonId": 4322,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4323": {
         "dungeonId": 4323,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4330": {
         "dungeonId": 4330,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4331": {
         "dungeonId": 4331,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4332": {
         "dungeonId": 4332,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4333": {
         "dungeonId": 4333,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5001": {
         "dungeonId": 5001,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5002": {
         "dungeonId": 5002,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5003": {
         "dungeonId": 5003,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5004": {
         "dungeonId": 5004,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5005": {
         "dungeonId": 5005,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5006": {
         "dungeonId": 5006,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5008": {
         "dungeonId": 5008,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5009": {
         "dungeonId": 5009,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5010": {
         "dungeonId": 5010,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5011": {
         "dungeonId": 5011,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5012": {
         "dungeonId": 5012,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5014": {
         "dungeonId": 5014,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5015": {
         "dungeonId": 5015,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5016": {
         "dungeonId": 5016,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5017": {
         "dungeonId": 5017,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5100": {
         "dungeonId": 5100,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5101": {
         "dungeonId": 5101,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5102": {
         "dungeonId": 5102,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5103": {
         "dungeonId": 5103,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5104": {
         "dungeonId": 5104,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5105": {
         "dungeonId": 5105,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5107": {
         "dungeonId": 5107,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5108": {
         "dungeonId": 5108,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5109": {
         "dungeonId": 5109,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5110": {
         "dungeonId": 5110,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5112": {
         "dungeonId": 5112,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5113": {
         "dungeonId": 5113,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5114": {
         "dungeonId": 5114,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5120": {
         "dungeonId": 5120,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5121": {
         "dungeonId": 5121,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5122": {
         "dungeonId": 5122,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5123": {
         "dungeonId": 5123,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5125": {
         "dungeonId": 5125,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5126": {
         "dungeonId": 5126,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5127": {
         "dungeonId": 5127,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5128": {
         "dungeonId": 5128,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5200": {
         "dungeonId": 5200,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5201": {
         "dungeonId": 5201,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5202": {
         "dungeonId": 5202,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5203": {
         "dungeonId": 5203,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5204": {
         "dungeonId": 5204,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5205": {
         "dungeonId": 5205,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5206": {
         "dungeonId": 5206,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5207": {
         "dungeonId": 5207,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5050": {
         "dungeonId": 5050,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5051": {
         "dungeonId": 5051,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5052": {
         "dungeonId": 5052,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5053": {
         "dungeonId": 5053,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5210": {
         "dungeonId": 5210,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5211": {
         "dungeonId": 5211,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5212": {
         "dungeonId": 5212,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5213": {
         "dungeonId": 5213,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5214": {
         "dungeonId": 5214,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5215": {
         "dungeonId": 5215,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5216": {
         "dungeonId": 5216,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5217": {
         "dungeonId": 5217,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5218": {
         "dungeonId": 5218,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5219": {
         "dungeonId": 5219,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5220": {
         "dungeonId": 5220,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5221": {
         "dungeonId": 5221,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5222": {
         "dungeonId": 5222,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5223": {
         "dungeonId": 5223,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5224": {
         "dungeonId": 5224,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5225": {
         "dungeonId": 5225,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5250": {
         "dungeonId": 5250,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5251": {
         "dungeonId": 5251,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5252": {
         "dungeonId": 5252,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5253": {
         "dungeonId": 5253,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5254": {
         "dungeonId": 5254,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5255": {
         "dungeonId": 5255,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5256": {
         "dungeonId": 5256,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5257": {
         "dungeonId": 5257,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5258": {
         "dungeonId": 5258,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5259": {
         "dungeonId": 5259,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5260": {
         "dungeonId": 5260,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5261": {
         "dungeonId": 5261,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5262": {
         "dungeonId": 5262,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5263": {
         "dungeonId": 5263,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5264": {
         "dungeonId": 5264,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "5265": {
         "dungeonId": 5265,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4340": {
         "dungeonId": 4340,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4341": {
         "dungeonId": 4341,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4342": {
         "dungeonId": 4342,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4343": {
         "dungeonId": 4343,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4350": {
         "dungeonId": 4350,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4351": {
         "dungeonId": 4351,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4352": {
         "dungeonId": 4352,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4353": {
         "dungeonId": 4353,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4360": {
         "dungeonId": 4360,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4361": {
         "dungeonId": 4361,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4362": {
         "dungeonId": 4362,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4363": {
         "dungeonId": 4363,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4400": {
         "dungeonId": 4400,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4401": {
         "dungeonId": 4401,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4402": {
         "dungeonId": 4402,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4403": {
         "dungeonId": 4403,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4410": {
         "dungeonId": 4410,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4411": {
         "dungeonId": 4411,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4412": {
         "dungeonId": 4412,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4413": {
         "dungeonId": 4413,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4420": {
         "dungeonId": 4420,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4421": {
         "dungeonId": 4421,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4422": {
         "dungeonId": 4422,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4423": {
         "dungeonId": 4423,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4370": {
         "dungeonId": 4370,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4371": {
         "dungeonId": 4371,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4372": {
         "dungeonId": 4372,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4373": {
         "dungeonId": 4373,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4374": {
         "dungeonId": 4374,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4375": {
         "dungeonId": 4375,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4376": {
         "dungeonId": 4376,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4377": {
         "dungeonId": 4377,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4378": {
         "dungeonId": 4378,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4379": {
         "dungeonId": 4379,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4380": {
         "dungeonId": 4380,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4381": {
         "dungeonId": 4381,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4430": {
         "dungeonId": 4430,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4431": {
         "dungeonId": 4431,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4432": {
         "dungeonId": 4432,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4433": {
         "dungeonId": 4433,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4440": {
         "dungeonId": 4440,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4441": {
         "dungeonId": 4441,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4442": {
         "dungeonId": 4442,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4443": {
         "dungeonId": 4443,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4450": {
         "dungeonId": 4450,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4451": {
         "dungeonId": 4451,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4452": {
         "dungeonId": 4452,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "4453": {
         "dungeonId": 4453,
         "dungeonType": "DUNGEON_TYPE_DAILY"
     },
-    {
+    "3310": {
         "dungeonId": 3310,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3410": {
         "dungeonId": 3410,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3510": {
         "dungeonId": 3510,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3311": {
         "dungeonId": 3311,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3411": {
         "dungeonId": 3411,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3511": {
         "dungeonId": 3511,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3312": {
         "dungeonId": 3312,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3412": {
         "dungeonId": 3412,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3512": {
         "dungeonId": 3512,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3313": {
         "dungeonId": 3313,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3413": {
         "dungeonId": 3413,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3513": {
         "dungeonId": 3513,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3341": {
         "dungeonId": 3341,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3441": {
         "dungeonId": 3441,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3541": {
         "dungeonId": 3541,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3342": {
         "dungeonId": 3342,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3442": {
         "dungeonId": 3442,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3542": {
         "dungeonId": 3542,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3343": {
         "dungeonId": 3343,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3443": {
         "dungeonId": 3443,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3543": {
         "dungeonId": 3543,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3344": {
         "dungeonId": 3344,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3444": {
         "dungeonId": 3444,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3544": {
         "dungeonId": 3544,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3371": {
         "dungeonId": 3371,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3471": {
         "dungeonId": 3471,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3571": {
         "dungeonId": 3571,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3375": {
         "dungeonId": 3375,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3475": {
         "dungeonId": 3475,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3575": {
         "dungeonId": 3575,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3373": {
         "dungeonId": 3373,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3473": {
         "dungeonId": 3473,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3573": {
         "dungeonId": 3573,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3374": {
         "dungeonId": 3374,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3474": {
         "dungeonId": 3474,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3574": {
         "dungeonId": 3574,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3376": {
         "dungeonId": 3376,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3476": {
         "dungeonId": 3476,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3576": {
         "dungeonId": 3576,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3377": {
         "dungeonId": 3377,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3477": {
         "dungeonId": 3477,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3577": {
         "dungeonId": 3577,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3378": {
         "dungeonId": 3378,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3478": {
         "dungeonId": 3478,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3578": {
         "dungeonId": 3578,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3379": {
         "dungeonId": 3379,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3479": {
         "dungeonId": 3479,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3579": {
         "dungeonId": 3579,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3380": {
         "dungeonId": 3380,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3480": {
         "dungeonId": 3480,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3580": {
         "dungeonId": 3580,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3381": {
         "dungeonId": 3381,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3481": {
         "dungeonId": 3481,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3581": {
         "dungeonId": 3581,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3382": {
         "dungeonId": 3382,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3482": {
         "dungeonId": 3482,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3582": {
         "dungeonId": 3582,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3383": {
         "dungeonId": 3383,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3483": {
         "dungeonId": 3483,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3583": {
         "dungeonId": 3583,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3384": {
         "dungeonId": 3384,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3484": {
         "dungeonId": 3484,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3584": {
         "dungeonId": 3584,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3385": {
         "dungeonId": 3385,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3485": {
         "dungeonId": 3485,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3585": {
         "dungeonId": 3585,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3386": {
         "dungeonId": 3386,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3486": {
         "dungeonId": 3486,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3586": {
         "dungeonId": 3586,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3387": {
         "dungeonId": 3387,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3487": {
         "dungeonId": 3487,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3587": {
         "dungeonId": 3587,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3388": {
         "dungeonId": 3388,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3488": {
         "dungeonId": 3488,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3588": {
         "dungeonId": 3588,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3389": {
         "dungeonId": 3389,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3489": {
         "dungeonId": 3489,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3589": {
         "dungeonId": 3589,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3390": {
         "dungeonId": 3390,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3490": {
         "dungeonId": 3490,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3590": {
         "dungeonId": 3590,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3391": {
         "dungeonId": 3391,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3491": {
         "dungeonId": 3491,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3591": {
         "dungeonId": 3591,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3392": {
         "dungeonId": 3392,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3492": {
         "dungeonId": 3492,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3592": {
         "dungeonId": 3592,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3393": {
         "dungeonId": 3393,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3493": {
         "dungeonId": 3493,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3593": {
         "dungeonId": 3593,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3394": {
         "dungeonId": 3394,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3494": {
         "dungeonId": 3494,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3594": {
         "dungeonId": 3594,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3395": {
         "dungeonId": 3395,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3495": {
         "dungeonId": 3495,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3595": {
         "dungeonId": 3595,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3396": {
         "dungeonId": 3396,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3496": {
         "dungeonId": 3496,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3596": {
         "dungeonId": 3596,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3397": {
         "dungeonId": 3397,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3497": {
         "dungeonId": 3497,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3597": {
         "dungeonId": 3597,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3398": {
         "dungeonId": 3398,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3498": {
         "dungeonId": 3498,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3598": {
         "dungeonId": 3598,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3399": {
         "dungeonId": 3399,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3499": {
         "dungeonId": 3499,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3599": {
         "dungeonId": 3599,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3400": {
         "dungeonId": 3400,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3500": {
         "dungeonId": 3500,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3600": {
         "dungeonId": 3600,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3401": {
         "dungeonId": 3401,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3501": {
         "dungeonId": 3501,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3601": {
         "dungeonId": 3601,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3402": {
         "dungeonId": 3402,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3502": {
         "dungeonId": 3502,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3602": {
         "dungeonId": 3602,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3403": {
         "dungeonId": 3403,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3503": {
         "dungeonId": 3503,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3603": {
         "dungeonId": 3603,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3404": {
         "dungeonId": 3404,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3504": {
         "dungeonId": 3504,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3604": {
         "dungeonId": 3604,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3405": {
         "dungeonId": 3405,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3505": {
         "dungeonId": 3505,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3605": {
         "dungeonId": 3605,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3406": {
         "dungeonId": 3406,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3506": {
         "dungeonId": 3506,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3606": {
         "dungeonId": 3606,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3407": {
         "dungeonId": 3407,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3507": {
         "dungeonId": 3507,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3607": {
         "dungeonId": 3607,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3408": {
         "dungeonId": 3408,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3508": {
         "dungeonId": 3508,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3608": {
         "dungeonId": 3608,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3409": {
         "dungeonId": 3409,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3509": {
         "dungeonId": 3509,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3609": {
         "dungeonId": 3609,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3100": {
         "dungeonId": 3100,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3200": {
         "dungeonId": 3200,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     },
-    {
+    "3300": {
         "dungeonId": 3300,
         "dungeonType": "DUNGEON_TYPE_TOWER"
     }
-]
+}

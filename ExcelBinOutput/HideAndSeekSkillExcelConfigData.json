@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "skillID": 20410,
         "order": 100,
@@ -10,7 +10,7 @@
         "CLCCKAIOENK": 1168020414,
         "CAJHJJMAHPO": 62
     },
-    {
+    "2": {
         "id": 2,
         "skillID": 20411,
         "order": 70,
@@ -20,7 +20,7 @@
         "CLCCKAIOENK": 3583533216,
         "CAJHJJMAHPO": 8
     },
-    {
+    "3": {
         "id": 3,
         "skillID": 20400,
         "order": 100,
@@ -31,7 +31,7 @@
         "CLCCKAIOENK": 3915784198,
         "CAJHJJMAHPO": 54
     },
-    {
+    "4": {
         "id": 4,
         "skillID": 20420,
         "order": 100,
@@ -41,7 +41,7 @@
         "CLCCKAIOENK": 2554743754,
         "CAJHJJMAHPO": 20
     },
-    {
+    "5": {
         "id": 5,
         "skillID": 20421,
         "order": 70,
@@ -52,7 +52,7 @@
         "CLCCKAIOENK": 1263786924,
         "CAJHJJMAHPO": 40
     },
-    {
+    "6": {
         "id": 6,
         "skillID": 20422,
         "order": 40,
@@ -62,7 +62,7 @@
         "CLCCKAIOENK": 2127729549,
         "CAJHJJMAHPO": 40
     },
-    {
+    "7": {
         "id": 7,
         "skillID": 20510,
         "order": 100,
@@ -73,7 +73,7 @@
         "CLCCKAIOENK": 482050835,
         "CAJHJJMAHPO": 168
     },
-    {
+    "8": {
         "id": 8,
         "skillID": 20511,
         "order": 70,
@@ -83,7 +83,7 @@
         "CLCCKAIOENK": 4096848359,
         "CAJHJJMAHPO": 6
     },
-    {
+    "9": {
         "id": 9,
         "skillID": 20500,
         "order": 100,
@@ -94,7 +94,7 @@
         "CLCCKAIOENK": 2182574934,
         "CAJHJJMAHPO": 8
     },
-    {
+    "10": {
         "id": 10,
         "skillID": 20520,
         "order": 100,
@@ -105,4 +105,4 @@
         "CLCCKAIOENK": 3779410985,
         "CAJHJJMAHPO": 174
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "368101": {
         "furnitureID": 368101,
         "avatarID": 10000047,
         "ELOFIEHJCJM": 9047,
@@ -14,7 +14,7 @@
         "HPKFKNENKNJ": 394414042,
         "descTextMapHash": 4201145610
     },
-    {
+    "368102": {
         "furnitureID": 368102,
         "avatarID": 10000048,
         "ELOFIEHJCJM": 9048,
@@ -29,7 +29,7 @@
         "HPKFKNENKNJ": 3150030818,
         "descTextMapHash": 2916802378
     },
-    {
+    "368103": {
         "furnitureID": 368103,
         "avatarID": 10000051,
         "ELOFIEHJCJM": 9051,
@@ -44,7 +44,7 @@
         "HPKFKNENKNJ": 3065222362,
         "descTextMapHash": 343588186
     },
-    {
+    "368104": {
         "furnitureID": 368104,
         "avatarID": 10000003,
         "ELOFIEHJCJM": 9003,
@@ -59,7 +59,7 @@
         "HPKFKNENKNJ": 3250264826,
         "descTextMapHash": 1591558698
     },
-    {
+    "368105": {
         "furnitureID": 368105,
         "avatarID": 10000006,
         "ELOFIEHJCJM": 9006,
@@ -74,7 +74,7 @@
         "HPKFKNENKNJ": 398011170,
         "descTextMapHash": 2300805946
     },
-    {
+    "368106": {
         "furnitureID": 368106,
         "avatarID": 10000014,
         "ELOFIEHJCJM": 9014,
@@ -89,7 +89,7 @@
         "HPKFKNENKNJ": 3620019322,
         "descTextMapHash": 530206354
     },
-    {
+    "368107": {
         "furnitureID": 368107,
         "avatarID": 10000015,
         "ELOFIEHJCJM": 9015,
@@ -104,7 +104,7 @@
         "HPKFKNENKNJ": 889457706,
         "descTextMapHash": 80302186
     },
-    {
+    "368108": {
         "furnitureID": 368108,
         "avatarID": 10000016,
         "ELOFIEHJCJM": 9016,
@@ -119,7 +119,7 @@
         "HPKFKNENKNJ": 1544663858,
         "descTextMapHash": 726503986
     },
-    {
+    "368109": {
         "furnitureID": 368109,
         "avatarID": 10000020,
         "ELOFIEHJCJM": 9020,
@@ -134,7 +134,7 @@
         "HPKFKNENKNJ": 1739622226,
         "descTextMapHash": 2416672970
     },
-    {
+    "368110": {
         "furnitureID": 368110,
         "avatarID": 10000021,
         "ELOFIEHJCJM": 9021,
@@ -149,7 +149,7 @@
         "HPKFKNENKNJ": 930706226,
         "descTextMapHash": 1929957354
     },
-    {
+    "368111": {
         "furnitureID": 368111,
         "avatarID": 10000022,
         "ELOFIEHJCJM": 9022,
@@ -164,7 +164,7 @@
         "HPKFKNENKNJ": 1943528722,
         "descTextMapHash": 3494559018
     },
-    {
+    "368112": {
         "furnitureID": 368112,
         "avatarID": 10000023,
         "ELOFIEHJCJM": 9023,
@@ -179,7 +179,7 @@
         "HPKFKNENKNJ": 665534778,
         "descTextMapHash": 4183753858
     },
-    {
+    "368113": {
         "furnitureID": 368113,
         "avatarID": 10000024,
         "ELOFIEHJCJM": 9024,
@@ -194,7 +194,7 @@
         "HPKFKNENKNJ": 1473309618,
         "descTextMapHash": 2329977586
     },
-    {
+    "368114": {
         "furnitureID": 368114,
         "avatarID": 10000025,
         "ELOFIEHJCJM": 9025,
@@ -209,7 +209,7 @@
         "HPKFKNENKNJ": 4249924554,
         "descTextMapHash": 691942634
     },
-    {
+    "368115": {
         "furnitureID": 368115,
         "avatarID": 10000026,
         "ELOFIEHJCJM": 9026,
@@ -224,7 +224,7 @@
         "HPKFKNENKNJ": 3325969954,
         "descTextMapHash": 3500876298
     },
-    {
+    "368116": {
         "furnitureID": 368116,
         "avatarID": 10000027,
         "ELOFIEHJCJM": 9027,
@@ -239,7 +239,7 @@
         "HPKFKNENKNJ": 3613932858,
         "descTextMapHash": 858488634
     },
-    {
+    "368117": {
         "furnitureID": 368117,
         "avatarID": 10000029,
         "ELOFIEHJCJM": 9029,
@@ -254,7 +254,7 @@
         "HPKFKNENKNJ": 2816559186,
         "descTextMapHash": 2813433970
     },
-    {
+    "368118": {
         "furnitureID": 368118,
         "avatarID": 10000030,
         "ELOFIEHJCJM": 9030,
@@ -269,7 +269,7 @@
         "HPKFKNENKNJ": 1043767274,
         "descTextMapHash": 3748058498
     },
-    {
+    "368119": {
         "furnitureID": 368119,
         "avatarID": 10000031,
         "ELOFIEHJCJM": 9031,
@@ -284,7 +284,7 @@
         "HPKFKNENKNJ": 1058476826,
         "descTextMapHash": 3767631122
     },
-    {
+    "368120": {
         "furnitureID": 368120,
         "avatarID": 10000032,
         "ELOFIEHJCJM": 9032,
@@ -299,7 +299,7 @@
         "HPKFKNENKNJ": 2538458826,
         "descTextMapHash": 2529118762
     },
-    {
+    "368121": {
         "furnitureID": 368121,
         "avatarID": 10000033,
         "ELOFIEHJCJM": 9033,
@@ -314,7 +314,7 @@
         "HPKFKNENKNJ": 154139194,
         "descTextMapHash": 1598618890
     },
-    {
+    "368122": {
         "furnitureID": 368122,
         "avatarID": 10000034,
         "ELOFIEHJCJM": 9034,
@@ -329,7 +329,7 @@
         "HPKFKNENKNJ": 1142451730,
         "descTextMapHash": 1263670018
     },
-    {
+    "368123": {
         "furnitureID": 368123,
         "avatarID": 10000035,
         "ELOFIEHJCJM": 9035,
@@ -344,7 +344,7 @@
         "HPKFKNENKNJ": 3159875210,
         "descTextMapHash": 1693001818
     },
-    {
+    "368124": {
         "furnitureID": 368124,
         "avatarID": 10000036,
         "ELOFIEHJCJM": 9036,
@@ -359,7 +359,7 @@
         "HPKFKNENKNJ": 1179969786,
         "descTextMapHash": 3070734138
     },
-    {
+    "368125": {
         "furnitureID": 368125,
         "avatarID": 10000037,
         "ELOFIEHJCJM": 9037,
@@ -374,7 +374,7 @@
         "HPKFKNENKNJ": 1905905994,
         "descTextMapHash": 2868509538
     },
-    {
+    "368126": {
         "furnitureID": 368126,
         "avatarID": 10000038,
         "ELOFIEHJCJM": 9038,
@@ -389,7 +389,7 @@
         "HPKFKNENKNJ": 3758465626,
         "descTextMapHash": 1979235386
     },
-    {
+    "368127": {
         "furnitureID": 368127,
         "avatarID": 10000039,
         "ELOFIEHJCJM": 9039,
@@ -404,7 +404,7 @@
         "HPKFKNENKNJ": 95993914,
         "descTextMapHash": 1078316570
     },
-    {
+    "368128": {
         "furnitureID": 368128,
         "avatarID": 10000041,
         "ELOFIEHJCJM": 9041,
@@ -419,7 +419,7 @@
         "HPKFKNENKNJ": 3470488842,
         "descTextMapHash": 1019072826
     },
-    {
+    "368129": {
         "furnitureID": 368129,
         "avatarID": 10000042,
         "ELOFIEHJCJM": 9042,
@@ -434,7 +434,7 @@
         "HPKFKNENKNJ": 4215937578,
         "descTextMapHash": 819624482
     },
-    {
+    "368130": {
         "furnitureID": 368130,
         "avatarID": 10000043,
         "ELOFIEHJCJM": 9043,
@@ -449,7 +449,7 @@
         "HPKFKNENKNJ": 5792482,
         "descTextMapHash": 921896570
     },
-    {
+    "368131": {
         "furnitureID": 368131,
         "avatarID": 10000044,
         "ELOFIEHJCJM": 9044,
@@ -464,7 +464,7 @@
         "HPKFKNENKNJ": 2899961186,
         "descTextMapHash": 2594130090
     },
-    {
+    "368132": {
         "furnitureID": 368132,
         "avatarID": 10000045,
         "ELOFIEHJCJM": 9045,
@@ -479,7 +479,7 @@
         "HPKFKNENKNJ": 3220336610,
         "descTextMapHash": 3463380114
     },
-    {
+    "368133": {
         "furnitureID": 368133,
         "avatarID": 10000046,
         "ELOFIEHJCJM": 9046,
@@ -494,7 +494,7 @@
         "HPKFKNENKNJ": 1050052850,
         "descTextMapHash": 768945018
     },
-    {
+    "368134": {
         "furnitureID": 368134,
         "ELOFIEHJCJM": 9900,
         "KLIEBCKJCHK": [],
@@ -506,7 +506,7 @@
         "HPKFKNENKNJ": 93920314,
         "descTextMapHash": 2038432562
     },
-    {
+    "368135": {
         "furnitureID": 368135,
         "avatarID": 10000049,
         "ELOFIEHJCJM": 9049,
@@ -521,7 +521,7 @@
         "HPKFKNENKNJ": 1550890770,
         "descTextMapHash": 251121242
     },
-    {
+    "368136": {
         "furnitureID": 368136,
         "avatarID": 10000053,
         "ELOFIEHJCJM": 9053,
@@ -536,7 +536,7 @@
         "HPKFKNENKNJ": 3070013538,
         "descTextMapHash": 2838050458
     },
-    {
+    "368137": {
         "furnitureID": 368137,
         "avatarID": 10000002,
         "ELOFIEHJCJM": 9002,
@@ -551,7 +551,7 @@
         "HPKFKNENKNJ": 2406170818,
         "descTextMapHash": 3110920978
     },
-    {
+    "368138": {
         "furnitureID": 368138,
         "avatarID": 10000052,
         "ELOFIEHJCJM": 9052,
@@ -566,7 +566,7 @@
         "HPKFKNENKNJ": 10530602,
         "descTextMapHash": 390796642
     },
-    {
+    "368139": {
         "furnitureID": 368139,
         "avatarID": 10000054,
         "ELOFIEHJCJM": 9054,
@@ -581,7 +581,7 @@
         "HPKFKNENKNJ": 2835940738,
         "descTextMapHash": 2267242570
     },
-    {
+    "368140": {
         "furnitureID": 368140,
         "avatarID": 10000056,
         "ELOFIEHJCJM": 9056,
@@ -596,7 +596,7 @@
         "HPKFKNENKNJ": 932714434,
         "descTextMapHash": 1760243458
     },
-    {
+    "368141": {
         "furnitureID": 368141,
         "avatarID": 10000062,
         "ELOFIEHJCJM": 9062,
@@ -611,7 +611,7 @@
         "HPKFKNENKNJ": 2295556594,
         "descTextMapHash": 1615445970
     },
-    {
+    "368142": {
         "furnitureID": 368142,
         "avatarID": 10000050,
         "ELOFIEHJCJM": 9050,
@@ -626,7 +626,7 @@
         "HPKFKNENKNJ": 2409263898,
         "descTextMapHash": 2978278274
     },
-    {
+    "368143": {
         "furnitureID": 368143,
         "avatarID": 10000055,
         "ELOFIEHJCJM": 9055,
@@ -641,7 +641,7 @@
         "HPKFKNENKNJ": 2234330074,
         "descTextMapHash": 1039340970
     },
-    {
+    "368144": {
         "furnitureID": 368144,
         "avatarID": 10000057,
         "ELOFIEHJCJM": 9057,
@@ -656,7 +656,7 @@
         "HPKFKNENKNJ": 3203142882,
         "descTextMapHash": 3288556322
     },
-    {
+    "368145": {
         "furnitureID": 368145,
         "avatarID": 10000063,
         "ELOFIEHJCJM": 9063,
@@ -671,7 +671,7 @@
         "HPKFKNENKNJ": 1954470762,
         "descTextMapHash": 2492766370
     },
-    {
+    "368146": {
         "furnitureID": 368146,
         "avatarID": 10000064,
         "ELOFIEHJCJM": 9064,
@@ -686,7 +686,7 @@
         "HPKFKNENKNJ": 1525557658,
         "descTextMapHash": 3822761602
     },
-    {
+    "368147": {
         "furnitureID": 368147,
         "avatarID": 10000058,
         "ELOFIEHJCJM": 9058,
@@ -701,7 +701,7 @@
         "HPKFKNENKNJ": 2921602826,
         "descTextMapHash": 2627682930
     },
-    {
+    "368148": {
         "furnitureID": 368148,
         "avatarID": 10000066,
         "ELOFIEHJCJM": 9066,
@@ -716,7 +716,7 @@
         "HPKFKNENKNJ": 258209466,
         "descTextMapHash": 4281777378
     },
-    {
+    "368149": {
         "furnitureID": 368149,
         "avatarID": 10000060,
         "ELOFIEHJCJM": 9008,
@@ -731,7 +731,7 @@
         "HPKFKNENKNJ": 1413218978,
         "descTextMapHash": 3515134034
     },
-    {
+    "368150": {
         "furnitureID": 368150,
         "avatarID": 10000065,
         "ELOFIEHJCJM": 9009,
@@ -746,7 +746,7 @@
         "HPKFKNENKNJ": 1151295338,
         "descTextMapHash": 1411660626
     },
-    {
+    "368151": {
         "furnitureID": 368151,
         "avatarID": 10000059,
         "ELOFIEHJCJM": 9059,
@@ -761,7 +761,7 @@
         "HPKFKNENKNJ": 2086255178,
         "descTextMapHash": 522922346
     },
-    {
+    "368152": {
         "furnitureID": 368152,
         "avatarID": 10000069,
         "ELOFIEHJCJM": 9069,
@@ -776,7 +776,7 @@
         "HPKFKNENKNJ": 380219434,
         "descTextMapHash": 106155898
     },
-    {
+    "368153": {
         "furnitureID": 368153,
         "avatarID": 10000067,
         "ELOFIEHJCJM": 9067,
@@ -791,7 +791,7 @@
         "HPKFKNENKNJ": 4080791818,
         "descTextMapHash": 1375466890
     },
-    {
+    "368154": {
         "furnitureID": 368154,
         "avatarID": 10000068,
         "ELOFIEHJCJM": 9068,
@@ -806,4 +806,4 @@
         "HPKFKNENKNJ": 1579832426,
         "descTextMapHash": 496689226
     }
-]
+}

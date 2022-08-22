@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "configId": 1001,
         "condList": [
             {
@@ -18,7 +18,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "1002": {
         "configId": 1002,
         "condList": [
             {
@@ -37,7 +37,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10001": {
         "configId": 10001,
         "condList": [
             {
@@ -56,7 +56,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10002": {
         "configId": 10002,
         "condList": [
             {
@@ -75,7 +75,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10003": {
         "configId": 10003,
         "condList": [
             {
@@ -94,7 +94,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10004": {
         "configId": 10004,
         "condList": [
             {
@@ -113,7 +113,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10005": {
         "configId": 10005,
         "condList": [
             {
@@ -132,7 +132,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10006": {
         "configId": 10006,
         "condList": [
             {
@@ -151,7 +151,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10007": {
         "configId": 10007,
         "condList": [
             {
@@ -170,7 +170,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10008": {
         "configId": 10008,
         "condList": [
             {
@@ -189,7 +189,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10009": {
         "configId": 10009,
         "condList": [
             {
@@ -208,7 +208,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10010": {
         "configId": 10010,
         "condList": [
             {
@@ -227,7 +227,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10011": {
         "configId": 10011,
         "condList": [
             {
@@ -246,7 +246,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10012": {
         "configId": 10012,
         "condList": [
             {
@@ -265,7 +265,7 @@
         ],
         "totalDayCount": 7
     },
-    {
+    "10013": {
         "configId": 10013,
         "condList": [
             {
@@ -284,4 +284,4 @@
         ],
         "totalDayCount": 7
     }
-]
+}

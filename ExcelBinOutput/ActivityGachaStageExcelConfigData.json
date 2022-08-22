@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageId": 1,
         "EDLCGEOLHKH": 2,
         "IPBGJKBPLDP": true,
@@ -24,7 +24,7 @@
         "watcherID": 1508001,
         "KIOHLAGDBGA": 7269401
     },
-    {
+    "2": {
         "stageId": 2,
         "EDLCGEOLHKH": 3,
         "IPBGJKBPLDP": true,
@@ -53,7 +53,7 @@
         "watcherID": 1508002,
         "KIOHLAGDBGA": 7269501
     },
-    {
+    "3": {
         "stageId": 3,
         "EDLCGEOLHKH": 4,
         "IPBGJKBPLDP": true,
@@ -79,7 +79,7 @@
         "watcherID": 1508003,
         "KIOHLAGDBGA": 7269601
     },
-    {
+    "4": {
         "stageId": 4,
         "EDLCGEOLHKH": 5,
         "type": "TARGET_TYPE_GATHER",
@@ -94,7 +94,7 @@
         "condID": 5080004,
         "KIOHLAGDBGA": 7269701
     },
-    {
+    "5": {
         "stageId": 5,
         "EDLCGEOLHKH": 6,
         "type": "TARGET_TYPE_ELEM",
@@ -107,7 +107,7 @@
         "NHNPNKIBHMD": [],
         "LNBHIPIICDH": []
     },
-    {
+    "6": {
         "stageId": 6,
         "EDLCGEOLHKH": 4,
         "type": "TARGET_TYPE_MONSTER",
@@ -121,4 +121,4 @@
         "LNBHIPIICDH": [],
         "BEOCDDKNIKP": true
     }
-]
+}

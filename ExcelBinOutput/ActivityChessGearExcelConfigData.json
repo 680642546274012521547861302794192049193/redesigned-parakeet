@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "gearID": 1,
         "gearNameTextMapHash": 3286791978,
         "gearShortNameTextMapHash": 4218483023,
@@ -18,7 +18,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 1
     },
-    {
+    "2": {
         "gearID": 2,
         "gearNameTextMapHash": 342559882,
         "gearShortNameTextMapHash": 1952969415,
@@ -37,7 +37,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 1
     },
-    {
+    "3": {
         "gearID": 3,
         "gearNameTextMapHash": 3473556602,
         "gearShortNameTextMapHash": 2038388047,
@@ -56,7 +56,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 1
     },
-    {
+    "4": {
         "gearID": 4,
         "gearNameTextMapHash": 3447069242,
         "gearShortNameTextMapHash": 2147231255,
@@ -74,7 +74,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 1
     },
-    {
+    "5": {
         "gearID": 5,
         "gearNameTextMapHash": 4120439978,
         "gearShortNameTextMapHash": 2564934543,
@@ -93,7 +93,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 1
     },
-    {
+    "6": {
         "gearID": 6,
         "gearNameTextMapHash": 2978307450,
         "gearShortNameTextMapHash": 1539894007,
@@ -112,7 +112,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 1
     },
-    {
+    "7": {
         "gearID": 7,
         "gearNameTextMapHash": 1739257538,
         "gearShortNameTextMapHash": 3645063103,
@@ -132,7 +132,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 3
     },
-    {
+    "8": {
         "gearID": 8,
         "gearNameTextMapHash": 3467622234,
         "gearShortNameTextMapHash": 154866767,
@@ -152,7 +152,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 1
     },
-    {
+    "9": {
         "gearID": 9,
         "gearNameTextMapHash": 291653330,
         "gearShortNameTextMapHash": 1587651815,
@@ -172,7 +172,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 4
     },
-    {
+    "10": {
         "gearID": 10,
         "gearNameTextMapHash": 845049122,
         "gearShortNameTextMapHash": 529866895,
@@ -192,7 +192,7 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 2
     },
-    {
+    "11": {
         "gearID": 11,
         "gearNameTextMapHash": 4152900330,
         "gearShortNameTextMapHash": 3766857271,
@@ -213,4 +213,4 @@
         "LMPJGIFEPNC": 1,
         "EHJAKGPOLIA": 2
     }
-]
+}

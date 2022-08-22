@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1001": {
         "KDGAKBCJNDM": 1001,
         "parentQuestId": 3009,
         "KJLBLFAGOKB": [
@@ -7,7 +7,7 @@
         ],
         "PDGPKBOMNDN": 300902
     },
-    {
+    "1002": {
         "KDGAKBCJNDM": 1002,
         "parentQuestId": 3009,
         "KJLBLFAGOKB": [
@@ -15,7 +15,7 @@
         ],
         "PDGPKBOMNDN": 300902
     },
-    {
+    "1003": {
         "KDGAKBCJNDM": 1003,
         "parentQuestId": 3009,
         "KJLBLFAGOKB": [
@@ -23,7 +23,7 @@
         ],
         "PDGPKBOMNDN": 300902
     },
-    {
+    "1004": {
         "KDGAKBCJNDM": 1004,
         "parentQuestId": 3011,
         "KJLBLFAGOKB": [
@@ -31,7 +31,7 @@
         ],
         "PDGPKBOMNDN": 301102
     },
-    {
+    "1005": {
         "KDGAKBCJNDM": 1005,
         "parentQuestId": 3014,
         "KJLBLFAGOKB": [
@@ -39,7 +39,7 @@
         ],
         "PDGPKBOMNDN": 301401
     },
-    {
+    "1006": {
         "KDGAKBCJNDM": 1006,
         "parentQuestId": 3014,
         "KJLBLFAGOKB": [
@@ -47,7 +47,7 @@
         ],
         "PDGPKBOMNDN": 301401
     },
-    {
+    "1007": {
         "KDGAKBCJNDM": 1007,
         "parentQuestId": 3014,
         "KJLBLFAGOKB": [
@@ -55,7 +55,7 @@
         ],
         "PDGPKBOMNDN": 301401
     },
-    {
+    "1008": {
         "KDGAKBCJNDM": 1008,
         "parentQuestId": 3014,
         "KJLBLFAGOKB": [
@@ -63,7 +63,7 @@
         ],
         "PDGPKBOMNDN": 301401
     },
-    {
+    "1009": {
         "KDGAKBCJNDM": 1009,
         "parentQuestId": 3014,
         "KJLBLFAGOKB": [
@@ -71,7 +71,7 @@
         ],
         "PDGPKBOMNDN": 301401
     },
-    {
+    "1010": {
         "KDGAKBCJNDM": 1010,
         "parentQuestId": 3014,
         "KJLBLFAGOKB": [
@@ -79,4 +79,4 @@
         ],
         "PDGPKBOMNDN": 301401
     }
-]
+}

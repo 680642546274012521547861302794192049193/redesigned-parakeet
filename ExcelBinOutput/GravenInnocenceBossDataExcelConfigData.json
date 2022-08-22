@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "PCOMOBFKECB": 1003131052,
         "watcherList": [
@@ -10,7 +10,7 @@
         ],
         "FOIJKMKFOHN": 41
     },
-    {
+    "2": {
         "id": 2,
         "PCOMOBFKECB": 1493020364,
         "watcherList": [
@@ -21,4 +21,4 @@
         ],
         "FOIJKMKFOHN": 42
     }
-]
+}

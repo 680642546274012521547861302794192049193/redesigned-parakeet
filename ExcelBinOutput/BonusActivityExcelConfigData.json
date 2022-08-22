@@ -1,5 +1,5 @@
-[
-    {
+{
+    "50001": {
         "bonusActivityId": 1,
         "condList": [
             {
@@ -34,7 +34,7 @@
         },
         "progress": 1
     },
-    {
+    "50002": {
         "bonusActivityId": 2,
         "condList": [
             {
@@ -68,4 +68,4 @@
         },
         "progress": 1
     }
-]
+}

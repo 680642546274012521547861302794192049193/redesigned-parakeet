@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "MpPlayId": 1,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -16,7 +16,7 @@
         "image": "",
         "priority": 99
     },
-    {
+    "3001": {
         "id": 3001,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_PROGRESS",
@@ -33,7 +33,7 @@
         "image": "",
         "priority": 80
     },
-    {
+    "3002": {
         "id": 3002,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -50,7 +50,7 @@
         "image": "",
         "priority": 50
     },
-    {
+    "3003": {
         "id": 3003,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -67,7 +67,7 @@
         "image": "",
         "priority": 60
     },
-    {
+    "3004": {
         "id": 3004,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -84,7 +84,7 @@
         "image": "",
         "priority": 50
     },
-    {
+    "3005": {
         "id": 3005,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -101,7 +101,7 @@
         "image": "",
         "priority": 60
     },
-    {
+    "3006": {
         "id": 3006,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -118,7 +118,7 @@
         "image": "",
         "priority": 70
     },
-    {
+    "3007": {
         "id": 3007,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -135,7 +135,7 @@
         "image": "",
         "priority": 50
     },
-    {
+    "3008": {
         "id": 3008,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -152,7 +152,7 @@
         "image": "",
         "priority": 60
     },
-    {
+    "3009": {
         "id": 3009,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -169,7 +169,7 @@
         "image": "",
         "priority": 70
     },
-    {
+    "3010": {
         "id": 3010,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -186,7 +186,7 @@
         "image": "",
         "priority": 50
     },
-    {
+    "3011": {
         "id": 3011,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -203,7 +203,7 @@
         "image": "",
         "priority": 60
     },
-    {
+    "3012": {
         "id": 3012,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -220,7 +220,7 @@
         "image": "",
         "priority": 70
     },
-    {
+    "3013": {
         "id": 3013,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -237,7 +237,7 @@
         "image": "",
         "priority": 99
     },
-    {
+    "3014": {
         "id": 3014,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_MONSTER_TAKE_DEMAGE",
@@ -254,7 +254,7 @@
         "image": "",
         "priority": 90
     },
-    {
+    "3015": {
         "id": 3015,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -271,7 +271,7 @@
         "image": "",
         "priority": 1
     },
-    {
+    "3016": {
         "id": 3016,
         "MpPlayId": 3,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -288,7 +288,7 @@
         "image": "",
         "priority": 1
     },
-    {
+    "4001": {
         "id": 4001,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -305,7 +305,7 @@
         "image": "",
         "priority": 30
     },
-    {
+    "4002": {
         "id": 4002,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -322,7 +322,7 @@
         "image": "",
         "priority": 30
     },
-    {
+    "4003": {
         "id": 4003,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -339,7 +339,7 @@
         "image": "",
         "priority": 30
     },
-    {
+    "4004": {
         "id": 4004,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -356,7 +356,7 @@
         "image": "",
         "priority": 30
     },
-    {
+    "4005": {
         "id": 4005,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -373,7 +373,7 @@
         "image": "",
         "priority": 30
     },
-    {
+    "4006": {
         "id": 4006,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_MONSTER_TAKE_DEMAGE",
@@ -390,7 +390,7 @@
         "image": "",
         "priority": 40
     },
-    {
+    "4007": {
         "id": 4007,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -407,7 +407,7 @@
         "image": "",
         "priority": 40
     },
-    {
+    "4008": {
         "id": 4008,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_MONSTER_KILL_NUM",
@@ -424,7 +424,7 @@
         "image": "",
         "priority": 30
     },
-    {
+    "4009": {
         "id": 4009,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_MONSTER_KILL_NUM",
@@ -441,7 +441,7 @@
         "image": "",
         "priority": 20
     },
-    {
+    "4010": {
         "id": 4010,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_MONSTER_TAKE_DEMAGE",
@@ -458,7 +458,7 @@
         "image": "",
         "priority": 20
     },
-    {
+    "4011": {
         "id": 4011,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -475,7 +475,7 @@
         "image": "",
         "priority": 32
     },
-    {
+    "4012": {
         "id": 4012,
         "MpPlayId": 4,
         "settleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
@@ -492,4 +492,4 @@
         "image": "",
         "priority": 33
     }
-]
+}

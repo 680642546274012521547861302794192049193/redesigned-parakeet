@@ -1,5 +1,5 @@
-[
-    {
+{
+    "4": {
         "ID": 4,
         "BNECLPFBNLN": "MichiaeMatsuri",
         "ANHPAFFNELF": "210_1",
@@ -9,7 +9,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 871831160
     },
-    {
+    "5": {
         "ID": 5,
         "BNECLPFBNLN": "MichiaeMatsuri",
         "ANHPAFFNELF": "210_2",
@@ -19,7 +19,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 4103930824
     },
-    {
+    "6": {
         "ID": 6,
         "BNECLPFBNLN": "MichiaeMatsuri",
         "ANHPAFFNELF": "210_3",
@@ -29,7 +29,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 3023495768
     },
-    {
+    "7": {
         "ID": 7,
         "BNECLPFBNLN": "MichiaeMatsuri",
         "ANHPAFFNELF": "210_4",
@@ -39,7 +39,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 2340153712
     },
-    {
+    "8": {
         "ID": 8,
         "BNECLPFBNLN": "MichiaeMatsuri",
         "ANHPAFFNELF": "210_5",
@@ -49,7 +49,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 3855303680
     },
-    {
+    "9": {
         "ID": 9,
         "BNECLPFBNLN": "MichiaeMatsuri",
         "ANHPAFFNELF": "210_6",
@@ -59,7 +59,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 774130784
     },
-    {
+    "17": {
         "ID": 17,
         "type": "SubArea",
         "ANHPAFFNELF": "",
@@ -70,7 +70,7 @@
         "actionType": "SwitchName",
         "BGDMFFPOABK": 877632104
     },
-    {
+    "18": {
         "ID": 18,
         "type": "SubArea",
         "ANHPAFFNELF": "",
@@ -81,7 +81,7 @@
         "actionType": "SwitchName",
         "BGDMFFPOABK": 3743427520
     },
-    {
+    "20": {
         "ID": 20,
         "ANHPAFFNELF": "22_1",
         "conditionType": "Quest",
@@ -90,7 +90,7 @@
         "actionType": "Open",
         "BGDMFFPOABK": 3372395472
     },
-    {
+    "21": {
         "ID": 21,
         "type": "SubArea",
         "ANHPAFFNELF": "",
@@ -101,7 +101,7 @@
         "actionType": "SwitchName",
         "BGDMFFPOABK": 1817750680
     },
-    {
+    "22": {
         "ID": 22,
         "type": "SubArea",
         "ANHPAFFNELF": "",
@@ -112,7 +112,7 @@
         "actionType": "SwitchName",
         "BGDMFFPOABK": 2479691152
     },
-    {
+    "23": {
         "ID": 23,
         "type": "SubArea",
         "ANHPAFFNELF": "",
@@ -123,7 +123,7 @@
         "actionType": "SwitchName",
         "BGDMFFPOABK": 375354920
     },
-    {
+    "26": {
         "ID": 26,
         "BNECLPFBNLN": "Abyssalisle",
         "ANHPAFFNELF": "200_6",
@@ -133,7 +133,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 3181215496
     },
-    {
+    "27": {
         "ID": 27,
         "BNECLPFBNLN": "Abyssalisle",
         "ANHPAFFNELF": "200_7",
@@ -143,7 +143,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 1782111304
     },
-    {
+    "28": {
         "ID": 28,
         "BNECLPFBNLN": "Abyssalisle",
         "ANHPAFFNELF": "200_8",
@@ -153,7 +153,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 2169820672
     },
-    {
+    "29": {
         "ID": 29,
         "BNECLPFBNLN": "TheChasm",
         "ANHPAFFNELF": "300_1",
@@ -163,7 +163,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 2509172112
     },
-    {
+    "30": {
         "ID": 30,
         "BNECLPFBNLN": "TheChasm",
         "ANHPAFFNELF": "300_2",
@@ -173,7 +173,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 3116572528
     },
-    {
+    "31": {
         "ID": 31,
         "BNECLPFBNLN": "TheChasm",
         "ANHPAFFNELF": "300_3",
@@ -183,7 +183,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 3076560392
     },
-    {
+    "32": {
         "ID": 32,
         "BNECLPFBNLN": "TheChasm",
         "ANHPAFFNELF": "300_4",
@@ -193,7 +193,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 1799092168
     },
-    {
+    "33": {
         "ID": 33,
         "BNECLPFBNLN": "TheChasm",
         "ANHPAFFNELF": "300_5",
@@ -203,7 +203,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 3618475032
     },
-    {
+    "34": {
         "ID": 34,
         "BNECLPFBNLN": "TheChasm",
         "ANHPAFFNELF": "300_6",
@@ -213,7 +213,7 @@
         "actionType": "Close",
         "BGDMFFPOABK": 2294488248
     },
-    {
+    "35": {
         "ID": 35,
         "BNECLPFBNLN": "TheChasm",
         "ANHPAFFNELF": "300_7",
@@ -223,4 +223,4 @@
         "actionType": "Close",
         "BGDMFFPOABK": 3774198240
     }
-]
+}

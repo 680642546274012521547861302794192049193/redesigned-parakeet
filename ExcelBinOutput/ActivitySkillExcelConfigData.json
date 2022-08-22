@@ -1,5 +1,5 @@
-[
-    {
+{
+    "20003": {
         "id": 20003,
         "skillTarget": "AST_PLAY",
         "abilityName": "SceneObj_Aster_PlayEntity_Esay",
@@ -20,7 +20,7 @@
         "channelTextTextMapHash": 3489266646,
         "interruptTextTextMapHash": 3139714931
     },
-    {
+    "20004": {
         "id": 20004,
         "skillTarget": "AST_PLAY",
         "abilityName": "SceneObj_Aster_PlayEntity_Normal",
@@ -41,7 +41,7 @@
         "channelTextTextMapHash": 984280278,
         "interruptTextTextMapHash": 2738963867
     },
-    {
+    "20005": {
         "id": 20005,
         "skillTarget": "AST_PLAY",
         "abilityName": "SceneObj_Aster_PlayEntity_Hard",
@@ -62,7 +62,7 @@
         "channelTextTextMapHash": 3824182390,
         "interruptTextTextMapHash": 1853603443
     },
-    {
+    "20006": {
         "id": 20006,
         "skillTarget": "AST_PLAY",
         "abilityName": "SceneObj_Aster_PlayEntity_Single",
@@ -83,7 +83,7 @@
         "channelTextTextMapHash": 4184233174,
         "interruptTextTextMapHash": 3668771819
     },
-    {
+    "20007": {
         "id": 20007,
         "skillTarget": "AST_TEAM",
         "abilityName": "SceneObj_Electric_Stake_Play",
@@ -98,7 +98,7 @@
         "channelTextTextMapHash": 3118572110,
         "interruptTextTextMapHash": 2995024459
     },
-    {
+    "20008": {
         "id": 20008,
         "abilityName": "SceneObj_Electric_Core",
         "globalValueKey": "AVATAR_Electric_Core",
@@ -112,7 +112,7 @@
         "channelTextTextMapHash": 1034297878,
         "interruptTextTextMapHash": 4115239763
     },
-    {
+    "20009": {
         "id": 20009,
         "abilityName": "SceneObj_Temari_Hide_Ball",
         "globalValueKey": "AVATAR_Temari_Hide_Ball",
@@ -125,7 +125,7 @@
         "channelTextTextMapHash": 2544211126,
         "interruptTextTextMapHash": 135287419
     },
-    {
+    "20010": {
         "id": 20010,
         "abilityName": "SceneObj_Electric_Core_Challenge",
         "globalValueKey": "AVATAR_Electric_Core",
@@ -139,7 +139,7 @@
         "channelTextTextMapHash": 1361974054,
         "interruptTextTextMapHash": 527816019
     },
-    {
+    "20011": {
         "id": 20011,
         "skillTarget": "AST_TEAM",
         "abilityName": "SceneObj_Firecracker_Play",
@@ -154,7 +154,7 @@
         "channelTextTextMapHash": 1337122782,
         "interruptTextTextMapHash": 2743084387
     },
-    {
+    "20012": {
         "id": 20012,
         "skillTarget": "AST_TEAM",
         "abilityName": "SceneObj_LightStone_Lv1",
@@ -170,7 +170,7 @@
         "channelTextTextMapHash": 337202382,
         "interruptTextTextMapHash": 3827395547
     },
-    {
+    "20013": {
         "id": 20013,
         "skillTarget": "AST_TEAM",
         "abilityName": "SceneObj_LightStone_Lv2",
@@ -186,7 +186,7 @@
         "channelTextTextMapHash": 2917689782,
         "interruptTextTextMapHash": 3806610603
     },
-    {
+    "20014": {
         "id": 20014,
         "abilityName": "GrapplingHookSkill_Ability",
         "globalValueKey": "AVATAR_GrapplingHookSkill",
@@ -201,7 +201,7 @@
         "interruptTextTextMapHash": 3864823291,
         "LBBDLIAPLAN": 1
     },
-    {
+    "20015": {
         "id": 20015,
         "abilityName": "GrapplingHookSkill_Step2_Ability",
         "globalValueKey": "AVATAR_GrapplingHookSkill",
@@ -215,7 +215,7 @@
         "channelTextTextMapHash": 1776020438,
         "interruptTextTextMapHash": 1316387539
     },
-    {
+    "20016": {
         "id": 20016,
         "skillTarget": "AST_TEAM",
         "abilityName": "ActivityAbility_SummerTimeV2_KazuhaAOE",
@@ -230,7 +230,7 @@
         "channelTextTextMapHash": 1063442110,
         "interruptTextTextMapHash": 3239508355
     },
-    {
+    "20017": {
         "id": 20017,
         "skillTarget": "AST_TEAM",
         "abilityName": "ActivityAbility_UnstableSpray",
@@ -246,7 +246,7 @@
         "channelTextTextMapHash": 4218660174,
         "interruptTextTextMapHash": 4044794075
     },
-    {
+    "20019": {
         "id": 20019,
         "skillTarget": "AST_TEAM",
         "abilityName": "ActivityAbility_MuqadasPotion_Key",
@@ -271,4 +271,4 @@
         "channelTextTextMapHash": 473020182,
         "interruptTextTextMapHash": 518498107
     }
-]
+}

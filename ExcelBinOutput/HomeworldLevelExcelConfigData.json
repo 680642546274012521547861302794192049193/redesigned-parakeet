@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "level": 1,
         "exp": 300,
         "comfortPointLimit": 999999999,
@@ -22,7 +22,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_NPCNUM"
         ]
     },
-    {
+    "2": {
         "level": 2,
         "exp": 600,
         "comfortPointLimit": 999999999,
@@ -42,7 +42,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_NPCNUM"
         ]
     },
-    {
+    "3": {
         "level": 3,
         "exp": 1000,
         "comfortPointLimit": 999999999,
@@ -61,7 +61,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_NPCNUM"
         ]
     },
-    {
+    "4": {
         "level": 4,
         "exp": 1500,
         "comfortPointLimit": 999999999,
@@ -83,7 +83,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_NPCNUM"
         ]
     },
-    {
+    "5": {
         "level": 5,
         "exp": 1500,
         "comfortPointLimit": 999999999,
@@ -103,7 +103,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_NPCNUM"
         ]
     },
-    {
+    "6": {
         "level": 6,
         "exp": 1500,
         "comfortPointLimit": 999999999,
@@ -123,7 +123,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_NPCNUM"
         ]
     },
-    {
+    "7": {
         "level": 7,
         "exp": 1500,
         "comfortPointLimit": 999999999,
@@ -145,7 +145,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_NPCNUM"
         ]
     },
-    {
+    "8": {
         "level": 8,
         "exp": 1500,
         "comfortPointLimit": 999999999,
@@ -164,7 +164,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_MODULENUM"
         ]
     },
-    {
+    "9": {
         "level": 9,
         "exp": 1500,
         "comfortPointLimit": 999999999,
@@ -185,7 +185,7 @@
             "UI_HOMEWORLD_LEVELFUNCTION_NPCNUM"
         ]
     },
-    {
+    "10": {
         "level": 10,
         "comfortPointLimit": 999999999,
         "homeCoinStoreLimit": 2400,
@@ -204,4 +204,4 @@
             "UI_HOMEWORLD_LEVELFUNCTION_DJINNCHANGE"
         ]
     }
-]
+}

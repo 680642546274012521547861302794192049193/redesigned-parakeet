@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "levelId": 1,
         "scheduleId": 5067001,
         "openDay": 1,
@@ -107,7 +107,7 @@
         "FJCGNILPIFI": 3,
         "PAPFBJGCPNJ": 20
     },
-    {
+    "2": {
         "levelId": 2,
         "scheduleId": 5067001,
         "openDay": 2,
@@ -196,7 +196,7 @@
         "FJCGNILPIFI": 3,
         "PAPFBJGCPNJ": 20
     },
-    {
+    "3": {
         "levelId": 3,
         "scheduleId": 5067001,
         "openDay": 3,
@@ -307,7 +307,7 @@
         "FJCGNILPIFI": 3,
         "PAPFBJGCPNJ": 20
     },
-    {
+    "4": {
         "levelId": 4,
         "scheduleId": 5067001,
         "openDay": 4,
@@ -410,7 +410,7 @@
         "FJCGNILPIFI": 3,
         "PAPFBJGCPNJ": 20
     },
-    {
+    "5": {
         "levelId": 5,
         "scheduleId": 5067001,
         "openDay": 5,
@@ -504,7 +504,7 @@
         "FJCGNILPIFI": 3,
         "PAPFBJGCPNJ": 20
     },
-    {
+    "6": {
         "levelId": 6,
         "scheduleId": 5067001,
         "openDay": 6,
@@ -610,4 +610,4 @@
         "FJCGNILPIFI": 3,
         "PAPFBJGCPNJ": 20
     }
-]
+}

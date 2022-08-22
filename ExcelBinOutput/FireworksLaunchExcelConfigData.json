@@ -1,5 +1,5 @@
-[
-    {
+{
+    "FIREWORKS_LAUNCH_PARAM_REPEAT": {
         "NOBFPCHLNJB": "FIREWORKS_LAUNCH_PARAM_REPEAT",
         "defaultValue": 1,
         "BNFNEPDNPMC": [
@@ -9,7 +9,7 @@
         "OFGDMGBEEKE": 1,
         "BGLAILPODPD": 2761426475
     },
-    {
+    "FIREWORKS_LAUNCH_PARAM_INTEVAL": {
         "NOBFPCHLNJB": "FIREWORKS_LAUNCH_PARAM_INTEVAL",
         "defaultValue": 30,
         "BNFNEPDNPMC": [
@@ -19,7 +19,7 @@
         "OFGDMGBEEKE": 5,
         "BGLAILPODPD": 1551399395
     },
-    {
+    "FIREWORKS_LAUNCH_PARAM_DELAY": {
         "NOBFPCHLNJB": "FIREWORKS_LAUNCH_PARAM_DELAY",
         "defaultValue": 10,
         "BNFNEPDNPMC": [
@@ -29,7 +29,7 @@
         "OFGDMGBEEKE": 5,
         "BGLAILPODPD": 1347065651
     },
-    {
+    "FIREWORKS_LAUNCH_PARAM_ROUND_INTEVAL": {
         "NOBFPCHLNJB": "FIREWORKS_LAUNCH_PARAM_ROUND_INTEVAL",
         "defaultValue": 30,
         "BNFNEPDNPMC": [
@@ -39,4 +39,4 @@
         "OFGDMGBEEKE": 5,
         "BGLAILPODPD": 3161827139
     }
-]
+}

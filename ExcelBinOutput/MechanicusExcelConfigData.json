@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "mechanicusID": 1,
         "sequenceList": [
             1,
@@ -36,4 +36,4 @@
         "teachDifficultLevel": 9999,
         "punishTime": 300
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "gadgetId": 70350099,
         "specialEffectLevel1": 3,
@@ -46,7 +46,7 @@
         "defaultDungeonList": [],
         "elementType": 2
     },
-    {
+    "2": {
         "id": 2,
         "gadgetId": 70350100,
         "specialEffectLevel1": 3,
@@ -95,7 +95,7 @@
         ],
         "elementType": 1
     },
-    {
+    "3": {
         "id": 3,
         "gadgetId": 70350101,
         "specialEffectLevel1": 3,
@@ -142,7 +142,7 @@
         "defaultDungeonList": [],
         "elementType": 5
     },
-    {
+    "4": {
         "id": 4,
         "gadgetId": 70350102,
         "specialEffectLevel1": 3,
@@ -190,7 +190,7 @@
         "defaultDungeonList": [],
         "elementType": 7
     },
-    {
+    "5": {
         "id": 5,
         "gadgetId": 70350103,
         "specialEffectLevel1": 3,
@@ -239,7 +239,7 @@
         ],
         "elementType": 4
     },
-    {
+    "6": {
         "id": 6,
         "gadgetId": 70350108,
         "specialEffectLevel1": 3,
@@ -285,7 +285,7 @@
         ],
         "defaultDungeonList": []
     },
-    {
+    "7": {
         "id": 7,
         "gadgetId": 70350129,
         "specialEffectLevel1": 2,
@@ -331,7 +331,7 @@
         ],
         "defaultDungeonList": []
     },
-    {
+    "8": {
         "id": 8,
         "gadgetId": 70350158,
         "specialEffectLevel1": 2,
@@ -377,7 +377,7 @@
         ],
         "defaultDungeonList": []
     },
-    {
+    "9": {
         "id": 9,
         "gadgetId": 70350111,
         "specialEffectLevel1": 3,
@@ -423,7 +423,7 @@
         ],
         "defaultDungeonList": []
     },
-    {
+    "10": {
         "id": 10,
         "gadgetId": 70330045,
         "specialEffectDesc1TextMapHash": 2588425376,
@@ -468,4 +468,4 @@
         "buildLimit": 2,
         "defaultDungeonList": []
     }
-]
+}

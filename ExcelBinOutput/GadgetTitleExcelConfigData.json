@@ -1,62 +1,62 @@
-[
-    {
+{
+    "70380004": {
         "gadgetId": 70380004,
         "titleTextMapHash": 2093235494
     },
-    {
+    "70380019": {
         "gadgetId": 70380019,
         "titleTextMapHash": 3966296574
     },
-    {
+    "70710116": {
         "gadgetId": 70710116,
         "titleTextMapHash": 1249107806
     },
-    {
+    "70290067": {
         "gadgetId": 70290067,
         "titleTextMapHash": 2905268334
     },
-    {
+    "70710438": {
         "gadgetId": 70710438,
         "titleTextMapHash": 1656841838
     },
-    {
+    "70800047": {
         "gadgetId": 70800047,
         "titleTextMapHash": 1939205214
     },
-    {
+    "70800048": {
         "gadgetId": 70800048,
         "titleTextMapHash": 1576025894
     },
-    {
+    "70800049": {
         "gadgetId": 70800049,
         "titleTextMapHash": 3037361062
     },
-    {
+    "70360308": {
         "gadgetId": 70360308,
         "titleTextMapHash": 2870998958
     },
-    {
+    "70710501": {
         "gadgetId": 70710501,
         "titleTextMapHash": 2664540894
     },
-    {
+    "70290254": {
         "gadgetId": 70290254,
         "titleTextMapHash": 631966062
     },
-    {
+    "70290296": {
         "gadgetId": 70290296,
         "titleTextMapHash": 2454727134
     },
-    {
+    "70290297": {
         "gadgetId": 70290297,
         "titleTextMapHash": 2488860782
     },
-    {
+    "70350452": {
         "gadgetId": 70350452,
         "titleTextMapHash": 1193588118
     },
-    {
+    "72000019": {
         "gadgetId": 72000019,
         "titleTextMapHash": 4173075254
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "stageID": 1,
         "dungeonID": 7201,
         "rewardID": 3015101,
@@ -8,7 +8,7 @@
         "titleTextMapHash": 1911663026,
         "descTextMapHash": 220341123
     },
-    {
+    "2": {
         "stageID": 2,
         "dungeonID": 7202,
         "rewardID": 3015102,
@@ -17,7 +17,7 @@
         "titleTextMapHash": 60631522,
         "descTextMapHash": 3908649747
     },
-    {
+    "3": {
         "stageID": 3,
         "dungeonID": 7203,
         "rewardID": 3015103,
@@ -26,4 +26,4 @@
         "titleTextMapHash": 287302842,
         "descTextMapHash": 260755355
     }
-]
+}

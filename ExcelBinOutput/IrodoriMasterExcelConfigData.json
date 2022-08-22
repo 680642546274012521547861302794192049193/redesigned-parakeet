@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "ID": 1,
         "levelID": 1,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_NORAML",
@@ -16,7 +16,7 @@
         "IHKMEGMOGJJ": 2407697927,
         "NHIMBKKJJAE": 611610354
     },
-    {
+    "2": {
         "ID": 2,
         "levelID": 1,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_HARD",
@@ -34,7 +34,7 @@
         "IHKMEGMOGJJ": 641085223,
         "NHIMBKKJJAE": 1266933698
     },
-    {
+    "3": {
         "ID": 3,
         "levelID": 1,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_MASTER",
@@ -48,7 +48,7 @@
         "IHKMEGMOGJJ": 541616479,
         "NHIMBKKJJAE": 1564997146
     },
-    {
+    "4": {
         "ID": 4,
         "levelID": 2,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_NORAML",
@@ -65,7 +65,7 @@
         "IHKMEGMOGJJ": 435327975,
         "NHIMBKKJJAE": 2628214562
     },
-    {
+    "5": {
         "ID": 5,
         "levelID": 2,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_HARD",
@@ -83,7 +83,7 @@
         "IHKMEGMOGJJ": 2710307215,
         "NHIMBKKJJAE": 1943023578
     },
-    {
+    "6": {
         "ID": 6,
         "levelID": 2,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_MASTER",
@@ -97,7 +97,7 @@
         "IHKMEGMOGJJ": 4192816855,
         "NHIMBKKJJAE": 2015755122
     },
-    {
+    "7": {
         "ID": 7,
         "levelID": 3,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_NORAML",
@@ -114,7 +114,7 @@
         "IHKMEGMOGJJ": 2999693551,
         "NHIMBKKJJAE": 3402303746
     },
-    {
+    "8": {
         "ID": 8,
         "levelID": 3,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_HARD",
@@ -132,7 +132,7 @@
         "IHKMEGMOGJJ": 2449217671,
         "NHIMBKKJJAE": 3632600570
     },
-    {
+    "9": {
         "ID": 9,
         "levelID": 3,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_MASTER",
@@ -146,7 +146,7 @@
         "IHKMEGMOGJJ": 2218056959,
         "NHIMBKKJJAE": 968687442
     },
-    {
+    "10": {
         "ID": 10,
         "levelID": 4,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_NORAML",
@@ -163,7 +163,7 @@
         "IHKMEGMOGJJ": 1430966543,
         "NHIMBKKJJAE": 587612594
     },
-    {
+    "11": {
         "ID": 11,
         "levelID": 4,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_HARD",
@@ -181,7 +181,7 @@
         "IHKMEGMOGJJ": 108909919,
         "NHIMBKKJJAE": 711097218
     },
-    {
+    "12": {
         "ID": 12,
         "levelID": 4,
         "EBCPKNABDAA": "IRODORI_MASTER_LEVEL_MASTER",
@@ -195,4 +195,4 @@
         "IHKMEGMOGJJ": 652830079,
         "NHIMBKKJJAE": 557382498
     }
-]
+}

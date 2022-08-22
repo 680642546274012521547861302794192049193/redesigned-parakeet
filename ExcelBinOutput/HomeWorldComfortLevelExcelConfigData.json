@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "levelID": 1,
         "homeCoinProduceRate": 4,
         "companionshipExpProduceRate": 2,
@@ -7,7 +7,7 @@
         "levelIconHashSuffix": 410186996,
         "levelIconHashPre": 163
     },
-    {
+    "2": {
         "levelID": 2,
         "comfort": 2000,
         "homeCoinProduceRate": 8,
@@ -16,7 +16,7 @@
         "levelIconHashSuffix": 3039905368,
         "levelIconHashPre": 180
     },
-    {
+    "3": {
         "levelID": 3,
         "comfort": 3000,
         "homeCoinProduceRate": 12,
@@ -25,7 +25,7 @@
         "levelIconHashSuffix": 3652149791,
         "levelIconHashPre": 152
     },
-    {
+    "4": {
         "levelID": 4,
         "comfort": 4500,
         "homeCoinProduceRate": 16,
@@ -34,7 +34,7 @@
         "levelIconHashSuffix": 2664647430,
         "levelIconHashPre": 242
     },
-    {
+    "5": {
         "levelID": 5,
         "comfort": 6000,
         "homeCoinProduceRate": 20,
@@ -43,7 +43,7 @@
         "levelIconHashSuffix": 632147163,
         "levelIconHashPre": 117
     },
-    {
+    "6": {
         "levelID": 6,
         "comfort": 8000,
         "homeCoinProduceRate": 22,
@@ -52,7 +52,7 @@
         "levelIconHashSuffix": 3113155332,
         "levelIconHashPre": 77
     },
-    {
+    "7": {
         "levelID": 7,
         "comfort": 10000,
         "homeCoinProduceRate": 24,
@@ -61,7 +61,7 @@
         "levelIconHashSuffix": 1488321796,
         "levelIconHashPre": 174
     },
-    {
+    "8": {
         "levelID": 8,
         "comfort": 12000,
         "homeCoinProduceRate": 26,
@@ -70,7 +70,7 @@
         "levelIconHashSuffix": 3946625964,
         "levelIconHashPre": 79
     },
-    {
+    "9": {
         "levelID": 9,
         "comfort": 15000,
         "homeCoinProduceRate": 28,
@@ -79,7 +79,7 @@
         "levelIconHashSuffix": 1577625311,
         "levelIconHashPre": 255
     },
-    {
+    "10": {
         "levelID": 10,
         "comfort": 20000,
         "homeCoinProduceRate": 30,
@@ -88,4 +88,4 @@
         "levelIconHashSuffix": 3345830856,
         "levelIconHashPre": 83
     }
-]
+}

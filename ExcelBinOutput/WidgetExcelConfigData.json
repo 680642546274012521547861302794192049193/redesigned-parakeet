@@ -1,5 +1,5 @@
-[
-    {
+{
+    "220001": {
         "materialID": 220001,
         "customizeDesc": [
             3629774591,
@@ -7,7 +7,7 @@
             2088703939
         ]
     },
-    {
+    "220002": {
         "materialID": 220002,
         "customizeDesc": [
             2560125751,
@@ -15,7 +15,7 @@
             908601947
         ]
     },
-    {
+    "220003": {
         "materialID": 220003,
         "customizeDesc": [
             3912737791,
@@ -23,7 +23,7 @@
             1902183123
         ]
     },
-    {
+    "220004": {
         "materialID": 220004,
         "customizeDesc": [
             2585787631,
@@ -31,7 +31,7 @@
             3898309475
         ]
     },
-    {
+    "220005": {
         "materialID": 220005,
         "customizeDesc": [
             3230239311,
@@ -39,7 +39,7 @@
             2996411075
         ]
     },
-    {
+    "220006": {
         "materialID": 220006,
         "customizeDesc": [
             1232107607,
@@ -47,7 +47,7 @@
             353373587
         ]
     },
-    {
+    "220008": {
         "materialID": 220008,
         "customizeDesc": [
             1370426415,
@@ -55,7 +55,7 @@
             3695954083
         ]
     },
-    {
+    "220009": {
         "materialID": 220009,
         "customizeDesc": [
             949776055,
@@ -63,7 +63,7 @@
             1853042083
         ]
     },
-    {
+    "220013": {
         "materialID": 220013,
         "jsonAddr": true,
         "customizeDesc": [
@@ -72,7 +72,7 @@
             4000908827
         ]
     },
-    {
+    "220022": {
         "materialID": 220022,
         "jsonAddr": true,
         "customizeDesc": [
@@ -81,7 +81,7 @@
             659813587
         ]
     },
-    {
+    "220025": {
         "materialID": 220025,
         "jsonAddr": true,
         "customizeDesc": [
@@ -90,7 +90,7 @@
             1334199211
         ]
     },
-    {
+    "220032": {
         "materialID": 220032,
         "customizeDesc": [
             2411881199,
@@ -98,7 +98,7 @@
             3332075995
         ]
     },
-    {
+    "220033": {
         "materialID": 220033,
         "jsonAddr": true,
         "customizeDesc": [
@@ -107,7 +107,7 @@
             3672517227
         ]
     },
-    {
+    "220036": {
         "materialID": 220036,
         "jsonAddr": true,
         "customizeDesc": [
@@ -116,7 +116,7 @@
             3204774859
         ]
     },
-    {
+    "220037": {
         "materialID": 220037,
         "jsonAddr": true,
         "customizeDesc": [
@@ -125,7 +125,7 @@
             3292890323
         ]
     },
-    {
+    "220040": {
         "materialID": 220040,
         "jsonAddr": true,
         "customizeDesc": [
@@ -134,7 +134,7 @@
             1018109059
         ]
     },
-    {
+    "220042": {
         "materialID": 220042,
         "jsonAddr": true,
         "customizeDesc": [
@@ -144,7 +144,7 @@
         ],
         "pushTipsId": 10006
     },
-    {
+    "220043": {
         "materialID": 220043,
         "jsonAddr": true,
         "customizeDesc": [
@@ -154,7 +154,7 @@
         ],
         "pushTipsId": 7006
     },
-    {
+    "220044": {
         "materialID": 220044,
         "jsonAddr": true,
         "customizeDesc": [
@@ -163,7 +163,7 @@
             3047131171
         ]
     },
-    {
+    "220045": {
         "materialID": 220045,
         "customizeDesc": [
             2612586191,
@@ -171,7 +171,7 @@
             3587922451
         ]
     },
-    {
+    "220046": {
         "materialID": 220046,
         "jsonAddr": true,
         "customizeDesc": [
@@ -180,7 +180,7 @@
             291567163
         ]
     },
-    {
+    "220047": {
         "materialID": 220047,
         "jsonAddr": true,
         "customizeDesc": [
@@ -190,7 +190,7 @@
         ],
         "pushTipsId": 7007
     },
-    {
+    "220048": {
         "materialID": 220048,
         "jsonAddr": true,
         "customizeDesc": [
@@ -200,7 +200,7 @@
         ],
         "pushTipsId": 7008
     },
-    {
+    "220049": {
         "materialID": 220049,
         "jsonAddr": true,
         "customizeDesc": [
@@ -210,7 +210,7 @@
         ],
         "pushTipsId": 6047
     },
-    {
+    "220050": {
         "materialID": 220050,
         "customizeDesc": [
             3922817951,
@@ -218,7 +218,7 @@
             437074419
         ]
     },
-    {
+    "220051": {
         "materialID": 220051,
         "jsonAddr": true,
         "customizeDesc": [
@@ -227,7 +227,7 @@
             4270725603
         ]
     },
-    {
+    "220052": {
         "materialID": 220052,
         "jsonAddr": true,
         "customizeDesc": [
@@ -236,7 +236,7 @@
             4241205203
         ]
     },
-    {
+    "220053": {
         "materialID": 220053,
         "jsonAddr": true,
         "customizeDesc": [
@@ -245,7 +245,7 @@
             986959043
         ]
     },
-    {
+    "220061": {
         "materialID": 220061,
         "jsonAddr": true,
         "customizeDesc": [
@@ -255,7 +255,7 @@
         ],
         "pushTipsId": 11084
     },
-    {
+    "220057": {
         "materialID": 220057,
         "jsonAddr": true,
         "customizeDesc": [
@@ -264,7 +264,7 @@
             1072962267
         ]
     },
-    {
+    "220058": {
         "materialID": 220058,
         "jsonAddr": true,
         "customizeDesc": [
@@ -273,7 +273,7 @@
             614222219
         ]
     },
-    {
+    "220059": {
         "materialID": 220059,
         "jsonAddr": true,
         "customizeDesc": [
@@ -282,7 +282,7 @@
             694600843
         ]
     },
-    {
+    "220065": {
         "materialID": 220065,
         "jsonAddr": true,
         "customizeDesc": [
@@ -292,7 +292,7 @@
         ],
         "pushTipsId": 7009
     },
-    {
+    "220066": {
         "materialID": 220066,
         "jsonAddr": true,
         "customizeDesc": [
@@ -301,7 +301,7 @@
             2858785027
         ]
     },
-    {
+    "220063": {
         "materialID": 220063,
         "jsonAddr": true,
         "customizeDesc": [
@@ -311,7 +311,7 @@
         ],
         "pushTipsId": 12015
     },
-    {
+    "220070": {
         "materialID": 220070,
         "jsonAddr": true,
         "customizeDesc": [
@@ -320,7 +320,7 @@
             1532265955
         ]
     },
-    {
+    "220071": {
         "materialID": 220071,
         "jsonAddr": true,
         "customizeDesc": [
@@ -329,4 +329,4 @@
             631838467
         ]
     }
-]
+}
